@@ -1,0 +1,7 @@
+feedparser
+requests
+beautifulsoup4
+lxml
+googlenewsdecoder
+urllib3
+google-auth
