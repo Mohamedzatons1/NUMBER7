@@ -1,3 +1,967 @@
+la001|news|general|الإنجليزية|Afghanistan|https://news.google.com/rss/search?q=Afghanistan&hl=en&gl=US&ceid=US:en
+la002|news|general|الإنجليزية|Albania|https://news.google.com/rss/search?q=Albania&hl=en&gl=US&ceid=US:en
+la003|news|general|الإنجليزية|Algeria|https://news.google.com/rss/search?q=Algeria&hl=en&gl=US&ceid=US:en
+la004|news|general|الإنجليزية|Andorra|https://news.google.com/rss/search?q=Andorra&hl=en&gl=US&ceid=US:en
+la005|news|general|الإنجليزية|Angola|https://news.google.com/rss/search?q=Angola&hl=en&gl=US&ceid=US:en
+la006|news|general|الإنجليزية|Antigua and Barbuda|https://news.google.com/rss/search?q=Antigua and Barbuda&hl=en&gl=US&ceid=US:en
+la007|news|general|الإنجليزية|Argentina|https://news.google.com/rss/search?q=Argentina&hl=en&gl=US&ceid=US:en
+la008|news|general|الإنجليزية|Armenia|https://news.google.com/rss/search?q=Armenia&hl=en&gl=US&ceid=US:en
+la009|news|general|الإنجليزية|Australia|https://news.google.com/rss/search?q=Australia&hl=en&gl=US&ceid=US:en
+la010|news|general|الإنجليزية|Austria|https://news.google.com/rss/search?q=Austria&hl=en&gl=US&ceid=US:en
+la011|news|general|الإنجليزية|Azerbaijan|https://news.google.com/rss/search?q=Azerbaijan&hl=en&gl=US&ceid=US:en
+la012|news|general|الإنجليزية|Bahamas|https://news.google.com/rss/search?q=Bahamas&hl=en&gl=US&ceid=US:en
+la013|news|general|الإنجليزية|Bahrain|https://news.google.com/rss/search?q=Bahrain&hl=en&gl=US&ceid=US:en
+la014|news|general|الإنجليزية|Bangladesh|https://news.google.com/rss/search?q=Bangladesh&hl=en&gl=US&ceid=US:en
+la015|news|general|الإنجليزية|Barbados|https://news.google.com/rss/search?q=Barbados&hl=en&gl=US&ceid=US:en
+la016|news|general|الإنجليزية|Belarus|https://news.google.com/rss/search?q=Belarus&hl=en&gl=US&ceid=US:en
+la017|news|general|الإنجليزية|Belgium|https://news.google.com/rss/search?q=Belgium&hl=en&gl=US&ceid=US:en
+la018|news|general|الإنجليزية|Belize|https://news.google.com/rss/search?q=Belize&hl=en&gl=US&ceid=US:en
+la019|news|general|الإنجليزية|Benin|https://news.google.com/rss/search?q=Benin&hl=en&gl=US&ceid=US:en
+la020|news|general|الإنجليزية|Bhutan|https://news.google.com/rss/search?q=Bhutan&hl=en&gl=US&ceid=US:en
+la021|news|general|الإنجليزية|Bolivia|https://news.google.com/rss/search?q=Bolivia&hl=en&gl=US&ceid=US:en
+la022|news|general|الإنجليزية|Bosnia and Herzegovina|https://news.google.com/rss/search?q=Bosnia and Herzegovina&hl=en&gl=US&ceid=US:en
+la023|news|general|الإنجليزية|Botswana|https://news.google.com/rss/search?q=Botswana&hl=en&gl=US&ceid=US:en
+la024|news|general|الإنجليزية|Brazil|https://news.google.com/rss/search?q=Brazil&hl=en&gl=US&ceid=US:en
+la025|news|general|الإنجليزية|Brunei|https://news.google.com/rss/search?q=Brunei&hl=en&gl=US&ceid=US:en
+la026|news|general|الإنجليزية|Bulgaria|https://news.google.com/rss/search?q=Bulgaria&hl=en&gl=US&ceid=US:en
+la027|news|general|الإنجليزية|Burkina Faso|https://news.google.com/rss/search?q=Burkina Faso&hl=en&gl=US&ceid=US:en
+la028|news|general|الإنجليزية|Burundi|https://news.google.com/rss/search?q=Burundi&hl=en&gl=US&ceid=US:en
+la029|news|general|الإنجليزية|Cabo Verde|https://news.google.com/rss/search?q=Cabo Verde&hl=en&gl=US&ceid=US:en
+la030|news|general|الإنجليزية|Cambodia|https://news.google.com/rss/search?q=Cambodia&hl=en&gl=US&ceid=US:en
+la031|news|general|الإنجليزية|Cameroon|https://news.google.com/rss/search?q=Cameroon&hl=en&gl=US&ceid=US:en
+la032|news|general|الإنجليزية|Canada|https://news.google.com/rss/search?q=Canada&hl=en&gl=US&ceid=US:en
+la033|news|general|الإنجليزية|Central African Republic|https://news.google.com/rss/search?q=Central African Republic&hl=en&gl=US&ceid=US:en
+la034|news|general|الإنجليزية|Chad|https://news.google.com/rss/search?q=Chad&hl=en&gl=US&ceid=US:en
+la035|news|general|الإنجليزية|Chile|https://news.google.com/rss/search?q=Chile&hl=en&gl=US&ceid=US:en
+la036|news|general|الإنجليزية|China|https://news.google.com/rss/search?q=China&hl=en&gl=US&ceid=US:en
+la037|news|general|الإنجليزية|Colombia|https://news.google.com/rss/search?q=Colombia&hl=en&gl=US&ceid=US:en
+la038|news|general|الإنجليزية|Comoros|https://news.google.com/rss/search?q=Comoros&hl=en&gl=US&ceid=US:en
+la039|news|general|الإنجليزية|Congo (Republic of the Congo)|https://news.google.com/rss/search?q=Congo (Republic of the Congo)&hl=en&gl=US&ceid=US:en
+la040|news|general|الإنجليزية|Costa Rica|https://news.google.com/rss/search?q=Costa Rica&hl=en&gl=US&ceid=US:en
+la041|news|general|الإنجليزية|Côte d’Ivoire|https://news.google.com/rss/search?q=Côte d’Ivoire&hl=en&gl=US&ceid=US:en
+la042|news|general|الإنجليزية|Croatia|https://news.google.com/rss/search?q=Croatia&hl=en&gl=US&ceid=US:en
+la043|news|general|الإنجليزية|Cuba|https://news.google.com/rss/search?q=Cuba&hl=en&gl=US&ceid=US:en
+la044|news|general|الإنجليزية|Cyprus|https://news.google.com/rss/search?q=Cyprus&hl=en&gl=US&ceid=US:en
+la045|news|general|الإنجليزية|Czech Republic|https://news.google.com/rss/search?q=Czech Republic&hl=en&gl=US&ceid=US:en
+la046|news|general|الإنجليزية|Democratic Republic of the Congo|https://news.google.com/rss/search?q=Democratic Republic of the Congo&hl=en&gl=US&ceid=US:en
+la047|news|general|الإنجليزية|Denmark|https://news.google.com/rss/search?q=Denmark&hl=en&gl=US&ceid=US:en
+la048|news|general|الإنجليزية|Djibouti|https://news.google.com/rss/search?q=Djibouti&hl=en&gl=US&ceid=US:en
+la049|news|general|الإنجليزية|Dominica|https://news.google.com/rss/search?q=Dominica&hl=en&gl=US&ceid=US:en
+la050|news|general|الإنجليزية|Dominican Republic|https://news.google.com/rss/search?q=Dominican Republic&hl=en&gl=US&ceid=US:en
+la051|news|general|الإنجليزية|Ecuador|https://news.google.com/rss/search?q=Ecuador&hl=en&gl=US&ceid=US:en
+la052|news|general|الإنجليزية|Egypt|https://news.google.com/rss/search?q=Egypt&hl=en&gl=US&ceid=US:en
+la053|news|general|الإنجليزية|El Salvador|https://news.google.com/rss/search?q=El Salvador&hl=en&gl=US&ceid=US:en
+la054|news|general|الإنجليزية|Equatorial Guinea|https://news.google.com/rss/search?q=Equatorial Guinea&hl=en&gl=US&ceid=US:en
+la055|news|general|الإنجليزية|Eritrea|https://news.google.com/rss/search?q=Eritrea&hl=en&gl=US&ceid=US:en
+la056|news|general|الإنجليزية|Estonia|https://news.google.com/rss/search?q=Estonia&hl=en&gl=US&ceid=US:en
+la057|news|general|الإنجليزية|Eswatini|https://news.google.com/rss/search?q=Eswatini&hl=en&gl=US&ceid=US:en
+la058|news|general|الإنجليزية|Ethiopia|https://news.google.com/rss/search?q=Ethiopia&hl=en&gl=US&ceid=US:en
+la059|news|general|الإنجليزية|Fiji|https://news.google.com/rss/search?q=Fiji&hl=en&gl=US&ceid=US:en
+la060|news|general|الإنجليزية|Finland|https://news.google.com/rss/search?q=Finland&hl=en&gl=US&ceid=US:en
+la061|news|general|الإنجليزية|France|https://news.google.com/rss/search?q=France&hl=en&gl=US&ceid=US:en
+la062|news|general|الإنجليزية|Gabon|https://news.google.com/rss/search?q=Gabon&hl=en&gl=US&ceid=US:en
+la063|news|general|الإنجليزية|Gambia|https://news.google.com/rss/search?q=Gambia&hl=en&gl=US&ceid=US:en
+la064|news|general|الإنجليزية|Georgia|https://news.google.com/rss/search?q=Georgia&hl=en&gl=US&ceid=US:en
+la065|news|general|الإنجليزية|Germany|https://news.google.com/rss/search?q=Germany&hl=en&gl=US&ceid=US:en
+la066|news|general|الإنجليزية|Ghana|https://news.google.com/rss/search?q=Ghana&hl=en&gl=US&ceid=US:en
+la067|news|general|الإنجليزية|Greece|https://news.google.com/rss/search?q=Greece&hl=en&gl=US&ceid=US:en
+la068|news|general|الإنجليزية|Grenada|https://news.google.com/rss/search?q=Grenada&hl=en&gl=US&ceid=US:en
+la069|news|general|الإنجليزية|Guatemala|https://news.google.com/rss/search?q=Guatemala&hl=en&gl=US&ceid=US:en
+la070|news|general|الإنجليزية|Guinea|https://news.google.com/rss/search?q=Guinea&hl=en&gl=US&ceid=US:en
+la071|news|general|الإنجليزية|Guinea-Bissau|https://news.google.com/rss/search?q=Guinea-Bissau&hl=en&gl=US&ceid=US:en
+la072|news|general|الإنجليزية|Guyana|https://news.google.com/rss/search?q=Guyana&hl=en&gl=US&ceid=US:en
+la073|news|general|الإنجليزية|Haiti|https://news.google.com/rss/search?q=Haiti&hl=en&gl=US&ceid=US:en
+la074|news|general|الإنجليزية|Honduras|https://news.google.com/rss/search?q=Honduras&hl=en&gl=US&ceid=US:en
+la075|news|general|الإنجليزية|Hungary|https://news.google.com/rss/search?q=Hungary&hl=en&gl=US&ceid=US:en
+la076|news|general|الإنجليزية|Iceland|https://news.google.com/rss/search?q=Iceland&hl=en&gl=US&ceid=US:en
+la077|news|general|الإنجليزية|India|https://news.google.com/rss/search?q=India&hl=en&gl=US&ceid=US:en
+la078|news|general|الإنجليزية|Indonesia|https://news.google.com/rss/search?q=Indonesia&hl=en&gl=US&ceid=US:en
+la079|news|general|الإنجليزية|Iran|https://news.google.com/rss/search?q=Iran&hl=en&gl=US&ceid=US:en
+la080|news|general|الإنجليزية|Iraq|https://news.google.com/rss/search?q=Iraq&hl=en&gl=US&ceid=US:en
+la081|news|general|الإنجليزية|Ireland|https://news.google.com/rss/search?q=Ireland&hl=en&gl=US&ceid=US:en
+la082|news|general|الإنجليزية|Italy|https://news.google.com/rss/search?q=Italy&hl=en&gl=US&ceid=US:en
+la083|news|general|الإنجليزية|Jamaica|https://news.google.com/rss/search?q=Jamaica&hl=en&gl=US&ceid=US:en
+la084|news|general|الإنجليزية|Japan|https://news.google.com/rss/search?q=Japan&hl=en&gl=US&ceid=US:en
+la085|news|general|الإنجليزية|Jordan|https://news.google.com/rss/search?q=Jordan&hl=en&gl=US&ceid=US:en
+la086|news|general|الإنجليزية|Kazakhstan|https://news.google.com/rss/search?q=Kazakhstan&hl=en&gl=US&ceid=US:en
+la087|news|general|الإنجليزية|Kenya|https://news.google.com/rss/search?q=Kenya&hl=en&gl=US&ceid=US:en
+la088|news|general|الإنجليزية|Kiribati|https://news.google.com/rss/search?q=Kiribati&hl=en&gl=US&ceid=US:en
+la089|news|general|الإنجليزية|Kuwait|https://news.google.com/rss/search?q=Kuwait&hl=en&gl=US&ceid=US:en
+la090|news|general|الإنجليزية|Kyrgyzstan|https://news.google.com/rss/search?q=Kyrgyzstan&hl=en&gl=US&ceid=US:en
+la091|news|general|الإنجليزية|Laos|https://news.google.com/rss/search?q=Laos&hl=en&gl=US&ceid=US:en
+la092|news|general|الإنجليزية|Latvia|https://news.google.com/rss/search?q=Latvia&hl=en&gl=US&ceid=US:en
+la093|news|general|الإنجليزية|Lebanon|https://news.google.com/rss/search?q=Lebanon&hl=en&gl=US&ceid=US:en
+la094|news|general|الإنجليزية|Lesotho|https://news.google.com/rss/search?q=Lesotho&hl=en&gl=US&ceid=US:en
+la095|news|general|الإنجليزية|Liberia|https://news.google.com/rss/search?q=Liberia&hl=en&gl=US&ceid=US:en
+la096|news|general|الإنجليزية|Libya|https://news.google.com/rss/search?q=Libya&hl=en&gl=US&ceid=US:en
+la097|news|general|الإنجليزية|Liechtenstein|https://news.google.com/rss/search?q=Liechtenstein&hl=en&gl=US&ceid=US:en
+la098|news|general|الإنجليزية|Lithuania|https://news.google.com/rss/search?q=Lithuania&hl=en&gl=US&ceid=US:en
+la099|news|general|الإنجليزية|Luxembourg|https://news.google.com/rss/search?q=Luxembourg&hl=en&gl=US&ceid=US:en
+la100|news|general|الإنجليزية|Madagascar|https://news.google.com/rss/search?q=Madagascar&hl=en&gl=US&ceid=US:en
+la101|news|general|الإنجليزية|Malawi|https://news.google.com/rss/search?q=Malawi&hl=en&gl=US&ceid=US:en
+la102|news|general|الإنجليزية|Malaysia|https://news.google.com/rss/search?q=Malaysia&hl=en&gl=US&ceid=US:en
+la103|news|general|الإنجليزية|Maldives|https://news.google.com/rss/search?q=Maldives&hl=en&gl=US&ceid=US:en
+la104|news|general|الإنجليزية|Mali|https://news.google.com/rss/search?q=Mali&hl=en&gl=US&ceid=US:en
+la105|news|general|الإنجليزية|Malta|https://news.google.com/rss/search?q=Malta&hl=en&gl=US&ceid=US:en
+la106|news|general|الإنجليزية|Marshall Islands|https://news.google.com/rss/search?q=Marshall Islands&hl=en&gl=US&ceid=US:en
+la107|news|general|الإنجليزية|Mauritania|https://news.google.com/rss/search?q=Mauritania&hl=en&gl=US&ceid=US:en
+la108|news|general|الإنجليزية|Mauritius|https://news.google.com/rss/search?q=Mauritius&hl=en&gl=US&ceid=US:en
+la109|news|general|الإنجليزية|Mexico|https://news.google.com/rss/search?q=Mexico&hl=en&gl=US&ceid=US:en
+la110|news|general|الإنجليزية|Micronesia|https://news.google.com/rss/search?q=Micronesia&hl=en&gl=US&ceid=US:en
+la111|news|general|الإنجليزية|Moldova|https://news.google.com/rss/search?q=Moldova&hl=en&gl=US&ceid=US:en
+la112|news|general|الإنجليزية|Monaco|https://news.google.com/rss/search?q=Monaco&hl=en&gl=US&ceid=US:en
+la113|news|general|الإنجليزية|Mongolia|https://news.google.com/rss/search?q=Mongolia&hl=en&gl=US&ceid=US:en
+la114|news|general|الإنجليزية|Montenegro|https://news.google.com/rss/search?q=Montenegro&hl=en&gl=US&ceid=US:en
+la115|news|general|الإنجليزية|Morocco|https://news.google.com/rss/search?q=Morocco&hl=en&gl=US&ceid=US:en
+la116|news|general|الإنجليزية|Mozambique|https://news.google.com/rss/search?q=Mozambique&hl=en&gl=US&ceid=US:en
+la117|news|general|الإنجليزية|Myanmar|https://news.google.com/rss/search?q=Myanmar&hl=en&gl=US&ceid=US:en
+la118|news|general|الإنجليزية|Namibia|https://news.google.com/rss/search?q=Namibia&hl=en&gl=US&ceid=US:en
+la119|news|general|الإنجليزية|Nauru|https://news.google.com/rss/search?q=Nauru&hl=en&gl=US&ceid=US:en
+la120|news|general|الإنجليزية|Nepal|https://news.google.com/rss/search?q=Nepal&hl=en&gl=US&ceid=US:en
+la121|news|general|الإنجليزية|Netherlands|https://news.google.com/rss/search?q=Netherlands&hl=en&gl=US&ceid=US:en
+la122|news|general|الإنجليزية|New Zealand|https://news.google.com/rss/search?q=New Zealand&hl=en&gl=US&ceid=US:en
+la123|news|general|الإنجليزية|Nicaragua|https://news.google.com/rss/search?q=Nicaragua&hl=en&gl=US&ceid=US:en
+la124|news|general|الإنجليزية|Niger|https://news.google.com/rss/search?q=Niger&hl=en&gl=US&ceid=US:en
+la125|news|general|الإنجليزية|Nigeria|https://news.google.com/rss/search?q=Nigeria&hl=en&gl=US&ceid=US:en
+la126|news|general|الإنجليزية|North Korea|https://news.google.com/rss/search?q=North Korea&hl=en&gl=US&ceid=US:en
+la127|news|general|الإنجليزية|North Macedonia|https://news.google.com/rss/search?q=North Macedonia&hl=en&gl=US&ceid=US:en
+la128|news|general|الإنجليزية|Norway|https://news.google.com/rss/search?q=Norway&hl=en&gl=US&ceid=US:en
+la129|news|general|الإنجليزية|Oman|https://news.google.com/rss/search?q=Oman&hl=en&gl=US&ceid=US:en
+la130|news|general|الإنجليزية|Pakistan|https://news.google.com/rss/search?q=Pakistan&hl=en&gl=US&ceid=US:en
+la131|news|general|الإنجليزية|Palau|https://news.google.com/rss/search?q=Palau&hl=en&gl=US&ceid=US:en
+la132|news|general|الإنجليزية|Panama|https://news.google.com/rss/search?q=Panama&hl=en&gl=US&ceid=US:en
+la133|news|general|الإنجليزية|Papua New Guinea|https://news.google.com/rss/search?q=Papua New Guinea&hl=en&gl=US&ceid=US:en
+la134|news|general|الإنجليزية|Paraguay|https://news.google.com/rss/search?q=Paraguay&hl=en&gl=US&ceid=US:en
+la135|news|general|الإنجليزية|Peru|https://news.google.com/rss/search?q=Peru&hl=en&gl=US&ceid=US:en
+la136|news|general|الإنجليزية|Philippines|https://news.google.com/rss/search?q=Philippines&hl=en&gl=US&ceid=US:en
+la137|news|general|الإنجليزية|Poland|https://news.google.com/rss/search?q=Poland&hl=en&gl=US&ceid=US:en
+la138|news|general|الإنجليزية|Portugal|https://news.google.com/rss/search?q=Portugal&hl=en&gl=US&ceid=US:en
+la139|news|general|الإنجليزية|Qatar|https://news.google.com/rss/search?q=Qatar&hl=en&gl=US&ceid=US:en
+la140|news|general|الإنجليزية|Romania|https://news.google.com/rss/search?q=Romania&hl=en&gl=US&ceid=US:en
+la141|news|general|الإنجليزية|Russia|https://news.google.com/rss/search?q=Russia&hl=en&gl=US&ceid=US:en
+la142|news|general|الإنجليزية|Rwanda|https://news.google.com/rss/search?q=Rwanda&hl=en&gl=US&ceid=US:en
+la143|news|general|الإنجليزية|Saint Kitts and Nevis|https://news.google.com/rss/search?q=Saint Kitts and Nevis&hl=en&gl=US&ceid=US:en
+la144|news|general|الإنجليزية|Saint Lucia|https://news.google.com/rss/search?q=Saint Lucia&hl=en&gl=US&ceid=US:en
+la145|news|general|الإنجليزية|Saint Vincent and the Grenadines|https://news.google.com/rss/search?q=Saint Vincent and the Grenadines&hl=en&gl=US&ceid=US:en
+la146|news|general|الإنجليزية|Samoa|https://news.google.com/rss/search?q=Samoa&hl=en&gl=US&ceid=US:en
+la147|news|general|الإنجليزية|San Marino|https://news.google.com/rss/search?q=San Marino&hl=en&gl=US&ceid=US:en
+la148|news|general|الإنجليزية|Sao Tome and Principe|https://news.google.com/rss/search?q=Sao Tome and Principe&hl=en&gl=US&ceid=US:en
+la149|news|general|الإنجليزية|Saudi Arabia|https://news.google.com/rss/search?q=Saudi Arabia&hl=en&gl=US&ceid=US:en
+la150|news|general|الإنجليزية|Senegal|https://news.google.com/rss/search?q=Senegal&hl=en&gl=US&ceid=US:en
+la151|news|general|الإنجليزية|Serbia|https://news.google.com/rss/search?q=Serbia&hl=en&gl=US&ceid=US:en
+la152|news|general|الإنجليزية|Seychelles|https://news.google.com/rss/search?q=Seychelles&hl=en&gl=US&ceid=US:en
+la153|news|general|الإنجليزية|Sierra Leone|https://news.google.com/rss/search?q=Sierra Leone&hl=en&gl=US&ceid=US:en
+la154|news|general|الإنجليزية|Singapore|https://news.google.com/rss/search?q=Singapore&hl=en&gl=US&ceid=US:en
+la155|news|general|الإنجليزية|Slovakia|https://news.google.com/rss/search?q=Slovakia&hl=en&gl=US&ceid=US:en
+la156|news|general|الإنجليزية|Slovenia|https://news.google.com/rss/search?q=Slovenia&hl=en&gl=US&ceid=US:en
+la157|news|general|الإنجليزية|Solomon Islands|https://news.google.com/rss/search?q=Solomon Islands&hl=en&gl=US&ceid=US:en
+la158|news|general|الإنجليزية|Somalia|https://news.google.com/rss/search?q=Somalia&hl=en&gl=US&ceid=US:en
+la159|news|general|الإنجليزية|South Africa|https://news.google.com/rss/search?q=South Africa&hl=en&gl=US&ceid=US:en
+la160|news|general|الإنجليزية|South Korea|https://news.google.com/rss/search?q=South Korea&hl=en&gl=US&ceid=US:en
+la161|news|general|الإنجليزية|South Sudan|https://news.google.com/rss/search?q=South Sudan&hl=en&gl=US&ceid=US:en
+la162|news|general|الإنجليزية|Spain|https://news.google.com/rss/search?q=Spain&hl=en&gl=US&ceid=US:en
+la163|news|general|الإنجليزية|Sri Lanka|https://news.google.com/rss/search?q=Sri Lanka&hl=en&gl=US&ceid=US:en
+la164|news|general|الإنجليزية|Sudan|https://news.google.com/rss/search?q=Sudan&hl=en&gl=US&ceid=US:en
+la165|news|general|الإنجليزية|Suriname|https://news.google.com/rss/search?q=Suriname&hl=en&gl=US&ceid=US:en
+la166|news|general|الإنجليزية|Sweden|https://news.google.com/rss/search?q=Sweden&hl=en&gl=US&ceid=US:en
+la167|news|general|الإنجليزية|Switzerland|https://news.google.com/rss/search?q=Switzerland&hl=en&gl=US&ceid=US:en
+la168|news|general|الإنجليزية|Syria|https://news.google.com/rss/search?q=Syria&hl=en&gl=US&ceid=US:en
+la169|news|general|الإنجليزية|Tajikistan|https://news.google.com/rss/search?q=Tajikistan&hl=en&gl=US&ceid=US:en
+la170|news|general|الإنجليزية|Tanzania|https://news.google.com/rss/search?q=Tanzania&hl=en&gl=US&ceid=US:en
+la171|news|general|الإنجليزية|Thailand|https://news.google.com/rss/search?q=Thailand&hl=en&gl=US&ceid=US:en
+la172|news|general|الإنجليزية|Timor-Leste|https://news.google.com/rss/search?q=Timor-Leste&hl=en&gl=US&ceid=US:en
+la173|news|general|الإنجليزية|Togo|https://news.google.com/rss/search?q=Togo&hl=en&gl=US&ceid=US:en
+la174|news|general|الإنجليزية|Tonga|https://news.google.com/rss/search?q=Tonga&hl=en&gl=US&ceid=US:en
+la175|news|general|الإنجليزية|Trinidad and Tobago|https://news.google.com/rss/search?q=Trinidad and Tobago&hl=en&gl=US&ceid=US:en
+la176|news|general|الإنجليزية|Tunisia|https://news.google.com/rss/search?q=Tunisia&hl=en&gl=US&ceid=US:en
+la177|news|general|الإنجليزية|Turkey|https://news.google.com/rss/search?q=Turkey&hl=en&gl=US&ceid=US:en
+la178|news|general|الإنجليزية|Turkmenistan|https://news.google.com/rss/search?q=Turkmenistan&hl=en&gl=US&ceid=US:en
+la179|news|general|الإنجليزية|Tuvalu|https://news.google.com/rss/search?q=Tuvalu&hl=en&gl=US&ceid=US:en
+la180|news|general|الإنجليزية|Uganda|https://news.google.com/rss/search?q=Uganda&hl=en&gl=US&ceid=US:en
+la181|news|general|الإنجليزية|Ukraine|https://news.google.com/rss/search?q=Ukraine&hl=en&gl=US&ceid=US:en
+la182|news|general|الإنجليزية|United Arab Emirates|https://news.google.com/rss/search?q=United Arab Emirates&hl=en&gl=US&ceid=US:en
+la183|news|general|الإنجليزية|United Kingdom|https://news.google.com/rss/search?q=United Kingdom&hl=en&gl=US&ceid=US:en
+la184|news|general|الإنجليزية|United States|https://news.google.com/rss/search?q=United States&hl=en&gl=US&ceid=US:en
+la185|news|general|الإنجليزية|Uruguay|https://news.google.com/rss/search?q=Uruguay&hl=en&gl=US&ceid=US:en
+la186|news|general|الإنجليزية|Uzbekistan|https://news.google.com/rss/search?q=Uzbekistan&hl=en&gl=US&ceid=US:en
+la187|news|general|الإنجليزية|Vanuatu|https://news.google.com/rss/search?q=Vanuatu&hl=en&gl=US&ceid=US:en
+la188|news|general|الإنجليزية|Venezuela|https://news.google.com/rss/search?q=Venezuela&hl=en&gl=US&ceid=US:en
+la189|news|general|الإنجليزية|Vietnam|https://news.google.com/rss/search?q=Vietnam&hl=en&gl=US&ceid=US:en
+la190|news|general|الإنجليزية|Yemen|https://news.google.com/rss/search?q=Yemen&hl=en&gl=US&ceid=US:en
+la191|news|general|الإنجليزية|Zambia|https://news.google.com/rss/search?q=Zambia&hl=en&gl=US&ceid=US:en
+la192|news|general|الإنجليزية|Zimbabwe|https://news.google.com/rss/search?q=Zimbabwe&hl=en&gl=US&ceid=US:en
+
+la001|news|general|العبرية|Afghanistan|https://news.google.com/rss/search?q=Afghanistan&hl=he&gl=IL&ceid=IL:he
+la002|news|general|العبرية|Albania|https://news.google.com/rss/search?q=Albania&hl=he&gl=IL&ceid=IL:he
+la003|news|general|العبرية|Algeria|https://news.google.com/rss/search?q=Algeria&hl=he&gl=IL&ceid=IL:he
+la004|news|general|العبرية|Andorra|https://news.google.com/rss/search?q=Andorra&hl=he&gl=IL&ceid=IL:he
+la005|news|general|العبرية|Angola|https://news.google.com/rss/search?q=Angola&hl=he&gl=IL&ceid=IL:he
+la006|news|general|العبرية|Antigua and Barbuda|https://news.google.com/rss/search?q=Antigua and Barbuda&hl=he&gl=IL&ceid=IL:he
+la007|news|general|العبرية|Argentina|https://news.google.com/rss/search?q=Argentina&hl=he&gl=IL&ceid=IL:he
+la008|news|general|العبرية|Armenia|https://news.google.com/rss/search?q=Armenia&hl=he&gl=IL&ceid=IL:he
+la009|news|general|العبرية|Australia|https://news.google.com/rss/search?q=Australia&hl=he&gl=IL&ceid=IL:he
+la010|news|general|العبرية|Austria|https://news.google.com/rss/search?q=Austria&hl=he&gl=IL&ceid=IL:he
+la011|news|general|العبرية|Azerbaijan|https://news.google.com/rss/search?q=Azerbaijan&hl=he&gl=IL&ceid=IL:he
+la012|news|general|العبرية|Bahamas|https://news.google.com/rss/search?q=Bahamas&hl=he&gl=IL&ceid=IL:he
+la013|news|general|العبرية|Bahrain|https://news.google.com/rss/search?q=Bahrain&hl=he&gl=IL&ceid=IL:he
+la014|news|general|العبرية|Bangladesh|https://news.google.com/rss/search?q=Bangladesh&hl=he&gl=IL&ceid=IL:he
+la015|news|general|العبرية|Barbados|https://news.google.com/rss/search?q=Barbados&hl=he&gl=IL&ceid=IL:he
+la016|news|general|العبرية|Belarus|https://news.google.com/rss/search?q=Belarus&hl=he&gl=IL&ceid=IL:he
+la017|news|general|العبرية|Belgium|https://news.google.com/rss/search?q=Belgium&hl=he&gl=IL&ceid=IL:he
+la018|news|general|العبرية|Belize|https://news.google.com/rss/search?q=Belize&hl=he&gl=IL&ceid=IL:he
+la019|news|general|العبرية|Benin|https://news.google.com/rss/search?q=Benin&hl=he&gl=IL&ceid=IL:he
+la020|news|general|العبرية|Bhutan|https://news.google.com/rss/search?q=Bhutan&hl=he&gl=IL&ceid=IL:he
+la021|news|general|العبرية|Bolivia|https://news.google.com/rss/search?q=Bolivia&hl=he&gl=IL&ceid=IL:he
+la022|news|general|العبرية|Bosnia and Herzegovina|https://news.google.com/rss/search?q=Bosnia and Herzegovina&hl=he&gl=IL&ceid=IL:he
+la023|news|general|العبرية|Botswana|https://news.google.com/rss/search?q=Botswana&hl=he&gl=IL&ceid=IL:he
+la024|news|general|العبرية|Brazil|https://news.google.com/rss/search?q=Brazil&hl=he&gl=IL&ceid=IL:he
+la025|news|general|العبرية|Brunei|https://news.google.com/rss/search?q=Brunei&hl=he&gl=IL&ceid=IL:he
+la026|news|general|العبرية|Bulgaria|https://news.google.com/rss/search?q=Bulgaria&hl=he&gl=IL&ceid=IL:he
+la027|news|general|العبرية|Burkina Faso|https://news.google.com/rss/search?q=Burkina Faso&hl=he&gl=IL&ceid=IL:he
+la028|news|general|العبرية|Burundi|https://news.google.com/rss/search?q=Burundi&hl=he&gl=IL&ceid=IL:he
+la029|news|general|العبرية|Cabo Verde|https://news.google.com/rss/search?q=Cabo Verde&hl=he&gl=IL&ceid=IL:he
+la030|news|general|العبرية|Cambodia|https://news.google.com/rss/search?q=Cambodia&hl=he&gl=IL&ceid=IL:he
+la031|news|general|العبرية|Cameroon|https://news.google.com/rss/search?q=Cameroon&hl=he&gl=IL&ceid=IL:he
+la032|news|general|العبرية|Canada|https://news.google.com/rss/search?q=Canada&hl=he&gl=IL&ceid=IL:he
+la033|news|general|العبرية|Central African Republic|https://news.google.com/rss/search?q=Central African Republic&hl=he&gl=IL&ceid=IL:he
+la034|news|general|العبرية|Chad|https://news.google.com/rss/search?q=Chad&hl=he&gl=IL&ceid=IL:he
+la035|news|general|العبرية|Chile|https://news.google.com/rss/search?q=Chile&hl=he&gl=IL&ceid=IL:he
+la036|news|general|العبرية|China|https://news.google.com/rss/search?q=China&hl=he&gl=IL&ceid=IL:he
+la037|news|general|العبرية|Colombia|https://news.google.com/rss/search?q=Colombia&hl=he&gl=IL&ceid=IL:he
+la038|news|general|العبرية|Comoros|https://news.google.com/rss/search?q=Comoros&hl=he&gl=IL&ceid=IL:he
+la039|news|general|العبرية|Congo (Republic of the Congo)|https://news.google.com/rss/search?q=Congo (Republic of the Congo)&hl=he&gl=IL&ceid=IL:he
+la040|news|general|العبرية|Costa Rica|https://news.google.com/rss/search?q=Costa Rica&hl=he&gl=IL&ceid=IL:he
+la041|news|general|العبرية|Côte d’Ivoire|https://news.google.com/rss/search?q=Côte d’Ivoire&hl=he&gl=IL&ceid=IL:he
+la042|news|general|العبرية|Croatia|https://news.google.com/rss/search?q=Croatia&hl=he&gl=IL&ceid=IL:he
+la043|news|general|العبرية|Cuba|https://news.google.com/rss/search?q=Cuba&hl=he&gl=IL&ceid=IL:he
+la044|news|general|العبرية|Cyprus|https://news.google.com/rss/search?q=Cyprus&hl=he&gl=IL&ceid=IL:he
+la045|news|general|العبرية|Czech Republic|https://news.google.com/rss/search?q=Czech Republic&hl=he&gl=IL&ceid=IL:he
+la046|news|general|العبرية|Democratic Republic of the Congo|https://news.google.com/rss/search?q=Democratic Republic of the Congo&hl=he&gl=IL&ceid=IL:he
+la047|news|general|العبرية|Denmark|https://news.google.com/rss/search?q=Denmark&hl=he&gl=IL&ceid=IL:he
+la048|news|general|العبرية|Djibouti|https://news.google.com/rss/search?q=Djibouti&hl=he&gl=IL&ceid=IL:he
+la049|news|general|العبرية|Dominica|https://news.google.com/rss/search?q=Dominica&hl=he&gl=IL&ceid=IL:he
+la050|news|general|العبرية|Dominican Republic|https://news.google.com/rss/search?q=Dominican Republic&hl=he&gl=IL&ceid=IL:he
+la051|news|general|العبرية|Ecuador|https://news.google.com/rss/search?q=Ecuador&hl=he&gl=IL&ceid=IL:he
+la052|news|general|العبرية|Egypt|https://news.google.com/rss/search?q=Egypt&hl=he&gl=IL&ceid=IL:he
+la053|news|general|العبرية|El Salvador|https://news.google.com/rss/search?q=El Salvador&hl=he&gl=IL&ceid=IL:he
+la054|news|general|العبرية|Equatorial Guinea|https://news.google.com/rss/search?q=Equatorial Guinea&hl=he&gl=IL&ceid=IL:he
+la055|news|general|العبرية|Eritrea|https://news.google.com/rss/search?q=Eritrea&hl=he&gl=IL&ceid=IL:he
+la056|news|general|العبرية|Estonia|https://news.google.com/rss/search?q=Estonia&hl=he&gl=IL&ceid=IL:he
+la057|news|general|العبرية|Eswatini|https://news.google.com/rss/search?q=Eswatini&hl=he&gl=IL&ceid=IL:he
+la058|news|general|العبرية|Ethiopia|https://news.google.com/rss/search?q=Ethiopia&hl=he&gl=IL&ceid=IL:he
+la059|news|general|العبرية|Fiji|https://news.google.com/rss/search?q=Fiji&hl=he&gl=IL&ceid=IL:he
+la060|news|general|العبرية|Finland|https://news.google.com/rss/search?q=Finland&hl=he&gl=IL&ceid=IL:he
+la061|news|general|العبرية|France|https://news.google.com/rss/search?q=France&hl=he&gl=IL&ceid=IL:he
+la062|news|general|العبرية|Gabon|https://news.google.com/rss/search?q=Gabon&hl=he&gl=IL&ceid=IL:he
+la063|news|general|العبرية|Gambia|https://news.google.com/rss/search?q=Gambia&hl=he&gl=IL&ceid=IL:he
+la064|news|general|العبرية|Georgia|https://news.google.com/rss/search?q=Georgia&hl=he&gl=IL&ceid=IL:he
+la065|news|general|العبرية|Germany|https://news.google.com/rss/search?q=Germany&hl=he&gl=IL&ceid=IL:he
+la066|news|general|العبرية|Ghana|https://news.google.com/rss/search?q=Ghana&hl=he&gl=IL&ceid=IL:he
+la067|news|general|العبرية|Greece|https://news.google.com/rss/search?q=Greece&hl=he&gl=IL&ceid=IL:he
+la068|news|general|العبرية|Grenada|https://news.google.com/rss/search?q=Grenada&hl=he&gl=IL&ceid=IL:he
+la069|news|general|العبرية|Guatemala|https://news.google.com/rss/search?q=Guatemala&hl=he&gl=IL&ceid=IL:he
+la070|news|general|العبرية|Guinea|https://news.google.com/rss/search?q=Guinea&hl=he&gl=IL&ceid=IL:he
+la071|news|general|العبرية|Guinea-Bissau|https://news.google.com/rss/search?q=Guinea-Bissau&hl=he&gl=IL&ceid=IL:he
+la072|news|general|العبرية|Guyana|https://news.google.com/rss/search?q=Guyana&hl=he&gl=IL&ceid=IL:he
+la073|news|general|العبرية|Haiti|https://news.google.com/rss/search?q=Haiti&hl=he&gl=IL&ceid=IL:he
+la074|news|general|العبرية|Honduras|https://news.google.com/rss/search?q=Honduras&hl=he&gl=IL&ceid=IL:he
+la075|news|general|العبرية|Hungary|https://news.google.com/rss/search?q=Hungary&hl=he&gl=IL&ceid=IL:he
+la076|news|general|العبرية|Iceland|https://news.google.com/rss/search?q=Iceland&hl=he&gl=IL&ceid=IL:he
+la077|news|general|العبرية|India|https://news.google.com/rss/search?q=India&hl=he&gl=IL&ceid=IL:he
+la078|news|general|العبرية|Indonesia|https://news.google.com/rss/search?q=Indonesia&hl=he&gl=IL&ceid=IL:he
+la079|news|general|العبرية|Iran|https://news.google.com/rss/search?q=Iran&hl=he&gl=IL&ceid=IL:he
+la080|news|general|العبرية|Iraq|https://news.google.com/rss/search?q=Iraq&hl=he&gl=IL&ceid=IL:he
+la081|news|general|العبرية|Ireland|https://news.google.com/rss/search?q=Ireland&hl=he&gl=IL&ceid=IL:he
+la082|news|general|العبرية|Italy|https://news.google.com/rss/search?q=Italy&hl=he&gl=IL&ceid=IL:he
+la083|news|general|العبرية|Jamaica|https://news.google.com/rss/search?q=Jamaica&hl=he&gl=IL&ceid=IL:he
+la084|news|general|العبرية|Japan|https://news.google.com/rss/search?q=Japan&hl=he&gl=IL&ceid=IL:he
+la085|news|general|العبرية|Jordan|https://news.google.com/rss/search?q=Jordan&hl=he&gl=IL&ceid=IL:he
+la086|news|general|العبرية|Kazakhstan|https://news.google.com/rss/search?q=Kazakhstan&hl=he&gl=IL&ceid=IL:he
+la087|news|general|العبرية|Kenya|https://news.google.com/rss/search?q=Kenya&hl=he&gl=IL&ceid=IL:he
+la088|news|general|العبرية|Kiribati|https://news.google.com/rss/search?q=Kiribati&hl=he&gl=IL&ceid=IL:he
+la089|news|general|العبرية|Kuwait|https://news.google.com/rss/search?q=Kuwait&hl=he&gl=IL&ceid=IL:he
+la090|news|general|العبرية|Kyrgyzstan|https://news.google.com/rss/search?q=Kyrgyzstan&hl=he&gl=IL&ceid=IL:he
+la091|news|general|العبرية|Laos|https://news.google.com/rss/search?q=Laos&hl=he&gl=IL&ceid=IL:he
+la092|news|general|العبرية|Latvia|https://news.google.com/rss/search?q=Latvia&hl=he&gl=IL&ceid=IL:he
+la093|news|general|العبرية|Lebanon|https://news.google.com/rss/search?q=Lebanon&hl=he&gl=IL&ceid=IL:he
+la094|news|general|العبرية|Lesotho|https://news.google.com/rss/search?q=Lesotho&hl=he&gl=IL&ceid=IL:he
+la095|news|general|العبرية|Liberia|https://news.google.com/rss/search?q=Liberia&hl=he&gl=IL&ceid=IL:he
+la096|news|general|العبرية|Libya|https://news.google.com/rss/search?q=Libya&hl=he&gl=IL&ceid=IL:he
+la097|news|general|العبرية|Liechtenstein|https://news.google.com/rss/search?q=Liechtenstein&hl=he&gl=IL&ceid=IL:he
+la098|news|general|العبرية|Lithuania|https://news.google.com/rss/search?q=Lithuania&hl=he&gl=IL&ceid=IL:he
+la099|news|general|العبرية|Luxembourg|https://news.google.com/rss/search?q=Luxembourg&hl=he&gl=IL&ceid=IL:he
+la100|news|general|العبرية|Madagascar|https://news.google.com/rss/search?q=Madagascar&hl=he&gl=IL&ceid=IL:he
+la101|news|general|العبرية|Malawi|https://news.google.com/rss/search?q=Malawi&hl=he&gl=IL&ceid=IL:he
+la102|news|general|العبرية|Malaysia|https://news.google.com/rss/search?q=Malaysia&hl=he&gl=IL&ceid=IL:he
+la103|news|general|العبرية|Maldives|https://news.google.com/rss/search?q=Maldives&hl=he&gl=IL&ceid=IL:he
+la104|news|general|العبرية|Mali|https://news.google.com/rss/search?q=Mali&hl=he&gl=IL&ceid=IL:he
+la105|news|general|العبرية|Malta|https://news.google.com/rss/search?q=Malta&hl=he&gl=IL&ceid=IL:he
+la106|news|general|العبرية|Marshall Islands|https://news.google.com/rss/search?q=Marshall Islands&hl=he&gl=IL&ceid=IL:he
+la107|news|general|العبرية|Mauritania|https://news.google.com/rss/search?q=Mauritania&hl=he&gl=IL&ceid=IL:he
+la108|news|general|العبرية|Mauritius|https://news.google.com/rss/search?q=Mauritius&hl=he&gl=IL&ceid=IL:he
+la109|news|general|العبرية|Mexico|https://news.google.com/rss/search?q=Mexico&hl=he&gl=IL&ceid=IL:he
+la110|news|general|العبرية|Micronesia|https://news.google.com/rss/search?q=Micronesia&hl=he&gl=IL&ceid=IL:he
+la111|news|general|العبرية|Moldova|https://news.google.com/rss/search?q=Moldova&hl=he&gl=IL&ceid=IL:he
+la112|news|general|العبرية|Monaco|https://news.google.com/rss/search?q=Monaco&hl=he&gl=IL&ceid=IL:he
+la113|news|general|العبرية|Mongolia|https://news.google.com/rss/search?q=Mongolia&hl=he&gl=IL&ceid=IL:he
+la114|news|general|العبرية|Montenegro|https://news.google.com/rss/search?q=Montenegro&hl=he&gl=IL&ceid=IL:he
+la115|news|general|العبرية|Morocco|https://news.google.com/rss/search?q=Morocco&hl=he&gl=IL&ceid=IL:he
+la116|news|general|العبرية|Mozambique|https://news.google.com/rss/search?q=Mozambique&hl=he&gl=IL&ceid=IL:he
+la117|news|general|العبرية|Myanmar|https://news.google.com/rss/search?q=Myanmar&hl=he&gl=IL&ceid=IL:he
+la118|news|general|العبرية|Namibia|https://news.google.com/rss/search?q=Namibia&hl=he&gl=IL&ceid=IL:he
+la119|news|general|العبرية|Nauru|https://news.google.com/rss/search?q=Nauru&hl=he&gl=IL&ceid=IL:he
+la120|news|general|العبرية|Nepal|https://news.google.com/rss/search?q=Nepal&hl=he&gl=IL&ceid=IL:he
+la121|news|general|العبرية|Netherlands|https://news.google.com/rss/search?q=Netherlands&hl=he&gl=IL&ceid=IL:he
+la122|news|general|العبرية|New Zealand|https://news.google.com/rss/search?q=New Zealand&hl=he&gl=IL&ceid=IL:he
+la123|news|general|العبرية|Nicaragua|https://news.google.com/rss/search?q=Nicaragua&hl=he&gl=IL&ceid=IL:he
+la124|news|general|العبرية|Niger|https://news.google.com/rss/search?q=Niger&hl=he&gl=IL&ceid=IL:he
+la125|news|general|العبرية|Nigeria|https://news.google.com/rss/search?q=Nigeria&hl=he&gl=IL&ceid=IL:he
+la126|news|general|العبرية|North Korea|https://news.google.com/rss/search?q=North Korea&hl=he&gl=IL&ceid=IL:he
+la127|news|general|العبرية|North Macedonia|https://news.google.com/rss/search?q=North Macedonia&hl=he&gl=IL&ceid=IL:he
+la128|news|general|العبرية|Norway|https://news.google.com/rss/search?q=Norway&hl=he&gl=IL&ceid=IL:he
+la129|news|general|العبرية|Oman|https://news.google.com/rss/search?q=Oman&hl=he&gl=IL&ceid=IL:he
+la130|news|general|العبرية|Pakistan|https://news.google.com/rss/search?q=Pakistan&hl=he&gl=IL&ceid=IL:he
+la131|news|general|العبرية|Palau|https://news.google.com/rss/search?q=Palau&hl=he&gl=IL&ceid=IL:he
+la132|news|general|العبرية|Panama|https://news.google.com/rss/search?q=Panama&hl=he&gl=IL&ceid=IL:he
+la133|news|general|العبرية|Papua New Guinea|https://news.google.com/rss/search?q=Papua New Guinea&hl=he&gl=IL&ceid=IL:he
+la134|news|general|العبرية|Paraguay|https://news.google.com/rss/search?q=Paraguay&hl=he&gl=IL&ceid=IL:he
+la135|news|general|العبرية|Peru|https://news.google.com/rss/search?q=Peru&hl=he&gl=IL&ceid=IL:he
+la136|news|general|العبرية|Philippines|https://news.google.com/rss/search?q=Philippines&hl=he&gl=IL&ceid=IL:he
+la137|news|general|العبرية|Poland|https://news.google.com/rss/search?q=Poland&hl=he&gl=IL&ceid=IL:he
+la138|news|general|العبرية|Portugal|https://news.google.com/rss/search?q=Portugal&hl=he&gl=IL&ceid=IL:he
+la139|news|general|العبرية|Qatar|https://news.google.com/rss/search?q=Qatar&hl=he&gl=IL&ceid=IL:he
+la140|news|general|العبرية|Romania|https://news.google.com/rss/search?q=Romania&hl=he&gl=IL&ceid=IL:he
+la141|news|general|العبرية|Russia|https://news.google.com/rss/search?q=Russia&hl=he&gl=IL&ceid=IL:he
+la142|news|general|العبرية|Rwanda|https://news.google.com/rss/search?q=Rwanda&hl=he&gl=IL&ceid=IL:he
+la143|news|general|العبرية|Saint Kitts and Nevis|https://news.google.com/rss/search?q=Saint Kitts and Nevis&hl=he&gl=IL&ceid=IL:he
+la144|news|general|العبرية|Saint Lucia|https://news.google.com/rss/search?q=Saint Lucia&hl=he&gl=IL&ceid=IL:he
+la145|news|general|العبرية|Saint Vincent and the Grenadines|https://news.google.com/rss/search?q=Saint Vincent and the Grenadines&hl=he&gl=IL&ceid=IL:he
+la146|news|general|العبرية|Samoa|https://news.google.com/rss/search?q=Samoa&hl=he&gl=IL&ceid=IL:he
+la147|news|general|العبرية|San Marino|https://news.google.com/rss/search?q=San Marino&hl=he&gl=IL&ceid=IL:he
+la148|news|general|العبرية|Sao Tome and Principe|https://news.google.com/rss/search?q=Sao Tome and Principe&hl=he&gl=IL&ceid=IL:he
+la149|news|general|العبرية|Saudi Arabia|https://news.google.com/rss/search?q=Saudi Arabia&hl=he&gl=IL&ceid=IL:he
+la150|news|general|العبرية|Senegal|https://news.google.com/rss/search?q=Senegal&hl=he&gl=IL&ceid=IL:he
+la151|news|general|العبرية|Serbia|https://news.google.com/rss/search?q=Serbia&hl=he&gl=IL&ceid=IL:he
+la152|news|general|العبرية|Seychelles|https://news.google.com/rss/search?q=Seychelles&hl=he&gl=IL&ceid=IL:he
+la153|news|general|العبرية|Sierra Leone|https://news.google.com/rss/search?q=Sierra Leone&hl=he&gl=IL&ceid=IL:he
+la154|news|general|العبرية|Singapore|https://news.google.com/rss/search?q=Singapore&hl=he&gl=IL&ceid=IL:he
+la155|news|general|العبرية|Slovakia|https://news.google.com/rss/search?q=Slovakia&hl=he&gl=IL&ceid=IL:he
+la156|news|general|العبرية|Slovenia|https://news.google.com/rss/search?q=Slovenia&hl=he&gl=IL&ceid=IL:he
+la157|news|general|العبرية|Solomon Islands|https://news.google.com/rss/search?q=Solomon Islands&hl=he&gl=IL&ceid=IL:he
+la158|news|general|العبرية|Somalia|https://news.google.com/rss/search?q=Somalia&hl=he&gl=IL&ceid=IL:he
+la159|news|general|العبرية|South Africa|https://news.google.com/rss/search?q=South Africa&hl=he&gl=IL&ceid=IL:he
+la160|news|general|العبرية|South Korea|https://news.google.com/rss/search?q=South Korea&hl=he&gl=IL&ceid=IL:he
+la161|news|general|العبرية|South Sudan|https://news.google.com/rss/search?q=South Sudan&hl=he&gl=IL&ceid=IL:he
+la162|news|general|العبرية|Spain|https://news.google.com/rss/search?q=Spain&hl=he&gl=IL&ceid=IL:he
+la163|news|general|العبرية|Sri Lanka|https://news.google.com/rss/search?q=Sri Lanka&hl=he&gl=IL&ceid=IL:he
+la164|news|general|العبرية|Sudan|https://news.google.com/rss/search?q=Sudan&hl=he&gl=IL&ceid=IL:he
+la165|news|general|العبرية|Suriname|https://news.google.com/rss/search?q=Suriname&hl=he&gl=IL&ceid=IL:he
+la166|news|general|العبرية|Sweden|https://news.google.com/rss/search?q=Sweden&hl=he&gl=IL&ceid=IL:he
+la167|news|general|العبرية|Switzerland|https://news.google.com/rss/search?q=Switzerland&hl=he&gl=IL&ceid=IL:he
+la168|news|general|العبرية|Syria|https://news.google.com/rss/search?q=Syria&hl=he&gl=IL&ceid=IL:he
+la169|news|general|العبرية|Tajikistan|https://news.google.com/rss/search?q=Tajikistan&hl=he&gl=IL&ceid=IL:he
+la170|news|general|العبرية|Tanzania|https://news.google.com/rss/search?q=Tanzania&hl=he&gl=IL&ceid=IL:he
+la171|news|general|العبرية|Thailand|https://news.google.com/rss/search?q=Thailand&hl=he&gl=IL&ceid=IL:he
+la172|news|general|العبرية|Timor-Leste|https://news.google.com/rss/search?q=Timor-Leste&hl=he&gl=IL&ceid=IL:he
+la173|news|general|العبرية|Togo|https://news.google.com/rss/search?q=Togo&hl=he&gl=IL&ceid=IL:he
+la174|news|general|العبرية|Tonga|https://news.google.com/rss/search?q=Tonga&hl=he&gl=IL&ceid=IL:he
+la175|news|general|العبرية|Trinidad and Tobago|https://news.google.com/rss/search?q=Trinidad and Tobago&hl=he&gl=IL&ceid=IL:he
+la176|news|general|العبرية|Tunisia|https://news.google.com/rss/search?q=Tunisia&hl=he&gl=IL&ceid=IL:he
+la177|news|general|العبرية|Turkey|https://news.google.com/rss/search?q=Turkey&hl=he&gl=IL&ceid=IL:he
+la178|news|general|العبرية|Turkmenistan|https://news.google.com/rss/search?q=Turkmenistan&hl=he&gl=IL&ceid=IL:he
+la179|news|general|العبرية|Tuvalu|https://news.google.com/rss/search?q=Tuvalu&hl=he&gl=IL&ceid=IL:he
+la180|news|general|العبرية|Uganda|https://news.google.com/rss/search?q=Uganda&hl=he&gl=IL&ceid=IL:he
+la181|news|general|العبرية|Ukraine|https://news.google.com/rss/search?q=Ukraine&hl=he&gl=IL&ceid=IL:he
+la182|news|general|العبرية|United Arab Emirates|https://news.google.com/rss/search?q=United Arab Emirates&hl=he&gl=IL&ceid=IL:he
+la183|news|general|العبرية|United Kingdom|https://news.google.com/rss/search?q=United Kingdom&hl=he&gl=IL&ceid=IL:he
+la184|news|general|العبرية|United States|https://news.google.com/rss/search?q=United States&hl=he&gl=IL&ceid=IL:he
+la185|news|general|العبرية|Uruguay|https://news.google.com/rss/search?q=Uruguay&hl=he&gl=IL&ceid=IL:he
+la186|news|general|العبرية|Uzbekistan|https://news.google.com/rss/search?q=Uzbekistan&hl=he&gl=IL&ceid=IL:he
+la187|news|general|العبرية|Vanuatu|https://news.google.com/rss/search?q=Vanuatu&hl=he&gl=IL&ceid=IL:he
+la188|news|general|العبرية|Venezuela|https://news.google.com/rss/search?q=Venezuela&hl=he&gl=IL&ceid=IL:he
+la189|news|general|العبرية|Vietnam|https://news.google.com/rss/search?q=Vietnam&hl=he&gl=IL&ceid=IL:he
+la190|news|general|العبرية|Yemen|https://news.google.com/rss/search?q=Yemen&hl=he&gl=IL&ceid=IL:he
+la191|news|general|العبرية|Zambia|https://news.google.com/rss/search?q=Zambia&hl=he&gl=IL&ceid=IL:he
+la192|news|general|العبرية|Zimbabwe|https://news.google.com/rss/search?q=Zimbabwe&hl=he&gl=IL&ceid=IL:he
+
+la001|news|general|الليتوانية|Afghanistan|https://news.google.com/rss/search?q=Afghanistan&hl=lt&gl=LT&ceid=LT:lt
+la002|news|general|الليتوانية|Albania|https://news.google.com/rss/search?q=Albania&hl=lt&gl=LT&ceid=LT:lt
+la003|news|general|الليتوانية|Algeria|https://news.google.com/rss/search?q=Algeria&hl=lt&gl=LT&ceid=LT:lt
+la004|news|general|الليتوانية|Andorra|https://news.google.com/rss/search?q=Andorra&hl=lt&gl=LT&ceid=LT:lt
+la005|news|general|الليتوانية|Angola|https://news.google.com/rss/search?q=Angola&hl=lt&gl=LT&ceid=LT:lt
+la006|news|general|الليتوانية|Antigua and Barbuda|https://news.google.com/rss/search?q=Antigua and Barbuda&hl=lt&gl=LT&ceid=LT:lt
+la007|news|general|الليتوانية|Argentina|https://news.google.com/rss/search?q=Argentina&hl=lt&gl=LT&ceid=LT:lt
+la008|news|general|الليتوانية|Armenia|https://news.google.com/rss/search?q=Armenia&hl=lt&gl=LT&ceid=LT:lt
+la009|news|general|الليتوانية|Australia|https://news.google.com/rss/search?q=Australia&hl=lt&gl=LT&ceid=LT:lt
+la010|news|general|الليتوانية|Austria|https://news.google.com/rss/search?q=Austria&hl=lt&gl=LT&ceid=LT:lt
+la011|news|general|الليتوانية|Azerbaijan|https://news.google.com/rss/search?q=Azerbaijan&hl=lt&gl=LT&ceid=LT:lt
+la012|news|general|الليتوانية|Bahamas|https://news.google.com/rss/search?q=Bahamas&hl=lt&gl=LT&ceid=LT:lt
+la013|news|general|الليتوانية|Bahrain|https://news.google.com/rss/search?q=Bahrain&hl=lt&gl=LT&ceid=LT:lt
+la014|news|general|الليتوانية|Bangladesh|https://news.google.com/rss/search?q=Bangladesh&hl=lt&gl=LT&ceid=LT:lt
+la015|news|general|الليتوانية|Barbados|https://news.google.com/rss/search?q=Barbados&hl=lt&gl=LT&ceid=LT:lt
+la016|news|general|الليتوانية|Belarus|https://news.google.com/rss/search?q=Belarus&hl=lt&gl=LT&ceid=LT:lt
+la017|news|general|الليتوانية|Belgium|https://news.google.com/rss/search?q=Belgium&hl=lt&gl=LT&ceid=LT:lt
+la018|news|general|الليتوانية|Belize|https://news.google.com/rss/search?q=Belize&hl=lt&gl=LT&ceid=LT:lt
+la019|news|general|الليتوانية|Benin|https://news.google.com/rss/search?q=Benin&hl=lt&gl=LT&ceid=LT:lt
+la020|news|general|الليتوانية|Bhutan|https://news.google.com/rss/search?q=Bhutan&hl=lt&gl=LT&ceid=LT:lt
+la021|news|general|الليتوانية|Bolivia|https://news.google.com/rss/search?q=Bolivia&hl=lt&gl=LT&ceid=LT:lt
+la022|news|general|الليتوانية|Bosnia and Herzegovina|https://news.google.com/rss/search?q=Bosnia and Herzegovina&hl=lt&gl=LT&ceid=LT:lt
+la023|news|general|الليتوانية|Botswana|https://news.google.com/rss/search?q=Botswana&hl=lt&gl=LT&ceid=LT:lt
+la024|news|general|الليتوانية|Brazil|https://news.google.com/rss/search?q=Brazil&hl=lt&gl=LT&ceid=LT:lt
+la025|news|general|الليتوانية|Brunei|https://news.google.com/rss/search?q=Brunei&hl=lt&gl=LT&ceid=LT:lt
+la026|news|general|الليتوانية|Bulgaria|https://news.google.com/rss/search?q=Bulgaria&hl=lt&gl=LT&ceid=LT:lt
+la027|news|general|الليتوانية|Burkina Faso|https://news.google.com/rss/search?q=Burkina Faso&hl=lt&gl=LT&ceid=LT:lt
+la028|news|general|الليتوانية|Burundi|https://news.google.com/rss/search?q=Burundi&hl=lt&gl=LT&ceid=LT:lt
+la029|news|general|الليتوانية|Cabo Verde|https://news.google.com/rss/search?q=Cabo Verde&hl=lt&gl=LT&ceid=LT:lt
+la030|news|general|الليتوانية|Cambodia|https://news.google.com/rss/search?q=Cambodia&hl=lt&gl=LT&ceid=LT:lt
+la031|news|general|الليتوانية|Cameroon|https://news.google.com/rss/search?q=Cameroon&hl=lt&gl=LT&ceid=LT:lt
+la032|news|general|الليتوانية|Canada|https://news.google.com/rss/search?q=Canada&hl=lt&gl=LT&ceid=LT:lt
+la033|news|general|الليتوانية|Central African Republic|https://news.google.com/rss/search?q=Central African Republic&hl=lt&gl=LT&ceid=LT:lt
+la034|news|general|الليتوانية|Chad|https://news.google.com/rss/search?q=Chad&hl=lt&gl=LT&ceid=LT:lt
+la035|news|general|الليتوانية|Chile|https://news.google.com/rss/search?q=Chile&hl=lt&gl=LT&ceid=LT:lt
+la036|news|general|الليتوانية|China|https://news.google.com/rss/search?q=China&hl=lt&gl=LT&ceid=LT:lt
+la037|news|general|الليتوانية|Colombia|https://news.google.com/rss/search?q=Colombia&hl=lt&gl=LT&ceid=LT:lt
+la038|news|general|الليتوانية|Comoros|https://news.google.com/rss/search?q=Comoros&hl=lt&gl=LT&ceid=LT:lt
+la039|news|general|الليتوانية|Congo (Republic of the Congo)|https://news.google.com/rss/search?q=Congo (Republic of the Congo)&hl=lt&gl=LT&ceid=LT:lt
+la040|news|general|الليتوانية|Costa Rica|https://news.google.com/rss/search?q=Costa Rica&hl=lt&gl=LT&ceid=LT:lt
+la041|news|general|الليتوانية|Côte d’Ivoire|https://news.google.com/rss/search?q=Côte d’Ivoire&hl=lt&gl=LT&ceid=LT:lt
+la042|news|general|الليتوانية|Croatia|https://news.google.com/rss/search?q=Croatia&hl=lt&gl=LT&ceid=LT:lt
+la043|news|general|الليتوانية|Cuba|https://news.google.com/rss/search?q=Cuba&hl=lt&gl=LT&ceid=LT:lt
+la044|news|general|الليتوانية|Cyprus|https://news.google.com/rss/search?q=Cyprus&hl=lt&gl=LT&ceid=LT:lt
+la045|news|general|الليتوانية|Czech Republic|https://news.google.com/rss/search?q=Czech Republic&hl=lt&gl=LT&ceid=LT:lt
+la046|news|general|الليتوانية|Democratic Republic of the Congo|https://news.google.com/rss/search?q=Democratic Republic of the Congo&hl=lt&gl=LT&ceid=LT:lt
+la047|news|general|الليتوانية|Denmark|https://news.google.com/rss/search?q=Denmark&hl=lt&gl=LT&ceid=LT:lt
+la048|news|general|الليتوانية|Djibouti|https://news.google.com/rss/search?q=Djibouti&hl=lt&gl=LT&ceid=LT:lt
+la049|news|general|الليتوانية|Dominica|https://news.google.com/rss/search?q=Dominica&hl=lt&gl=LT&ceid=LT:lt
+la050|news|general|الليتوانية|Dominican Republic|https://news.google.com/rss/search?q=Dominican Republic&hl=lt&gl=LT&ceid=LT:lt
+la051|news|general|الليتوانية|Ecuador|https://news.google.com/rss/search?q=Ecuador&hl=lt&gl=LT&ceid=LT:lt
+la052|news|general|الليتوانية|Egypt|https://news.google.com/rss/search?q=Egypt&hl=lt&gl=LT&ceid=LT:lt
+la053|news|general|الليتوانية|El Salvador|https://news.google.com/rss/search?q=El Salvador&hl=lt&gl=LT&ceid=LT:lt
+la054|news|general|الليتوانية|Equatorial Guinea|https://news.google.com/rss/search?q=Equatorial Guinea&hl=lt&gl=LT&ceid=LT:lt
+la055|news|general|الليتوانية|Eritrea|https://news.google.com/rss/search?q=Eritrea&hl=lt&gl=LT&ceid=LT:lt
+la056|news|general|الليتوانية|Estonia|https://news.google.com/rss/search?q=Estonia&hl=lt&gl=LT&ceid=LT:lt
+la057|news|general|الليتوانية|Eswatini|https://news.google.com/rss/search?q=Eswatini&hl=lt&gl=LT&ceid=LT:lt
+la058|news|general|الليتوانية|Ethiopia|https://news.google.com/rss/search?q=Ethiopia&hl=lt&gl=LT&ceid=LT:lt
+la059|news|general|الليتوانية|Fiji|https://news.google.com/rss/search?q=Fiji&hl=lt&gl=LT&ceid=LT:lt
+la060|news|general|الليتوانية|Finland|https://news.google.com/rss/search?q=Finland&hl=lt&gl=LT&ceid=LT:lt
+la061|news|general|الليتوانية|France|https://news.google.com/rss/search?q=France&hl=lt&gl=LT&ceid=LT:lt
+la062|news|general|الليتوانية|Gabon|https://news.google.com/rss/search?q=Gabon&hl=lt&gl=LT&ceid=LT:lt
+la063|news|general|الليتوانية|Gambia|https://news.google.com/rss/search?q=Gambia&hl=lt&gl=LT&ceid=LT:lt
+la064|news|general|الليتوانية|Georgia|https://news.google.com/rss/search?q=Georgia&hl=lt&gl=LT&ceid=LT:lt
+la065|news|general|الليتوانية|Germany|https://news.google.com/rss/search?q=Germany&hl=lt&gl=LT&ceid=LT:lt
+la066|news|general|الليتوانية|Ghana|https://news.google.com/rss/search?q=Ghana&hl=lt&gl=LT&ceid=LT:lt
+la067|news|general|الليتوانية|Greece|https://news.google.com/rss/search?q=Greece&hl=lt&gl=LT&ceid=LT:lt
+la068|news|general|الليتوانية|Grenada|https://news.google.com/rss/search?q=Grenada&hl=lt&gl=LT&ceid=LT:lt
+la069|news|general|الليتوانية|Guatemala|https://news.google.com/rss/search?q=Guatemala&hl=lt&gl=LT&ceid=LT:lt
+la070|news|general|الليتوانية|Guinea|https://news.google.com/rss/search?q=Guinea&hl=lt&gl=LT&ceid=LT:lt
+la071|news|general|الليتوانية|Guinea-Bissau|https://news.google.com/rss/search?q=Guinea-Bissau&hl=lt&gl=LT&ceid=LT:lt
+la072|news|general|الليتوانية|Guyana|https://news.google.com/rss/search?q=Guyana&hl=lt&gl=LT&ceid=LT:lt
+la073|news|general|الليتوانية|Haiti|https://news.google.com/rss/search?q=Haiti&hl=lt&gl=LT&ceid=LT:lt
+la074|news|general|الليتوانية|Honduras|https://news.google.com/rss/search?q=Honduras&hl=lt&gl=LT&ceid=LT:lt
+la075|news|general|الليتوانية|Hungary|https://news.google.com/rss/search?q=Hungary&hl=lt&gl=LT&ceid=LT:lt
+la076|news|general|الليتوانية|Iceland|https://news.google.com/rss/search?q=Iceland&hl=lt&gl=LT&ceid=LT:lt
+la077|news|general|الليتوانية|India|https://news.google.com/rss/search?q=India&hl=lt&gl=LT&ceid=LT:lt
+la078|news|general|الليتوانية|Indonesia|https://news.google.com/rss/search?q=Indonesia&hl=lt&gl=LT&ceid=LT:lt
+la079|news|general|الليتوانية|Iran|https://news.google.com/rss/search?q=Iran&hl=lt&gl=LT&ceid=LT:lt
+la080|news|general|الليتوانية|Iraq|https://news.google.com/rss/search?q=Iraq&hl=lt&gl=LT&ceid=LT:lt
+la081|news|general|الليتوانية|Ireland|https://news.google.com/rss/search?q=Ireland&hl=lt&gl=LT&ceid=LT:lt
+la082|news|general|الليتوانية|Italy|https://news.google.com/rss/search?q=Italy&hl=lt&gl=LT&ceid=LT:lt
+la083|news|general|الليتوانية|Jamaica|https://news.google.com/rss/search?q=Jamaica&hl=lt&gl=LT&ceid=LT:lt
+la084|news|general|الليتوانية|Japan|https://news.google.com/rss/search?q=Japan&hl=lt&gl=LT&ceid=LT:lt
+la085|news|general|الليتوانية|Jordan|https://news.google.com/rss/search?q=Jordan&hl=lt&gl=LT&ceid=LT:lt
+la086|news|general|الليتوانية|Kazakhstan|https://news.google.com/rss/search?q=Kazakhstan&hl=lt&gl=LT&ceid=LT:lt
+la087|news|general|الليتوانية|Kenya|https://news.google.com/rss/search?q=Kenya&hl=lt&gl=LT&ceid=LT:lt
+la088|news|general|الليتوانية|Kiribati|https://news.google.com/rss/search?q=Kiribati&hl=lt&gl=LT&ceid=LT:lt
+la089|news|general|الليتوانية|Kuwait|https://news.google.com/rss/search?q=Kuwait&hl=lt&gl=LT&ceid=LT:lt
+la090|news|general|الليتوانية|Kyrgyzstan|https://news.google.com/rss/search?q=Kyrgyzstan&hl=lt&gl=LT&ceid=LT:lt
+la091|news|general|الليتوانية|Laos|https://news.google.com/rss/search?q=Laos&hl=lt&gl=LT&ceid=LT:lt
+la092|news|general|الليتوانية|Latvia|https://news.google.com/rss/search?q=Latvia&hl=lt&gl=LT&ceid=LT:lt
+la093|news|general|الليتوانية|Lebanon|https://news.google.com/rss/search?q=Lebanon&hl=lt&gl=LT&ceid=LT:lt
+la094|news|general|الليتوانية|Lesotho|https://news.google.com/rss/search?q=Lesotho&hl=lt&gl=LT&ceid=LT:lt
+la095|news|general|الليتوانية|Liberia|https://news.google.com/rss/search?q=Liberia&hl=lt&gl=LT&ceid=LT:lt
+la096|news|general|الليتوانية|Libya|https://news.google.com/rss/search?q=Libya&hl=lt&gl=LT&ceid=LT:lt
+la097|news|general|الليتوانية|Liechtenstein|https://news.google.com/rss/search?q=Liechtenstein&hl=lt&gl=LT&ceid=LT:lt
+la098|news|general|الليتوانية|Lithuania|https://news.google.com/rss/search?q=Lithuania&hl=lt&gl=LT&ceid=LT:lt
+la099|news|general|الليتوانية|Luxembourg|https://news.google.com/rss/search?q=Luxembourg&hl=lt&gl=LT&ceid=LT:lt
+la100|news|general|الليتوانية|Madagascar|https://news.google.com/rss/search?q=Madagascar&hl=lt&gl=LT&ceid=LT:lt
+la101|news|general|الليتوانية|Malawi|https://news.google.com/rss/search?q=Malawi&hl=lt&gl=LT&ceid=LT:lt
+la102|news|general|الليتوانية|Malaysia|https://news.google.com/rss/search?q=Malaysia&hl=lt&gl=LT&ceid=LT:lt
+la103|news|general|الليتوانية|Maldives|https://news.google.com/rss/search?q=Maldives&hl=lt&gl=LT&ceid=LT:lt
+la104|news|general|الليتوانية|Mali|https://news.google.com/rss/search?q=Mali&hl=lt&gl=LT&ceid=LT:lt
+la105|news|general|الليتوانية|Malta|https://news.google.com/rss/search?q=Malta&hl=lt&gl=LT&ceid=LT:lt
+la106|news|general|الليتوانية|Marshall Islands|https://news.google.com/rss/search?q=Marshall Islands&hl=lt&gl=LT&ceid=LT:lt
+la107|news|general|الليتوانية|Mauritania|https://news.google.com/rss/search?q=Mauritania&hl=lt&gl=LT&ceid=LT:lt
+la108|news|general|الليتوانية|Mauritius|https://news.google.com/rss/search?q=Mauritius&hl=lt&gl=LT&ceid=LT:lt
+la109|news|general|الليتوانية|Mexico|https://news.google.com/rss/search?q=Mexico&hl=lt&gl=LT&ceid=LT:lt
+la110|news|general|الليتوانية|Micronesia|https://news.google.com/rss/search?q=Micronesia&hl=lt&gl=LT&ceid=LT:lt
+la111|news|general|الليتوانية|Moldova|https://news.google.com/rss/search?q=Moldova&hl=lt&gl=LT&ceid=LT:lt
+la112|news|general|الليتوانية|Monaco|https://news.google.com/rss/search?q=Monaco&hl=lt&gl=LT&ceid=LT:lt
+la113|news|general|الليتوانية|Mongolia|https://news.google.com/rss/search?q=Mongolia&hl=lt&gl=LT&ceid=LT:lt
+la114|news|general|الليتوانية|Montenegro|https://news.google.com/rss/search?q=Montenegro&hl=lt&gl=LT&ceid=LT:lt
+la115|news|general|الليتوانية|Morocco|https://news.google.com/rss/search?q=Morocco&hl=lt&gl=LT&ceid=LT:lt
+la116|news|general|الليتوانية|Mozambique|https://news.google.com/rss/search?q=Mozambique&hl=lt&gl=LT&ceid=LT:lt
+la117|news|general|الليتوانية|Myanmar|https://news.google.com/rss/search?q=Myanmar&hl=lt&gl=LT&ceid=LT:lt
+la118|news|general|الليتوانية|Namibia|https://news.google.com/rss/search?q=Namibia&hl=lt&gl=LT&ceid=LT:lt
+la119|news|general|الليتوانية|Nauru|https://news.google.com/rss/search?q=Nauru&hl=lt&gl=LT&ceid=LT:lt
+la120|news|general|الليتوانية|Nepal|https://news.google.com/rss/search?q=Nepal&hl=lt&gl=LT&ceid=LT:lt
+la121|news|general|الليتوانية|Netherlands|https://news.google.com/rss/search?q=Netherlands&hl=lt&gl=LT&ceid=LT:lt
+la122|news|general|الليتوانية|New Zealand|https://news.google.com/rss/search?q=New Zealand&hl=lt&gl=LT&ceid=LT:lt
+la123|news|general|الليتوانية|Nicaragua|https://news.google.com/rss/search?q=Nicaragua&hl=lt&gl=LT&ceid=LT:lt
+la124|news|general|الليتوانية|Niger|https://news.google.com/rss/search?q=Niger&hl=lt&gl=LT&ceid=LT:lt
+la125|news|general|الليتوانية|Nigeria|https://news.google.com/rss/search?q=Nigeria&hl=lt&gl=LT&ceid=LT:lt
+la126|news|general|الليتوانية|North Korea|https://news.google.com/rss/search?q=North Korea&hl=lt&gl=LT&ceid=LT:lt
+la127|news|general|الليتوانية|North Macedonia|https://news.google.com/rss/search?q=North Macedonia&hl=lt&gl=LT&ceid=LT:lt
+la128|news|general|الليتوانية|Norway|https://news.google.com/rss/search?q=Norway&hl=lt&gl=LT&ceid=LT:lt
+la129|news|general|الليتوانية|Oman|https://news.google.com/rss/search?q=Oman&hl=lt&gl=LT&ceid=LT:lt
+la130|news|general|الليتوانية|Pakistan|https://news.google.com/rss/search?q=Pakistan&hl=lt&gl=LT&ceid=LT:lt
+la131|news|general|الليتوانية|Palau|https://news.google.com/rss/search?q=Palau&hl=lt&gl=LT&ceid=LT:lt
+la132|news|general|الليتوانية|Panama|https://news.google.com/rss/search?q=Panama&hl=lt&gl=LT&ceid=LT:lt
+la133|news|general|الليتوانية|Papua New Guinea|https://news.google.com/rss/search?q=Papua New Guinea&hl=lt&gl=LT&ceid=LT:lt
+la134|news|general|الليتوانية|Paraguay|https://news.google.com/rss/search?q=Paraguay&hl=lt&gl=LT&ceid=LT:lt
+la135|news|general|الليتوانية|Peru|https://news.google.com/rss/search?q=Peru&hl=lt&gl=LT&ceid=LT:lt
+la136|news|general|الليتوانية|Philippines|https://news.google.com/rss/search?q=Philippines&hl=lt&gl=LT&ceid=LT:lt
+la137|news|general|الليتوانية|Poland|https://news.google.com/rss/search?q=Poland&hl=lt&gl=LT&ceid=LT:lt
+la138|news|general|الليتوانية|Portugal|https://news.google.com/rss/search?q=Portugal&hl=lt&gl=LT&ceid=LT:lt
+la139|news|general|الليتوانية|Qatar|https://news.google.com/rss/search?q=Qatar&hl=lt&gl=LT&ceid=LT:lt
+la140|news|general|الليتوانية|Romania|https://news.google.com/rss/search?q=Romania&hl=lt&gl=LT&ceid=LT:lt
+la141|news|general|الليتوانية|Russia|https://news.google.com/rss/search?q=Russia&hl=lt&gl=LT&ceid=LT:lt
+la142|news|general|الليتوانية|Rwanda|https://news.google.com/rss/search?q=Rwanda&hl=lt&gl=LT&ceid=LT:lt
+la143|news|general|الليتوانية|Saint Kitts and Nevis|https://news.google.com/rss/search?q=Saint Kitts and Nevis&hl=lt&gl=LT&ceid=LT:lt
+la144|news|general|الليتوانية|Saint Lucia|https://news.google.com/rss/search?q=Saint Lucia&hl=lt&gl=LT&ceid=LT:lt
+la145|news|general|الليتوانية|Saint Vincent and the Grenadines|https://news.google.com/rss/search?q=Saint Vincent and the Grenadines&hl=lt&gl=LT&ceid=LT:lt
+la146|news|general|الليتوانية|Samoa|https://news.google.com/rss/search?q=Samoa&hl=lt&gl=LT&ceid=LT:lt
+la147|news|general|الليتوانية|San Marino|https://news.google.com/rss/search?q=San Marino&hl=lt&gl=LT&ceid=LT:lt
+la148|news|general|الليتوانية|Sao Tome and Principe|https://news.google.com/rss/search?q=Sao Tome and Principe&hl=lt&gl=LT&ceid=LT:lt
+la149|news|general|الليتوانية|Saudi Arabia|https://news.google.com/rss/search?q=Saudi Arabia&hl=lt&gl=LT&ceid=LT:lt
+la150|news|general|الليتوانية|Senegal|https://news.google.com/rss/search?q=Senegal&hl=lt&gl=LT&ceid=LT:lt
+la151|news|general|الليتوانية|Serbia|https://news.google.com/rss/search?q=Serbia&hl=lt&gl=LT&ceid=LT:lt
+la152|news|general|الليتوانية|Seychelles|https://news.google.com/rss/search?q=Seychelles&hl=lt&gl=LT&ceid=LT:lt
+la153|news|general|الليتوانية|Sierra Leone|https://news.google.com/rss/search?q=Sierra Leone&hl=lt&gl=LT&ceid=LT:lt
+la154|news|general|الليتوانية|Singapore|https://news.google.com/rss/search?q=Singapore&hl=lt&gl=LT&ceid=LT:lt
+la155|news|general|الليتوانية|Slovakia|https://news.google.com/rss/search?q=Slovakia&hl=lt&gl=LT&ceid=LT:lt
+la156|news|general|الليتوانية|Slovenia|https://news.google.com/rss/search?q=Slovenia&hl=lt&gl=LT&ceid=LT:lt
+la157|news|general|الليتوانية|Solomon Islands|https://news.google.com/rss/search?q=Solomon Islands&hl=lt&gl=LT&ceid=LT:lt
+la158|news|general|الليتوانية|Somalia|https://news.google.com/rss/search?q=Somalia&hl=lt&gl=LT&ceid=LT:lt
+la159|news|general|الليتوانية|South Africa|https://news.google.com/rss/search?q=South Africa&hl=lt&gl=LT&ceid=LT:lt
+la160|news|general|الليتوانية|South Korea|https://news.google.com/rss/search?q=South Korea&hl=lt&gl=LT&ceid=LT:lt
+la161|news|general|الليتوانية|South Sudan|https://news.google.com/rss/search?q=South Sudan&hl=lt&gl=LT&ceid=LT:lt
+la162|news|general|الليتوانية|Spain|https://news.google.com/rss/search?q=Spain&hl=lt&gl=LT&ceid=LT:lt
+la163|news|general|الليتوانية|Sri Lanka|https://news.google.com/rss/search?q=Sri Lanka&hl=lt&gl=LT&ceid=LT:lt
+la164|news|general|الليتوانية|Sudan|https://news.google.com/rss/search?q=Sudan&hl=lt&gl=LT&ceid=LT:lt
+la165|news|general|الليتوانية|Suriname|https://news.google.com/rss/search?q=Suriname&hl=lt&gl=LT&ceid=LT:lt
+la166|news|general|الليتوانية|Sweden|https://news.google.com/rss/search?q=Sweden&hl=lt&gl=LT&ceid=LT:lt
+la167|news|general|الليتوانية|Switzerland|https://news.google.com/rss/search?q=Switzerland&hl=lt&gl=LT&ceid=LT:lt
+la168|news|general|الليتوانية|Syria|https://news.google.com/rss/search?q=Syria&hl=lt&gl=LT&ceid=LT:lt
+la169|news|general|الليتوانية|Tajikistan|https://news.google.com/rss/search?q=Tajikistan&hl=lt&gl=LT&ceid=LT:lt
+la170|news|general|الليتوانية|Tanzania|https://news.google.com/rss/search?q=Tanzania&hl=lt&gl=LT&ceid=LT:lt
+la171|news|general|الليتوانية|Thailand|https://news.google.com/rss/search?q=Thailand&hl=lt&gl=LT&ceid=LT:lt
+la172|news|general|الليتوانية|Timor-Leste|https://news.google.com/rss/search?q=Timor-Leste&hl=lt&gl=LT&ceid=LT:lt
+la173|news|general|الليتوانية|Togo|https://news.google.com/rss/search?q=Togo&hl=lt&gl=LT&ceid=LT:lt
+la174|news|general|الليتوانية|Tonga|https://news.google.com/rss/search?q=Tonga&hl=lt&gl=LT&ceid=LT:lt
+la175|news|general|الليتوانية|Trinidad and Tobago|https://news.google.com/rss/search?q=Trinidad and Tobago&hl=lt&gl=LT&ceid=LT:lt
+la176|news|general|الليتوانية|Tunisia|https://news.google.com/rss/search?q=Tunisia&hl=lt&gl=LT&ceid=LT:lt
+la177|news|general|الليتوانية|Turkey|https://news.google.com/rss/search?q=Turkey&hl=lt&gl=LT&ceid=LT:lt
+la178|news|general|الليتوانية|Turkmenistan|https://news.google.com/rss/search?q=Turkmenistan&hl=lt&gl=LT&ceid=LT:lt
+la179|news|general|الليتوانية|Tuvalu|https://news.google.com/rss/search?q=Tuvalu&hl=lt&gl=LT&ceid=LT:lt
+la180|news|general|الليتوانية|Uganda|https://news.google.com/rss/search?q=Uganda&hl=lt&gl=LT&ceid=LT:lt
+la181|news|general|الليتوانية|Ukraine|https://news.google.com/rss/search?q=Ukraine&hl=lt&gl=LT&ceid=LT:lt
+la182|news|general|الليتوانية|United Arab Emirates|https://news.google.com/rss/search?q=United Arab Emirates&hl=lt&gl=LT&ceid=LT:lt
+la183|news|general|الليتوانية|United Kingdom|https://news.google.com/rss/search?q=United Kingdom&hl=lt&gl=LT&ceid=LT:lt
+la184|news|general|الليتوانية|United States|https://news.google.com/rss/search?q=United States&hl=lt&gl=LT&ceid=LT:lt
+la185|news|general|الليتوانية|Uruguay|https://news.google.com/rss/search?q=Uruguay&hl=lt&gl=LT&ceid=LT:lt
+la186|news|general|الليتوانية|Uzbekistan|https://news.google.com/rss/search?q=Uzbekistan&hl=lt&gl=LT&ceid=LT:lt
+la187|news|general|الليتوانية|Vanuatu|https://news.google.com/rss/search?q=Vanuatu&hl=lt&gl=LT&ceid=LT:lt
+la188|news|general|الليتوانية|Venezuela|https://news.google.com/rss/search?q=Venezuela&hl=lt&gl=LT&ceid=LT:lt
+la189|news|general|الليتوانية|Vietnam|https://news.google.com/rss/search?q=Vietnam&hl=lt&gl=LT&ceid=LT:lt
+la190|news|general|الليتوانية|Yemen|https://news.google.com/rss/search?q=Yemen&hl=lt&gl=LT&ceid=LT:lt
+la191|news|general|الليتوانية|Zambia|https://news.google.com/rss/search?q=Zambia&hl=lt&gl=LT&ceid=LT:lt
+la192|news|general|الليتوانية|Zimbabwe|https://news.google.com/rss/search?q=Zimbabwe&hl=lt&gl=LT&ceid=LT:lt
+
+la001|news|general|اللاتفية|Afghanistan|https://news.google.com/rss/search?q=Afghanistan&hl=lv&gl=LV&ceid=LV:lv
+la002|news|general|اللاتفية|Albania|https://news.google.com/rss/search?q=Albania&hl=lv&gl=LV&ceid=LV:lv
+la003|news|general|اللاتفية|Algeria|https://news.google.com/rss/search?q=Algeria&hl=lv&gl=LV&ceid=LV:lv
+la004|news|general|اللاتفية|Andorra|https://news.google.com/rss/search?q=Andorra&hl=lv&gl=LV&ceid=LV:lv
+la005|news|general|اللاتفية|Angola|https://news.google.com/rss/search?q=Angola&hl=lv&gl=LV&ceid=LV:lv
+la006|news|general|اللاتفية|Antigua and Barbuda|https://news.google.com/rss/search?q=Antigua and Barbuda&hl=lv&gl=LV&ceid=LV:lv
+la007|news|general|اللاتفية|Argentina|https://news.google.com/rss/search?q=Argentina&hl=lv&gl=LV&ceid=LV:lv
+la008|news|general|اللاتفية|Armenia|https://news.google.com/rss/search?q=Armenia&hl=lv&gl=LV&ceid=LV:lv
+la009|news|general|اللاتفية|Australia|https://news.google.com/rss/search?q=Australia&hl=lv&gl=LV&ceid=LV:lv
+la010|news|general|اللاتفية|Austria|https://news.google.com/rss/search?q=Austria&hl=lv&gl=LV&ceid=LV:lv
+la011|news|general|اللاتفية|Azerbaijan|https://news.google.com/rss/search?q=Azerbaijan&hl=lv&gl=LV&ceid=LV:lv
+la012|news|general|اللاتفية|Bahamas|https://news.google.com/rss/search?q=Bahamas&hl=lv&gl=LV&ceid=LV:lv
+la013|news|general|اللاتفية|Bahrain|https://news.google.com/rss/search?q=Bahrain&hl=lv&gl=LV&ceid=LV:lv
+la014|news|general|اللاتفية|Bangladesh|https://news.google.com/rss/search?q=Bangladesh&hl=lv&gl=LV&ceid=LV:lv
+la015|news|general|اللاتفية|Barbados|https://news.google.com/rss/search?q=Barbados&hl=lv&gl=LV&ceid=LV:lv
+la016|news|general|اللاتفية|Belarus|https://news.google.com/rss/search?q=Belarus&hl=lv&gl=LV&ceid=LV:lv
+la017|news|general|اللاتفية|Belgium|https://news.google.com/rss/search?q=Belgium&hl=lv&gl=LV&ceid=LV:lv
+la018|news|general|اللاتفية|Belize|https://news.google.com/rss/search?q=Belize&hl=lv&gl=LV&ceid=LV:lv
+la019|news|general|اللاتفية|Benin|https://news.google.com/rss/search?q=Benin&hl=lv&gl=LV&ceid=LV:lv
+la020|news|general|اللاتفية|Bhutan|https://news.google.com/rss/search?q=Bhutan&hl=lv&gl=LV&ceid=LV:lv
+la021|news|general|اللاتفية|Bolivia|https://news.google.com/rss/search?q=Bolivia&hl=lv&gl=LV&ceid=LV:lv
+la022|news|general|اللاتفية|Bosnia and Herzegovina|https://news.google.com/rss/search?q=Bosnia and Herzegovina&hl=lv&gl=LV&ceid=LV:lv
+la023|news|general|اللاتفية|Botswana|https://news.google.com/rss/search?q=Botswana&hl=lv&gl=LV&ceid=LV:lv
+la024|news|general|اللاتفية|Brazil|https://news.google.com/rss/search?q=Brazil&hl=lv&gl=LV&ceid=LV:lv
+la025|news|general|اللاتفية|Brunei|https://news.google.com/rss/search?q=Brunei&hl=lv&gl=LV&ceid=LV:lv
+la026|news|general|اللاتفية|Bulgaria|https://news.google.com/rss/search?q=Bulgaria&hl=lv&gl=LV&ceid=LV:lv
+la027|news|general|اللاتفية|Burkina Faso|https://news.google.com/rss/search?q=Burkina Faso&hl=lv&gl=LV&ceid=LV:lv
+la028|news|general|اللاتفية|Burundi|https://news.google.com/rss/search?q=Burundi&hl=lv&gl=LV&ceid=LV:lv
+la029|news|general|اللاتفية|Cabo Verde|https://news.google.com/rss/search?q=Cabo Verde&hl=lv&gl=LV&ceid=LV:lv
+la030|news|general|اللاتفية|Cambodia|https://news.google.com/rss/search?q=Cambodia&hl=lv&gl=LV&ceid=LV:lv
+la031|news|general|اللاتفية|Cameroon|https://news.google.com/rss/search?q=Cameroon&hl=lv&gl=LV&ceid=LV:lv
+la032|news|general|اللاتفية|Canada|https://news.google.com/rss/search?q=Canada&hl=lv&gl=LV&ceid=LV:lv
+la033|news|general|اللاتفية|Central African Republic|https://news.google.com/rss/search?q=Central African Republic&hl=lv&gl=LV&ceid=LV:lv
+la034|news|general|اللاتفية|Chad|https://news.google.com/rss/search?q=Chad&hl=lv&gl=LV&ceid=LV:lv
+la035|news|general|اللاتفية|Chile|https://news.google.com/rss/search?q=Chile&hl=lv&gl=LV&ceid=LV:lv
+la036|news|general|اللاتفية|China|https://news.google.com/rss/search?q=China&hl=lv&gl=LV&ceid=LV:lv
+la037|news|general|اللاتفية|Colombia|https://news.google.com/rss/search?q=Colombia&hl=lv&gl=LV&ceid=LV:lv
+la038|news|general|اللاتفية|Comoros|https://news.google.com/rss/search?q=Comoros&hl=lv&gl=LV&ceid=LV:lv
+la039|news|general|اللاتفية|Congo (Republic of the Congo)|https://news.google.com/rss/search?q=Congo (Republic of the Congo)&hl=lv&gl=LV&ceid=LV:lv
+la040|news|general|اللاتفية|Costa Rica|https://news.google.com/rss/search?q=Costa Rica&hl=lv&gl=LV&ceid=LV:lv
+la041|news|general|اللاتفية|Côte d’Ivoire|https://news.google.com/rss/search?q=Côte d’Ivoire&hl=lv&gl=LV&ceid=LV:lv
+la042|news|general|اللاتفية|Croatia|https://news.google.com/rss/search?q=Croatia&hl=lv&gl=LV&ceid=LV:lv
+la043|news|general|اللاتفية|Cuba|https://news.google.com/rss/search?q=Cuba&hl=lv&gl=LV&ceid=LV:lv
+la044|news|general|اللاتفية|Cyprus|https://news.google.com/rss/search?q=Cyprus&hl=lv&gl=LV&ceid=LV:lv
+la045|news|general|اللاتفية|Czech Republic|https://news.google.com/rss/search?q=Czech Republic&hl=lv&gl=LV&ceid=LV:lv
+la046|news|general|اللاتفية|Democratic Republic of the Congo|https://news.google.com/rss/search?q=Democratic Republic of the Congo&hl=lv&gl=LV&ceid=LV:lv
+la047|news|general|اللاتفية|Denmark|https://news.google.com/rss/search?q=Denmark&hl=lv&gl=LV&ceid=LV:lv
+la048|news|general|اللاتفية|Djibouti|https://news.google.com/rss/search?q=Djibouti&hl=lv&gl=LV&ceid=LV:lv
+la049|news|general|اللاتفية|Dominica|https://news.google.com/rss/search?q=Dominica&hl=lv&gl=LV&ceid=LV:lv
+la050|news|general|اللاتفية|Dominican Republic|https://news.google.com/rss/search?q=Dominican Republic&hl=lv&gl=LV&ceid=LV:lv
+la051|news|general|اللاتفية|Ecuador|https://news.google.com/rss/search?q=Ecuador&hl=lv&gl=LV&ceid=LV:lv
+la052|news|general|اللاتفية|Egypt|https://news.google.com/rss/search?q=Egypt&hl=lv&gl=LV&ceid=LV:lv
+la053|news|general|اللاتفية|El Salvador|https://news.google.com/rss/search?q=El Salvador&hl=lv&gl=LV&ceid=LV:lv
+la054|news|general|اللاتفية|Equatorial Guinea|https://news.google.com/rss/search?q=Equatorial Guinea&hl=lv&gl=LV&ceid=LV:lv
+la055|news|general|اللاتفية|Eritrea|https://news.google.com/rss/search?q=Eritrea&hl=lv&gl=LV&ceid=LV:lv
+la056|news|general|اللاتفية|Estonia|https://news.google.com/rss/search?q=Estonia&hl=lv&gl=LV&ceid=LV:lv
+la057|news|general|اللاتفية|Eswatini|https://news.google.com/rss/search?q=Eswatini&hl=lv&gl=LV&ceid=LV:lv
+la058|news|general|اللاتفية|Ethiopia|https://news.google.com/rss/search?q=Ethiopia&hl=lv&gl=LV&ceid=LV:lv
+la059|news|general|اللاتفية|Fiji|https://news.google.com/rss/search?q=Fiji&hl=lv&gl=LV&ceid=LV:lv
+la060|news|general|اللاتفية|Finland|https://news.google.com/rss/search?q=Finland&hl=lv&gl=LV&ceid=LV:lv
+la061|news|general|اللاتفية|France|https://news.google.com/rss/search?q=France&hl=lv&gl=LV&ceid=LV:lv
+la062|news|general|اللاتفية|Gabon|https://news.google.com/rss/search?q=Gabon&hl=lv&gl=LV&ceid=LV:lv
+la063|news|general|اللاتفية|Gambia|https://news.google.com/rss/search?q=Gambia&hl=lv&gl=LV&ceid=LV:lv
+la064|news|general|اللاتفية|Georgia|https://news.google.com/rss/search?q=Georgia&hl=lv&gl=LV&ceid=LV:lv
+la065|news|general|اللاتفية|Germany|https://news.google.com/rss/search?q=Germany&hl=lv&gl=LV&ceid=LV:lv
+la066|news|general|اللاتفية|Ghana|https://news.google.com/rss/search?q=Ghana&hl=lv&gl=LV&ceid=LV:lv
+la067|news|general|اللاتفية|Greece|https://news.google.com/rss/search?q=Greece&hl=lv&gl=LV&ceid=LV:lv
+la068|news|general|اللاتفية|Grenada|https://news.google.com/rss/search?q=Grenada&hl=lv&gl=LV&ceid=LV:lv
+la069|news|general|اللاتفية|Guatemala|https://news.google.com/rss/search?q=Guatemala&hl=lv&gl=LV&ceid=LV:lv
+la070|news|general|اللاتفية|Guinea|https://news.google.com/rss/search?q=Guinea&hl=lv&gl=LV&ceid=LV:lv
+la071|news|general|اللاتفية|Guinea-Bissau|https://news.google.com/rss/search?q=Guinea-Bissau&hl=lv&gl=LV&ceid=LV:lv
+la072|news|general|اللاتفية|Guyana|https://news.google.com/rss/search?q=Guyana&hl=lv&gl=LV&ceid=LV:lv
+la073|news|general|اللاتفية|Haiti|https://news.google.com/rss/search?q=Haiti&hl=lv&gl=LV&ceid=LV:lv
+la074|news|general|اللاتفية|Honduras|https://news.google.com/rss/search?q=Honduras&hl=lv&gl=LV&ceid=LV:lv
+la075|news|general|اللاتفية|Hungary|https://news.google.com/rss/search?q=Hungary&hl=lv&gl=LV&ceid=LV:lv
+la076|news|general|اللاتفية|Iceland|https://news.google.com/rss/search?q=Iceland&hl=lv&gl=LV&ceid=LV:lv
+la077|news|general|اللاتفية|India|https://news.google.com/rss/search?q=India&hl=lv&gl=LV&ceid=LV:lv
+la078|news|general|اللاتفية|Indonesia|https://news.google.com/rss/search?q=Indonesia&hl=lv&gl=LV&ceid=LV:lv
+la079|news|general|اللاتفية|Iran|https://news.google.com/rss/search?q=Iran&hl=lv&gl=LV&ceid=LV:lv
+la080|news|general|اللاتفية|Iraq|https://news.google.com/rss/search?q=Iraq&hl=lv&gl=LV&ceid=LV:lv
+la081|news|general|اللاتفية|Ireland|https://news.google.com/rss/search?q=Ireland&hl=lv&gl=LV&ceid=LV:lv
+la082|news|general|اللاتفية|Italy|https://news.google.com/rss/search?q=Italy&hl=lv&gl=LV&ceid=LV:lv
+la083|news|general|اللاتفية|Jamaica|https://news.google.com/rss/search?q=Jamaica&hl=lv&gl=LV&ceid=LV:lv
+la084|news|general|اللاتفية|Japan|https://news.google.com/rss/search?q=Japan&hl=lv&gl=LV&ceid=LV:lv
+la085|news|general|اللاتفية|Jordan|https://news.google.com/rss/search?q=Jordan&hl=lv&gl=LV&ceid=LV:lv
+la086|news|general|اللاتفية|Kazakhstan|https://news.google.com/rss/search?q=Kazakhstan&hl=lv&gl=LV&ceid=LV:lv
+la087|news|general|اللاتفية|Kenya|https://news.google.com/rss/search?q=Kenya&hl=lv&gl=LV&ceid=LV:lv
+la088|news|general|اللاتفية|Kiribati|https://news.google.com/rss/search?q=Kiribati&hl=lv&gl=LV&ceid=LV:lv
+la089|news|general|اللاتفية|Kuwait|https://news.google.com/rss/search?q=Kuwait&hl=lv&gl=LV&ceid=LV:lv
+la090|news|general|اللاتفية|Kyrgyzstan|https://news.google.com/rss/search?q=Kyrgyzstan&hl=lv&gl=LV&ceid=LV:lv
+la091|news|general|اللاتفية|Laos|https://news.google.com/rss/search?q=Laos&hl=lv&gl=LV&ceid=LV:lv
+la092|news|general|اللاتفية|Latvia|https://news.google.com/rss/search?q=Latvia&hl=lv&gl=LV&ceid=LV:lv
+la093|news|general|اللاتفية|Lebanon|https://news.google.com/rss/search?q=Lebanon&hl=lv&gl=LV&ceid=LV:lv
+la094|news|general|اللاتفية|Lesotho|https://news.google.com/rss/search?q=Lesotho&hl=lv&gl=LV&ceid=LV:lv
+la095|news|general|اللاتفية|Liberia|https://news.google.com/rss/search?q=Liberia&hl=lv&gl=LV&ceid=LV:lv
+la096|news|general|اللاتفية|Libya|https://news.google.com/rss/search?q=Libya&hl=lv&gl=LV&ceid=LV:lv
+la097|news|general|اللاتفية|Liechtenstein|https://news.google.com/rss/search?q=Liechtenstein&hl=lv&gl=LV&ceid=LV:lv
+la098|news|general|اللاتفية|Lithuania|https://news.google.com/rss/search?q=Lithuania&hl=lv&gl=LV&ceid=LV:lv
+la099|news|general|اللاتفية|Luxembourg|https://news.google.com/rss/search?q=Luxembourg&hl=lv&gl=LV&ceid=LV:lv
+la100|news|general|اللاتفية|Madagascar|https://news.google.com/rss/search?q=Madagascar&hl=lv&gl=LV&ceid=LV:lv
+la101|news|general|اللاتفية|Malawi|https://news.google.com/rss/search?q=Malawi&hl=lv&gl=LV&ceid=LV:lv
+la102|news|general|اللاتفية|Malaysia|https://news.google.com/rss/search?q=Malaysia&hl=lv&gl=LV&ceid=LV:lv
+la103|news|general|اللاتفية|Maldives|https://news.google.com/rss/search?q=Maldives&hl=lv&gl=LV&ceid=LV:lv
+la104|news|general|اللاتفية|Mali|https://news.google.com/rss/search?q=Mali&hl=lv&gl=LV&ceid=LV:lv
+la105|news|general|اللاتفية|Malta|https://news.google.com/rss/search?q=Malta&hl=lv&gl=LV&ceid=LV:lv
+la106|news|general|اللاتفية|Marshall Islands|https://news.google.com/rss/search?q=Marshall Islands&hl=lv&gl=LV&ceid=LV:lv
+la107|news|general|اللاتفية|Mauritania|https://news.google.com/rss/search?q=Mauritania&hl=lv&gl=LV&ceid=LV:lv
+la108|news|general|اللاتفية|Mauritius|https://news.google.com/rss/search?q=Mauritius&hl=lv&gl=LV&ceid=LV:lv
+la109|news|general|اللاتفية|Mexico|https://news.google.com/rss/search?q=Mexico&hl=lv&gl=LV&ceid=LV:lv
+la110|news|general|اللاتفية|Micronesia|https://news.google.com/rss/search?q=Micronesia&hl=lv&gl=LV&ceid=LV:lv
+la111|news|general|اللاتفية|Moldova|https://news.google.com/rss/search?q=Moldova&hl=lv&gl=LV&ceid=LV:lv
+la112|news|general|اللاتفية|Monaco|https://news.google.com/rss/search?q=Monaco&hl=lv&gl=LV&ceid=LV:lv
+la113|news|general|اللاتفية|Mongolia|https://news.google.com/rss/search?q=Mongolia&hl=lv&gl=LV&ceid=LV:lv
+la114|news|general|اللاتفية|Montenegro|https://news.google.com/rss/search?q=Montenegro&hl=lv&gl=LV&ceid=LV:lv
+la115|news|general|اللاتفية|Morocco|https://news.google.com/rss/search?q=Morocco&hl=lv&gl=LV&ceid=LV:lv
+la116|news|general|اللاتفية|Mozambique|https://news.google.com/rss/search?q=Mozambique&hl=lv&gl=LV&ceid=LV:lv
+la117|news|general|اللاتفية|Myanmar|https://news.google.com/rss/search?q=Myanmar&hl=lv&gl=LV&ceid=LV:lv
+la118|news|general|اللاتفية|Namibia|https://news.google.com/rss/search?q=Namibia&hl=lv&gl=LV&ceid=LV:lv
+la119|news|general|اللاتفية|Nauru|https://news.google.com/rss/search?q=Nauru&hl=lv&gl=LV&ceid=LV:lv
+la120|news|general|اللاتفية|Nepal|https://news.google.com/rss/search?q=Nepal&hl=lv&gl=LV&ceid=LV:lv
+la121|news|general|اللاتفية|Netherlands|https://news.google.com/rss/search?q=Netherlands&hl=lv&gl=LV&ceid=LV:lv
+la122|news|general|اللاتفية|New Zealand|https://news.google.com/rss/search?q=New Zealand&hl=lv&gl=LV&ceid=LV:lv
+la123|news|general|اللاتفية|Nicaragua|https://news.google.com/rss/search?q=Nicaragua&hl=lv&gl=LV&ceid=LV:lv
+la124|news|general|اللاتفية|Niger|https://news.google.com/rss/search?q=Niger&hl=lv&gl=LV&ceid=LV:lv
+la125|news|general|اللاتفية|Nigeria|https://news.google.com/rss/search?q=Nigeria&hl=lv&gl=LV&ceid=LV:lv
+la126|news|general|اللاتفية|North Korea|https://news.google.com/rss/search?q=North Korea&hl=lv&gl=LV&ceid=LV:lv
+la127|news|general|اللاتفية|North Macedonia|https://news.google.com/rss/search?q=North Macedonia&hl=lv&gl=LV&ceid=LV:lv
+la128|news|general|اللاتفية|Norway|https://news.google.com/rss/search?q=Norway&hl=lv&gl=LV&ceid=LV:lv
+la129|news|general|اللاتفية|Oman|https://news.google.com/rss/search?q=Oman&hl=lv&gl=LV&ceid=LV:lv
+la130|news|general|اللاتفية|Pakistan|https://news.google.com/rss/search?q=Pakistan&hl=lv&gl=LV&ceid=LV:lv
+la131|news|general|اللاتفية|Palau|https://news.google.com/rss/search?q=Palau&hl=lv&gl=LV&ceid=LV:lv
+la132|news|general|اللاتفية|Panama|https://news.google.com/rss/search?q=Panama&hl=lv&gl=LV&ceid=LV:lv
+la133|news|general|اللاتفية|Papua New Guinea|https://news.google.com/rss/search?q=Papua New Guinea&hl=lv&gl=LV&ceid=LV:lv
+la134|news|general|اللاتفية|Paraguay|https://news.google.com/rss/search?q=Paraguay&hl=lv&gl=LV&ceid=LV:lv
+la135|news|general|اللاتفية|Peru|https://news.google.com/rss/search?q=Peru&hl=lv&gl=LV&ceid=LV:lv
+la136|news|general|اللاتفية|Philippines|https://news.google.com/rss/search?q=Philippines&hl=lv&gl=LV&ceid=LV:lv
+la137|news|general|اللاتفية|Poland|https://news.google.com/rss/search?q=Poland&hl=lv&gl=LV&ceid=LV:lv
+la138|news|general|اللاتفية|Portugal|https://news.google.com/rss/search?q=Portugal&hl=lv&gl=LV&ceid=LV:lv
+la139|news|general|اللاتفية|Qatar|https://news.google.com/rss/search?q=Qatar&hl=lv&gl=LV&ceid=LV:lv
+la140|news|general|اللاتفية|Romania|https://news.google.com/rss/search?q=Romania&hl=lv&gl=LV&ceid=LV:lv
+la141|news|general|اللاتفية|Russia|https://news.google.com/rss/search?q=Russia&hl=lv&gl=LV&ceid=LV:lv
+la142|news|general|اللاتفية|Rwanda|https://news.google.com/rss/search?q=Rwanda&hl=lv&gl=LV&ceid=LV:lv
+la143|news|general|اللاتفية|Saint Kitts and Nevis|https://news.google.com/rss/search?q=Saint Kitts and Nevis&hl=lv&gl=LV&ceid=LV:lv
+la144|news|general|اللاتفية|Saint Lucia|https://news.google.com/rss/search?q=Saint Lucia&hl=lv&gl=LV&ceid=LV:lv
+la145|news|general|اللاتفية|Saint Vincent and the Grenadines|https://news.google.com/rss/search?q=Saint Vincent and the Grenadines&hl=lv&gl=LV&ceid=LV:lv
+la146|news|general|اللاتفية|Samoa|https://news.google.com/rss/search?q=Samoa&hl=lv&gl=LV&ceid=LV:lv
+la147|news|general|اللاتفية|San Marino|https://news.google.com/rss/search?q=San Marino&hl=lv&gl=LV&ceid=LV:lv
+la148|news|general|اللاتفية|Sao Tome and Principe|https://news.google.com/rss/search?q=Sao Tome and Principe&hl=lv&gl=LV&ceid=LV:lv
+la149|news|general|اللاتفية|Saudi Arabia|https://news.google.com/rss/search?q=Saudi Arabia&hl=lv&gl=LV&ceid=LV:lv
+la150|news|general|اللاتفية|Senegal|https://news.google.com/rss/search?q=Senegal&hl=lv&gl=LV&ceid=LV:lv
+la151|news|general|اللاتفية|Serbia|https://news.google.com/rss/search?q=Serbia&hl=lv&gl=LV&ceid=LV:lv
+la152|news|general|اللاتفية|Seychelles|https://news.google.com/rss/search?q=Seychelles&hl=lv&gl=LV&ceid=LV:lv
+la153|news|general|اللاتفية|Sierra Leone|https://news.google.com/rss/search?q=Sierra Leone&hl=lv&gl=LV&ceid=LV:lv
+la154|news|general|اللاتفية|Singapore|https://news.google.com/rss/search?q=Singapore&hl=lv&gl=LV&ceid=LV:lv
+la155|news|general|اللاتفية|Slovakia|https://news.google.com/rss/search?q=Slovakia&hl=lv&gl=LV&ceid=LV:lv
+la156|news|general|اللاتفية|Slovenia|https://news.google.com/rss/search?q=Slovenia&hl=lv&gl=LV&ceid=LV:lv
+la157|news|general|اللاتفية|Solomon Islands|https://news.google.com/rss/search?q=Solomon Islands&hl=lv&gl=LV&ceid=LV:lv
+la158|news|general|اللاتفية|Somalia|https://news.google.com/rss/search?q=Somalia&hl=lv&gl=LV&ceid=LV:lv
+la159|news|general|اللاتفية|South Africa|https://news.google.com/rss/search?q=South Africa&hl=lv&gl=LV&ceid=LV:lv
+la160|news|general|اللاتفية|South Korea|https://news.google.com/rss/search?q=South Korea&hl=lv&gl=LV&ceid=LV:lv
+la161|news|general|اللاتفية|South Sudan|https://news.google.com/rss/search?q=South Sudan&hl=lv&gl=LV&ceid=LV:lv
+la162|news|general|اللاتفية|Spain|https://news.google.com/rss/search?q=Spain&hl=lv&gl=LV&ceid=LV:lv
+la163|news|general|اللاتفية|Sri Lanka|https://news.google.com/rss/search?q=Sri Lanka&hl=lv&gl=LV&ceid=LV:lv
+la164|news|general|اللاتفية|Sudan|https://news.google.com/rss/search?q=Sudan&hl=lv&gl=LV&ceid=LV:lv
+la165|news|general|اللاتفية|Suriname|https://news.google.com/rss/search?q=Suriname&hl=lv&gl=LV&ceid=LV:lv
+la166|news|general|اللاتفية|Sweden|https://news.google.com/rss/search?q=Sweden&hl=lv&gl=LV&ceid=LV:lv
+la167|news|general|اللاتفية|Switzerland|https://news.google.com/rss/search?q=Switzerland&hl=lv&gl=LV&ceid=LV:lv
+la168|news|general|اللاتفية|Syria|https://news.google.com/rss/search?q=Syria&hl=lv&gl=LV&ceid=LV:lv
+la169|news|general|اللاتفية|Tajikistan|https://news.google.com/rss/search?q=Tajikistan&hl=lv&gl=LV&ceid=LV:lv
+la170|news|general|اللاتفية|Tanzania|https://news.google.com/rss/search?q=Tanzania&hl=lv&gl=LV&ceid=LV:lv
+la171|news|general|اللاتفية|Thailand|https://news.google.com/rss/search?q=Thailand&hl=lv&gl=LV&ceid=LV:lv
+la172|news|general|اللاتفية|Timor-Leste|https://news.google.com/rss/search?q=Timor-Leste&hl=lv&gl=LV&ceid=LV:lv
+la173|news|general|اللاتفية|Togo|https://news.google.com/rss/search?q=Togo&hl=lv&gl=LV&ceid=LV:lv
+la174|news|general|اللاتفية|Tonga|https://news.google.com/rss/search?q=Tonga&hl=lv&gl=LV&ceid=LV:lv
+la175|news|general|اللاتفية|Trinidad and Tobago|https://news.google.com/rss/search?q=Trinidad and Tobago&hl=lv&gl=LV&ceid=LV:lv
+la176|news|general|اللاتفية|Tunisia|https://news.google.com/rss/search?q=Tunisia&hl=lv&gl=LV&ceid=LV:lv
+la177|news|general|اللاتفية|Turkey|https://news.google.com/rss/search?q=Turkey&hl=lv&gl=LV&ceid=LV:lv
+la178|news|general|اللاتفية|Turkmenistan|https://news.google.com/rss/search?q=Turkmenistan&hl=lv&gl=LV&ceid=LV:lv
+la179|news|general|اللاتفية|Tuvalu|https://news.google.com/rss/search?q=Tuvalu&hl=lv&gl=LV&ceid=LV:lv
+la180|news|general|اللاتفية|Uganda|https://news.google.com/rss/search?q=Uganda&hl=lv&gl=LV&ceid=LV:lv
+la181|news|general|اللاتفية|Ukraine|https://news.google.com/rss/search?q=Ukraine&hl=lv&gl=LV&ceid=LV:lv
+la182|news|general|اللاتفية|United Arab Emirates|https://news.google.com/rss/search?q=United Arab Emirates&hl=lv&gl=LV&ceid=LV:lv
+la183|news|general|اللاتفية|United Kingdom|https://news.google.com/rss/search?q=United Kingdom&hl=lv&gl=LV&ceid=LV:lv
+la184|news|general|اللاتفية|United States|https://news.google.com/rss/search?q=United States&hl=lv&gl=LV&ceid=LV:lv
+la185|news|general|اللاتفية|Uruguay|https://news.google.com/rss/search?q=Uruguay&hl=lv&gl=LV&ceid=LV:lv
+la186|news|general|اللاتفية|Uzbekistan|https://news.google.com/rss/search?q=Uzbekistan&hl=lv&gl=LV&ceid=LV:lv
+la187|news|general|اللاتفية|Vanuatu|https://news.google.com/rss/search?q=Vanuatu&hl=lv&gl=LV&ceid=LV:lv
+la188|news|general|اللاتفية|Venezuela|https://news.google.com/rss/search?q=Venezuela&hl=lv&gl=LV&ceid=LV:lv
+la189|news|general|اللاتفية|Vietnam|https://news.google.com/rss/search?q=Vietnam&hl=lv&gl=LV&ceid=LV:lv
+la190|news|general|اللاتفية|Yemen|https://news.google.com/rss/search?q=Yemen&hl=lv&gl=LV&ceid=LV:lv
+la191|news|general|اللاتفية|Zambia|https://news.google.com/rss/search?q=Zambia&hl=lv&gl=LV&ceid=LV:lv
+la192|news|general|اللاتفية|Zimbabwe|https://news.google.com/rss/search?q=Zimbabwe&hl=lv&gl=LV&ceid=LV:lv
+
+la001|news|general|اللاتفية|Afghanistan|https://news.google.com/rss/search?q=Afghanistan&hl=lv&gl=LV&ceid=LV:lv
+la002|news|general|اللاتفية|Albania|https://news.google.com/rss/search?q=Albania&hl=lv&gl=LV&ceid=LV:lv
+la003|news|general|اللاتفية|Algeria|https://news.google.com/rss/search?q=Algeria&hl=lv&gl=LV&ceid=LV:lv
+la004|news|general|اللاتفية|Andorra|https://news.google.com/rss/search?q=Andorra&hl=lv&gl=LV&ceid=LV:lv
+la005|news|general|اللاتفية|Angola|https://news.google.com/rss/search?q=Angola&hl=lv&gl=LV&ceid=LV:lv
+la006|news|general|اللاتفية|Antigua and Barbuda|https://news.google.com/rss/search?q=Antigua and Barbuda&hl=lv&gl=LV&ceid=LV:lv
+la007|news|general|اللاتفية|Argentina|https://news.google.com/rss/search?q=Argentina&hl=lv&gl=LV&ceid=LV:lv
+la008|news|general|اللاتفية|Armenia|https://news.google.com/rss/search?q=Armenia&hl=lv&gl=LV&ceid=LV:lv
+la009|news|general|اللاتفية|Australia|https://news.google.com/rss/search?q=Australia&hl=lv&gl=LV&ceid=LV:lv
+la010|news|general|اللاتفية|Austria|https://news.google.com/rss/search?q=Austria&hl=lv&gl=LV&ceid=LV:lv
+la011|news|general|اللاتفية|Azerbaijan|https://news.google.com/rss/search?q=Azerbaijan&hl=lv&gl=LV&ceid=LV:lv
+la012|news|general|اللاتفية|Bahamas|https://news.google.com/rss/search?q=Bahamas&hl=lv&gl=LV&ceid=LV:lv
+la013|news|general|اللاتفية|Bahrain|https://news.google.com/rss/search?q=Bahrain&hl=lv&gl=LV&ceid=LV:lv
+la014|news|general|اللاتفية|Bangladesh|https://news.google.com/rss/search?q=Bangladesh&hl=lv&gl=LV&ceid=LV:lv
+la015|news|general|اللاتفية|Barbados|https://news.google.com/rss/search?q=Barbados&hl=lv&gl=LV&ceid=LV:lv
+la016|news|general|اللاتفية|Belarus|https://news.google.com/rss/search?q=Belarus&hl=lv&gl=LV&ceid=LV:lv
+la017|news|general|اللاتفية|Belgium|https://news.google.com/rss/search?q=Belgium&hl=lv&gl=LV&ceid=LV:lv
+la018|news|general|اللاتفية|Belize|https://news.google.com/rss/search?q=Belize&hl=lv&gl=LV&ceid=LV:lv
+la019|news|general|اللاتفية|Benin|https://news.google.com/rss/search?q=Benin&hl=lv&gl=LV&ceid=LV:lv
+la020|news|general|اللاتفية|Bhutan|https://news.google.com/rss/search?q=Bhutan&hl=lv&gl=LV&ceid=LV:lv
+la021|news|general|اللاتفية|Bolivia|https://news.google.com/rss/search?q=Bolivia&hl=lv&gl=LV&ceid=LV:lv
+la022|news|general|اللاتفية|Bosnia and Herzegovina|https://news.google.com/rss/search?q=Bosnia and Herzegovina&hl=lv&gl=LV&ceid=LV:lv
+la023|news|general|اللاتفية|Botswana|https://news.google.com/rss/search?q=Botswana&hl=lv&gl=LV&ceid=LV:lv
+la024|news|general|اللاتفية|Brazil|https://news.google.com/rss/search?q=Brazil&hl=lv&gl=LV&ceid=LV:lv
+la025|news|general|اللاتفية|Brunei|https://news.google.com/rss/search?q=Brunei&hl=lv&gl=LV&ceid=LV:lv
+la026|news|general|اللاتفية|Bulgaria|https://news.google.com/rss/search?q=Bulgaria&hl=lv&gl=LV&ceid=LV:lv
+la027|news|general|اللاتفية|Burkina Faso|https://news.google.com/rss/search?q=Burkina Faso&hl=lv&gl=LV&ceid=LV:lv
+la028|news|general|اللاتفية|Burundi|https://news.google.com/rss/search?q=Burundi&hl=lv&gl=LV&ceid=LV:lv
+la029|news|general|اللاتفية|Cabo Verde|https://news.google.com/rss/search?q=Cabo Verde&hl=lv&gl=LV&ceid=LV:lv
+la030|news|general|اللاتفية|Cambodia|https://news.google.com/rss/search?q=Cambodia&hl=lv&gl=LV&ceid=LV:lv
+la031|news|general|اللاتفية|Cameroon|https://news.google.com/rss/search?q=Cameroon&hl=lv&gl=LV&ceid=LV:lv
+la032|news|general|اللاتفية|Canada|https://news.google.com/rss/search?q=Canada&hl=lv&gl=LV&ceid=LV:lv
+la033|news|general|اللاتفية|Central African Republic|https://news.google.com/rss/search?q=Central African Republic&hl=lv&gl=LV&ceid=LV:lv
+la034|news|general|اللاتفية|Chad|https://news.google.com/rss/search?q=Chad&hl=lv&gl=LV&ceid=LV:lv
+la035|news|general|اللاتفية|Chile|https://news.google.com/rss/search?q=Chile&hl=lv&gl=LV&ceid=LV:lv
+la036|news|general|اللاتفية|China|https://news.google.com/rss/search?q=China&hl=lv&gl=LV&ceid=LV:lv
+la037|news|general|اللاتفية|Colombia|https://news.google.com/rss/search?q=Colombia&hl=lv&gl=LV&ceid=LV:lv
+la038|news|general|اللاتفية|Comoros|https://news.google.com/rss/search?q=Comoros&hl=lv&gl=LV&ceid=LV:lv
+la039|news|general|اللاتفية|Congo (Republic of the Congo)|https://news.google.com/rss/search?q=Congo (Republic of the Congo)&hl=lv&gl=LV&ceid=LV:lv
+la040|news|general|اللاتفية|Costa Rica|https://news.google.com/rss/search?q=Costa Rica&hl=lv&gl=LV&ceid=LV:lv
+la041|news|general|اللاتفية|Côte d’Ivoire|https://news.google.com/rss/search?q=Côte d’Ivoire&hl=lv&gl=LV&ceid=LV:lv
+la042|news|general|اللاتفية|Croatia|https://news.google.com/rss/search?q=Croatia&hl=lv&gl=LV&ceid=LV:lv
+la043|news|general|اللاتفية|Cuba|https://news.google.com/rss/search?q=Cuba&hl=lv&gl=LV&ceid=LV:lv
+la044|news|general|اللاتفية|Cyprus|https://news.google.com/rss/search?q=Cyprus&hl=lv&gl=LV&ceid=LV:lv
+la045|news|general|اللاتفية|Czech Republic|https://news.google.com/rss/search?q=Czech Republic&hl=lv&gl=LV&ceid=LV:lv
+la046|news|general|اللاتفية|Democratic Republic of the Congo|https://news.google.com/rss/search?q=Democratic Republic of the Congo&hl=lv&gl=LV&ceid=LV:lv
+la047|news|general|اللاتفية|Denmark|https://news.google.com/rss/search?q=Denmark&hl=lv&gl=LV&ceid=LV:lv
+la048|news|general|اللاتفية|Djibouti|https://news.google.com/rss/search?q=Djibouti&hl=lv&gl=LV&ceid=LV:lv
+la049|news|general|اللاتفية|Dominica|https://news.google.com/rss/search?q=Dominica&hl=lv&gl=LV&ceid=LV:lv
+la050|news|general|اللاتفية|Dominican Republic|https://news.google.com/rss/search?q=Dominican Republic&hl=lv&gl=LV&ceid=LV:lv
+la051|news|general|اللاتفية|Ecuador|https://news.google.com/rss/search?q=Ecuador&hl=lv&gl=LV&ceid=LV:lv
+la052|news|general|اللاتفية|Egypt|https://news.google.com/rss/search?q=Egypt&hl=lv&gl=LV&ceid=LV:lv
+la053|news|general|اللاتفية|El Salvador|https://news.google.com/rss/search?q=El Salvador&hl=lv&gl=LV&ceid=LV:lv
+la054|news|general|اللاتفية|Equatorial Guinea|https://news.google.com/rss/search?q=Equatorial Guinea&hl=lv&gl=LV&ceid=LV:lv
+la055|news|general|اللاتفية|Eritrea|https://news.google.com/rss/search?q=Eritrea&hl=lv&gl=LV&ceid=LV:lv
+la056|news|general|اللاتفية|Estonia|https://news.google.com/rss/search?q=Estonia&hl=lv&gl=LV&ceid=LV:lv
+la057|news|general|اللاتفية|Eswatini|https://news.google.com/rss/search?q=Eswatini&hl=lv&gl=LV&ceid=LV:lv
+la058|news|general|اللاتفية|Ethiopia|https://news.google.com/rss/search?q=Ethiopia&hl=lv&gl=LV&ceid=LV:lv
+la059|news|general|اللاتفية|Fiji|https://news.google.com/rss/search?q=Fiji&hl=lv&gl=LV&ceid=LV:lv
+la060|news|general|اللاتفية|Finland|https://news.google.com/rss/search?q=Finland&hl=lv&gl=LV&ceid=LV:lv
+la061|news|general|اللاتفية|France|https://news.google.com/rss/search?q=France&hl=lv&gl=LV&ceid=LV:lv
+la062|news|general|اللاتفية|Gabon|https://news.google.com/rss/search?q=Gabon&hl=lv&gl=LV&ceid=LV:lv
+la063|news|general|اللاتفية|Gambia|https://news.google.com/rss/search?q=Gambia&hl=lv&gl=LV&ceid=LV:lv
+la064|news|general|اللاتفية|Georgia|https://news.google.com/rss/search?q=Georgia&hl=lv&gl=LV&ceid=LV:lv
+la065|news|general|اللاتفية|Germany|https://news.google.com/rss/search?q=Germany&hl=lv&gl=LV&ceid=LV:lv
+la066|news|general|اللاتفية|Ghana|https://news.google.com/rss/search?q=Ghana&hl=lv&gl=LV&ceid=LV:lv
+la067|news|general|اللاتفية|Greece|https://news.google.com/rss/search?q=Greece&hl=lv&gl=LV&ceid=LV:lv
+la068|news|general|اللاتفية|Grenada|https://news.google.com/rss/search?q=Grenada&hl=lv&gl=LV&ceid=LV:lv
+la069|news|general|اللاتفية|Guatemala|https://news.google.com/rss/search?q=Guatemala&hl=lv&gl=LV&ceid=LV:lv
+la070|news|general|اللاتفية|Guinea|https://news.google.com/rss/search?q=Guinea&hl=lv&gl=LV&ceid=LV:lv
+la071|news|general|اللاتفية|Guinea-Bissau|https://news.google.com/rss/search?q=Guinea-Bissau&hl=lv&gl=LV&ceid=LV:lv
+la072|news|general|اللاتفية|Guyana|https://news.google.com/rss/search?q=Guyana&hl=lv&gl=LV&ceid=LV:lv
+la073|news|general|اللاتفية|Haiti|https://news.google.com/rss/search?q=Haiti&hl=lv&gl=LV&ceid=LV:lv
+la074|news|general|اللاتفية|Honduras|https://news.google.com/rss/search?q=Honduras&hl=lv&gl=LV&ceid=LV:lv
+la075|news|general|اللاتفية|Hungary|https://news.google.com/rss/search?q=Hungary&hl=lv&gl=LV&ceid=LV:lv
+la076|news|general|اللاتفية|Iceland|https://news.google.com/rss/search?q=Iceland&hl=lv&gl=LV&ceid=LV:lv
+la077|news|general|اللاتفية|India|https://news.google.com/rss/search?q=India&hl=lv&gl=LV&ceid=LV:lv
+la078|news|general|اللاتفية|Indonesia|https://news.google.com/rss/search?q=Indonesia&hl=lv&gl=LV&ceid=LV:lv
+la079|news|general|اللاتفية|Iran|https://news.google.com/rss/search?q=Iran&hl=lv&gl=LV&ceid=LV:lv
+la080|news|general|اللاتفية|Iraq|https://news.google.com/rss/search?q=Iraq&hl=lv&gl=LV&ceid=LV:lv
+la081|news|general|اللاتفية|Ireland|https://news.google.com/rss/search?q=Ireland&hl=lv&gl=LV&ceid=LV:lv
+la082|news|general|اللاتفية|Italy|https://news.google.com/rss/search?q=Italy&hl=lv&gl=LV&ceid=LV:lv
+la083|news|general|اللاتفية|Jamaica|https://news.google.com/rss/search?q=Jamaica&hl=lv&gl=LV&ceid=LV:lv
+la084|news|general|اللاتفية|Japan|https://news.google.com/rss/search?q=Japan&hl=lv&gl=LV&ceid=LV:lv
+la085|news|general|اللاتفية|Jordan|https://news.google.com/rss/search?q=Jordan&hl=lv&gl=LV&ceid=LV:lv
+la086|news|general|اللاتفية|Kazakhstan|https://news.google.com/rss/search?q=Kazakhstan&hl=lv&gl=LV&ceid=LV:lv
+la087|news|general|اللاتفية|Kenya|https://news.google.com/rss/search?q=Kenya&hl=lv&gl=LV&ceid=LV:lv
+la088|news|general|اللاتفية|Kiribati|https://news.google.com/rss/search?q=Kiribati&hl=lv&gl=LV&ceid=LV:lv
+la089|news|general|اللاتفية|Kuwait|https://news.google.com/rss/search?q=Kuwait&hl=lv&gl=LV&ceid=LV:lv
+la090|news|general|اللاتفية|Kyrgyzstan|https://news.google.com/rss/search?q=Kyrgyzstan&hl=lv&gl=LV&ceid=LV:lv
+la091|news|general|اللاتفية|Laos|https://news.google.com/rss/search?q=Laos&hl=lv&gl=LV&ceid=LV:lv
+la092|news|general|اللاتفية|Latvia|https://news.google.com/rss/search?q=Latvia&hl=lv&gl=LV&ceid=LV:lv
+la093|news|general|اللاتفية|Lebanon|https://news.google.com/rss/search?q=Lebanon&hl=lv&gl=LV&ceid=LV:lv
+la094|news|general|اللاتفية|Lesotho|https://news.google.com/rss/search?q=Lesotho&hl=lv&gl=LV&ceid=LV:lv
+la095|news|general|اللاتفية|Liberia|https://news.google.com/rss/search?q=Liberia&hl=lv&gl=LV&ceid=LV:lv
+la096|news|general|اللاتفية|Libya|https://news.google.com/rss/search?q=Libya&hl=lv&gl=LV&ceid=LV:lv
+la097|news|general|اللاتفية|Liechtenstein|https://news.google.com/rss/search?q=Liechtenstein&hl=lv&gl=LV&ceid=LV:lv
+la098|news|general|اللاتفية|Lithuania|https://news.google.com/rss/search?q=Lithuania&hl=lv&gl=LV&ceid=LV:lv
+la099|news|general|اللاتفية|Luxembourg|https://news.google.com/rss/search?q=Luxembourg&hl=lv&gl=LV&ceid=LV:lv
+la100|news|general|اللاتفية|Madagascar|https://news.google.com/rss/search?q=Madagascar&hl=lv&gl=LV&ceid=LV:lv
+la101|news|general|اللاتفية|Malawi|https://news.google.com/rss/search?q=Malawi&hl=lv&gl=LV&ceid=LV:lv
+la102|news|general|اللاتفية|Malaysia|https://news.google.com/rss/search?q=Malaysia&hl=lv&gl=LV&ceid=LV:lv
+la103|news|general|اللاتفية|Maldives|https://news.google.com/rss/search?q=Maldives&hl=lv&gl=LV&ceid=LV:lv
+la104|news|general|اللاتفية|Mali|https://news.google.com/rss/search?q=Mali&hl=lv&gl=LV&ceid=LV:lv
+la105|news|general|اللاتفية|Malta|https://news.google.com/rss/search?q=Malta&hl=lv&gl=LV&ceid=LV:lv
+la106|news|general|اللاتفية|Marshall Islands|https://news.google.com/rss/search?q=Marshall Islands&hl=lv&gl=LV&ceid=LV:lv
+la107|news|general|اللاتفية|Mauritania|https://news.google.com/rss/search?q=Mauritania&hl=lv&gl=LV&ceid=LV:lv
+la108|news|general|اللاتفية|Mauritius|https://news.google.com/rss/search?q=Mauritius&hl=lv&gl=LV&ceid=LV:lv
+la109|news|general|اللاتفية|Mexico|https://news.google.com/rss/search?q=Mexico&hl=lv&gl=LV&ceid=LV:lv
+la110|news|general|اللاتفية|Micronesia|https://news.google.com/rss/search?q=Micronesia&hl=lv&gl=LV&ceid=LV:lv
+la111|news|general|اللاتفية|Moldova|https://news.google.com/rss/search?q=Moldova&hl=lv&gl=LV&ceid=LV:lv
+la112|news|general|اللاتفية|Monaco|https://news.google.com/rss/search?q=Monaco&hl=lv&gl=LV&ceid=LV:lv
+la113|news|general|اللاتفية|Mongolia|https://news.google.com/rss/search?q=Mongolia&hl=lv&gl=LV&ceid=LV:lv
+la114|news|general|اللاتفية|Montenegro|https://news.google.com/rss/search?q=Montenegro&hl=lv&gl=LV&ceid=LV:lv
+la115|news|general|اللاتفية|Morocco|https://news.google.com/rss/search?q=Morocco&hl=lv&gl=LV&ceid=LV:lv
+la116|news|general|اللاتفية|Mozambique|https://news.google.com/rss/search?q=Mozambique&hl=lv&gl=LV&ceid=LV:lv
+la117|news|general|اللاتفية|Myanmar|https://news.google.com/rss/search?q=Myanmar&hl=lv&gl=LV&ceid=LV:lv
+la118|news|general|اللاتفية|Namibia|https://news.google.com/rss/search?q=Namibia&hl=lv&gl=LV&ceid=LV:lv
+la119|news|general|اللاتفية|Nauru|https://news.google.com/rss/search?q=Nauru&hl=lv&gl=LV&ceid=LV:lv
+la120|news|general|اللاتفية|Nepal|https://news.google.com/rss/search?q=Nepal&hl=lv&gl=LV&ceid=LV:lv
+la121|news|general|اللاتفية|Netherlands|https://news.google.com/rss/search?q=Netherlands&hl=lv&gl=LV&ceid=LV:lv
+la122|news|general|اللاتفية|New Zealand|https://news.google.com/rss/search?q=New Zealand&hl=lv&gl=LV&ceid=LV:lv
+la123|news|general|اللاتفية|Nicaragua|https://news.google.com/rss/search?q=Nicaragua&hl=lv&gl=LV&ceid=LV:lv
+la124|news|general|اللاتفية|Niger|https://news.google.com/rss/search?q=Niger&hl=lv&gl=LV&ceid=LV:lv
+la125|news|general|اللاتفية|Nigeria|https://news.google.com/rss/search?q=Nigeria&hl=lv&gl=LV&ceid=LV:lv
+la126|news|general|اللاتفية|North Korea|https://news.google.com/rss/search?q=North Korea&hl=lv&gl=LV&ceid=LV:lv
+la127|news|general|اللاتفية|North Macedonia|https://news.google.com/rss/search?q=North Macedonia&hl=lv&gl=LV&ceid=LV:lv
+la128|news|general|اللاتفية|Norway|https://news.google.com/rss/search?q=Norway&hl=lv&gl=LV&ceid=LV:lv
+la129|news|general|اللاتفية|Oman|https://news.google.com/rss/search?q=Oman&hl=lv&gl=LV&ceid=LV:lv
+la130|news|general|اللاتفية|Pakistan|https://news.google.com/rss/search?q=Pakistan&hl=lv&gl=LV&ceid=LV:lv
+la131|news|general|اللاتفية|Palau|https://news.google.com/rss/search?q=Palau&hl=lv&gl=LV&ceid=LV:lv
+la132|news|general|اللاتفية|Panama|https://news.google.com/rss/search?q=Panama&hl=lv&gl=LV&ceid=LV:lv
+la133|news|general|اللاتفية|Papua New Guinea|https://news.google.com/rss/search?q=Papua New Guinea&hl=lv&gl=LV&ceid=LV:lv
+la134|news|general|اللاتفية|Paraguay|https://news.google.com/rss/search?q=Paraguay&hl=lv&gl=LV&ceid=LV:lv
+la135|news|general|اللاتفية|Peru|https://news.google.com/rss/search?q=Peru&hl=lv&gl=LV&ceid=LV:lv
+la136|news|general|اللاتفية|Philippines|https://news.google.com/rss/search?q=Philippines&hl=lv&gl=LV&ceid=LV:lv
+la137|news|general|اللاتفية|Poland|https://news.google.com/rss/search?q=Poland&hl=lv&gl=LV&ceid=LV:lv
+la138|news|general|اللاتفية|Portugal|https://news.google.com/rss/search?q=Portugal&hl=lv&gl=LV&ceid=LV:lv
+la139|news|general|اللاتفية|Qatar|https://news.google.com/rss/search?q=Qatar&hl=lv&gl=LV&ceid=LV:lv
+la140|news|general|اللاتفية|Romania|https://news.google.com/rss/search?q=Romania&hl=lv&gl=LV&ceid=LV:lv
+la141|news|general|اللاتفية|Russia|https://news.google.com/rss/search?q=Russia&hl=lv&gl=LV&ceid=LV:lv
+la142|news|general|اللاتفية|Rwanda|https://news.google.com/rss/search?q=Rwanda&hl=lv&gl=LV&ceid=LV:lv
+la143|news|general|اللاتفية|Saint Kitts and Nevis|https://news.google.com/rss/search?q=Saint Kitts and Nevis&hl=lv&gl=LV&ceid=LV:lv
+la144|news|general|اللاتفية|Saint Lucia|https://news.google.com/rss/search?q=Saint Lucia&hl=lv&gl=LV&ceid=LV:lv
+la145|news|general|اللاتفية|Saint Vincent and the Grenadines|https://news.google.com/rss/search?q=Saint Vincent and the Grenadines&hl=lv&gl=LV&ceid=LV:lv
+la146|news|general|اللاتفية|Samoa|https://news.google.com/rss/search?q=Samoa&hl=lv&gl=LV&ceid=LV:lv
+la147|news|general|اللاتفية|San Marino|https://news.google.com/rss/search?q=San Marino&hl=lv&gl=LV&ceid=LV:lv
+la148|news|general|اللاتفية|Sao Tome and Principe|https://news.google.com/rss/search?q=Sao Tome and Principe&hl=lv&gl=LV&ceid=LV:lv
+la149|news|general|اللاتفية|Saudi Arabia|https://news.google.com/rss/search?q=Saudi Arabia&hl=lv&gl=LV&ceid=LV:lv
+la150|news|general|اللاتفية|Senegal|https://news.google.com/rss/search?q=Senegal&hl=lv&gl=LV&ceid=LV:lv
+la151|news|general|اللاتفية|Serbia|https://news.google.com/rss/search?q=Serbia&hl=lv&gl=LV&ceid=LV:lv
+la152|news|general|اللاتفية|Seychelles|https://news.google.com/rss/search?q=Seychelles&hl=lv&gl=LV&ceid=LV:lv
+la153|news|general|اللاتفية|Sierra Leone|https://news.google.com/rss/search?q=Sierra Leone&hl=lv&gl=LV&ceid=LV:lv
+la154|news|general|اللاتفية|Singapore|https://news.google.com/rss/search?q=Singapore&hl=lv&gl=LV&ceid=LV:lv
+la155|news|general|اللاتفية|Slovakia|https://news.google.com/rss/search?q=Slovakia&hl=lv&gl=LV&ceid=LV:lv
+la156|news|general|اللاتفية|Slovenia|https://news.google.com/rss/search?q=Slovenia&hl=lv&gl=LV&ceid=LV:lv
+la157|news|general|اللاتفية|Solomon Islands|https://news.google.com/rss/search?q=Solomon Islands&hl=lv&gl=LV&ceid=LV:lv
+la158|news|general|اللاتفية|Somalia|https://news.google.com/rss/search?q=Somalia&hl=lv&gl=LV&ceid=LV:lv
+la159|news|general|اللاتفية|South Africa|https://news.google.com/rss/search?q=South Africa&hl=lv&gl=LV&ceid=LV:lv
+la160|news|general|اللاتفية|South Korea|https://news.google.com/rss/search?q=South Korea&hl=lv&gl=LV&ceid=LV:lv
+la161|news|general|اللاتفية|South Sudan|https://news.google.com/rss/search?q=South Sudan&hl=lv&gl=LV&ceid=LV:lv
+la162|news|general|اللاتفية|Spain|https://news.google.com/rss/search?q=Spain&hl=lv&gl=LV&ceid=LV:lv
+la163|news|general|اللاتفية|Sri Lanka|https://news.google.com/rss/search?q=Sri Lanka&hl=lv&gl=LV&ceid=LV:lv
+la164|news|general|اللاتفية|Sudan|https://news.google.com/rss/search?q=Sudan&hl=lv&gl=LV&ceid=LV:lv
+la165|news|general|اللاتفية|Suriname|https://news.google.com/rss/search?q=Suriname&hl=lv&gl=LV&ceid=LV:lv
+la166|news|general|اللاتفية|Sweden|https://news.google.com/rss/search?q=Sweden&hl=lv&gl=LV&ceid=LV:lv
+la167|news|general|اللاتفية|Switzerland|https://news.google.com/rss/search?q=Switzerland&hl=lv&gl=LV&ceid=LV:lv
+la168|news|general|اللاتفية|Syria|https://news.google.com/rss/search?q=Syria&hl=lv&gl=LV&ceid=LV:lv
+la169|news|general|اللاتفية|Tajikistan|https://news.google.com/rss/search?q=Tajikistan&hl=lv&gl=LV&ceid=LV:lv
+la170|news|general|اللاتفية|Tanzania|https://news.google.com/rss/search?q=Tanzania&hl=lv&gl=LV&ceid=LV:lv
+la171|news|general|اللاتفية|Thailand|https://news.google.com/rss/search?q=Thailand&hl=lv&gl=LV&ceid=LV:lv
+la172|news|general|اللاتفية|Timor-Leste|https://news.google.com/rss/search?q=Timor-Leste&hl=lv&gl=LV&ceid=LV:lv
+la173|news|general|اللاتفية|Togo|https://news.google.com/rss/search?q=Togo&hl=lv&gl=LV&ceid=LV:lv
+la174|news|general|اللاتفية|Tonga|https://news.google.com/rss/search?q=Tonga&hl=lv&gl=LV&ceid=LV:lv
+la175|news|general|اللاتفية|Trinidad and Tobago|https://news.google.com/rss/search?q=Trinidad and Tobago&hl=lv&gl=LV&ceid=LV:lv
+la176|news|general|اللاتفية|Tunisia|https://news.google.com/rss/search?q=Tunisia&hl=lv&gl=LV&ceid=LV:lv
+la177|news|general|اللاتفية|Turkey|https://news.google.com/rss/search?q=Turkey&hl=lv&gl=LV&ceid=LV:lv
+la178|news|general|اللاتفية|Turkmenistan|https://news.google.com/rss/search?q=Turkmenistan&hl=lv&gl=LV&ceid=LV:lv
+la179|news|general|اللاتفية|Tuvalu|https://news.google.com/rss/search?q=Tuvalu&hl=lv&gl=LV&ceid=LV:lv
+la180|news|general|اللاتفية|Uganda|https://news.google.com/rss/search?q=Uganda&hl=lv&gl=LV&ceid=LV:lv
+la181|news|general|اللاتفية|Ukraine|https://news.google.com/rss/search?q=Ukraine&hl=lv&gl=LV&ceid=LV:lv
+la182|news|general|اللاتفية|United Arab Emirates|https://news.google.com/rss/search?q=United Arab Emirates&hl=lv&gl=LV&ceid=LV:lv
+la183|news|general|اللاتفية|United Kingdom|https://news.google.com/rss/search?q=United Kingdom&hl=lv&gl=LV&ceid=LV:lv
+la184|news|general|اللاتفية|United States|https://news.google.com/rss/search?q=United States&hl=lv&gl=LV&ceid=LV:lv
+la185|news|general|اللاتفية|Uruguay|https://news.google.com/rss/search?q=Uruguay&hl=lv&gl=LV&ceid=LV:lv
+la186|news|general|اللاتفية|Uzbekistan|https://news.google.com/rss/search?q=Uzbekistan&hl=lv&gl=LV&ceid=LV:lv
+la187|news|general|اللاتفية|Vanuatu|https://news.google.com/rss/search?q=Vanuatu&hl=lv&gl=LV&ceid=LV:lv
+la188|news|general|اللاتفية|Venezuela|https://news.google.com/rss/search?q=Venezuela&hl=lv&gl=LV&ceid=LV:lv
+la189|news|general|اللاتفية|Vietnam|https://news.google.com/rss/search?q=Vietnam&hl=lv&gl=LV&ceid=LV:lv
+la190|news|general|اللاتفية|Yemen|https://news.google.com/rss/search?q=Yemen&hl=lv&gl=LV&ceid=LV:lv
+la191|news|general|اللاتفية|Zambia|https://news.google.com/rss/search?q=Zambia&hl=lv&gl=LV&ceid=LV:lv
+la192|news|general|اللاتفية|Zimbabwe|https://news.google.com/rss/search?q=Zimbabwe&hl=lv&gl=LV&ceid=LV:lv
 
 la001|news|general|الماراثية|Afghanistan|https://news.google.com/rss/search?q=Afghanistan&hl=mr&gl=IN&ceid=IN:mr
 la002|news|general|الماراثية|Albania|https://news.google.com/rss/search?q=Albania&hl=mr&gl=IN&ceid=IN:mr
@@ -5,3 +969,189 @@ la003|news|general|الماراثية|Algeria|https://news.google.com/rss/search
 la004|news|general|الماراثية|Andorra|https://news.google.com/rss/search?q=Andorra&hl=mr&gl=IN&ceid=IN:mr
 la005|news|general|الماراثية|Angola|https://news.google.com/rss/search?q=Angola&hl=mr&gl=IN&ceid=IN:mr
 la006|news|general|الماراثية|Antigua and Barbuda|https://news.google.com/rss/search?q=Antigua and Barbuda&hl=mr&gl=IN&ceid=IN:mr
+la007|news|general|الماراثية|Argentina|https://news.google.com/rss/search?q=Argentina&hl=mr&gl=IN&ceid=IN:mr
+la008|news|general|الماراثية|Armenia|https://news.google.com/rss/search?q=Armenia&hl=mr&gl=IN&ceid=IN:mr
+la009|news|general|الماراثية|Australia|https://news.google.com/rss/search?q=Australia&hl=mr&gl=IN&ceid=IN:mr
+la010|news|general|الماراثية|Austria|https://news.google.com/rss/search?q=Austria&hl=mr&gl=IN&ceid=IN:mr
+la011|news|general|الماراثية|Azerbaijan|https://news.google.com/rss/search?q=Azerbaijan&hl=mr&gl=IN&ceid=IN:mr
+la012|news|general|الماراثية|Bahamas|https://news.google.com/rss/search?q=Bahamas&hl=mr&gl=IN&ceid=IN:mr
+la013|news|general|الماراثية|Bahrain|https://news.google.com/rss/search?q=Bahrain&hl=mr&gl=IN&ceid=IN:mr
+la014|news|general|الماراثية|Bangladesh|https://news.google.com/rss/search?q=Bangladesh&hl=mr&gl=IN&ceid=IN:mr
+la015|news|general|الماراثية|Barbados|https://news.google.com/rss/search?q=Barbados&hl=mr&gl=IN&ceid=IN:mr
+la016|news|general|الماراثية|Belarus|https://news.google.com/rss/search?q=Belarus&hl=mr&gl=IN&ceid=IN:mr
+la017|news|general|الماراثية|Belgium|https://news.google.com/rss/search?q=Belgium&hl=mr&gl=IN&ceid=IN:mr
+la018|news|general|الماراثية|Belize|https://news.google.com/rss/search?q=Belize&hl=mr&gl=IN&ceid=IN:mr
+la019|news|general|الماراثية|Benin|https://news.google.com/rss/search?q=Benin&hl=mr&gl=IN&ceid=IN:mr
+la020|news|general|الماراثية|Bhutan|https://news.google.com/rss/search?q=Bhutan&hl=mr&gl=IN&ceid=IN:mr
+la021|news|general|الماراثية|Bolivia|https://news.google.com/rss/search?q=Bolivia&hl=mr&gl=IN&ceid=IN:mr
+la022|news|general|الماراثية|Bosnia and Herzegovina|https://news.google.com/rss/search?q=Bosnia and Herzegovina&hl=mr&gl=IN&ceid=IN:mr
+la023|news|general|الماراثية|Botswana|https://news.google.com/rss/search?q=Botswana&hl=mr&gl=IN&ceid=IN:mr
+la024|news|general|الماراثية|Brazil|https://news.google.com/rss/search?q=Brazil&hl=mr&gl=IN&ceid=IN:mr
+la025|news|general|الماراثية|Brunei|https://news.google.com/rss/search?q=Brunei&hl=mr&gl=IN&ceid=IN:mr
+la026|news|general|الماراثية|Bulgaria|https://news.google.com/rss/search?q=Bulgaria&hl=mr&gl=IN&ceid=IN:mr
+la027|news|general|الماراثية|Burkina Faso|https://news.google.com/rss/search?q=Burkina Faso&hl=mr&gl=IN&ceid=IN:mr
+la028|news|general|الماراثية|Burundi|https://news.google.com/rss/search?q=Burundi&hl=mr&gl=IN&ceid=IN:mr
+la029|news|general|الماراثية|Cabo Verde|https://news.google.com/rss/search?q=Cabo Verde&hl=mr&gl=IN&ceid=IN:mr
+la030|news|general|الماراثية|Cambodia|https://news.google.com/rss/search?q=Cambodia&hl=mr&gl=IN&ceid=IN:mr
+la031|news|general|الماراثية|Cameroon|https://news.google.com/rss/search?q=Cameroon&hl=mr&gl=IN&ceid=IN:mr
+la032|news|general|الماراثية|Canada|https://news.google.com/rss/search?q=Canada&hl=mr&gl=IN&ceid=IN:mr
+la033|news|general|الماراثية|Central African Republic|https://news.google.com/rss/search?q=Central African Republic&hl=mr&gl=IN&ceid=IN:mr
+la034|news|general|الماراثية|Chad|https://news.google.com/rss/search?q=Chad&hl=mr&gl=IN&ceid=IN:mr
+la035|news|general|الماراثية|Chile|https://news.google.com/rss/search?q=Chile&hl=mr&gl=IN&ceid=IN:mr
+la036|news|general|الماراثية|China|https://news.google.com/rss/search?q=China&hl=mr&gl=IN&ceid=IN:mr
+la037|news|general|الماراثية|Colombia|https://news.google.com/rss/search?q=Colombia&hl=mr&gl=IN&ceid=IN:mr
+la038|news|general|الماراثية|Comoros|https://news.google.com/rss/search?q=Comoros&hl=mr&gl=IN&ceid=IN:mr
+la039|news|general|الماراثية|Congo (Republic of the Congo)|https://news.google.com/rss/search?q=Congo (Republic of the Congo)&hl=mr&gl=IN&ceid=IN:mr
+la040|news|general|الماراثية|Costa Rica|https://news.google.com/rss/search?q=Costa Rica&hl=mr&gl=IN&ceid=IN:mr
+la041|news|general|الماراثية|Côte d’Ivoire|https://news.google.com/rss/search?q=Côte d’Ivoire&hl=mr&gl=IN&ceid=IN:mr
+la042|news|general|الماراثية|Croatia|https://news.google.com/rss/search?q=Croatia&hl=mr&gl=IN&ceid=IN:mr
+la043|news|general|الماراثية|Cuba|https://news.google.com/rss/search?q=Cuba&hl=mr&gl=IN&ceid=IN:mr
+la044|news|general|الماراثية|Cyprus|https://news.google.com/rss/search?q=Cyprus&hl=mr&gl=IN&ceid=IN:mr
+la045|news|general|الماراثية|Czech Republic|https://news.google.com/rss/search?q=Czech Republic&hl=mr&gl=IN&ceid=IN:mr
+la046|news|general|الماراثية|Democratic Republic of the Congo|https://news.google.com/rss/search?q=Democratic Republic of the Congo&hl=mr&gl=IN&ceid=IN:mr
+la047|news|general|الماراثية|Denmark|https://news.google.com/rss/search?q=Denmark&hl=mr&gl=IN&ceid=IN:mr
+la048|news|general|الماراثية|Djibouti|https://news.google.com/rss/search?q=Djibouti&hl=mr&gl=IN&ceid=IN:mr
+la049|news|general|الماراثية|Dominica|https://news.google.com/rss/search?q=Dominica&hl=mr&gl=IN&ceid=IN:mr
+la050|news|general|الماراثية|Dominican Republic|https://news.google.com/rss/search?q=Dominican Republic&hl=mr&gl=IN&ceid=IN:mr
+la051|news|general|الماراثية|Ecuador|https://news.google.com/rss/search?q=Ecuador&hl=mr&gl=IN&ceid=IN:mr
+la052|news|general|الماراثية|Egypt|https://news.google.com/rss/search?q=Egypt&hl=mr&gl=IN&ceid=IN:mr
+la053|news|general|الماراثية|El Salvador|https://news.google.com/rss/search?q=El Salvador&hl=mr&gl=IN&ceid=IN:mr
+la054|news|general|الماراثية|Equatorial Guinea|https://news.google.com/rss/search?q=Equatorial Guinea&hl=mr&gl=IN&ceid=IN:mr
+la055|news|general|الماراثية|Eritrea|https://news.google.com/rss/search?q=Eritrea&hl=mr&gl=IN&ceid=IN:mr
+la056|news|general|الماراثية|Estonia|https://news.google.com/rss/search?q=Estonia&hl=mr&gl=IN&ceid=IN:mr
+la057|news|general|الماراثية|Eswatini|https://news.google.com/rss/search?q=Eswatini&hl=mr&gl=IN&ceid=IN:mr
+la058|news|general|الماراثية|Ethiopia|https://news.google.com/rss/search?q=Ethiopia&hl=mr&gl=IN&ceid=IN:mr
+la059|news|general|الماراثية|Fiji|https://news.google.com/rss/search?q=Fiji&hl=mr&gl=IN&ceid=IN:mr
+la060|news|general|الماراثية|Finland|https://news.google.com/rss/search?q=Finland&hl=mr&gl=IN&ceid=IN:mr
+la061|news|general|الماراثية|France|https://news.google.com/rss/search?q=France&hl=mr&gl=IN&ceid=IN:mr
+la062|news|general|الماراثية|Gabon|https://news.google.com/rss/search?q=Gabon&hl=mr&gl=IN&ceid=IN:mr
+la063|news|general|الماراثية|Gambia|https://news.google.com/rss/search?q=Gambia&hl=mr&gl=IN&ceid=IN:mr
+la064|news|general|الماراثية|Georgia|https://news.google.com/rss/search?q=Georgia&hl=mr&gl=IN&ceid=IN:mr
+la065|news|general|الماراثية|Germany|https://news.google.com/rss/search?q=Germany&hl=mr&gl=IN&ceid=IN:mr
+la066|news|general|الماراثية|Ghana|https://news.google.com/rss/search?q=Ghana&hl=mr&gl=IN&ceid=IN:mr
+la067|news|general|الماراثية|Greece|https://news.google.com/rss/search?q=Greece&hl=mr&gl=IN&ceid=IN:mr
+la068|news|general|الماراثية|Grenada|https://news.google.com/rss/search?q=Grenada&hl=mr&gl=IN&ceid=IN:mr
+la069|news|general|الماراثية|Guatemala|https://news.google.com/rss/search?q=Guatemala&hl=mr&gl=IN&ceid=IN:mr
+la070|news|general|الماراثية|Guinea|https://news.google.com/rss/search?q=Guinea&hl=mr&gl=IN&ceid=IN:mr
+la071|news|general|الماراثية|Guinea-Bissau|https://news.google.com/rss/search?q=Guinea-Bissau&hl=mr&gl=IN&ceid=IN:mr
+la072|news|general|الماراثية|Guyana|https://news.google.com/rss/search?q=Guyana&hl=mr&gl=IN&ceid=IN:mr
+la073|news|general|الماراثية|Haiti|https://news.google.com/rss/search?q=Haiti&hl=mr&gl=IN&ceid=IN:mr
+la074|news|general|الماراثية|Honduras|https://news.google.com/rss/search?q=Honduras&hl=mr&gl=IN&ceid=IN:mr
+la075|news|general|الماراثية|Hungary|https://news.google.com/rss/search?q=Hungary&hl=mr&gl=IN&ceid=IN:mr
+la076|news|general|الماراثية|Iceland|https://news.google.com/rss/search?q=Iceland&hl=mr&gl=IN&ceid=IN:mr
+la077|news|general|الماراثية|India|https://news.google.com/rss/search?q=India&hl=mr&gl=IN&ceid=IN:mr
+la078|news|general|الماراثية|Indonesia|https://news.google.com/rss/search?q=Indonesia&hl=mr&gl=IN&ceid=IN:mr
+la079|news|general|الماراثية|Iran|https://news.google.com/rss/search?q=Iran&hl=mr&gl=IN&ceid=IN:mr
+la080|news|general|الماراثية|Iraq|https://news.google.com/rss/search?q=Iraq&hl=mr&gl=IN&ceid=IN:mr
+la081|news|general|الماراثية|Ireland|https://news.google.com/rss/search?q=Ireland&hl=mr&gl=IN&ceid=IN:mr
+la082|news|general|الماراثية|Italy|https://news.google.com/rss/search?q=Italy&hl=mr&gl=IN&ceid=IN:mr
+la083|news|general|الماراثية|Jamaica|https://news.google.com/rss/search?q=Jamaica&hl=mr&gl=IN&ceid=IN:mr
+la084|news|general|الماراثية|Japan|https://news.google.com/rss/search?q=Japan&hl=mr&gl=IN&ceid=IN:mr
+la085|news|general|الماراثية|Jordan|https://news.google.com/rss/search?q=Jordan&hl=mr&gl=IN&ceid=IN:mr
+la086|news|general|الماراثية|Kazakhstan|https://news.google.com/rss/search?q=Kazakhstan&hl=mr&gl=IN&ceid=IN:mr
+la087|news|general|الماراثية|Kenya|https://news.google.com/rss/search?q=Kenya&hl=mr&gl=IN&ceid=IN:mr
+la088|news|general|الماراثية|Kiribati|https://news.google.com/rss/search?q=Kiribati&hl=mr&gl=IN&ceid=IN:mr
+la089|news|general|الماراثية|Kuwait|https://news.google.com/rss/search?q=Kuwait&hl=mr&gl=IN&ceid=IN:mr
+la090|news|general|الماراثية|Kyrgyzstan|https://news.google.com/rss/search?q=Kyrgyzstan&hl=mr&gl=IN&ceid=IN:mr
+la091|news|general|الماراثية|Laos|https://news.google.com/rss/search?q=Laos&hl=mr&gl=IN&ceid=IN:mr
+la092|news|general|الماراثية|Latvia|https://news.google.com/rss/search?q=Latvia&hl=mr&gl=IN&ceid=IN:mr
+la093|news|general|الماراثية|Lebanon|https://news.google.com/rss/search?q=Lebanon&hl=mr&gl=IN&ceid=IN:mr
+la094|news|general|الماراثية|Lesotho|https://news.google.com/rss/search?q=Lesotho&hl=mr&gl=IN&ceid=IN:mr
+la095|news|general|الماراثية|Liberia|https://news.google.com/rss/search?q=Liberia&hl=mr&gl=IN&ceid=IN:mr
+la096|news|general|الماراثية|Libya|https://news.google.com/rss/search?q=Libya&hl=mr&gl=IN&ceid=IN:mr
+la097|news|general|الماراثية|Liechtenstein|https://news.google.com/rss/search?q=Liechtenstein&hl=mr&gl=IN&ceid=IN:mr
+la098|news|general|الماراثية|Lithuania|https://news.google.com/rss/search?q=Lithuania&hl=mr&gl=IN&ceid=IN:mr
+la099|news|general|الماراثية|Luxembourg|https://news.google.com/rss/search?q=Luxembourg&hl=mr&gl=IN&ceid=IN:mr
+la100|news|general|الماراثية|Madagascar|https://news.google.com/rss/search?q=Madagascar&hl=mr&gl=IN&ceid=IN:mr
+la101|news|general|الماراثية|Malawi|https://news.google.com/rss/search?q=Malawi&hl=mr&gl=IN&ceid=IN:mr
+la102|news|general|الماراثية|Malaysia|https://news.google.com/rss/search?q=Malaysia&hl=mr&gl=IN&ceid=IN:mr
+la103|news|general|الماراثية|Maldives|https://news.google.com/rss/search?q=Maldives&hl=mr&gl=IN&ceid=IN:mr
+la104|news|general|الماراثية|Mali|https://news.google.com/rss/search?q=Mali&hl=mr&gl=IN&ceid=IN:mr
+la105|news|general|الماراثية|Malta|https://news.google.com/rss/search?q=Malta&hl=mr&gl=IN&ceid=IN:mr
+la106|news|general|الماراثية|Marshall Islands|https://news.google.com/rss/search?q=Marshall Islands&hl=mr&gl=IN&ceid=IN:mr
+la107|news|general|الماراثية|Mauritania|https://news.google.com/rss/search?q=Mauritania&hl=mr&gl=IN&ceid=IN:mr
+la108|news|general|الماراثية|Mauritius|https://news.google.com/rss/search?q=Mauritius&hl=mr&gl=IN&ceid=IN:mr
+la109|news|general|الماراثية|Mexico|https://news.google.com/rss/search?q=Mexico&hl=mr&gl=IN&ceid=IN:mr
+la110|news|general|الماراثية|Micronesia|https://news.google.com/rss/search?q=Micronesia&hl=mr&gl=IN&ceid=IN:mr
+la111|news|general|الماراثية|Moldova|https://news.google.com/rss/search?q=Moldova&hl=mr&gl=IN&ceid=IN:mr
+la112|news|general|الماراثية|Monaco|https://news.google.com/rss/search?q=Monaco&hl=mr&gl=IN&ceid=IN:mr
+la113|news|general|الماراثية|Mongolia|https://news.google.com/rss/search?q=Mongolia&hl=mr&gl=IN&ceid=IN:mr
+la114|news|general|الماراثية|Montenegro|https://news.google.com/rss/search?q=Montenegro&hl=mr&gl=IN&ceid=IN:mr
+la115|news|general|الماراثية|Morocco|https://news.google.com/rss/search?q=Morocco&hl=mr&gl=IN&ceid=IN:mr
+la116|news|general|الماراثية|Mozambique|https://news.google.com/rss/search?q=Mozambique&hl=mr&gl=IN&ceid=IN:mr
+la117|news|general|الماراثية|Myanmar|https://news.google.com/rss/search?q=Myanmar&hl=mr&gl=IN&ceid=IN:mr
+la118|news|general|الماراثية|Namibia|https://news.google.com/rss/search?q=Namibia&hl=mr&gl=IN&ceid=IN:mr
+la119|news|general|الماراثية|Nauru|https://news.google.com/rss/search?q=Nauru&hl=mr&gl=IN&ceid=IN:mr
+la120|news|general|الماراثية|Nepal|https://news.google.com/rss/search?q=Nepal&hl=mr&gl=IN&ceid=IN:mr
+la121|news|general|الماراثية|Netherlands|https://news.google.com/rss/search?q=Netherlands&hl=mr&gl=IN&ceid=IN:mr
+la122|news|general|الماراثية|New Zealand|https://news.google.com/rss/search?q=New Zealand&hl=mr&gl=IN&ceid=IN:mr
+la123|news|general|الماراثية|Nicaragua|https://news.google.com/rss/search?q=Nicaragua&hl=mr&gl=IN&ceid=IN:mr
+la124|news|general|الماراثية|Niger|https://news.google.com/rss/search?q=Niger&hl=mr&gl=IN&ceid=IN:mr
+la125|news|general|الماراثية|Nigeria|https://news.google.com/rss/search?q=Nigeria&hl=mr&gl=IN&ceid=IN:mr
+la126|news|general|الماراثية|North Korea|https://news.google.com/rss/search?q=North Korea&hl=mr&gl=IN&ceid=IN:mr
+la127|news|general|الماراثية|North Macedonia|https://news.google.com/rss/search?q=North Macedonia&hl=mr&gl=IN&ceid=IN:mr
+la128|news|general|الماراثية|Norway|https://news.google.com/rss/search?q=Norway&hl=mr&gl=IN&ceid=IN:mr
+la129|news|general|الماراثية|Oman|https://news.google.com/rss/search?q=Oman&hl=mr&gl=IN&ceid=IN:mr
+la130|news|general|الماراثية|Pakistan|https://news.google.com/rss/search?q=Pakistan&hl=mr&gl=IN&ceid=IN:mr
+la131|news|general|الماراثية|Palau|https://news.google.com/rss/search?q=Palau&hl=mr&gl=IN&ceid=IN:mr
+la132|news|general|الماراثية|Panama|https://news.google.com/rss/search?q=Panama&hl=mr&gl=IN&ceid=IN:mr
+la133|news|general|الماراثية|Papua New Guinea|https://news.google.com/rss/search?q=Papua New Guinea&hl=mr&gl=IN&ceid=IN:mr
+la134|news|general|الماراثية|Paraguay|https://news.google.com/rss/search?q=Paraguay&hl=mr&gl=IN&ceid=IN:mr
+la135|news|general|الماراثية|Peru|https://news.google.com/rss/search?q=Peru&hl=mr&gl=IN&ceid=IN:mr
+la136|news|general|الماراثية|Philippines|https://news.google.com/rss/search?q=Philippines&hl=mr&gl=IN&ceid=IN:mr
+la137|news|general|الماراثية|Poland|https://news.google.com/rss/search?q=Poland&hl=mr&gl=IN&ceid=IN:mr
+la138|news|general|الماراثية|Portugal|https://news.google.com/rss/search?q=Portugal&hl=mr&gl=IN&ceid=IN:mr
+la139|news|general|الماراثية|Qatar|https://news.google.com/rss/search?q=Qatar&hl=mr&gl=IN&ceid=IN:mr
+la140|news|general|الماراثية|Romania|https://news.google.com/rss/search?q=Romania&hl=mr&gl=IN&ceid=IN:mr
+la141|news|general|الماراثية|Russia|https://news.google.com/rss/search?q=Russia&hl=mr&gl=IN&ceid=IN:mr
+la142|news|general|الماراثية|Rwanda|https://news.google.com/rss/search?q=Rwanda&hl=mr&gl=IN&ceid=IN:mr
+la143|news|general|الماراثية|Saint Kitts and Nevis|https://news.google.com/rss/search?q=Saint Kitts and Nevis&hl=mr&gl=IN&ceid=IN:mr
+la144|news|general|الماراثية|Saint Lucia|https://news.google.com/rss/search?q=Saint Lucia&hl=mr&gl=IN&ceid=IN:mr
+la145|news|general|الماراثية|Saint Vincent and the Grenadines|https://news.google.com/rss/search?q=Saint Vincent and the Grenadines&hl=mr&gl=IN&ceid=IN:mr
+la146|news|general|الماراثية|Samoa|https://news.google.com/rss/search?q=Samoa&hl=mr&gl=IN&ceid=IN:mr
+la147|news|general|الماراثية|San Marino|https://news.google.com/rss/search?q=San Marino&hl=mr&gl=IN&ceid=IN:mr
+la148|news|general|الماراثية|Sao Tome and Principe|https://news.google.com/rss/search?q=Sao Tome and Principe&hl=mr&gl=IN&ceid=IN:mr
+la149|news|general|الماراثية|Saudi Arabia|https://news.google.com/rss/search?q=Saudi Arabia&hl=mr&gl=IN&ceid=IN:mr
+la150|news|general|الماراثية|Senegal|https://news.google.com/rss/search?q=Senegal&hl=mr&gl=IN&ceid=IN:mr
+la151|news|general|الماراثية|Serbia|https://news.google.com/rss/search?q=Serbia&hl=mr&gl=IN&ceid=IN:mr
+la152|news|general|الماراثية|Seychelles|https://news.google.com/rss/search?q=Seychelles&hl=mr&gl=IN&ceid=IN:mr
+la153|news|general|الماراثية|Sierra Leone|https://news.google.com/rss/search?q=Sierra Leone&hl=mr&gl=IN&ceid=IN:mr
+la154|news|general|الماراثية|Singapore|https://news.google.com/rss/search?q=Singapore&hl=mr&gl=IN&ceid=IN:mr
+la155|news|general|الماراثية|Slovakia|https://news.google.com/rss/search?q=Slovakia&hl=mr&gl=IN&ceid=IN:mr
+la156|news|general|الماراثية|Slovenia|https://news.google.com/rss/search?q=Slovenia&hl=mr&gl=IN&ceid=IN:mr
+la157|news|general|الماراثية|Solomon Islands|https://news.google.com/rss/search?q=Solomon Islands&hl=mr&gl=IN&ceid=IN:mr
+la158|news|general|الماراثية|Somalia|https://news.google.com/rss/search?q=Somalia&hl=mr&gl=IN&ceid=IN:mr
+la159|news|general|الماراثية|South Africa|https://news.google.com/rss/search?q=South Africa&hl=mr&gl=IN&ceid=IN:mr
+la160|news|general|الماراثية|South Korea|https://news.google.com/rss/search?q=South Korea&hl=mr&gl=IN&ceid=IN:mr
+la161|news|general|الماراثية|South Sudan|https://news.google.com/rss/search?q=South Sudan&hl=mr&gl=IN&ceid=IN:mr
+la162|news|general|الماراثية|Spain|https://news.google.com/rss/search?q=Spain&hl=mr&gl=IN&ceid=IN:mr
+la163|news|general|الماراثية|Sri Lanka|https://news.google.com/rss/search?q=Sri Lanka&hl=mr&gl=IN&ceid=IN:mr
+la164|news|general|الماراثية|Sudan|https://news.google.com/rss/search?q=Sudan&hl=mr&gl=IN&ceid=IN:mr
+la165|news|general|الماراثية|Suriname|https://news.google.com/rss/search?q=Suriname&hl=mr&gl=IN&ceid=IN:mr
+la166|news|general|الماراثية|Sweden|https://news.google.com/rss/search?q=Sweden&hl=mr&gl=IN&ceid=IN:mr
+la167|news|general|الماراثية|Switzerland|https://news.google.com/rss/search?q=Switzerland&hl=mr&gl=IN&ceid=IN:mr
+la168|news|general|الماراثية|Syria|https://news.google.com/rss/search?q=Syria&hl=mr&gl=IN&ceid=IN:mr
+la169|news|general|الماراثية|Tajikistan|https://news.google.com/rss/search?q=Tajikistan&hl=mr&gl=IN&ceid=IN:mr
+la170|news|general|الماراثية|Tanzania|https://news.google.com/rss/search?q=Tanzania&hl=mr&gl=IN&ceid=IN:mr
+la171|news|general|الماراثية|Thailand|https://news.google.com/rss/search?q=Thailand&hl=mr&gl=IN&ceid=IN:mr
+la172|news|general|الماراثية|Timor-Leste|https://news.google.com/rss/search?q=Timor-Leste&hl=mr&gl=IN&ceid=IN:mr
+la173|news|general|الماراثية|Togo|https://news.google.com/rss/search?q=Togo&hl=mr&gl=IN&ceid=IN:mr
+la174|news|general|الماراثية|Tonga|https://news.google.com/rss/search?q=Tonga&hl=mr&gl=IN&ceid=IN:mr
+la175|news|general|الماراثية|Trinidad and Tobago|https://news.google.com/rss/search?q=Trinidad and Tobago&hl=mr&gl=IN&ceid=IN:mr
+la176|news|general|الماراثية|Tunisia|https://news.google.com/rss/search?q=Tunisia&hl=mr&gl=IN&ceid=IN:mr
+la177|news|general|الماراثية|Turkey|https://news.google.com/rss/search?q=Turkey&hl=mr&gl=IN&ceid=IN:mr
+la178|news|general|الماراثية|Turkmenistan|https://news.google.com/rss/search?q=Turkmenistan&hl=mr&gl=IN&ceid=IN:mr
+la179|news|general|الماراثية|Tuvalu|https://news.google.com/rss/search?q=Tuvalu&hl=mr&gl=IN&ceid=IN:mr
+la180|news|general|الماراثية|Uganda|https://news.google.com/rss/search?q=Uganda&hl=mr&gl=IN&ceid=IN:mr
+la181|news|general|الماراثية|Ukraine|https://news.google.com/rss/search?q=Ukraine&hl=mr&gl=IN&ceid=IN:mr
+la182|news|general|الماراثية|United Arab Emirates|https://news.google.com/rss/search?q=United Arab Emirates&hl=mr&gl=IN&ceid=IN:mr
+la183|news|general|الماراثية|United Kingdom|https://news.google.com/rss/search?q=United Kingdom&hl=mr&gl=IN&ceid=IN:mr
+la184|news|general|الماراثية|United States|https://news.google.com/rss/search?q=United States&hl=mr&gl=IN&ceid=IN:mr
+la185|news|general|الماراثية|Uruguay|https://news.google.com/rss/search?q=Uruguay&hl=mr&gl=IN&ceid=IN:mr
+la186|news|general|الماراثية|Uzbekistan|https://news.google.com/rss/search?q=Uzbekistan&hl=mr&gl=IN&ceid=IN:mr
+la187|news|general|الماراثية|Vanuatu|https://news.google.com/rss/search?q=Vanuatu&hl=mr&gl=IN&ceid=IN:mr
+la188|news|general|الماراثية|Venezuela|https://news.google.com/rss/search?q=Venezuela&hl=mr&gl=IN&ceid=IN:mr
+la189|news|general|الماراثية|Vietnam|https://news.google.com/rss/search?q=Vietnam&hl=mr&gl=IN&ceid=IN:mr
+la190|news|general|الماراثية|Yemen|https://news.google.com/rss/search?q=Yemen&hl=mr&gl=IN&ceid=IN:mr
+la191|news|general|الماراثية|Zambia|https://news.google.com/rss/search?q=Zambia&hl=mr&gl=IN&ceid=IN:mr
+la192|news|general|الماراثية|Zimbabwe|https://news.google.com/rss/search?q=Zimbabwe&hl=mr&gl=IN&ceid=IN:mr
