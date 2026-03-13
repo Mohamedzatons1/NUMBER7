@@ -1,0 +1,52 @@
+name: Data Cron Job
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # 👈 هيشتغل كل ساعتين
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60 # أقصى وقت للتشغيل عشان لو هنج يفصل نفسه
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip' 
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Bot Script
+        env:
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+        run: python main.py
+
+      - name: Commit and Push Changes
+        if: always() # 👈 السطر السحري: هيرفع الفولدر حتى لو السكريبت وقف أو فشل
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 👈 التعديل الأهم: رفع فولدر News_Output وكل ملفات الجيسون والفهرس اللي جواه
+          git add News_Output/
+          
+          if git diff --staged --quiet; then
+            echo "No changes in News_Output, skipping push."
+            exit 0
+          fi
+          git commit -m "Update News_Output files and index - $(date -u)"
+          git pull origin main --rebase -X theirs
+          git push origin main
