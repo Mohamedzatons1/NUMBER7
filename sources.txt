@@ -1,1 +1,7 @@
 
+la001|news|general|الماراثية|Afghanistan|https://news.google.com/rss/search?q=Afghanistan&hl=mr&gl=IN&ceid=IN:mr
+la002|news|general|الماراثية|Albania|https://news.google.com/rss/search?q=Albania&hl=mr&gl=IN&ceid=IN:mr
+la003|news|general|الماراثية|Algeria|https://news.google.com/rss/search?q=Algeria&hl=mr&gl=IN&ceid=IN:mr
+la004|news|general|الماراثية|Andorra|https://news.google.com/rss/search?q=Andorra&hl=mr&gl=IN&ceid=IN:mr
+la005|news|general|الماراثية|Angola|https://news.google.com/rss/search?q=Angola&hl=mr&gl=IN&ceid=IN:mr
+la006|news|general|الماراثية|Antigua and Barbuda|https://news.google.com/rss/search?q=Antigua and Barbuda&hl=mr&gl=IN&ceid=IN:mr
