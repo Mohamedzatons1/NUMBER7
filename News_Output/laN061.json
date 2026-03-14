@@ -530,5 +530,24 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.cntraveller.com/gallery/hotels-south-of-france",
+    "title": "The best hotels in the South of France",
+    "description": "The best hotels in the South of France  CN Traveller",
+    "url": "https://www.cntraveller.com/gallery/hotels-south-of-france",
+    "image": "https://media.cntraveller.com/photos/68877d9794cc46e2c7c7d182/16:9/w_1280,c_limit/LILY%20OF%20THE%20VALLEY%20JULY%2025%20Lily%20of%20the%20Valley_Iconic%20view%201.jpg",
+    "timestamp": 1773154800000,
+    "source": "CN Traveller",
+    "publisher_id": "www.cntraveller.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PZ2ZJVVk5TmZnLTNYU2dZelE2MVVqZGVkMktYMmFPN1B5MDdLRlNiZ2ZlNlBYWjI4ejNuNnZFUkNWdmpEb2VDSUpfNE9LTmxLa29qRVF1SnJTMXdTc3k4YUlseTdxczRmTEE?oc=5",
+    "rssid": "laN061",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "France",
+    "likes": 0,
+    "comments": 0
   }
 ]

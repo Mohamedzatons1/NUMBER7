@@ -207,5 +207,24 @@
     "extra": "Togo",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.hi.org/en/news/in-togo-hi-supports-victims-of-armed-violence-in-the-sahel",
+    "title": "In Togo, HI supports victims of armed violence in the Sahel",
+    "description": "In Togo, HI supports victims of armed violence in the Sahel  hi.org",
+    "url": "https://www.hi.org/en/news/in-togo-hi-supports-victims-of-armed-violence-in-the-sahel",
+    "image": "https://www.hi.org/sn_uploads/federation/news/Kati-et-ses-enfants.jpg",
+    "timestamp": 1773126000000,
+    "source": "hi.org",
+    "publisher_id": "www.hi.org",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTFRPZzRSa1BrT0xxekVLT2U3dGkzYXNRS0ptenhqYUNkbkdDcGJRaENza3llNzh1bXpKbjVfWjNNOFNLbklSYUJLR2VtUGdIa0hPZ2dlWktQM0otSjJDcUliQk90UnJiNHk2MXdYT21XSjN6RXJRZFQ5MGV2VnhGamVRUmhDWG9EajJnS0lB?oc=5",
+    "rssid": "laN173",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "Togo",
+    "likes": 0,
+    "comments": 0
   }
 ]
