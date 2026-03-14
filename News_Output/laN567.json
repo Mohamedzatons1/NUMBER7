@@ -321,5 +321,24 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.delfi.lt/naujienos/uzsienyje/karas-ukrainoje-stubbas-irano-karas-ukrainai-gali-buti-naudingas-120221113",
+    "title": "Karas Ukrainoje. Po sėkmingų ukrainiečių manevrų Pokrovske Rusija išveda elitines pajėgas",
+    "description": "Karas Ukrainoje. Po sėkmingų ukrainiečių manevrų Pokrovske Rusija išveda elitines pajėgas  Delfi",
+    "url": "https://www.delfi.lt/naujienos/uzsienyje/karas-ukrainoje-stubbas-irano-karas-ukrainai-gali-buti-naudingas-120221113",
+    "image": "https://images.delfi.lt/media-api-image-cropper/v1/6788e02e-1a2c-4ad8-8ae6-a9fccb0dc130.jpg?w=1200&h=800&fx=0.436364&fy=0.591406",
+    "timestamp": 1772948460000,
+    "source": "Delfi",
+    "publisher_id": "www.delfi.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTU5jSWxwc19XUGtaRlZtX3VWVkMzLXBtYWU5UnI4bTlYQVNZQkFKazN0eURyTkUzUDU4cmxhRmNXNGlidzlhajcxZWI4VGVHUENWWG1mdUJGUDhwUjNLNl9Vc3BTZ2w3RmRaZGFVVHk5aktWWUIxN3lTX2dUbjZ5ZnpkV1lJN3Q4cGFBbF9XdVJ6Q2xjZlRYQTZoaFc5dlcwak8tVk9DVkVaWEpGVlZvWHRRY1N1UQ?oc=5",
+    "rssid": "laN567",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Ukraine",
+    "likes": 0,
+    "comments": 0
   }
 ]
