@@ -549,5 +549,24 @@
     "extra": "Egypt",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.cdc.gov/global-health/countries/egypt.html",
+    "title": "CDC in Egypt",
+    "description": "CDC in Egypt  Centers for Disease Control and Prevention | CDC (.gov)",
+    "url": "https://www.cdc.gov/global-health/countries/egypt.html",
+    "image": "https://www.cdc.gov/global-health/media/images/flag_egypt.png?_=08069",
+    "timestamp": 1773039600000,
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "publisher_id": "www.cdc.gov",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2dEJpNTNyel9HWkV6LW90NkU2WHFocXA5RUZUWHljUWR4ZTJsTWdxSHo0eGhXQzhuSmpqUzk1OFNXUXJYTllWMEw5TldEWV94c2lxNF9WWjR3VUJXRWZPYUpmeDk?oc=5",
+    "rssid": "laN052",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "Egypt",
+    "likes": 0,
+    "comments": 0
   }
 ]
