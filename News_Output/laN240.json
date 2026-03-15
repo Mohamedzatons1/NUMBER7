@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "https://www.globes.co.il/news/article.aspx?did=1000617018",
+    "title": "Israel Railways returns carriages to service",
+    "description": "Israel Railways returns carriages to service  גלובס",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1000617018",
+    "image": "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1610278111/Digital/share/sharearchive_y6xfco.jpg",
+    "timestamp": 1773578618000,
+    "source": "גלובס",
+    "publisher_id": "www.globes.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjV0RGUWhpSzdvRWRoVGd0LWdOZTZqMjhWVDlLYkFORmdfalhYRkdva0tjWnNiQnEzX2tmaW94S0xyb196ZzJBeGtJTkF6aFlSOWJKemZFVU0wTlJMZDQyT3J0ZE5LbzFJ?oc=5",
+    "rssid": "laN240",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Denmark",
+    "likes": 0,
+    "comments": 0
+  }
+]

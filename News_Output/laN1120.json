@@ -55,5 +55,24 @@
     "extra": "Slovakia",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.bbc.com/marathi/articles/cx2lk39p4w9o",
+    "title": "ओमानमध्ये मृत्युमुखी पडलेल्या मुलाच्या पार्थिवाच्या प्रतीक्षेत मुंबईतलं कुटुंब",
+    "description": "ओमानमध्ये मृत्युमुखी पडलेल्या मुलाच्या पार्थिवाच्या प्रतीक्षेत मुंबईतलं कुटुंब  BBC",
+    "url": "https://www.bbc.com/marathi/articles/cx2lk39p4w9o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_marathi/1d94/live/8c4038b0-1df8-11f1-b048-c9424b2cf5fd.jpg",
+    "timestamp": 1773309777000,
+    "source": "BBC",
+    "publisher_id": "www.bbc.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfUklWMjlKQXR2RUpkbnVQSHJzdzZMc0RVSVp3Nmx0MTlIbUFaRHQ3RmU1TDJYNUd4dFd5eE5WNTMwUy13aHRKM09wMERQSlNVbW1TUlNOR2NYOWMwaFHSAWNBVV95cUxPWl9oZWpMM2tYaWNBS1ZnY3V0cUloN3RTaFo2bmRYMWVFVVNQc1I3eTNjOVRFbG4zWlFTVzBkaERKUl85dWMwdGstQUp3R3Jud2o2SGdOV2xTQVJ2dXI5ZmhrMkE?oc=5",
+    "rssid": "laN1120",
+    "topic": "news",
+    "lang": "general",
+    "category": "الماراثية",
+    "extra": "Slovakia",
+    "likes": 0,
+    "comments": 0
   }
 ]
