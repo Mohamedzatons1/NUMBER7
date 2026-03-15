@@ -36,5 +36,24 @@
     "extra": "Latvia",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/14zyw7s-military-exercises-launched-in-latvia?language=lt",
+    "title": "Military Exercises Launched in Latvia",
+    "description": "Military Exercises Launched in Latvia  Inbox.lv",
+    "url": "https://news.inbox.lv/14zyw7s-military-exercises-launched-in-latvia?language=lt",
+    "image": "https://news.inbox.eu/w/img/9f/35/9f35d5f1da146355fd.webp",
+    "timestamp": 1773068433000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVTJRZC00NkFFVldBUTJ1UFN1Z0RKU3Fqb2htWVZzTFNaSG9JVDd2YUVVY25pdGdMR0pmTDJqMVdkNTVRaXd3b2x0XzMwV1JpOUpWSG0wUGYzcTBqRFFSZnFEUWRHQV83NjQ4djhCX0JZaWs1TFlyM1NHSEUyY29DRkZyTWdTUQ?oc=5",
+    "rssid": "laN478",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Latvia",
+    "likes": 0,
+    "comments": 0
   }
 ]
