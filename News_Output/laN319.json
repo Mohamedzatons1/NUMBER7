@@ -188,5 +188,24 @@
     "extra": "North Korea",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.jdn.co.il/news/2603505/",
+    "title": "סער: \"טראמפ פעל ברגע הנכון – בניגוד למה שקרה עם צפון קוריאה\"",
+    "description": "סער: \"טראמפ פעל ברגע הנכון – בניגוד למה שקרה עם צפון קוריאה\"  JDN",
+    "url": "https://www.jdn.co.il/news/2603505/",
+    "image": "https://www.jdn.co.il/wp-content/uploads/2026/03/צילום-מסך-2026-03-09-075601.jpg",
+    "timestamp": 1773036047000,
+    "source": "JDN",
+    "publisher_id": "www.jdn.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXV25RdjF2UVdHRDNJd0ZhdFd6VGFFYXd0cnhVNEIwWUoxNkdUY0F3cnh2MWIzWDV4Sl9WS1pPbEZYYXhsOUdibUNMVQ?oc=5",
+    "rssid": "laN319",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "North Korea",
+    "likes": 0,
+    "comments": 0
   }
 ]
