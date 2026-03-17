@@ -511,43 +511,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3822709",
-    "title": "גרמניה: פעיל חמאס נעצר בקפריסין בחשד שרכש נשק לפיגועים",
-    "description": "גרמניה: פעיל חמאס נעצר בקפריסין בחשד שרכש נשק לפיגועים  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3822709",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/0/6/4006467-46.jpg",
-    "timestamp": 1773138840000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xLXUzNTlCQ1p2anZJSC1uTWEwMU5IMWstZjgwRUNsOEprV0REeE1wT0g1REhfWHVYM0VFWWZfdXpCQkcxWF8xcmRaMDRXZw?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YNHhMV3NoV3RLWWxPbWZxeHo1MlBXOV94SnZRQngtVzhsbVh5ajRMeG1heE5teVVYeFlMVG1HMzVGNWtkdzRuSy1pVWcyZ21MWC1GSS0xbC1CU0hpemRWbA?oc=5",
-    "title": "הודעה קולית לשום מקום: הפדיחה של קנצלר גרמניה שמרתיחה את ספרד",
-    "description": "הודעה קולית לשום מקום: הפדיחה של קנצלר גרמניה שמרתיחה את ספרד  מעריב",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YNHhMV3NoV3RLWWxPbWZxeHo1MlBXOV94SnZRQngtVzhsbVh5ajRMeG1heE5teVVYeFlMVG1HMzVGNWtkdzRuSy1pVWcyZ21MWC1GSS0xbC1CU0hpemRWbA?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1773130800000,
-    "source": "מעריב",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YNHhMV3NoV3RLWWxPbWZxeHo1MlBXOV94SnZRQngtVzhsbVh5ajRMeG1heE5teVVYeFlMVG1HMzVGNWtkdzRuSy1pVWcyZ21MWC1GSS0xbC1CU0hpemRWbA?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
