@@ -606,43 +606,5 @@
     "extra": "Bhutan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.bitcoin.com/bhutan-executes-11-85m-bitcoin-transfer-as-royal-government-repositions-btc-holdings/",
-    "title": "Bhutan Executes $11.85M Bitcoin Transfer as Royal Government Repositions BTC Holdings",
-    "description": "Bhutan Executes $11.85M Bitcoin Transfer as Royal Government Repositions BTC Holdings  Bitcoin.com News",
-    "url": "https://news.bitcoin.com/bhutan-executes-11-85m-bitcoin-transfer-as-royal-government-repositions-btc-holdings/",
-    "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/03/bhutstts.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARQKIT2TMGZBKV2L6%2F20260309%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260309T202945Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=f27a295a286609f5755cf09a6abb312034da5ceb942caa3177508546fe259a10",
-    "timestamp": 1773106203000,
-    "source": "Bitcoin.com News",
-    "publisher_id": "news.bitcoin.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDJwd0dCZzZKVmpreExISkZWcy1Hak83QmM0bUFaa215M0JIZTFqZ2tCNVpJTzRZMXZTVFE3SUVjUTM0SnJlRVV3VTdKYmJpQURBQVVBYkc2ZG9OMGlXazlQU2hoT2dQNVFZd0lNLWlXdmdSNm5XX1A4ZTdhZkFubWhuVXJJeHZnSXdndHpjU1ZvbDFCNjlUemJadHlYX0JBVURWT21LRGNsTXloOWdz?oc=5",
-    "rssid": "laN020",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bhutan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://blogs.sydneysbuzz.com/bhutans-oscar-submission-2026-best-international-feature-i-the-song-by-dechen-roder-bea0ab095fef",
-    "title": "Bhutan’s Oscar Submission 2026 Best International Feature: ‘I, the Song’ by Dechen Roder",
-    "description": "Bhutan’s Oscar Submission 2026 Best International Feature: ‘I, the Song’ by Dechen Roder  sydneysbuzz",
-    "url": "https://blogs.sydneysbuzz.com/bhutans-oscar-submission-2026-best-international-feature-i-the-song-by-dechen-roder-bea0ab095fef",
-    "image": "https://miro.medium.com/v2/resize:fit:1200/0*SGXa3x4YYd8SyjD4.png",
-    "timestamp": 1773101288000,
-    "source": "sydneysbuzz",
-    "publisher_id": "blogs.sydneysbuzz.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2JYb29BbS1FVWRXRVVoZTJNdkJTMkU4MDFGSWd0akY1Q21WcGJXUlYxRWxCS1BFZURyRmwtWWs3QjdiN0FNSkVRaURUZWdOMU4tWEpGaWI0RXZFMTRZeFVJYnhBTHFPX2xQSmhHdlROTTJUR21aRHQ3TGJYamdvV0U5czJhdGRaQkR6VXlwTm9MSzQ5VF9wLWU5bkVkXzY0eE9nOXhXTzFnY2RtdTJQclNPaVoxNW5IOURYakZOVXJmakhG?oc=5",
-    "rssid": "laN020",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bhutan",
-    "likes": 0,
-    "comments": 0
   }
 ]
