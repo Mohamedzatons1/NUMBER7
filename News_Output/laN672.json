@@ -169,5 +169,43 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/14zz7si-lebanese-displaced-by-israeli-strikes-speak-to-france-24?language=lv",
+    "title": "Lebanese displaced by Israeli strikes speak to FRANCE 24",
+    "description": "Lebanese displaced by Israeli strikes speak to FRANCE 24  Inbox.lv",
+    "url": "https://news.inbox.lv/14zz7si-lebanese-displaced-by-israeli-strikes-speak-to-france-24?language=lv",
+    "image": "https://news.inbox.eu/w/img/98/9d/989d8f7916cce7ca30.jpg",
+    "timestamp": 1773232692000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTZraG5uU1Q2emxVdG5pMGszU200aDktOGtwMjNrZXRWU0RQMDJZWUtIYldnWFZDUGpIdVdtQ25RZnlSUjlMVFRmZEs0RkpWdV9kVW1iMXhlbGRRZG5yVFdVbDZyNEtnQUZ2Nzk4R0NWLS1CUG1ZbzB2dXNCNFh5b0VOYTVJRTRhS1h2TEZFZHBWVGNrMnVNMl9IN3I2ckU?oc=5",
+    "rssid": "laN672",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Lebanon",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/14zz7do-central-beirut-targeted-by-israeli-strikes-for-second-time-since-war-started?language=lv",
+    "title": "Central Beirut targeted by Israeli strikes for second time since war started",
+    "description": "Central Beirut targeted by Israeli strikes for second time since war started  Inbox.lv",
+    "url": "https://news.inbox.lv/14zz7do-central-beirut-targeted-by-israeli-strikes-for-second-time-since-war-started?language=lv",
+    "image": "https://news.inbox.eu/w/img/30/10/30108625ce3f539071.jpg",
+    "timestamp": 1773229522000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVp3R3JFQ09iVGMxZTlYX0NwMHpDQ09lQ3R1X3B3TGNuY0NVZk9aUlNIOUdIX19aM3A1a2VjQVJNaVNwYkl6UklGX0RqMFItS3ZGRHB5UlFpLU5GNU1tc2xkYlVLWjdsRGlSdUVlMXU5dEtfYVdZVXIxd1RnQjR0R1NjWWNZWGpUX1g2ZnBLTDBUdXZUN2ZKc3FuYWRSTTJva2VpblN5cGZJR1FlWTRyUEpMclgwOUNNM1E?oc=5",
+    "rssid": "laN672",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Lebanon",
+    "likes": 0,
+    "comments": 0
   }
 ]

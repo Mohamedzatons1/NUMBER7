@@ -416,43 +416,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxWDBRU1o2dVFkdHYwbWRmSGZTMHF0cEQzV0t2VVBFNG9MMkZhVFBDVFB0UEJpTnpTbk5QN3pMRUxXVGhpR3BGaUFQMA?oc=5",
-    "title": "סיבוב הפרסה של קנצלר גרמניה על המלחמה: \"אני מודאג\"",
-    "description": "סיבוב הפרסה של קנצלר גרמניה על המלחמה: \"אני מודאג\"  בחדרי חרדים",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxWDBRU1o2dVFkdHYwbWRmSGZTMHF0cEQzV0t2VVBFNG9MMkZhVFBDVFB0UEJpTnpTbk5QN3pMRUxXVGhpR3BGaUFQMA?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1773169500000,
-    "source": "בחדרי חרדים",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxWDBRU1o2dVFkdHYwbWRmSGZTMHF0cEQzV0t2VVBFNG9MMkZhVFBDVFB0UEJpTnpTbk5QN3pMRUxXVGhpR3BGaUFQMA?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91dHFOc3dDUGFISDJkNjNsTUVfZ2QzWExsV3JpekVRZ19PZllBM0REbVhXZVhqUy1pUktmcXFtS3FUVFhx?oc=5",
-    "title": "השליח לקנצלר גרמניה: \"ברגע האמת הוכחת מהי ידידות אמת\"",
-    "description": "השליח לקנצלר גרמניה: \"ברגע האמת הוכחת מהי ידידות אמת\"  חב״ד און ליין",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91dHFOc3dDUGFISDJkNjNsTUVfZ2QzWExsV3JpekVRZ19PZllBM0REbVhXZVhqUy1pUktmcXFtS3FUVFhx?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1773159786000,
-    "source": "חב״ד און ליין",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91dHFOc3dDUGFISDJkNjNsTUVfZ2QzWExsV3JpekVRZ19PZllBM0REbVhXZVhqUy1pUktmcXFtS3FUVFhx?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
