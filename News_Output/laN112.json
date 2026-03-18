@@ -1138,24 +1138,5 @@
     "extra": "Monaco",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/world/europe/prince-albert-of-monaco-fast-facts",
-    "title": "Prince Albert of Monaco Fast Facts",
-    "description": "Prince Albert of Monaco Fast Facts  CNN",
-    "url": "https://www.cnn.com/world/europe/prince-albert-of-monaco-fast-facts",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/141211154356-prince-albert-ii-and-charlene-wittstock.jpg?q=h_360,w_640,x_0,y_0,c_crop/h_576,w_1024,c_lpad,b_rgb:061015/w_800",
-    "timestamp": 1773248880000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04OVgtZi1ISEwwckJXcEMzb1RrT1VyNWZPc1ZUZ3pmYTEza19XNXRUZnZ1QUVBOXRTQ093dHgwc2E5M0hNd2pWLXhYd2VkTFg4ZU9xOVh2UWEwbXlBRFg3VGlhV0tfMENMWkxhZVNCSUVKaFQtQnc?oc=5",
-    "rssid": "laN112",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Monaco",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -2316,24 +2316,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onu.delegfrance.org/situation-in-lebanon",
-    "title": "The situation in Lebanon",
-    "description": "The situation in Lebanon  France ONU",
-    "url": "https://onu.delegfrance.org/situation-in-lebanon",
-    "image": "https://onu.delegfrance.org/IMG/arton16231.jpg?1773239029",
-    "timestamp": 1773239123000,
-    "source": "France ONU",
-    "publisher_id": "onu.delegfrance.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wcUhwNjE5WnNaQmZiaTZBaWdOV3RoUkZfVmZGQkoyRUpFeElDRHM2ZTlKbGlGamczSEFncE0xVVNCY05kRzFHanNYMnZ1NGItUzdMQzJaQ3pBdldt?oc=5",
-    "rssid": "laN093",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
