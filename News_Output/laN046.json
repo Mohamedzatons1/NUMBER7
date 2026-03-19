@@ -397,24 +397,5 @@
     "extra": "Democratic Republic of the Congo",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.un.org/en/story/2026/03/1167125",
-    "title": "World News in Brief: Deadly drone attacks in Sudan, violence against women in the spotlight, more clashes in DR Congo",
-    "description": "World News in Brief: Deadly drone attacks in Sudan, violence against women in the spotlight, more clashes in DR Congo  UN News",
-    "url": "https://news.un.org/en/story/2026/03/1167125",
-    "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/18-02-2026-UNICEF-Sudan-04.jpg/image770x420cropped.jpg",
-    "timestamp": 1773345799000,
-    "source": "UN News",
-    "publisher_id": "news.un.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Sa0g3dlZUU2dEcmpIWmkwZm5tWGF2NVd3YjB5WE42MXoyX3NSNGs1RVkyM0U1MjhkeTRnLVdWWGNXZTlMNmpjQ2R2UFFpdFZGajJDWGJtMA?oc=5",
-    "rssid": "laN046",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Democratic Republic of the Congo",
-    "likes": 0,
-    "comments": 0
   }
 ]

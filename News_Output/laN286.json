@@ -3285,43 +3285,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFByWHF0MUY3OGdGV3I3VjRYTm94SDNJaUl5N2tLMmZ6bEhhNEtPZ2xJU3EyOXlhMXgwMl8teU9MSDVJdGU0eWdv?oc=5",
-    "title": "בג\"ץ הורה למדינה לפצות את 19 היישובים הסמוכים לגבול לבנון שלא פונו ב'חרבות ברזל'",
-    "description": "בג\"ץ הורה למדינה לפצות את 19 היישובים הסמוכים לגבול לבנון שלא פונו ב'חרבות ברזל'  davar1.co.il",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFByWHF0MUY3OGdGV3I3VjRYTm94SDNJaUl5N2tLMmZ6bEhhNEtPZ2xJU3EyOXlhMXgwMl8teU9MSDVJdGU0eWdv?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1773345660000,
-    "source": "davar1.co.il",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFByWHF0MUY3OGdGV3I3VjRYTm94SDNJaUl5N2tLMmZ6bEhhNEtPZ2xJU3EyOXlhMXgwMl8teU9MSDVJdGU0eWdv?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/ryoeytx9wx",
-    "title": "\"הלחימה בצפון עשויה להמשיך גם אחרי סיום המערכה מול איראן\"",
-    "description": "\"הלחימה בצפון עשויה להמשיך גם אחרי סיום המערכה מול איראן\"  ynet",
-    "url": "https://www.ynet.co.il/news/article/ryoeytx9wx",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/12/rkj1128g5Ze/rkj1128g5Ze_0_0_3000_1689_0_large.jpg",
-    "timestamp": 1773342947000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1na3pyX0s4S2tZREJJX002cjJLd3J0Q0RVcGNaWUU5ZHAwOTAwRmxmYkJkOE5yQS1RN2JVaVIxM0hqMmlsb3lHY2ZQdGVON1JneXdNaHpsWFdoZw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
