@@ -36,5 +36,24 @@
     "extra": "Albania",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.walla.co.il/item/3824452",
+    "title": "הפרלמנט קבע: אלבניה הגדירה את איראן כמדינה תומכת טרור",
+    "description": "הפרלמנט קבע: אלבניה הגדירה את איראן כמדינה תומכת טרור  וואלה חדשות",
+    "url": "https://news.walla.co.il/item/3824452",
+    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/4/3/1/3431629-46.jpg",
+    "timestamp": 1773761820000,
+    "source": "וואלה חדשות",
+    "publisher_id": "news.walla.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fVWppVURVQldNS3NvWlhjc1B0VGpJTi1CSU13SG1Hbi11NEo0QTBZY3B4M2l1UmViZ3ZTWDVGcVBiYURRdDd1d2Fja2Z5UQ?oc=5",
+    "rssid": "laN195",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Albania",
+    "likes": 0,
+    "comments": 0
   }
 ]
