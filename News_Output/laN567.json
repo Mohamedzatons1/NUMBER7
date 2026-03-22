@@ -720,43 +720,5 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/karas-ukrainoje-ukraina-smoge-objektams-rusijoje-kuriais-naudojasi-rusu-kariuomene-120223794",
-    "title": "Karas Ukrainoje. Zelenskis teigia, kad Ukraina sužlugdė Rusijos puolimą",
-    "description": "Karas Ukrainoje. Zelenskis teigia, kad Ukraina sužlugdė Rusijos puolimą  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/karas-ukrainoje-ukraina-smoge-objektams-rusijoje-kuriais-naudojasi-rusu-kariuomene-120223794",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/c263286d-c2f1-457c-bab1-e896ee10d030.jpg?w=1200&h=800",
-    "timestamp": 1773602485000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDdfSUxfQUE2NUJYUlRoWG9vb1J0RFhWY2RLNnVvdVlzYV9uSnNLYWl6a2JVWGJHT0lic25nQ3dyblZ5X3otc2JsdEZReVZGLTd0Wk9fVmVBaE9uOS1QdHpsbEFrOGphUVN2ZDI4U0ljaUlXRWNzR0xCVkdvdmdveGkyVVhBSmRtMGhHc0h2X25fZ2Z2OEhfaXo5eWV3SnpnLXBGbjRsYmp5ZHVvNGpDQkItQ1dUWlZnT08zaTRQS25JbnV3RGZjYUdWSGsxQQ?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.lrt.lt/naujienos/pasaulyje/6/2834191/kaip-krymas-tapo-nepriklausomos-ukrainos-dalimi-9-ojo-desimtmecio-ivykiai",
-    "title": "Kaip Krymas tapo nepriklausomos Ukrainos dalimi: 9-ojo dešimtmečio įvykiai",
-    "description": "Kaip Krymas tapo nepriklausomos Ukrainos dalimi: 9-ojo dešimtmečio įvykiai  LRT",
-    "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2834191/kaip-krymas-tapo-nepriklausomos-ukrainos-dalimi-9-ojo-desimtmecio-ivykiai",
-    "image": "https://www.lrt.lt/img/2026/02/09/2310640-691008-1287x836.jpg",
-    "timestamp": 1773602400000,
-    "source": "LRT",
-    "publisher_id": "www.lrt.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUVoeFNpelhrXzV3RlFNMjN1dzdObnhFYnEtSjZrbnlSYVp3Sk1QUGNNelJ6VHM2c01aOWR2QUtYelZlLW52aXRFdnU2ckNidzFzSW4zdWw5bjZoejh1blIxaVdCUGtXVUdVX2U3S3ZXUkgwbjNwRGNrai1CWldyeGtGWVFqdWN5ajhpeVdoSGR3WWNxRzBmTklWWTBvYnZsOWRsa24xcU1FTTd0Y1lIZ1V6THBIOGtXYzZWaWFrNA?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
   }
 ]
