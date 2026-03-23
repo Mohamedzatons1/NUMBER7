@@ -511,43 +511,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hNnMxV3RoRG1wMjN0Y1FwYjRxUE9jTVJPcDZ6dmEyQ3NIVWMyN3dKSmhPSnItOTlmTWhfVzM0UmdBcDY3RlozbQ?oc=5",
-    "title": "צרפת מנסה לקדם מהלך מדיני בין ישראל ללבנון; בירושלים מבהירים: כוונת ישראל היא להמשיך במבצע",
-    "description": "צרפת מנסה לקדם מהלך מדיני בין ישראל ללבנון; בירושלים מבהירים: כוונת ישראל היא להמשיך במבצע  אפוק",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hNnMxV3RoRG1wMjN0Y1FwYjRxUE9jTVJPcDZ6dmEyQ3NIVWMyN3dKSmhPSnItOTlmTWhfVzM0UmdBcDY3RlozbQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1773652234000,
-    "source": "אפוק",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hNnMxV3RoRG1wMjN0Y1FwYjRxUE9jTVJPcDZ6dmEyQ3NIVWMyN3dKSmhPSnItOTlmTWhfVzM0UmdBcDY3RlozbQ?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZjB1MTBUM3dLTTlkSnlIX3lWcFJGM2tGN1Z4UmdlMURxREpMSThQd1BDZ0hJUGJZSURrM3kzY1ZWSjJPYW9aZlV0dw?oc=5",
-    "title": "מקרון לא ציפה לזה: משבר חמור בצרפת בגלל המלחמה עם איראן",
-    "description": "מקרון לא ציפה לזה: משבר חמור בצרפת בגלל המלחמה עם איראן  כיכר השבת",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZjB1MTBUM3dLTTlkSnlIX3lWcFJGM2tGN1Z4UmdlMURxREpMSThQd1BDZ0hJUGJZSURrM3kzY1ZWSjJPYW9aZlV0dw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1773651614000,
-    "source": "כיכר השבת",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZjB1MTBUM3dLTTlkSnlIX3lWcFJGM2tGN1Z4UmdlMURxREpMSThQd1BDZ0hJUGJZSURrM3kzY1ZWSjJPYW9aZlV0dw?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]

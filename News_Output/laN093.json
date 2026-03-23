@@ -2582,43 +2582,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.un.org/en/story/2026/03/1167137",
-    "title": "MIDDLE EAST LIVE 16 March: UN scales up aid as crisis deepens into third week",
-    "description": "MIDDLE EAST LIVE 16 March: UN scales up aid as crisis deepens into third week  UN News",
-    "url": "https://news.un.org/en/story/2026/03/1167137",
-    "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-03-2026_WFP_Lebanon.jpg/image770x420cropped.jpg",
-    "timestamp": 1773644973000,
-    "source": "UN News",
-    "publisher_id": "news.un.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94LV9ucXhlVUZVT1FYNTJDM2hnTTNWQWIyMWJnNzRwUlV5NVdJVlZPTDhKYzQzQ3Mtc0lOWU9ZNUFBYWpnWWZuQTl5UUFuLWV3R0RPd2xKYw?oc=5",
-    "rssid": "laN093",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.jpost.com/israel-news/defense-news/article-890077",
-    "title": "IDF targets Hezbollah positions in southern Lebanon",
-    "description": "IDF targets Hezbollah positions in southern Lebanon  The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/defense-news/article-890077",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/711526",
-    "timestamp": 1773644036000,
-    "source": "The Jerusalem Post",
-    "publisher_id": "www.jpost.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16TG4zOEkyaXFYOFM3VzNEVDkySG12eDBlNHJnSW9yelJlYnlIb29SR2RjSkx6aGhoQmk0c3p1X3BzMU5NcUFTVndLaWc4NF9rTUhjNnFTalg2UVNQak55Z0J0VnJ0WFhaN1V3QU5R?oc=5",
-    "rssid": "laN093",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
