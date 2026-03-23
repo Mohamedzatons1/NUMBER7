@@ -1328,43 +1328,5 @@
     "extra": "El Salvador",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://laist.com/brief/news/ice-el-salvador-corridor-how-street-vendors-look-out-for-each-other",
-    "title": "El Salvador Corridor",
-    "description": "El Salvador Corridor  LAist",
-    "url": "https://laist.com/brief/news/ice-el-salvador-corridor-how-street-vendors-look-out-for-each-other",
-    "image": "https://scpr.brightspotcdn.com/dims4/default/970cd2d/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi0.wp.com%2Fthelalocal.org%2Fwp-content%2Fuploads%2F2026%2F01%2Ffbb42d5f-permalink.jpg%3Ffit%3D1024%2C683%26ssl%3D1",
-    "timestamp": 1773682560000,
-    "source": "LAist",
-    "publisher_id": "laist.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUt5ek1sOGxUT05ZRGFjRGZxQXpyb0JjWmdobWppbkhrTFczT0tLWGVKd0s4Z1pfX3E4SFFQRWYtSHNzOWFPNVVuQUdMV0xvc3IzYXFCdlg0ZGhiZ2JDelNsM2NtRnZWM19aMVVrSnQxNTZwV3VyMEJmbmYyYnE2cGY2ZWhlcm5uSV9wUWgyWDg2R3RSS3V4eVQzY1Q?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://laist.com/news/ice-el-salvador-corridor-how-street-vendors-look-out-for-each-other",
-    "title": "ICE isn’t stopping the El Salvador Corridor. How these street vendors look out for each other",
-    "description": "ICE isn’t stopping the El Salvador Corridor. How these street vendors look out for each other  LAist",
-    "url": "https://laist.com/news/ice-el-salvador-corridor-how-street-vendors-look-out-for-each-other",
-    "image": "https://scpr.brightspotcdn.com/dims4/default/970cd2d/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi0.wp.com%2Fthelalocal.org%2Fwp-content%2Fuploads%2F2026%2F01%2Ffbb42d5f-permalink.jpg%3Ffit%3D1024%2C683%26ssl%3D1",
-    "timestamp": 1773682200000,
-    "source": "LAist",
-    "publisher_id": "laist.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjE5WGdqb1duSDFLbDdIUEhYS01jT3Z6NEhYLUJuZTk0eFNpT28tS05JdnFPVEtyLXNnWDNGVkg3REx1TC1QdDlGaEI1TG1XUGJld19KN1l0T2lhVTVtZi1GT3JRRkhTbWdHSlZDTk9wMnZyNTdhOWFYY3c4Tkpnc0xZSURpQUVKbFdKVTZNNWFIb1E0?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
   }
 ]
