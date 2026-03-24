@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "https://www.delfi.lt/naujienos/uzsienyje/tonga-supurte-stiprus-7-6-balo-zemes-drebejimas-120227796",
+    "title": "Tongą supurtė stiprus 7,6 balo žemės drebėjimas",
+    "description": "Tongą supurtė stiprus 7,6 balo žemės drebėjimas  Delfi",
+    "url": "https://www.delfi.lt/naujienos/uzsienyje/tonga-supurte-stiprus-7-6-balo-zemes-drebejimas-120227796",
+    "image": "https://images.delfi.lt/media-api-image-cropper/v1/f95dff16-f9f3-4d90-bcf9-ca7e61d0c1c2.jpg?w=1200&h=800&ch=0.8224&cw=1&cx=0&cy=0.1776",
+    "timestamp": 1774334294000,
+    "source": "Delfi",
+    "publisher_id": "www.delfi.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTR2MnNuR01RRzJGUldLeW5DVTAtTzF5V3JaZzZwc05aelNYZGM1OHZxZzVIOHpCQ1hJMmtfZFZENzVzTnJ1RUxxTW80SUJlSTVQY0Y5X0NzejFVNjgxaWRtc0twb2d1SFNXa1hLU19UUExrTUhHSGNZLThoWU8yclFfTDNJdWZDUUxaME8yal9md1VHaEVnRE9QWWJxUjQ?oc=5",
+    "rssid": "laN560",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Tonga",
+    "likes": 0,
+    "comments": 0
+  }
+]
