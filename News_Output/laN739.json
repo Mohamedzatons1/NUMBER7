@@ -112,24 +112,5 @@
     "extra": "South Korea",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://tv3.lv/tv3mini/programma/2026-03-25/",
-    "title": "Programma",
-    "description": "Programma  tv3.lv",
-    "url": "https://tv3.lv/tv3mini/programma/2026-03-25/",
-    "image": "https://tv3cdn.lv/misc/tv3mini/bg-mini.jpg",
-    "timestamp": 1773873225000,
-    "source": "tv3.lv",
-    "publisher_id": "tv3.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aY2h2VktndWxNbEgtc2R2dVlBVU9mQ01kOHRDaG9ENlVHUWJjWUF6UmIzUHBQNDlOR0I3NHNhVmljWEI5TGQ1c29ReEU1RUpRRnpXYmd3Zw?oc=5",
-    "rssid": "laN739",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "South Korea",
-    "likes": 0,
-    "comments": 0
   }
 ]
