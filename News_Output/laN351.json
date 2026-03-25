@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "https://www.tesaaworld.com/he/news/united-nations-warns-strait-of-hormuz-disruptions-increase-famine-in-sudan-yemen-afghanistan-and-somalia",
+    "title": "האומות המאוחדות מזהירות: הפרעות במצר הורמוז מגבירות את הרעב בסודן, תימן, אפגניסטן וסומליה",
+    "description": "האומות המאוחדות מזהירות: הפרעות במצר הורמוז מגבירות את הרעב בסודן, תימן, אפגניסטן וסומליה  tesaaworld.com",
+    "url": "https://www.tesaaworld.com/he/news/united-nations-warns-strait-of-hormuz-disruptions-increase-famine-in-sudan-yemen-afghanistan-and-somalia",
+    "image": "https://csiohxuwzaiysttknbez.supabase.co/storage/v1/object/public/images/news-pictures/1000112966-08dc9289-8102-44ba-aa9d-4652966af7c6.jpg",
+    "timestamp": 1774401774000,
+    "source": "tesaaworld.com",
+    "publisher_id": "www.tesaaworld.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDRmRG1fWFdOMnlvS1daVG00R0w5SmU1V0NHbUpDLUpQT0xwVUpMLWQ3ZnVHcDBIODhmbHZUV3UzVGJ0OE9qZEtNY1NVd2g3UjdYWDZ0aGxwWkVxNE1nX1EzNnVrZHRWdm54OXc3ZURUYWNaRmdqWXVfZUY0WkQtTnVIbFh1VVpMeEZ5WmhYQkNiMVM2S2RiZ2JIbVNmeDMya0w3NjFJM3VFak81MFRnZWpuYy1VcVU3eDVvV2ZiVnZHU0prdUlBWWN1cktxQ2J5b3cwR0ZB?oc=5",
+    "rssid": "laN351",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Somalia",
+    "likes": 0,
+    "comments": 0
+  }
+]
