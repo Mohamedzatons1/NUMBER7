@@ -682,43 +682,5 @@
     "extra": "Mauritius",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://thecommonwealth.org/news/advances-for-bbnj-implementation-mauritius",
-    "title": "From commitment to action: Commonwealth advances BBNJ implementation in Mauritius",
-    "description": "From commitment to action: Commonwealth advances BBNJ implementation in Mauritius  thecommonwealth.org",
-    "url": "https://thecommonwealth.org/news/advances-for-bbnj-implementation-mauritius",
-    "image": "https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2026-03/Port%20Louis%2C%20Mauritius.jpg?VersionId=1P3SYI0KBjHx3nuldZ5CmAn8WmXNYlKM",
-    "timestamp": 1773833919000,
-    "source": "thecommonwealth.org",
-    "publisher_id": "thecommonwealth.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGJQdWdrZnNJU3ludklyMlJzdzE1alQ0bDZ6eDlGMmFWbVZ3QUp1Nm02WFhFcXNNNGJQRDBhR084Z0c3clg0ZlRuZkJKbklIM3dxVDRxcm0xZGdqZWQxdUZzRk9JMkl3MUVmOEowTEs1cXl1WFhWYkhCY2hnaElpcg?oc=5",
-    "rssid": "laN108",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mauritius",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://avitrader.com/2026/03/18/afi-klm-em-and-air-mauritius-extend-a350-support-deal/",
-    "title": "AFI KLM E&M and Air Mauritius extend A350 support deal",
-    "description": "AFI KLM E&M and Air Mauritius extend A350 support deal  AviTrader Aviation News",
-    "url": "https://avitrader.com/2026/03/18/afi-klm-em-and-air-mauritius-extend-a350-support-deal/",
-    "image": "https://avitrader.com/wp-content/uploads/2026/03/Air-Mauritius-A350-AirTeamImages.jpg",
-    "timestamp": 1773829686000,
-    "source": "AviTrader Aviation News",
-    "publisher_id": "avitrader.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQktSNzlTS3pHTjN2OFZPVjBFb2paVG5ybllvcGJRdzdKYmExZU9aTUlXLTBmQWRVZ1M1NVUtY1R3dE9QNkUzYWU1eGtkUE9Rekd3dmtuMjlFZXYwb25DMV90WExJcUFpbEwwNjJULU4wSEx5a296aUdTYlJoY1BKZFRsc1NxLWZSWE40VzZ6a1I?oc=5",
-    "rssid": "laN108",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mauritius",
-    "likes": 0,
-    "comments": 0
   }
 ]
