@@ -473,43 +473,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxObHlqU0VqZ1dCSnVPTTl0SHpGNUp0aTBjNDdYSFRFVjBZU3ZWRURPQmRSQ2hLZHJPYXMweHo2QVJPTUhlTmFEUURpSGZjeWNadlRCaGZ3MzVyd19xZUZFWXAtS3MzUHVpS1V6THI2NVN6WlBFMTVxbFdUYjBpenVOazJ3cmNxNHRaY3ltU1JMZnYyWURGcFp0V2tUT3JwZ2xTNkpVMnN2MEdrZU1PRzJFWnlVU21RYURFeWJzalZlOVFrbG1KQW5qbjlJREQtTVA4UkpoOHg5TzktdHpHZGpLT1N4UGdxMUZhTXpWWkVyNWtRakxRUF82bDk1Qy1nLVBJTjY0OFhSc1AtTHVhbmlxWFZEaDVJV3RnMEx6Y0w0VlpSdVBzbjl6NnlFeDNTbXppZF85LVdfOG1QV1o2N2ZaWl9hOEl1Qm1V?oc=5",
-    "title": "שאיפותיה האזוריות של טורקיה אחרי אסד: בין הזדמנות לסיכון",
-    "description": "שאיפותיה האזוריות של טורקיה אחרי אסד: בין הזדמנות לסיכון  שיחה מקומית",
-    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxObHlqU0VqZ1dCSnVPTTl0SHpGNUp0aTBjNDdYSFRFVjBZU3ZWRURPQmRSQ2hLZHJPYXMweHo2QVJPTUhlTmFEUURpSGZjeWNadlRCaGZ3MzVyd19xZUZFWXAtS3MzUHVpS1V6THI2NVN6WlBFMTVxbFdUYjBpenVOazJ3cmNxNHRaY3ltU1JMZnYyWURGcFp0V2tUT3JwZ2xTNkpVMnN2MEdrZU1PRzJFWnlVU21RYURFeWJzalZlOVFrbG1KQW5qbjlJREQtTVA4UkpoOHg5TzktdHpHZGpLT1N4UGdxMUZhTXpWWkVyNWtRakxRUF82bDk1Qy1nLVBJTjY0OFhSc1AtTHVhbmlxWFZEaDVJV3RnMEx6Y0w0VlpSdVBzbjl6NnlFeDNTbXppZF85LVdfOG1QV1o2N2ZaWl9hOEl1Qm1V?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1773921372000,
-    "source": "שיחה מקומית",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxObHlqU0VqZ1dCSnVPTTl0SHpGNUp0aTBjNDdYSFRFVjBZU3ZWRURPQmRSQ2hLZHJPYXMweHo2QVJPTUhlTmFEUURpSGZjeWNadlRCaGZ3MzVyd19xZUZFWXAtS3MzUHVpS1V6THI2NVN6WlBFMTVxbFdUYjBpenVOazJ3cmNxNHRaY3ltU1JMZnYyWURGcFp0V2tUT3JwZ2xTNkpVMnN2MEdrZU1PRzJFWnlVU21RYURFeWJzalZlOVFrbG1KQW5qbjlJREQtTVA4UkpoOHg5TzktdHpHZGpLT1N4UGdxMUZhTXpWWkVyNWtRakxRUF82bDk1Qy1nLVBJTjY0OFhSc1AtTHVhbmlxWFZEaDVJV3RnMEx6Y0w0VlpSdVBzbjl6NnlFeDNTbXppZF85LVdfOG1QV1o2N2ZaWl9hOEl1Qm1V?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/world-news/middle-east/article/20148412",
-    "title": "דיווח: צבא סוריה זיהה הגעה של תגבורות מחיזבאללה לאזור הגבול המזרחי",
-    "description": "דיווח: צבא סוריה זיהה הגעה של תגבורות מחיזבאללה לאזור הגבול המזרחי  היום",
-    "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/20148412",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2025/05/08/08/Lebanon_Hezbollah_Disarming_75014-d73ac-1280x853.jpg",
-    "timestamp": 1773918402000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GOFdfSHk2ckN6YlRCVkRQNVZjMmNOTmpPbHhjc29DcmhUSUZES2tyS2pvbVZOZXJiZDNzUzQ5NEY5X3l5QnRKWndYZDgybWxDZTlzOEJ2bXpHT0VXUjQ4MzNpRWZaRDgyeExEaXJ5Um5JOHpRS3BvZnN3RktvbE3SAYcBQVVfeXFMTTNNMVVMZ0tRXzFrSEg2eFdINk13RmFOMllSWUkxVlJ1Z2c1TnFaXzMyX2R0dng1SlRhLThIazFnTDhjN0dGLVZ5alhUenRlM2tiSGR2Tkc2THEzTWlIT05wUFAtQlNXc2J4TmhZNTBsME1PemZ6VC1MdW5Pbk9VaDRBSmY3dDlJ?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
