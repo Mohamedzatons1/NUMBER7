@@ -397,43 +397,5 @@
     "extra": "India",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ice.co.il/finance/news/article/1106784",
-    "title": "עידן עופר בצעד ענק: תחת הכנסות של 250 מיליון דולר, זה המהלך בהודו",
-    "description": "עידן עופר בצעד ענק: תחת הכנסות של 250 מיליון דולר, זה המהלך בהודו  ice (אייס)",
-    "url": "https://www.ice.co.il/finance/news/article/1106784",
-    "image": "https://img.ice.co.il/giflib/news/1111190320226.jpg",
-    "timestamp": 1773908786000,
-    "source": "ice (אייס)",
-    "publisher_id": "www.ice.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kOE9ZR1RMUjIwSjk5YlF0ZXJCMTZNTUpDd3czMldoRUNnLV9qMF94emJuc0xLVFY3WFFZd1hPNFFVSG5lU3liak52b0ZHd3NXYmhJNWhQVUsxSzZKNTZJ?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/israel-india-atemm-robot-defense-deal",
-    "title": "268 כוחות סוס: טכנולוגיה ישראלית חדשה כובשת את הודו",
-    "description": "268 כוחות סוס: טכנולוגיה ישראלית חדשה כובשת את הודו  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/israel-india-atemm-robot-defense-deal",
-    "image": "https://a.kikar.co.il/v2/articles/israel-india-atemm-robot-defense-deal/og-image.jpeg",
-    "timestamp": 1773903600000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WMDNRSlNtdHVBMTlTSXhyN29Lb1JTb2U3V29lcWlaWmw0N3dzc3g2UHZJOHRUWV9zdzBUN0g4a29HaDAtYU5jTlRaSTNpb1FPTk96RmFtWTh0cTcxSWk1M0dPdjRuLXdodkJPSnV3ODBiT0dNb2xpbXRxWjU?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
   }
 ]
