@@ -17,5 +17,24 @@
     "extra": "Albania",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.delfi.lt/sportas/futbolas/paaiskejo-rinktines-prasibrovusios-i-pasaulio-cempionato-atrankos-finalus-120229424",
+    "title": "Paaiškėjo rinktinės, prasibrovusios į pasaulio čempionato atrankos finalus",
+    "description": "Paaiškėjo rinktinės, prasibrovusios į pasaulio čempionato atrankos finalus  Delfi",
+    "url": "https://www.delfi.lt/sportas/futbolas/paaiskejo-rinktines-prasibrovusios-i-pasaulio-cempionato-atrankos-finalus-120229424",
+    "image": "https://images.delfi.lt/media-api-image-cropper/v1/6a913833-487e-47a7-b595-84fa58c38ab9.jpg?w=1200&h=800&fx=0.493939&fy=0.424891",
+    "timestamp": 1774563009000,
+    "source": "Delfi",
+    "publisher_id": "www.delfi.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUS1rUmtWc0ZsYmFYNHU2cC1vTlJKMXNMeG5VTFM3U2NQQndYeTVXWU40U1ZCdjkySzFOQkJVcDJUbGkzY3BJdzkxQ09FNHBFSk1nS1M4enZmZ2hsOXFoaHFURzU1RFlZXzB6Tk1RX0lxV1R3Z2RnLUg5aHNpREI0OHZ6bE1TdFBRUDlaODFQTWM3eE9sWUNIN0VEbU1ZRGpjU1dIU00xdi1DSlBrXzJpbjRFcHdJX2FWdFFLWWhR?oc=5",
+    "rssid": "laN388",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Albania",
+    "likes": 0,
+    "comments": 0
   }
 ]
