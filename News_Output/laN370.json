@@ -701,43 +701,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PaEd4LVEwWnJVSVZiOVF5ek5ObzFRZkRuZVQ2ZHdTNXRnZFJNeUU1RWlZVEV3Q0QtemhJbVRHS0RwZnNUc1FGMUtZaTRiWXY2cmNn?oc=5",
-    "title": "טורקיה נגד ישראל: “התקיפה בדרום סוריה - הסלמה מסוכנת”",
-    "description": "טורקיה נגד ישראל: “התקיפה בדרום סוריה - הסלמה מסוכנת”  PassportNews",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PaEd4LVEwWnJVSVZiOVF5ek5ObzFRZkRuZVQ2ZHdTNXRnZFJNeUU1RWlZVEV3Q0QtemhJbVRHS0RwZnNUc1FGMUtZaTRiWXY2cmNn?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1774049400000,
-    "source": "PassportNews",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PaEd4LVEwWnJVSVZiOVF5ek5ObzFRZkRuZVQ2ZHdTNXRnZFJNeUU1RWlZVEV3Q0QtemhJbVRHS0RwZnNUc1FGMUtZaTRiWXY2cmNn?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1000375000",
-    "title": "Harel buys insurance co in Turkey",
-    "description": "Harel buys insurance co in Turkey  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1000375000",
-    "image": "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/Globes_Archive_800x392.2018729T150619.jpg",
-    "timestamp": 1774045495000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55OGIxSXN5TTZHZm05WlhVWjZpMmpQeGo1MEdNckZoN2R5azNNZHFwbnB4RDloYmlFQ19MUnNHelcwMUQ4RDRjbE4tencwLVhGVFhJV1dfUmtqT29CT0R4ZllLaDdyX2VP?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
