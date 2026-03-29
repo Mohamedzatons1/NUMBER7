@@ -853,43 +853,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1299686",
-    "title": "ברית מפתיעה במזרח: גרמניה ויפן מתחמשות - ומהדקות שורות",
-    "description": "ברית מפתיעה במזרח: גרמניה ויפן מתחמשות - ומהדקות שורות  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1299686",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/448013",
-    "timestamp": 1774183966000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tb3Vxa3U5WldsZFF6SVo4Q29lRlZobHNZdzFqbjRHSURhZWQ1S25iT3d5ZGd1cnhqZTh2Yl9ud3RERjJGVHZsTENNTFhtOE84YUtfemMzNU0tSXFDLWdQTA?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001538132",
-    "title": "באירופה מופתעים: האם אנחנו בעצם בטווח הטילים האיראנים?",
-    "description": "באירופה מופתעים: האם אנחנו בעצם בטווח הטילים האיראנים?  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001538132",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1774180100/direct/AP25342488821471_zngy9p.jpg",
-    "timestamp": 1774180857000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tVWZHSlNLRVRrN3lsNkMtaWxHc25VaE1iZGg4a1FUOEt6UDVoZ3JOUHNfWFY0STExcXFQRnFDLWczWGMyalNHcUtBbklidGxSMUpIUE9hTmh2U2RhRzVHODRxMDMtMXJv?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
