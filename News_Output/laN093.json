@@ -3095,43 +3095,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/03/22/world/video/iran-war-israel-lebanon-bridge-strike-hezbollah-vrtc-digvid",
-    "title": "Israeli airstrike hits bridge in Lebanon",
-    "description": "Israeli airstrike hits bridge in Lebanon  CNN",
-    "url": "https://www.cnn.com/2026/03/22/world/video/iran-war-israel-lebanon-bridge-strike-hezbollah-vrtc-digvid",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/118187-lebanon-bridge-00-00-09-04-still001.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1774197540000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmxpS19wZUJxV1JZYkJTTlhnZkY4Zl9BQ1VYVk00R1lONUpvZDNaTHZmY3BSTDVJdjRqMWRVNnQxU1BsMkxkdGd0ZmZIRHBfanZFbnN3RHJrQ0dUT1VuQ0dqQVIxc1dYb2FJYk5HRWdBSEk5WV82ZWJYVmN6QXB0OTQ0RS04a3lmbmc2QkdJN2gyOTVSbWVjcEpRRk15WGY4eGV4WA?oc=5",
-    "rssid": "laN093",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-israeli-strike-hits-bridge-in-southern-lebanon",
-    "title": "Moment Israeli strike hits bridge in southern Lebanon",
-    "description": "Moment Israeli strike hits bridge in southern Lebanon  Al Jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-israeli-strike-hits-bridge-in-southern-lebanon",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1774193405.jpg?resize=1920%2C1080&quality=80",
-    "timestamp": 1774193572000,
-    "source": "Al Jazeera",
-    "publisher_id": "www.aljazeera.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2EwbjdhLXFidFgxdllTTEh1SGVHSUR6MEQwSUhrM0s5UmZxcXZKek9DbXVtOFFOOWpMYXNVVk9mZ3VSZFRyc2lDN3ByMTlDdnlhbmxRQy1QQWUydlU3eDBhRF9GNUhITThkU2lrT0hZZ2JFSHo5enVJdWROajBFUG56bFVMUmlFMzJ5dTNFQnMyRnVmcVhaMm1COTFaZTE2c25pcVZBY9IBrAFBVV95cUxOUkE5OXdJZ3JNVkV2bXNKN2JvQWRhTm51T1R3RWFjcC0xTXUyWmE0S0ZYdzU4ZG51SzVTdGwyRzY5bTNyamQ5c3JidmJHMEJuNXBVclNkSmlXU29MeEpjaGlTM21xZEZNcFZGN3RKTjFaODRjdXo2RmZUMWhSWXJjRTF3OWpDZlJacjVvTHdiNmlBeEItRG0wNU9UMC1TY1REdWJ0aWs4OGRmd0py?oc=5",
-    "rssid": "laN093",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -36,5 +36,24 @@
     "extra": "Monaco",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://maccabi.co.il/video.asp?vid=7080&page=4&catID=1&lang=en%20en",
+    "title": "תקציר: מכבי - מונאקו 88:91",
+    "description": "תקציר: מכבי - מונאקו 88:91  מכבי Rapyd תל אביב",
+    "url": "https://maccabi.co.il/video.asp?vid=7080&page=4&catID=1&lang=en%20en",
+    "image": "https://maccabi.co.il/Images/logo_maccabi.png",
+    "timestamp": 1774396460000,
+    "source": "מכבי Rapyd תל אביב",
+    "publisher_id": "maccabi.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1VC0xQUxWSldFeFR5ZUNpN3N0Z08xM0VTV1hpUFYtcHZlclhxUVZwamdJdk00M3dvcHpxaFBwWnhlNllMQ3hDSVkwZTFERkVMT1RES2FuZ0FWNmtyRklVOHNIVld4TlFRM2NjQUxNY3RfU2hnNVIw?oc=5",
+    "rssid": "laN305",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Monaco",
+    "likes": 0,
+    "comments": 0
   }
 ]
