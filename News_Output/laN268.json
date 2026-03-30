@@ -321,24 +321,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3825739",
-    "title": "האישה בארה\"ב, הבן בהונגריה, העיקר שאנחנו עמוק במקלטים",
-    "description": "האישה בארה\"ב, הבן בהונגריה, העיקר שאנחנו עמוק במקלטים  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3825739",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/8/9/1/3891915-46.jpg",
-    "timestamp": 1774264320000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ubHFEblpib20tY3gxZG9XR25BeERvUFZYMDBfWjVodEY0SVR1Y2h4R2ZUUXN4djdYYnNxTWhjN2kxVkVra1d4LVBMclN3dw?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
