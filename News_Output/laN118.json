@@ -967,43 +967,5 @@
     "extra": "Namibia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crl1ny1g6e0o",
-    "title": "Elon Musk's Starlink blocked from operating in Namibia",
-    "description": "Elon Musk's Starlink blocked from operating in Namibia  BBC",
-    "url": "https://www.bbc.com/news/articles/crl1ny1g6e0o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a6ee/live/ef12ebc0-2769-11f1-82f7-f757ccb9d4bd.jpg",
-    "timestamp": 1774349417000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yOGl5bWowVXVybFI4VndQeUpsbkVyMVNFVjBFM24xci15V0szaDgxQ2R5MHd1RjMxemVCX2QxTkhMaXN6RGNDbjF6OFF4N2NDS1BlYVg2akdsUQ?oc=5",
-    "rssid": "laN118",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Namibia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.advanced-television.com/2026/03/24/namibia-rejects-starlink/",
-    "title": "Namibia rejects Starlink",
-    "description": "Namibia rejects Starlink  Advanced Television",
-    "url": "https://www.advanced-television.com/2026/03/24/namibia-rejects-starlink/",
-    "image": "https://www.advanced-television.com/wp-content/uploads/2026/03/Nambia.png",
-    "timestamp": 1774345971000,
-    "source": "Advanced Television",
-    "publisher_id": "www.advanced-television.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rVHB6Q0c1RmZPNk1TLUtpT1V4R2RKTDlmOHZRSmhwbVBEMEtORVVLMzBWbkpOa0YtdlhNRlRXT21nTm5iNlN4X1lOdmNaZzN3WUF4UUlQX0wxa2lsUkRoc2taLTVpb0lqSWFjTjhWaXRvSFR6ay00ekRHODM?oc=5",
-    "rssid": "laN118",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Namibia",
-    "likes": 0,
-    "comments": 0
   }
 ]
