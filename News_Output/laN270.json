@@ -283,43 +283,5 @@
     "extra": "India",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/doanh-nghiep-viet-tim-co-hoi-tai-thi-truong-cong-nghe-an-do",
-    "title": "עסקים וייטנאמיים מחפשים הזדמנויות בשוק הטכנולוגיה ההודי.",
-    "description": "עסקים וייטנאמיים מחפשים הזדמנויות בשוק הטכנולוגיה ההודי.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/doanh-nghiep-viet-tim-co-hoi-tai-thi-truong-cong-nghe-an-do",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/03/24/1774367914040_an-do-240326-2.jpeg",
-    "timestamp": 1774368365000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUtfYi1neUhGNnA0RzZvcUtwNTRSY3p5bjZGSWNwNWYzVi1KUjBsMFdSSWFrQ2Q2MWE2MXRvb3k1VlBTWlhrVVcxTmVyOE52THBCWEI2QVM5QkxTcnV2a1Bqdk5XTXFaVk5BOXVYNlA2eEg2NHNRSHhmNUgyT3ZOTkJyT3Nsa2VhU3ZaUXRR?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/political-news/tcev5j",
-    "title": "ידיד ישראל? מודי דיבר עם טראמפ על המלחמה באיראן; זה מה שביקש",
-    "description": "ידיד ישראל? מודי דיבר עם טראמפ על המלחמה באיראן; זה מה שביקש  כיכר השבת",
-    "url": "https://www.kikar.co.il/political-news/tcev5j",
-    "image": "https://a.kikar.co.il/v2/articles/tcev5j/og-image.jpeg",
-    "timestamp": 1774368055000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yaXVIOHA1eGxmeTNqV3dmTmZ1Yko3cExZN1liN3EtTTNnZFV4Q3ZzSE1oaEZoZmhBSGdfemJnekxNdU0yWEZhU1pJUWxTMmc5RW5vSWJ0Sjc?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
   }
 ]
