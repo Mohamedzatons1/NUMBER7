@@ -872,43 +872,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84djdWSWxDSG9EVVdfZkR2UUwyeXV5WmpOYWI5Vzh0emRBVG14RC0xNHFHQjRlZm1HVnVNdXE2N1JnajFWZkJaMDBubnpqZXc?oc=5",
-    "title": "ר\"מ ספרד האנטי-ישראלי: \"נתניהו רוצה להעתיק את עזה ללבנון\"",
-    "description": "ר\"מ ספרד האנטי-ישראלי: \"נתניהו רוצה להעתיק את עזה ללבנון\"  C14",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84djdWSWxDSG9EVVdfZkR2UUwyeXV5WmpOYWI5Vzh0emRBVG14RC0xNHFHQjRlZm1HVnVNdXE2N1JnajFWZkJaMDBubnpqZXc?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1774444281000,
-    "source": "C14",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84djdWSWxDSG9EVVdfZkR2UUwyeXV5WmpOYWI5Vzh0emRBVG14RC0xNHFHQjRlZm1HVnVNdXE2N1JnajFWZkJaMDBubnpqZXc?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1301011",
-    "title": "האזהרה הדרמטית של ספרד על איראן: \"אבסורדית ואכזרית\"",
-    "description": "האזהרה הדרמטית של ספרד על איראן: \"אבסורדית ואכזרית\"  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1301011",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1075539",
-    "timestamp": 1774442927000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQzUyYXByMHl0dWZjbU1YUzI2ak4yZVZnQWU0TG1YUEUtV0tlVGFhUzZlYjJDQkl6Vk9hRTF2Q0ZqS001bDFXVV9UVVVXclJCdkpraDVPZmFPMk9reFNqeA?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
