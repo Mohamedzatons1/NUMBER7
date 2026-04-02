@@ -549,43 +549,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/dai-su-viet-nam-trinh-quoc-thu-len-tong-thong-phap",
-    "title": "שגריר וייטנאם הגיש את כתב האמנה שלו לנשיא צרפת.",
-    "description": "שגריר וייטנאם הגיש את כתב האמנה שלו לנשיא צרפת.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/dai-su-viet-nam-trinh-quoc-thu-len-tong-thong-phap",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/03/26/1774482842463_dai-su-trinh-duc-hai-jpg.webp",
-    "timestamp": 1774483201000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHJVSEoyMmxDSmRBSVlKTTdRcjFGcWtmVTRjMlgxZi1hc2hqMXc3VFJqZWZ0QzRaZy1Qb3NuSEUtUGhPajJhblJTUkxQVE5uTmtXTl93ZzdvWjIxdnk0eW1pUDNlVDA4UEpSRWNoUEplYnYtM3FNcGRzTm1PT29iaXVR?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/phap-dau-brazil-va-cham-de-lo-ban-linh-vo-dich",
-    "title": "צרפת נגד ברזיל - עימות שחושף את רוח האליפות שלהם.",
-    "description": "צרפת נגד ברזיל - עימות שחושף את רוח האליפות שלהם.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/phap-dau-brazil-va-cham-de-lo-ban-linh-vo-dich",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/03/26/1774478040838_2026_03_23t114013z_810878077_up1em3n0wezby_rtrmadp_3_soccer_friendly_fra.jpeg",
-    "timestamp": 1774478150000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPb1V2ekpVOUxLVGl4aXM2WDkzMFA2dDI1MTlkX1FQbXVoOWxQOXpFUENiQ05ianRFdXVzUFZYZVRod19YVWlqbUNVZ29fMEhIcWpOUjE5RGhxb0IyWUtxTmItRFB1YXAtNW9jVVVleTFTbHNBQ3NPeENOU0Y?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
