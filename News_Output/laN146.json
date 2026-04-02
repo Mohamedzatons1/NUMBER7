@@ -1423,43 +1423,5 @@
     "extra": "Samoa",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/editorial/119178",
-    "title": "The compelling case to have a missing persons unit",
-    "description": "The compelling case to have a missing persons unit  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/editorial/119178",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/3fc5545c43c0ea74c4b7920c3765933c.jpg",
-    "timestamp": 1774533171000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00dTlKNk1VeV9BRGQtZjBvcl9xVlVPalM2S0Q0N2ZMMU9zNzJUQTIzVmVHOV93NU1ZUTBXZXBJTFhuSGQtRkhwT2h6RzBaaVk2dXRLQXZaMjVQcThwYUZiYjU4MHA?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://samoaobserver.ws/category/sport/24444",
-    "title": "Rio de Janeiro hosts Brazil's first Dog Olympics",
-    "description": "Rio de Janeiro hosts Brazil's first Dog Olympics  Samoa Observer",
-    "url": "https://samoaobserver.ws/category/sport/24444",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/407de6c881a24094ebc8dbacab7fbfb5.jpg",
-    "timestamp": 1774528093000,
-    "source": "Samoa Observer",
-    "publisher_id": "samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YV200TzhOZ3gzZFZIV0FtdkE5MTc2M1k0TkExcEZvZEt4RVBuUzRrc3JIRU9uRllleXNqYnctRFhETTdEVFJsU3JXQmJ0NFVRYV9CZVNkSE0?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
   }
 ]
