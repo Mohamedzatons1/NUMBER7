@@ -663,24 +663,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ice.co.il/global-news/news/article/1107702",
-    "title": "אלביט לא עוצרת: עסקת המילארדים עם גרמניה יוצאת לדרך",
-    "description": "אלביט לא עוצרת: עסקת המילארדים עם גרמניה יוצאת לדרך  ice (אייס)",
-    "url": "https://www.ice.co.il/global-news/news/article/1107702",
-    "image": "https://img.ice.co.il/giflib/news/7ice12012026.jpg",
-    "timestamp": 1774603751000,
-    "source": "ice (אייס)",
-    "publisher_id": "www.ice.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvZVFLWmxzU1N6eWJGZ1hwVGN1aENJM29TVGpraXlDczN3dGNnTG9uSnBrSFlRWTNxTnNJVlpzY29XUWNsc1BzZklNemx2ckI4MkdIcVkxaUQ1Z2RFRVF4SHJmamg?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
