@@ -815,43 +815,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1302082",
-    "title": "טורקיה זועמת על ישראל: \"המטרה - למנוע מהמדינות המוסלמיות להתאחד שוב\"",
-    "description": "טורקיה זועמת על ישראל: \"המטרה - למנוע מהמדינות המוסלמיות להתאחד שוב\"  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1302082",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1082240",
-    "timestamp": 1774647405000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBseXJIUEx4WlJZVlNsVzB3UGxOcDQwbEpIVHpoMlRNNS1vekdadDZtOHFLX1lvbmZENmxreVpUUGc4Z3FSVzhGNlV6WGI1eVg2cDJlQm4yYUVDMHhOQjk1VEtCdDI?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1302081",
-    "title": "המלחמה באיראן: טורקיה מזהירה את המזרח התיכון - \"ישראל יכולה לגרום למלחמת עולם\"",
-    "description": "המלחמה באיראן: טורקיה מזהירה את המזרח התיכון - \"ישראל יכולה לגרום למלחמת עולם\"  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1302081",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/482066",
-    "timestamp": 1774647334000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IMFBDZ3ZfX1RFb0ZXZzBHVU5sbHFzUkZkanBhNlA0MUp0VWNqZkNOWTlabGZNTlBkRWVqNW91NTQ3SHNiLTBWMXJ3dGtFNl9qMzI2djhMVENiOXJWaDVQamlkN1U?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
