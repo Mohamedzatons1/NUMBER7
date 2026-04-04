@@ -340,43 +340,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1302166",
-    "title": "אל ג'ולאני מטריף את האייתוללות: כך סוריה \"חונקת\" את ההשפעה האיראנית באזור",
-    "description": "אל ג'ולאני מטריף את האייתוללות: כך סוריה \"חונקת\" את ההשפעה האיראנית באזור  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1302166",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/997527",
-    "timestamp": 1774681037000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4eDVhQk9lajRCZlpRMDk1b2U2TGthdXUtQlRGSUU0U1M5TzZnVTBpclIxTVdQQ1VGSUNTVS05OC1XZXg1Z043bFBoWXJKSTB6d21FOWV3WDRRNWM5QjJ1YjN6blI?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1302093",
-    "title": "סופה של \"החוליה הזהובה\": המהלך הסורי שהוציא את איראן מהעשתונות",
-    "description": "סופה של \"החוליה הזהובה\": המהלך הסורי שהוציא את איראן מהעשתונות  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1302093",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1024600",
-    "timestamp": 1774679340000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUNmRPMmNVbEc4c29sczNUZ3paYmVmdWtXUzZZdWNGYnl0cWk4eUd4bTNXbXBoTEZ4S05pS3R1MW5ucXdGSF9iUWl0NVVpb3ROaDBIU0tpZmZoSEdkY2ZzeA?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
