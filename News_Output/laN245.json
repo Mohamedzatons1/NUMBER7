@@ -93,43 +93,5 @@
     "extra": "Egypt",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84SGtaeTlMTlJaejA4TURLZjhMR1dfZUk1M0U0Vm4teWdTV2U1TTJXSnFxLUFrQmh0M3FWR2s1ODhDbzZwRS1QbjRLUjd5RjQ?oc=5",
-    "title": "President Abbas arrives in Egypt on official visit",
-    "description": "President Abbas arrives in Egypt on official visit  جريدة القدس",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84SGtaeTlMTlJaejA4TURLZjhMR1dfZUk1M0U0Vm4teWdTV2U1TTJXSnFxLUFrQmh0M3FWR2s1ODhDbzZwRS1QbjRLUjd5RjQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1774717105000,
-    "source": "جريدة القدس",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84SGtaeTlMTlJaejA4TURLZjhMR1dfZUk1M0U0Vm4teWdTV2U1TTJXSnFxLUFrQmh0M3FWR2s1ODhDbzZwRS1QbjRLUjd5RjQ?oc=5",
-    "rssid": "laN245",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CX0ZZSDZVb2lnZFhzd3o2TkxiLW9tdy1mSnVDX3dhcjlZMzNNVEhqNnNuUm5sMjh3YS1Yem5qNUxoRTJJbW1pdHR2b3lUQQ?oc=5",
-    "title": "Egypt warns against pushing defenseless Palestinians towards its borders",
-    "description": "Egypt warns against pushing defenseless Palestinians towards its borders  جريدة القدس",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CX0ZZSDZVb2lnZFhzd3o2TkxiLW9tdy1mSnVDX3dhcjlZMzNNVEhqNnNuUm5sMjh3YS1Yem5qNUxoRTJJbW1pdHR2b3lUQQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1774712962000,
-    "source": "جريدة القدس",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CX0ZZSDZVb2lnZFhzd3o2TkxiLW9tdy1mSnVDX3dhcjlZMzNNVEhqNnNuUm5sMjh3YS1Yem5qNUxoRTJJbW1pdHR2b3lUQQ?oc=5",
-    "rssid": "laN245",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
   }
 ]
