@@ -1176,43 +1176,5 @@
     "extra": "Mongolia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bernama.com/en/world/news.php?id=2538479",
-    "title": "Mongolia’s Parliament Approves Prime Minister’s Resignation",
-    "description": "Mongolia’s Parliament Approves Prime Minister’s Resignation  bernama",
-    "url": "https://www.bernama.com/en/world/news.php?id=2538479",
-    "image": "https://www.bernama.com/storage/photos/5ce8b69dc6952bc84f4c99b19000174a69c78aadd4423",
-    "timestamp": 1774691931000,
-    "source": "bernama",
-    "publisher_id": "www.bernama.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82UVdpTk5UVnZxd3l4Z3RlNGk1bDZUQ1c3NWNEekpiMWhwUU0tU1VvdVgwcXVVU184R1lkOXdRNDFIRVdWVUNNUjBmTTlBRER6Sm1sMHF1OG55LUFueGsxSWlR?oc=5",
-    "rssid": "laN113",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mongolia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bernama.com/en/news.php/world/news.php?id=2538479",
-    "title": "Mongolia’s Parliament Approves Prime Minister’s Resignation",
-    "description": "Mongolia’s Parliament Approves Prime Minister’s Resignation  bernama",
-    "url": "https://www.bernama.com/en/news.php/world/news.php?id=2538479",
-    "image": "https://www.bernama.com/storage/photos/5ce8b69dc6952bc84f4c99b19000174a69c78aadd4423-medium",
-    "timestamp": 1774686375000,
-    "source": "bernama",
-    "publisher_id": "www.bernama.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwZEJDSWxSYXR1WFh0YTZYWWp0bzFzRTJEc2lfOHREaWJCdDFXNDhnVFkxX3NtcUdhYlk4dnJuaWF0NkNvSWdxSGZ6UVBCbGt0TjRrM1AyNDFGRDlVOHE2RTVQSVFIWGVXU3hSVi1n?oc=5",
-    "rssid": "laN113",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mongolia",
-    "likes": 0,
-    "comments": 0
   }
 ]
