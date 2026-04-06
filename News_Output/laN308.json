@@ -17,5 +17,24 @@
     "extra": "Morocco",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56RDhTeWhvd3o5cFREX1F0WDNKMWtrYXVHX1BBYlBwa2JQc0FLaVo5X0ZmcE96c2VXc2tLMlJ0UnNfTUJfZW5N?oc=5",
+    "title": "רסיסי טילים פגעו בזירות בבני ברק: \"גורמי שוליים התנכלו לכוחות חירום ומשטרה\"",
+    "description": "רסיסי טילים פגעו בזירות בבני ברק: \"גורמי שוליים התנכלו לכוחות חירום ומשטרה\"  חרדים10",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56RDhTeWhvd3o5cFREX1F0WDNKMWtrYXVHX1BBYlBwa2JQc0FLaVo5X0ZmcE96c2VXc2tLMlJ0UnNfTUJfZW5N?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1775332606000,
+    "source": "חרדים10",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56RDhTeWhvd3o5cFREX1F0WDNKMWtrYXVHX1BBYlBwa2JQc0FLaVo5X0ZmcE96c2VXc2tLMlJ0UnNfTUJfZW5N?oc=5",
+    "rssid": "laN308",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Morocco",
+    "likes": 0,
+    "comments": 0
   }
 ]
