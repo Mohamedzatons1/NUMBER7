@@ -188,5 +188,24 @@
     "extra": "Kuwait",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VY3NONi11LVhCSEF1ajJDVmVqTmh3eVBkODdWaUh0RGNZUV9ndHZic2hXTnFON1A5bGFzSk9FRmc2SHlvbG5wWXV2ZHZ1Nk0?oc=5",
+    "title": "The occupation targets a bus carrying 10 people in southern Gaza.",
+    "description": "The occupation targets a bus carrying 10 people in southern Gaza.  جريدة القدس",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VY3NONi11LVhCSEF1ajJDVmVqTmh3eVBkODdWaUh0RGNZUV9ndHZic2hXTnFON1A5bGFzSk9FRmc2SHlvbG5wWXV2ZHZ1Nk0?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "timestamp": 1774877977000,
+    "source": "جريدة القدس",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VY3NONi11LVhCSEF1ajJDVmVqTmh3eVBkODdWaUh0RGNZUV9ndHZic2hXTnFON1A5bGFzSk9FRmc2SHlvbG5wWXV2ZHZ1Nk0?oc=5",
+    "rssid": "laN282",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Kuwait",
+    "likes": 0,
+    "comments": 0
   }
 ]

@@ -17,5 +17,43 @@
     "extra": "South Africa",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zWDBnQUNsOURmZmhSOUFSaHF3eV84VGg3RlZTRWdmTjlreW9HbFZ1SzQ5MENIeFZWX0xmbGhCZEtPOEF5SDA3MG1BVFo0SHM?oc=5",
+    "title": "Timeline and Follow-up on the Genocide Case at the ICJ",
+    "description": "Timeline and Follow-up on the Genocide Case at the ICJ  جريدة القدس",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zWDBnQUNsOURmZmhSOUFSaHF3eV84VGg3RlZTRWdmTjlreW9HbFZ1SzQ5MENIeFZWX0xmbGhCZEtPOEF5SDA3MG1BVFo0SHM?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1775172647000,
+    "source": "جريدة القدس",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zWDBnQUNsOURmZmhSOUFSaHF3eV84VGg3RlZTRWdmTjlreW9HbFZ1SzQ5MENIeFZWX0xmbGhCZEtPOEF5SDA3MG1BVFo0SHM?oc=5",
+    "rssid": "laN352",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "South Africa",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qRmJOMURGV0M1OVg5cnZWUGdmSkZNb2Z5RUtGYTlwU1IwSzhxN0pla1ZzelJvclVvQjBPRTZZMUhSOGozUUJpTUxRV1dSSFk?oc=5",
+    "title": "أطباء غزة تحت الهجوم: توثيق جرائم الاحتلال في جنوب أفريقيا",
+    "description": "أطباء غزة تحت الهجوم: توثيق جرائم الاحتلال في جنوب أفريقيا  جريدة القدس",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qRmJOMURGV0M1OVg5cnZWUGdmSkZNb2Z5RUtGYTlwU1IwSzhxN0pla1ZzelJvclVvQjBPRTZZMUhSOGozUUJpTUxRV1dSSFk?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1775112358000,
+    "source": "جريدة القدس",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qRmJOMURGV0M1OVg5cnZWUGdmSkZNb2Z5RUtGYTlwU1IwSzhxN0pla1ZzelJvclVvQjBPRTZZMUhSOGozUUJpTUxRV1dSSFk?oc=5",
+    "rssid": "laN352",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "South Africa",
+    "likes": 0,
+    "comments": 0
   }
 ]
