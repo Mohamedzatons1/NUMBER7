@@ -2031,43 +2031,5 @@
     "extra": "Mexico",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c15dvdx32v0o",
-    "title": "Mexico demands answers after another migrant dies in ICE custody",
-    "description": "Mexico demands answers after another migrant dies in ICE custody  BBC",
-    "url": "https://www.bbc.com/news/articles/c15dvdx32v0o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f33b/live/12e32510-2c83-11f1-a3bf-b52d013f1288.jpg",
-    "timestamp": 1774912795000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1U3FPMlRJSUpOSUlONEhPWDh3N2Zvem5zNUh0STEyVDExVmNjZ1ZXNVUzMVF3VnBURXZmWEEyTFlpb0hETmplRG5UdUlIeV82UHd4REpVa0ZOUQ?oc=5",
-    "rssid": "laN109",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZWdhcnNaTE95a25rMTktSUpmeDY0bXNwaDN3WHV4UTd4TUI3TUdmXy1kTkttMElGR2xoZUhBdVlhSTJnbU5PQkhHRWhLaXBwZktSQ3dIaXJBdWZlckF5MFhJbGZ2UGFxNGJKX3JUTkU4VWpjU2NMdVd3?oc=5",
-    "title": "Mexico Pressures U.S. Over Deaths of Its Citizens in ICE Custody",
-    "description": "Mexico Pressures U.S. Over Deaths of Its Citizens in ICE Custody  nytimes.com",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZWdhcnNaTE95a25rMTktSUpmeDY0bXNwaDN3WHV4UTd4TUI3TUdmXy1kTkttMElGR2xoZUhBdVlhSTJnbU5PQkhHRWhLaXBwZktSQ3dIaXJBdWZlckF5MFhJbGZ2UGFxNGJKX3JUTkU4VWpjU2NMdVd3?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1774910657000,
-    "source": "nytimes.com",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZWdhcnNaTE95a25rMTktSUpmeDY0bXNwaDN3WHV4UTd4TUI3TUdmXy1kTkttMElGR2xoZUhBdVlhSTJnbU5PQkhHRWhLaXBwZktSQ3dIaXJBdWZlckF5MFhJbGZ2UGFxNGJKX3JUTkU4VWpjU2NMdVd3?oc=5",
-    "rssid": "laN109",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
   }
 ]
