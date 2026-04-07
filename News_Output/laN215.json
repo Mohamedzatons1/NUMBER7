@@ -36,43 +36,5 @@
     "extra": "Bosnia and Herzegovina",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=538818",
-    "title": "סערה גדולה בבוסניה: \"איטליה שלחה מרגל\"",
-    "description": "סערה גדולה בבוסניה: \"איטליה שלחה מרגל\"  ספורט 5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=538818",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/1/size944x700/1693251.jpg",
-    "timestamp": 1774932010000,
-    "source": "ספורט 5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5idmtsZkhNZUp2YzJidWw1Tk0ta1I0b19xNW1pazliMmQzMkVja3ZYeDljT0I4OW4yWGx1Q2tfYTdpMzFKQnQyaEdlbTVSTkJQUkxYUnpqWEdOaE9hNFVkNl96YXBxS1AycGdzNWJuRkJNOXc?oc=5",
-    "rssid": "laN215",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Bosnia and Herzegovina",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://m.sport5.co.il/Euro/articles.aspx?FolderID=5166&docID=538818",
-    "title": "סערה גדולה בבוסניה: \"איטליה שלחה מרגל\"",
-    "description": "סערה גדולה בבוסניה: \"איטליה שלחה מרגל\"  ספורט 5",
-    "url": "https://m.sport5.co.il/Euro/articles.aspx?FolderID=5166&docID=538818",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/1/size475x318/1693251.jpg",
-    "timestamp": 1774932010000,
-    "source": "ספורט 5",
-    "publisher_id": "m.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZMkxHdjFJbHluYmo0ZGVzaFFpaUhVdGdNNnBzZ2pTTXJTT0NPTDZGTkZLVlh2RVNuSkpqNHFObEc5M25zOHNNRWFMZXM3NlcwVV94MUR4U2dGckNFZWxfRXVjUm9GOXdzaWZjVURZMXRQQmMyOTVr?oc=5",
-    "rssid": "laN215",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Bosnia and Herzegovina",
-    "likes": 0,
-    "comments": 0
   }
 ]
