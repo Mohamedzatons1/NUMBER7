@@ -4007,43 +4007,5 @@
     "extra": "Iran",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
-    "title": "Trump says U.S. will leave Iran in 'two or three weeks'",
-    "description": "Trump says U.S. will leave Iran in 'two or three weeks'  CNBC",
-    "url": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108285729-1774994413342-gettyimages-2268700484-AFP_A6DG392.jpeg?v=1774994448&w=1920&h=1080",
-    "timestamp": 1774994470000,
-    "source": "CNBC",
-    "publisher_id": "www.cnbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FblpQb2ozcVJsWWw4UFN6UC1qRWxfcDMtelcxbnI3Y1E0SVhOa0V2WHFYZWQwcmkzZGM1QUN6VXY2RUpaNTNZRFJFZXZuOWFiWThYMk42UzRsQUpNclg1StIBZkFVX3lxTFAwczM5bWpQNjF1WldCSkdCMnlfUlNfUEdqM0dpNzRkdzkyMkFhOWQ1WnBKNG9GQnk0bk83TlMxa1JySmZIbjRfbWVaTmFLV2MxV3FYWTZZWHFTZEE2aGFQVm1HQ2g5Zw?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
-    "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
-    "description": "Iran Threatens to Start Attacking Major US Tech Firms on April 1  WIRED",
-    "url": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
-    "image": "https://media.wired.com/photos/69cbf5d389cbdc32deb6bcdf/191:100/w_1280,c_limit/Trump_Iran_Biz_GettyImages-2267975852.jpg",
-    "timestamp": 1774992300000,
-    "source": "WIRED",
-    "publisher_id": "www.wired.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdG5zeWRCZURmcHdZa3M5UWFfT3h2TkQ1OElEQTc5Q0NKRmlsQTFxWWJPOW1xQUprUGlFanVCY3k5dGxWbUVNUFlCSGNKUGs5WFAtSG9Pd0N3WXdXWlFRb1JSWVppSlViM2lBVm5HakN2NVJsVXRqTFZ3eG10YVd6MklMbThjVEZ4dnRWZ3ZRaDZPQVRrU1ZBcw?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
   }
 ]
