@@ -1119,43 +1119,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/sport/article/one518475",
-    "title": "דקה 2: בוסניה - איטליה 0:0",
-    "description": "דקה 2: בוסניה - איטליה 0:0  ynet.co.il",
-    "url": "https://www.ynet.co.il/sport/article/one518475",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/31/one1859930/one1859930_0_0_800_444_0_large.jpg",
-    "timestamp": 1774982791000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81NVlwWmxlbFJ5QWRucThIbmpIOV9Od2NMVTB5OWJyd0RmWTA2dkM4MkVJOFVlSlhNT25SM1ZxSFBweGU4ampTeXVVMllTUnE4UVFrVzJlVnMxdw?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3827397",
-    "title": "צפו בשער: בוסניה - איטליה 1:0 (מחצית 1)",
-    "description": "צפו בשער: בוסניה - איטליה 1:0 (מחצית 1)  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3827397",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/3/3/4033629-46.jpg",
-    "timestamp": 1774982700000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53Q3doWXlhUTJCUm9oRHFCVURadm9mdmg2TzNuUW1uZ3FRdVdUQzhtQ29PNDhnUTREM0xSMkd4UmZpUjEzaldNeVZtOEJhR09E?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
