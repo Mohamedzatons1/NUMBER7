@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://news.inbox.lv/15034x6-explosives-found-by-pipeline-to-hungary-pm-orban-clams-sabotage?language=lt",
+    "title": "Explosives found by pipeline to Hungary: PM Orban clams sabotage",
+    "description": "Explosives found by pipeline to Hungary: PM Orban clams sabotage  Inbox.lv",
+    "url": "https://news.inbox.lv/15034x6-explosives-found-by-pipeline-to-hungary-pm-orban-clams-sabotage?language=lt",
+    "image": "https://news.inbox.eu/w/img/d6/50/d650671eaccd3c89f0.jpg",
+    "timestamp": 1775469278000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjF0UEk1ZDR4eHI2QlRkT3dPSFVtak41V1VXZ1lMREdUUFlmbE5UclF2dzJCcllGX0ZlcXlKS1AyaEpBVHZPSFJDQjcwX1NwcmtTbUhlRkRxeXhRX04telVsanJObFlZMGxvZmxnb3BqQUZ6WHZrNG8yd1pPSDBPeEVtaXZHZ0lBTHktMERvLWNaYU1NV0pmSHRWTjU1V2xIX2RxaWs5ak8?oc=5",
+    "rssid": "laN461",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Hungary",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/150333e-explosives-discovered-near-pipeline-in-serbia-that-carries-russian-gas-to-hungary?language=lt",
+    "title": "Explosives discovered near pipeline in Serbia that carries Russian gas to Hungary",
+    "description": "Explosives discovered near pipeline in Serbia that carries Russian gas to Hungary  Inbox.lv",
+    "url": "https://news.inbox.lv/150333e-explosives-discovered-near-pipeline-in-serbia-that-carries-russian-gas-to-hungary?language=lt",
+    "image": "https://news.inbox.eu/w/img/ca/e7/cae7c88dcb0b3c7ef0.jpg",
+    "timestamp": 1775419114000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMVFQdi1kdXdtMEpoTWh0ejNEZlBpTF9BejVSV1lkZ0ZHTnBLa3NhdlYxaGdiUGRUSndjb1J6TTRNaHJiZVhQOTh4RHJXdG1SRzhQcGVRc0lWeHVoYTBSd093eVZYMVhwNGFvNzYwYlhSY09lV1FMSWpGWVZjTmY4OEFTbDRHVW9JTHZTYUNwV1NXUHluaTZDSXhYWlFKUnZDcDJNS3MwRDZzZTJWcDdfYnFVcXktT3FiQ013V1N0ckQ?oc=5",
+    "rssid": "laN461",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Hungary",
+    "likes": 0,
+    "comments": 0
+  }
+]
