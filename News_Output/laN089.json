@@ -1898,43 +1898,5 @@
     "extra": "Kuwait",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/03/31/world/live-news/iran-war-us-trump-oil",
-    "title": "Live updates: Kuwaiti tanker laden with oil attacked as Trump again threatens to blow up Iran’s energy facilities",
-    "description": "Live updates: Kuwaiti tanker laden with oil attacked as Trump again threatens to blow up Iran’s energy facilities  CNN",
-    "url": "https://www.cnn.com/2026/03/31/world/live-news/iran-war-us-trump-oil",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/03-2026-03-04t182121z-2122628346-rc24vjaejhvb-rtrmadp-3-iran-crisis-1.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1774956540000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yUHVXWlFCM3FxaGVTbWVGVjQwdkNFeEFtWWh4OUpCNVNkODZWZ3V6SHJzMUFsQXBINS0zWWYwQy01RGVaUmhlQVJUQWpuanVtVl9iOVpRdjdzY05BZmFqeW5PV2hHaHBrSDd1ajN6T0VHX254Y29V?oc=5",
-    "rssid": "laN089",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Kuwait",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cede21xyej8o",
-    "title": "What we know about the oil tanker hit off Dubai",
-    "description": "What we know about the oil tanker hit off Dubai  BBC",
-    "url": "https://www.bbc.com/news/videos/cede21xyej8o",
-    "image": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n9r521.jpg",
-    "timestamp": 1774955079000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRVlQNXl1SmtFSXJsWVJfMk9NejJPdFlvMDREd0U0SmtGcktkYXM4SlQwRWRiU0g0QjE1SnFadnROZW5feWtuaDFpdURJVl9FRWdONFBTdw?oc=5",
-    "rssid": "laN089",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Kuwait",
-    "likes": 0,
-    "comments": 0
   }
 ]
