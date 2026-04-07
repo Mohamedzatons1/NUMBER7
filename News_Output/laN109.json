@@ -2088,43 +2088,5 @@
     "extra": "Mexico",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/31/mexicos-president-welcomes-fifa-chief",
-    "title": "Mexico’s President welcomes FIFA Chief",
-    "description": "Mexico’s President welcomes FIFA Chief  Al Jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/mexicos-president-welcomes-fifa-chief",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1774943636.jpg?resize=1920%2C1080&quality=80",
-    "timestamp": 1774943890000,
-    "source": "Al Jazeera",
-    "publisher_id": "www.aljazeera.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3QxOW9rOWk0RjFSRHpSV0Y0ZjlEQkM4cjRiVDFBNy1CMldGaldMQnpvR09ZSGRGa1BwWUY4VE9scE5NbWh1dzlUZjZGekhPT0x2bXBHX3FhWlB5UGJHRThhcG9yN2ttOElBMm5ReEVWZDlCcFIyUVVlU1ZZaGFIX01tR1A4S2VJdkNZNFB5Zkt2QdIBlwFBVV95cUxNdHB2RlhmNkVGZmkyRTJFWmF5X0tQN3VSMnlvLWxYU2pBUTl2T3ctajgzQllCWWJSdnd4MDVtLXdTUUd1SkxvMlAwdERSYndBbWZmckdsb0FTZHQ5WndncXVGSGZhZ2ozd2VUSGYyc2NNTlJRczhTOG9MZzljTWRjazlYcUllQU10RldFbW9tenphczN2eVRJ?oc=5",
-    "rssid": "laN109",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://mx.usembassy.gov/sports-diplomacy/",
-    "title": "Sports Diplomacy",
-    "description": "Sports Diplomacy  U.S. Embassy & Consulates in Mexico (.gov)",
-    "url": "https://mx.usembassy.gov/sports-diplomacy/",
-    "image": "https://mx.usembassy.gov/wp-content/uploads/sites/15/2025/11/CBX_7575-scaled.jpg",
-    "timestamp": 1774940400000,
-    "source": "U.S. Embassy & Consulates in Mexico (.gov)",
-    "publisher_id": "mx.usembassy.gov",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYSWxmWVZRTENSenk4MWVEakVxU0dFN1BUT2g3cFlHdllBWFpnSUxtYy11WHdKcGxGSTlPQ1AtMl9JbHF6NFFmTWEtRVNWamNQaUhySw?oc=5",
-    "rssid": "laN109",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
   }
 ]

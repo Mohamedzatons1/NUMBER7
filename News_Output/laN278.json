@@ -226,43 +226,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1000855600",
-    "title": "Jordanian, Palestinian gas sales in export quota",
-    "description": "Jordanian, Palestinian gas sales in export quota  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1000855600",
-    "image": "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1610278111/Digital/share/sharearchive_y6xfco.jpg",
-    "timestamp": 1774943334000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GUmJLWmlXTUEyU0c4THhVdGhET19mR21uRVJqeEYxVWNLdHhZSDhlU2JWQUl6cEphN0pFTlJMQ2ZJUEtTWTZHV21TTHJaVjFYYktaUF9oMmlnbS1ZeGFMbUpEakgzSjVV?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=378273",
-    "title": "Israeli-Jordanian Committee Forms Bilateral Optic Cable Laying Proposal",
-    "description": "Israeli-Jordanian Committee Forms Bilateral Optic Cable Laying Proposal  globes.co.il",
-    "url": "https://www.globes.co.il/news/article.aspx?did=378273",
-    "image": "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/Globes_Archive_800x392.2018729T150619.jpg",
-    "timestamp": 1774940467000,
-    "source": "globes.co.il",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YQ092RDB3RW9hU0JVUmtBZUsyNkFNSVkwdmtRSE9lQ3hUZWw5LUVQRmh1eTdGNU1VekMzcXBaN1M4amlFaXNfZEJtN1RhNS05ejVBME9UWHROYUlUNHNCQjM3OA?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
