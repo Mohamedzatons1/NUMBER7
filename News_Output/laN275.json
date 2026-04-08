@@ -606,43 +606,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.one.co.il/Article/25-26/3,5,49,30393/518600.html?ref=hp?externalurl=true",
-    "title": "הכי מוצדקת: איטליה יכולה להאשים רק את עצמה",
-    "description": "הכי מוצדקת: איטליה יכולה להאשים רק את עצמה  ONE",
-    "url": "https://www.one.co.il/Article/25-26/3,5,49,30393/518600.html?ref=hp?externalurl=true",
-    "image": "https://photo.one.co.il/Image/GG/7,1/1860026.webp",
-    "timestamp": 1775052950000,
-    "source": "ONE",
-    "publisher_id": "www.one.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHp2ckk1VVJMMGxyYmpGLXk3ay1tbE9ydXhnbEZtdjFva3Z4QTdRcE9CZi1hZHVhdzg0SWJNUDJYdVJFa3J1dkx0d0pXUzVsZGMxWFMyQjFPaEhwS3loTi1ITmdTTDQ1LWtOYzdRMXV6NWlHMk96WDNnd3ZWejUteU1mUjZtRFlfaDU5Ug?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://m.one.co.il/Mobile/Article/25-26/3,696,3285,58932/518600.html",
-    "title": "הכי מוצדקת: איטליה יכולה להאשים רק את עצמה",
-    "description": "הכי מוצדקת: איטליה יכולה להאשים רק את עצמה  one.co.il",
-    "url": "https://m.one.co.il/Mobile/Article/25-26/3,696,3285,58932/518600.html",
-    "image": "https://photo.one.co.il/Image/GG/7,1/1860026.webp",
-    "timestamp": 1775052950000,
-    "source": "one.co.il",
-    "publisher_id": "m.one.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85d1hMb0tqOUUtTmhsWHIzNlBVQjU0TkNuSnUweE14TUphd1dDQ3U1QjdGMGtRNDdyaGVjN25NQzh5YlVHTGZ1UGw4N0ZWQkl6S19MVmoyVlN0ZlFUb1JUTWpiSGwwYjA2ekRGN1hJT1NwdHpQbmlMVA?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
