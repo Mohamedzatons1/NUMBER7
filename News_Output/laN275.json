@@ -644,43 +644,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/tuyen-italy-het-thoi",
-    "title": "נבחרת איטליה עברה את שיאו.",
-    "description": "נבחרת איטליה עברה את שיאו.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/tuyen-italy-het-thoi",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/04/01/1775042192201_2026_03_31t210219z_1718249628_up1em3v1mfus5_rtrmadp_3_soccer_worldcup_bih_ita.jpeg",
-    "timestamp": 1775042447000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pdUJadndZcURkZmpqWU1WYU8yejJWYVYzalFXREFKejdoMWRsaTluM0o1T1Ruemx1ZzFxVEJfazRUX3VoanhmaWJPNHNEbmo0Wk9VSkxNVjUydw?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/tuyen-italy-gay-phan-no",
-    "title": "נבחרת איטליה מעוררת זעם.",
-    "description": "נבחרת איטליה מעוררת זעם.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/tuyen-italy-gay-phan-no",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/04/01/1775041589104_italy_donnarumma.jpeg",
-    "timestamp": 1775042289000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNQWotSG1uT1p1SHBaZnByZnZUekhVTk5xMERTQXpQc1l5UFd3emxkOUp3SGZ6QkxrQkdTV0ZaTXdKbUdkdzBiVzhZQmNCYUtNdERfcGFUd0ZhdS1Cdnc?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
