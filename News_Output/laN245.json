@@ -321,24 +321,5 @@
     "extra": "Egypt",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=929348",
-    "title": "Egypt-Israel gas agreement signing today",
-    "description": "Egypt-Israel gas agreement signing today  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=929348",
-    "image": "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1610278111/Digital/share/sharearchive_y6xfco.jpg",
-    "timestamp": 1775102459000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CblNfdF9vQnotQ0xRRUpMSG8tb0x0MlRQQnl5TURkWlozNkgteDNFT2tmUzhQSHRNQ1A5RXh1eHo5QkFKREdWTWhLQl9xb3lkcWNkUktfTjdST3RuRHdyWjVlbw?oc=5",
-    "rssid": "laN245",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
   }
 ]
