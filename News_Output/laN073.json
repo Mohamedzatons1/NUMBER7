@@ -1499,43 +1499,5 @@
     "extra": "Haiti",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/04/03/americas/un-report-rape-haiti-kenya-latam-intl",
-    "title": "UN report details sexual abuse investigations involving foreign forces in Haiti",
-    "description": "UN report details sexual abuse investigations involving foreign forces in Haiti  cnn.com",
-    "url": "https://www.cnn.com/2026/04/03/americas/un-report-rape-haiti-kenya-latam-intl",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2162470720.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1775243256000,
-    "source": "cnn.com",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0pUZUVxU3ZNUG9tcmdEeWJVR2ZxNU1tWURUMEhZS1dHdkVuRE41UkVBeG1pY2dTbXlXMzZueVRQbnBxN3pTb3FMT1Z0M2s4Y1RadjdyVzZLYnZ2clJtXzlQY0ZVSWotMFVDNThiOEZTQllxam5YR1hlX3NrVmgxSnZTYw?oc=5",
-    "rssid": "laN073",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Haiti",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/articles/un-report-details-sexual-abuse-190736680.html",
-    "title": "UN report details sexual abuse investigations involving foreign forces in Haiti",
-    "description": "UN report details sexual abuse investigations involving foreign forces in Haiti  Yahoo",
-    "url": "https://www.yahoo.com/news/articles/un-report-details-sexual-abuse-190736680.html",
-    "image": "https://s.yimg.com/os/en/cnn_articles_875/7f1da5d2b09312055957c51829d63506",
-    "timestamp": 1775243256000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdS1ZU2hYNlVoT192aFJHUW9lU3BPM3VES014aGg5cWVVZW1ZR0Y5X2xCUmUwbWlUTFVvQWZhaGVwUHhIZjRUSFpPNDFfejhkQmVHQnFnUG5RT212T3RUMzRVd3NuTUV5cEY4bWtHeHR0TDk5STk4UVdoMkZYN01wQkR6NUNXNS1R?oc=5",
-    "rssid": "laN073",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Haiti",
-    "likes": 0,
-    "comments": 0
   }
 ]
