@@ -340,24 +340,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1304569",
-    "title": "גרמניה חוששת מקריסה - התרחיש שכבר נמצא על הפרק",
-    "description": "גרמניה חוששת מקריסה - התרחיש שכבר נמצא על הפרק  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1304569",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/998156",
-    "timestamp": 1775201100000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qdjhtVWp0MnpLV0JkSnhadmFWMTQ1UDQyTkxZSS1rNzhza0NoVVItdGJSSFhOUzB4NU9EWkF0QWJ4RlA2a3pzOGRvU3lHUU9IZGt2aTVua0dxVjlpdjl3Yg?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
