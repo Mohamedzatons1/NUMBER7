@@ -3627,43 +3627,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.mako.co.il/news-military/2026_q2/Article-5384672fac75d91027.htm",
-    "title": "הותר לפרסום: גיא לודר נפל בקרב בדרום לבנון",
-    "description": "הותר לפרסום: גיא לודר נפל בקרב בדרום לבנון  mako.co.il",
-    "url": "https://www.mako.co.il/news-military/2026_q2/Article-5384672fac75d91027.htm",
-    "image": "https://img.mako.co.il/2026/04/04/guyludar4426_autoOrient_w.jpg",
-    "timestamp": 1775295720000,
-    "source": "mako.co.il",
-    "publisher_id": "www.mako.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUdVWVpqdVlkZXZ3SnlFNVRreFJ0LVd6MjN6bjc0M2JMVTN4Tlo4WHhJcG11SkJUWHNydDk3R2t5dF9ydTNlNzA1V0Q4UFNuTVh3XzVHeXU0bjRIa0IyQVRJck1vYk9WN0FZVThHSXNjQ2lQYVFaOVJfZVQyNTBSdw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/military/article-1304893",
-    "title": "החלבן של חיזבאללה: בלבנון דיווחו על חטיפת אזרח - בצה\"ל מבהירים את התמונה",
-    "description": "החלבן של חיזבאללה: בלבנון דיווחו על חטיפת אזרח - בצה\"ל מבהירים את התמונה  מעריב",
-    "url": "https://www.maariv.co.il/news/military/article-1304893",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1083785",
-    "timestamp": 1775295240000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ObEZ4bFBWTEFSSTU1aFprSUdmZDFUT0YxWDUwR0RxdHJ0X014dDNoSEhnNUpfazNsVXhUaWpJZ01nOHlrWVJXNWJaT0FqM3Axa3QzWW5KVS1jSWlaWFAtWV93NnE?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
