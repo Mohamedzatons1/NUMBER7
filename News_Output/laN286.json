@@ -3684,43 +3684,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001539419",
-    "title": "הותר לפרסום: לוחם מגלן גיא לודר נפל בפעילות מבצעית בדרום לבנון",
-    "description": "הותר לפרסום: לוחם מגלן גיא לודר נפל בפעילות מבצעית בדרום לבנון  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001539419",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775322429/direct/WhatsApp_Image_2026-04-04_at_20.03.57_opa17y.jpg",
-    "timestamp": 1775279934000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UbU5ZOHFWWXZrZ0hsc1RNNFVFbENuSE9UdV83TnZhaUNqMHU0QVRnZ2hQWTh0MHBWaWtKSjQ1UnVVMnZOcTFWckVHZWNFMnBKTW56ak1xWlg3aWlDalRoejVCdkNyWEUw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/military/article-1304793",
-    "title": "האמת הקשה: לצה\"ל לא יהיו מספיק חיילים להגן על כל הגזרות",
-    "description": "האמת הקשה: לצה\"ל לא יהיו מספיק חיילים להגן על כל הגזרות  maariv.co.il",
-    "url": "https://www.maariv.co.il/news/military/article-1304793",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1083649",
-    "timestamp": 1775271591000,
-    "source": "maariv.co.il",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04TG85Q1Vvbk5SWnpHcW8wdzZ5RlgyeU8xZTVVcFZXeWtqcjZOS05TVWkxY052Wmo1MkIxSTFObzh5R3RkT2JianFSWnA3RUoxRFkwUlR3NHZTak5VdTUtc1N1X3M?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
