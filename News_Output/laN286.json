@@ -3646,43 +3646,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1304866",
-    "title": "מעבר למה שחשבתם: ההסבר המלא להתנהלות צבא לבנון",
-    "description": "מעבר למה שחשבתם: ההסבר המלא להתנהלות צבא לבנון  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1304866",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/860183",
-    "timestamp": 1775283627000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oZkhocFU0Sm1jNDMzWXlUU1hRX2JzWDRTMHBqM3BVZmxvNElMa0E0SEoxRS1FVnpWRU1uUzVYbGZLWm95M2wzOWx5Vkt2Z0puMGt0Yi1fRFdSNnotWG5QdXJ1YUE?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/military/article-1304845",
-    "title": "נשאר בצד: 5 סיבות שגורמות לצבא לבנון להימנע מעימות עם ישראל",
-    "description": "נשאר בצד: 5 סיבות שגורמות לצבא לבנון להימנע מעימות עם ישראל  מעריב",
-    "url": "https://www.maariv.co.il/news/military/article-1304845",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/465745",
-    "timestamp": 1775281140000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiOUVmbEpHWEVBZldkTGY2Y2xoNGFiM0pLVDluRkxMeWM2WHc0NGhGNE1ldlhRRDV3SjlsN3NVcWRNQzJGVUJSeEgwWVFtZXdiY1EyaXZpLWczYkloOFRGWS1mcE4?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -2791,43 +2791,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.wwe.com/event/clash-in-italy",
-    "title": "Clash in Italy",
-    "description": "Clash in Italy  WWE",
-    "url": "https://www.wwe.com/event/clash-in-italy",
-    "image": "https://www.wwe.com/f/styles/og_image/public/2026/02/Clash_in_Italy_2026_Logo.png",
-    "timestamp": 1775283671000,
-    "source": "WWE",
-    "publisher_id": "www.wwe.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5na0xHNVZGTF9TbGVHMWRFYkkyWk4xZXVCcElPZjIwdmJzd1BweU13ZTdFbE02Tmpfb01OdU1VYk50SWZ6UjZ0NlRWNUxtcWptMmc?oc=5",
-    "rssid": "laN082",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cntraveler.com/contributor-content/story/from-italy-to-montana-rockies-rebels-reimagines-western-boots-for-the-modern-traveler",
-    "title": "From Italy to Montana: Rockies Rebels Reimagines Western Boots for the Modern Traveler",
-    "description": "From Italy to Montana: Rockies Rebels Reimagines Western Boots for the Modern Traveler  Condé Nast Traveler",
-    "url": "https://www.cntraveler.com/contributor-content/story/from-italy-to-montana-rockies-rebels-reimagines-western-boots-for-the-modern-traveler",
-    "image": "https://media.cntraveler.com/photos/69780d73274a9e62d10881e4/16:9/w_1280,c_limit/Screenshot%202026-01-26%20at%207.56.09%E2%80%AFPM.png",
-    "timestamp": 1775282433000,
-    "source": "Condé Nast Traveler",
-    "publisher_id": "www.cntraveler.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd1BKSDUtdWRaQjBXaW9UU3JzenpJOEZkMkR1T1hLWFJYVFhhRnNCWlc4OE5id0lzTnFkSDBaSEgyVHF0ODRERWpfeUJjeHgxY2pEcEdBYkFzSVVrZVVyT29UTGpnMVhzRDVLX0pJX1hORTJ1YlFwOXJjZ2Jfd3FRU1JqYXloaFFYZThMY2IzQS1pMHNId2Y0US01QWRsRlhSd0lvOFBGTzEyVHVwNXZBTkF6QkNDTWRreHJiTGticzE4QjNTeWxBckZlcE9XMk10M1FqQw?oc=5",
-    "rssid": "laN082",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
