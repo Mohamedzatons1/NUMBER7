@@ -663,24 +663,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001539347",
-    "title": "הצרות של טורקיה, הקונספציה של קטאר: השפעת המלחמה על האזור",
-    "description": "הצרות של טורקיה, הקונספציה של קטאר: השפעת המלחמה על האזור  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001539347",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1774972228/COT_Pic/800_nmnpoq.gif",
-    "timestamp": 1775331221000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IZm1YX294ekNocmppTjlWLTIyWk92T2JsVHpJMl9UWWJ2cENyTHBUbml4NHdoOHI1bTZhRUoxeXNTMVhjM0VvdWxRNjBUZ0hmUm1LTURFaUJwTTY2VkVXM1FSTnlvQ1g2?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
