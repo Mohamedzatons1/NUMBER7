@@ -1100,43 +1100,5 @@
     "extra": "El Salvador",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/fr/news/brazil-beach-soccer-side-win-again-at-el-salvador-cup-close-in-on-title-42660538",
-    "title": "Brazil beach soccer side win again at El Salvador Cup, close in on title",
-    "description": "Brazil beach soccer side win again at El Salvador Cup, close in on title  OneFootball",
-    "url": "https://onefootball.com/fr/news/brazil-beach-soccer-side-win-again-at-el-salvador-cup-close-in-on-title-42660538",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Ffr%2F42660538%3Fdate=2026-04-04",
-    "timestamp": 1775323210000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2kyT3dRNXhSclFzSWhkQ0pTNklJbmlQRWUtaE9vUmZvWTl4S014Zk1vQ2R6NFQ2WWtrVWctX2JFWDRvNmRERmZNVU1SOVhsSV8zeHo2cG1nX1FYZWVLTXJLcmZ4bEJfVHVnLVhUUURBYlBQbnpmQVh2dkhYMXBGd1Zxb3I5Yk1EUENETXgtR2dWRnhYRGlNWU1HTmpHUUFmUDlGaWdVX1dGMU10SmhzMEtR?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.yahoo.com/articles/brazil-beach-soccer-side-win-171600674.html",
-    "title": "Brazil beach soccer side win again at El Salvador Cup, close in on title",
-    "description": "Brazil beach soccer side win again at El Salvador Cup, close in on title  Yahoo Sports",
-    "url": "https://sports.yahoo.com/articles/brazil-beach-soccer-side-win-171600674.html",
-    "image": "https://s.yimg.com/ny/api/res/1.2/M2W7XCZ2OK1_K196zgtHUg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDg7Y2Y9d2VicA--/https://media.zenfs.com/en/cbf_articles_956/fcd2a715a7d51e004de471f06903ac73",
-    "timestamp": 1775322960000,
-    "source": "Yahoo Sports",
-    "publisher_id": "sports.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZEkza2RZazROXzE1ZDUxQTFuN3VSakhCVG5LSjBrZkh0NjJlTm93ZTJiNVg1ek9mTXdyWkFHNVZkb1ZBUENfcFVCY3NFV0tQOWo2OG5uekVILWUwU05iNFVtV0lZV2ZiUk5FaUtTNFFSMnZLcTNtVjBod0NSMm5DR1FpMA?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
   }
 ]

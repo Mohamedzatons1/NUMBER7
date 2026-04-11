@@ -1727,24 +1727,5 @@
     "extra": "Morocco",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/sport/football/teams/morocco?page=17",
-    "title": "Morocco",
-    "description": "Morocco  BBC",
-    "url": "https://www.bbc.com/sport/football/teams/morocco?page=17",
-    "image": "https://static.files.bbci.co.uk/core/website/assets/static/sport/images/metadata/poster-1024x576.146fae5646.png",
-    "timestamp": 1775321011000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vWW1oN203M2thRFZSN05GLTUway11bElnOVh1YllQdjJyVnZzT3VneVNCd3NwZG15T2hHTlVNWEZsTG5tM0VpWWVYT0VkMTBUSTRnUkF6Qm9lWDYyS3pBMVJCUEt1RVk?oc=5",
-    "rssid": "laN115",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Morocco",
-    "likes": 0,
-    "comments": 0
   }
 ]
