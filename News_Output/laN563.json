@@ -17,24 +17,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/zelenskis-lankosi-turkijoje-120233028",
-    "title": "Zelenskis lankosi Turkijoje",
-    "description": "Zelenskis lankosi Turkijoje  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/zelenskis-lankosi-turkijoje-120233028",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/e31e5e2a-2f30-4b91-b0be-e7f86301e5e9.jpg?w=1200&h=800",
-    "timestamp": 1775306108000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR29BdzYxYkd5T0tBUUtwOXZuczdMZW5abWZPclREemQ5Nml5dE84MVdIbzAxVkhpU0l2Z3BoOFI0VDR5V2Zyd2tKQzYzeWthcXZraFlVSUo5R1lsSVI2b2ZlaGotbzNTMXk3QTNkX0dyMk9wZ2NpZlI3QjdsenVOT2taTlQ?oc=5",
-    "rssid": "laN563",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]

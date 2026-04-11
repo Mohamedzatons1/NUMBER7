@@ -245,43 +245,5 @@
     "extra": "Liechtenstein",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.fotmob.com/teams/1245674/overview/teams",
-    "title": "Liechtenstein (W)",
-    "description": "Liechtenstein (W)  FotMob",
-    "url": "https://www.fotmob.com/teams/1245674/overview/teams",
-    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/1245674.png",
-    "timestamp": 1775303041000,
-    "source": "FotMob",
-    "publisher_id": "www.fotmob.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVRmtJU0cyT0FETXVudmZLNmp1UF9ualhYR0VBZFA5cEtvN2xQaVFRbUJYeXNKbHBlVXJoMWpoSVR0TW1LUzdTd0hwcDNsZUhsUTgzRFhSbENqMC1ERmhCdA?oc=5",
-    "rssid": "laN097",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Liechtenstein",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.fotmob.com/teams/1245674/stats/players",
-    "title": "Liechtenstein (W) - top rated players, goals, assists and other stats",
-    "description": "Liechtenstein (W) - top rated players, goals, assists and other stats  FotMob",
-    "url": "https://www.fotmob.com/teams/1245674/stats/players",
-    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/1245674.png",
-    "timestamp": 1775302525000,
-    "source": "FotMob",
-    "publisher_id": "www.fotmob.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJRUV0SW53azZ5anQtRTRHdHR2eFZJdkEzR1UyMVpINzgya1dMeDVaZ2lqb25kTFpYWXp1Q2M4V2o1V1dqWklmY1g1azhqdDZFUkdzR3pwcmFyaHpVbnhN?oc=5",
-    "rssid": "laN097",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Liechtenstein",
-    "likes": 0,
-    "comments": 0
   }
 ]
