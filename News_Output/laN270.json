@@ -302,43 +302,5 @@
     "extra": "India",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFbjFyTDZfa014X3pRaDUwLVlBMjQ4WVdLa3NiN3FyOExSUW1DSDFaOGV5ZXVyTXZPaVdqbGc4UEYyNkdIcFBlNEVUS1lOSGc1RTBF?oc=5",
-    "title": "עוד חודש לפחות ללא טיסות: ענקית התעופה האסיאתית מאריכה את השעיית הטיסות לישראל",
-    "description": "עוד חודש לפחות ללא טיסות: ענקית התעופה האסיאתית מאריכה את השעיית הטיסות לישראל  PassportNews",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFbjFyTDZfa014X3pRaDUwLVlBMjQ4WVdLa3NiN3FyOExSUW1DSDFaOGV5ZXVyTXZPaVdqbGc4UEYyNkdIcFBlNEVUS1lOSGc1RTBF?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1775382180000,
-    "source": "PassportNews",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFbjFyTDZfa014X3pRaDUwLVlBMjQ4WVdLa3NiN3FyOExSUW1DSDFaOGV5ZXVyTXZPaVdqbGc4UEYyNkdIcFBlNEVUS1lOSGc1RTBF?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/india-defense-modernization-25-billion-russia-s400",
-    "title": "25 מיליארד דולר: הודו בונה מפלצת מלחמה טכנולוגית",
-    "description": "25 מיליארד דולר: הודו בונה מפלצת מלחמה טכנולוגית  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/india-defense-modernization-25-billion-russia-s400",
-    "image": "https://a.kikar.co.il/v2/articles/india-defense-modernization-25-billion-russia-s400/og-image.jpeg",
-    "timestamp": 1775380967000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbUJTcFdqb2VKTHNPQ1VmbzZqTnFITDc3aW14TVdUYllpLU1DalB6djVLamd6aXFfQUpwT3FuZ3lOVjdPQnBHdFE4OWlST3QyX0dKVW43Y2F2UlRsNHM1YXJqLU9jUmltNHo1dVBJY1JhSTVZRFlXNHFESXlIalBZVlVZRUpJdDIxTmdibi1B?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
   }
 ]
