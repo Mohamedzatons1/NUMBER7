@@ -112,24 +112,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001539425",
-    "title": "הנווט ממטוס הקרב האמריקאי שהופל באיראן – חולץ בשלום",
-    "description": "הנווט ממטוס הקרב האמריקאי שהופל באיראן – חולץ בשלום  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001539425",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1750348044/direct/AP25169000000661_pvwkhw.jpg",
-    "timestamp": 1775369763000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JOEZCTTZmQk02b3d3RnJrZEtPUFJLYk9IeUxldklyUXltdTIzYzlJUnlLTHdjT1hEZTZmZ3N3V0FsRWs1a196M3BEQWEzSFRBQjJSSXY3WmpfQXJ5SHl4UF96QTFFdUhm?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]

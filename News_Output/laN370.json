@@ -701,24 +701,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001538788",
-    "title": "עם טווח של 1,500 ק\"מ: הטיל שטורקיה בונה עליו",
-    "description": "עם טווח של 1,500 ק\"מ: הטיל שטורקיה בונה עליו  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001538788",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1773065175/direct/%D7%90%D7%A8%D7%93%D7%95%D7%90%D7%9F_d7ginm.jpg",
-    "timestamp": 1775370608000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kMXhfUlFaLWFBbnBfWExXdS1vdVQtdmR4ZEpiMWh1UnotdGdZQTdicl9hVkdkaU82aE1Yak5KNXFLajNrQklCQUdUWEIwRms5WjZFX2kwaGVQU21WRFlHQkRKd2RqVXFn?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
