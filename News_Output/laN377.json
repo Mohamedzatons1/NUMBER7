@@ -891,43 +891,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZQ044Y0FDWUM5ekZqSmZHX2pnM1FvSHVyMlUwLTJHN3BvX3VEYnJodmdCNEhIX0tDRG1TVkt0RXBwZG56YXRucmZYZldCRXM?oc=5",
-    "title": "This is how ElBaradei described the Security Council's decision regarding Gaza and Trump's peace plan.",
-    "description": "This is how ElBaradei described the Security Council's decision regarding Gaza and Trump's peace plan.  جريدة القدس",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZQ044Y0FDWUM5ekZqSmZHX2pnM1FvSHVyMlUwLTJHN3BvX3VEYnJodmdCNEhIX0tDRG1TVkt0RXBwZG56YXRucmZYZldCRXM?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1775392287000,
-    "source": "جريدة القدس",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZQ044Y0FDWUM5ekZqSmZHX2pnM1FvSHVyMlUwLTJHN3BvX3VEYnJodmdCNEhIX0tDRG1TVkt0RXBwZG56YXRucmZYZldCRXM?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/world/middle-east/2026-04-05/ty-article/.premium/0000019d-5d4f-d759-ab9d-7ddf0c900000",
-    "title": "מקור ישראלי: ישראל סייעה במודיעין למבצע החילוץ של הנווט האמריקאי",
-    "description": "מקור ישראלי: ישראל סייעה במודיעין למבצע החילוץ של הנווט האמריקאי  הארץ",
-    "url": "https://www.haaretz.co.il/news/world/middle-east/2026-04-05/ty-article/.premium/0000019d-5d4f-d759-ab9d-7ddf0c900000",
-    "image": "https://img.haarets.co.il/bs/0000019d-5d4f-d759-ab9d-7ddf0c900000/f1/93/54d4928d4899a5a69d366ef9c538/521935.jpg?precrop=2200,1279,x0,y0&width=1200&height=630&cmsprod",
-    "timestamp": 1775387400000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0RTWHJiX2tub3pISkpEc3QwUHNPN0h1MWNOY3pzRzNoWWRoWjlpNEh2Tkk3RkxXOEszVkRwbXVrZ1RWaUV4amxndi1TWFA4dWRYcGZDbWVGY3BES2VYZGtwSnVJbHlSOVhfQUl2ZW81M0RRRG8xOUR1VUgxLVdibXd6YnVtRlo2YUJ3ZVNBODNWZ3VJcVdCYzNiRzI3Wmt2UUlfWXl3Y01ydHh0c0k0MXEwRVRaMGs?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
