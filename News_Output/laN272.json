@@ -1537,43 +1537,5 @@
     "extra": "Iran",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "http://kikar.co.il/haredim-news/rabbi-yigal-cohen-iran-espionage-warning",
-    "title": "הרב יגאל כהן באזהרה חריגה: \"אל תשתפו פעולה עם איראנים – זו בגידה בעם שלנו\"",
-    "description": "הרב יגאל כהן באזהרה חריגה: \"אל תשתפו פעולה עם איראנים – זו בגידה בעם שלנו\"  kikar.co.il",
-    "url": "http://kikar.co.il/haredim-news/rabbi-yigal-cohen-iran-espionage-warning",
-    "image": "https://a.kikar.co.il/v2/articles/rabbi-yigal-cohen-iran-espionage-warning/og-image.jpeg",
-    "timestamp": 1775378829000,
-    "source": "kikar.co.il",
-    "publisher_id": "kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xejY2TURidVBWUlFQUDk1cjhZOG1HOEtZMjJyeGdsek9mNmdFZ0ZJeVlGMTh5MWk4OFEwZ2hlZDlzNlF6SllrMXRRM0FuMThVTzhkTEFVNFV3LVBJWnRGSUVSLS1IYUJwTUxTM3VlZzdrNTdCNzAtbWFEem4?oc=5",
-    "rssid": "laN272",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.geektime.co.il/aws-regions-are-hard-down-post-iran-attacks/",
-    "title": "מייל פנימי של אמזון חושף את חומרת הפגיעה האיראנית בדאטה-סנטרים שלה",
-    "description": "מייל פנימי של אמזון חושף את חומרת הפגיעה האיראנית בדאטה-סנטרים שלה  גיקטיים",
-    "url": "https://www.geektime.co.il/aws-regions-are-hard-down-post-iran-attacks/",
-    "image": "https://cdn.geektime.co.il/wp-content/uploads/2026/03/AWS-DATACENTER.jpg",
-    "timestamp": 1775373924000,
-    "source": "גיקטיים",
-    "publisher_id": "www.geektime.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RbXp1TzBOdWxfaGtvc1pNWUg1bWdPYk9vbE9xME5zbHlqM3JiWHBKNlpTQXpJVU8wRTdzV25FSEZrdHMwUWQtWGRPSlc3aVJMQ1p6Tld6NlFyblF4VndWOTBJRG9oc0dDYmFWM2dwYk4yTkdXLXBXcTlpYw?oc=5",
-    "rssid": "laN272",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
   }
 ]
