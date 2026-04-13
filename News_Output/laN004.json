@@ -264,24 +264,5 @@
     "extra": "Andorra",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.espn.in/football/team/squad/_/id/587/season/2026/sort/age",
-    "title": "Andorra %{year} Squad",
-    "description": "Andorra %{year} Squad  espn.in",
-    "url": "https://www.espn.in/football/team/squad/_/id/587/season/2026/sort/age",
-    "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/587.png",
-    "timestamp": 1775440823000,
-    "source": "espn.in",
-    "publisher_id": "www.espn.in",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uTERwejg0Q1U0ZTJfQnduNzRMZTZJVllha2JJRmRxdllKZm1fZ0RLNjlhdXo2OG90MXRfSlNTaWdIeWJNRW5xMWhJOGtlV2Q5aU02NjdsTFR3VXRqY1hISnpoeDBuckhSSTd0WldHRDRmazJNU3FCZA?oc=5",
-    "rssid": "laN004",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Andorra",
-    "likes": 0,
-    "comments": 0
   }
 ]
