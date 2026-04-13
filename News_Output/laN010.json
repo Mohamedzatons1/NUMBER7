@@ -2221,43 +2221,5 @@
     "extra": "Austria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.wtatennis.com/tournaments/528/linz/2026/scores/RS004",
-    "title": "Upper Austria Ladies Linz",
-    "description": "Upper Austria Ladies Linz  WTA Tennis",
-    "url": "https://www.wtatennis.com/tournaments/528/linz/2026/scores/RS004",
-    "image": "https://photoresources.wtatennis.com/photo-resources/2025/05/06/837e6f32-a9b9-42e2-b3a8-057f37846755/Home-Share_1200x630.png?width=1200&height=630",
-    "timestamp": 1775455283000,
-    "source": "WTA Tennis",
-    "publisher_id": "www.wtatennis.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oRV83QnctbUN0UHZlSW1MUk5vYzE5dno5akpHY0NsYWE3clNFVTRVZjhfbnZCRXduRUdlS1FNMnpHSzNLYklEZFlyQjlnU19TWGdjZzVWelZ2aURkOWZmeFNBUjU5dEJkY2lxQ1NoNjlkQQ?oc=5",
-    "rssid": "laN010",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.wtatennis.com/tournaments/528/linz/2026/scores/LS017",
-    "title": "Stephens vs. Maria | Round of 32 Upper Austria Ladies Linz 2026 | WTA Official",
-    "description": "Stephens vs. Maria | Round of 32 Upper Austria Ladies Linz 2026 | WTA Official  WTA Tennis",
-    "url": "https://www.wtatennis.com/tournaments/528/linz/2026/scores/LS017",
-    "image": "https://photoresources.wtatennis.com/photo-resources/2025/05/06/837e6f32-a9b9-42e2-b3a8-057f37846755/Home-Share_1200x630.png?width=1200&height=630",
-    "timestamp": 1775446206000,
-    "source": "WTA Tennis",
-    "publisher_id": "www.wtatennis.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsblFIR3d2YVdjMTNfeGUtUlZ6cFpwOWhQeEJWbE9RQ1JsbWVFa3AzUnJVTDhuRDlHRGdWSHR2eEwtYXRJekdKa0VBaXpDNFI0WEJPOFRmRV9rc3JIR2pWVzJnQnNPTEJOSlhuU1pfNl80UQ?oc=5",
-    "rssid": "laN010",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -1822,43 +1822,5 @@
     "extra": "Norway",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/videos/augmented-reality-gives-trolls-tech-053831515.html",
-    "title": "Augmented reality gives trolls a tech upgrade in Norway",
-    "description": "Augmented reality gives trolls a tech upgrade in Norway  Yahoo",
-    "url": "https://www.yahoo.com/news/videos/augmented-reality-gives-trolls-tech-053831515.html",
-    "image": "https://s.yimg.com/ny/api/res/1.2/g_tHjHMCr2YB2npNenTBVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/d51047fb-95b7-4d69-a746-0555bf9c6ccd/main/1280x720/33s898ms/match/image.jpg",
-    "timestamp": 1775453880000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmRTSnYteVZwSTgwTDFhaUhGNFdGMVJyT3UyUU5UZGluNURIbXQzN21LTm9rLWd3VDgtT2lHaUZIMFd2eGlHcm5xRjhuME8wcU5mSmV4cHNDcEpueWYyclJFZVBZNVc2djRZQzhvZlJQdjVNaFpFLWMxR2t2NC1HY2poMk5xWmlBb3JoVw?oc=5",
-    "rssid": "laN128",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Norway",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://ca.news.yahoo.com/augmented-reality-gives-trolls-tech-053833468.html",
-    "title": "Augmented reality gives trolls a tech upgrade in Norway",
-    "description": "Augmented reality gives trolls a tech upgrade in Norway  Yahoo News Canada",
-    "url": "https://ca.news.yahoo.com/augmented-reality-gives-trolls-tech-053833468.html",
-    "image": "https://s.yimg.com/ny/api/res/1.2/pHIPFXpMdRjm3KQvyOhWBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/video.canadianpress.com/129655437e2118a035ef55e581297352",
-    "timestamp": 1775453880000,
-    "source": "Yahoo News Canada",
-    "publisher_id": "ca.news.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmtNMzJ5NU9lcUZWMUtJMUVBVVVwTDllUjRpV1F2M3lablRjZHlEcUw5cDd1eXVwZ3V1OGVSSzJfUGVUVEtfWnozU0xFSnprYWRXaGttVWtVQ0tPXzBjazBEa2tqU2h3R1NkQmNjQlBaellCbDNRdS1mb2RfLUpsQ2FR?oc=5",
-    "rssid": "laN128",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Norway",
-    "likes": 0,
-    "comments": 0
   }
 ]
