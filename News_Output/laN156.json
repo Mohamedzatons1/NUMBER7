@@ -891,24 +891,5 @@
     "extra": "Slovenia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.metmuseum.org/zh/art/collection/search/422764",
-    "title": "After Pieter Coecke van Aelst - A Military Camp in Slovenia from the frieze Ces Moeurs et fachons de faire de Turcz (Customs and Fashions of the Turks)",
-    "description": "After Pieter Coecke van Aelst - A Military Camp in Slovenia from the frieze Ces Moeurs et fachons de faire de Turcz (Customs and Fashions of the Turks)  The Metropolitan Museum of Art",
-    "url": "https://www.metmuseum.org/zh/art/collection/search/422764",
-    "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/422764/779094/main-image",
-    "timestamp": 1775462453000,
-    "source": "The Metropolitan Museum of Art",
-    "publisher_id": "www.metmuseum.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkRU91SFl6RXdVR05zZGhoSzJWZ05FeDA3VjROMFN4N1MtVEhHdXNMbGdYTFcxVldJVlZSR1lWTTFvTnN3M0Y0SW8tYkNPMGFZQ0Q1bERWWXd2dF8zOFFUUWJ2QWZ3Sm13?oc=5",
-    "rssid": "laN156",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Slovenia",
-    "likes": 0,
-    "comments": 0
   }
 ]

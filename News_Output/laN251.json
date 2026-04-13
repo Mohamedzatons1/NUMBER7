@@ -17,5 +17,43 @@
     "extra": "Ethiopia",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RWUR4cVdJZU44OXVTejdLMERHeDhyRXlMZ2RScHNJeXR1ZFNBTE9feHdTQ2ZRbEdNNnhMeGt4T2c4em1Da000ZTB2cGx2UQ?oc=5",
+    "title": "Two workers of a humanitarian organization were killed in the Ethiopian Amhara region",
+    "description": "Two workers of a humanitarian organization were killed in the Ethiopian Amhara region  جريدة القدس",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RWUR4cVdJZU44OXVTejdLMERHeDhyRXlMZ2RScHNJeXR1ZFNBTE9feHdTQ2ZRbEdNNnhMeGt4T2c4em1Da000ZTB2cGx2UQ?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1775790008000,
+    "source": "جريدة القدس",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RWUR4cVdJZU44OXVTejdLMERHeDhyRXlMZ2RScHNJeXR1ZFNBTE9feHdTQ2ZRbEdNNnhMeGt4T2c4em1Da000ZTB2cGx2UQ?oc=5",
+    "rssid": "laN251",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Ethiopia",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oYlpCR29YcEo2d2xZT1RTRU1sRUgyTDAxRmpuTE1WRGY3VHZuSnVaMGEwQmZuYTBzSTB5MDByb3V6YU1kb1ZjbFVmMGdCUQ?oc=5",
+    "title": "Ethiopia calls on UN to accelerate the implementation of the peace agreement in Tigray",
+    "description": "Ethiopia calls on UN to accelerate the implementation of the peace agreement in Tigray  جريدة القدس",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oYlpCR29YcEo2d2xZT1RTRU1sRUgyTDAxRmpuTE1WRGY3VHZuSnVaMGEwQmZuYTBzSTB5MDByb3V6YU1kb1ZjbFVmMGdCUQ?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1775709847000,
+    "source": "جريدة القدس",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oYlpCR29YcEo2d2xZT1RTRU1sRUgyTDAxRmpuTE1WRGY3VHZuSnVaMGEwQmZuYTBzSTB5MDByb3V6YU1kb1ZjbFVmMGdCUQ?oc=5",
+    "rssid": "laN251",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Ethiopia",
+    "likes": 0,
+    "comments": 0
   }
 ]
