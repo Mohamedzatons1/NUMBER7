@@ -568,24 +568,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001539610",
-    "title": "באיטליה מתחילים להבין: זו דווקא כן המלחמה גם שלהם",
-    "description": "באיטליה מתחילים להבין: זו דווקא כן המלחמה גם שלהם  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001539610",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1775540437/COT_Pic/1337_czzvco.png",
-    "timestamp": 1775540662000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zNzNEbTlCWWFTWjVwY1ZYZDd4SGFoeTFQX0xya1d2SjE2RFZSdUstRXdycjZjUkxlcWhVQkx6SmJiNkktS2FDdWNUb0NIOXZ5TklWTEplT1dDbi1DVTZLTVoxLXV1RElB?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
