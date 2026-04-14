@@ -606,43 +606,5 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/neatsitiktinis-ispuolis-rusai-nikopolyje-atakavo-mikroautobusa-120233592",
-    "title": "Neatsitiktinis išpuolis: rusai Nikopolyje atakavo mikroautobusą",
-    "description": "Neatsitiktinis išpuolis: rusai Nikopolyje atakavo mikroautobusą  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/neatsitiktinis-ispuolis-rusai-nikopolyje-atakavo-mikroautobusa-120233592",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/dc24f621-9011-41a1-9602-224e00d51d17.jpg?w=1200&h=800",
-    "timestamp": 1775546694000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzVIYUtRUXNuMGE0eXdJcmU2T1daWFNHX0c1X3I5OVM2d2Q0UXFWYVBtNFN3cHdmVGRaTUJIM0dnNFZJekJ6WXpDM2stSURIUG9lWC1PWkF3NW1PWUFSVlNWMWZfNGJyRFlJSGtZVHB0YnhJSW5lV1FSaFJsRFRucWtuZjdXRzlibF9Cd2FXeG9XQUJVa1g1MlB5SXdWeldtdjV5ejJmWnpVQWRwN0d5QVRRZw?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/paviesintos-palydovines-nuotraukos-i-fregata-novorosijske-pataikyta-du-kartus-120233553",
-    "title": "Paviešintos palydovinės nuotraukos – į fregatą Novorosijske pataikyta du kartus",
-    "description": "Paviešintos palydovinės nuotraukos – į fregatą Novorosijske pataikyta du kartus  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/paviesintos-palydovines-nuotraukos-i-fregata-novorosijske-pataikyta-du-kartus-120233553",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/f6795ec8-04d9-4c0c-a016-d5b2ac7f3d25.jpg?w=1200&h=800",
-    "timestamp": 1775544290000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzBzSzhXQ1ZLWWE5QmhuUS1YR2pOZ19BRG8zazVfU1VjQkJRaHJUMW1kaVlzMFZ1RXVudUZqNVVCMF92ejFHRnVZdTNlSzlJREd0T1VhOWpHeTd4djNJSl9zempDMXRZSUJRcWhwdFBrZkVxdVJlRm9weTY5eDdZSnNwLXB3cWtRQ2FWb21peE0zTnkweXBjUF9ZM0laWllQUHN4UGd4dzlNa3Uyc2VPc0NpMnZGb2xFOVlqS3lxUUpIdThLSWtj?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
   }
 ]
