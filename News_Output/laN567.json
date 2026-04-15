@@ -568,43 +568,5 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://ing.org/lt/ing-statement-on-the-invasion-of-ukraine/",
-    "title": "ING pareiškimas dėl invazijos į Ukrainą",
-    "description": "ING pareiškimas dėl invazijos į Ukrainą  Islamic Networks Group",
-    "url": "https://ing.org/lt/ing-statement-on-the-invasion-of-ukraine/",
-    "image": "https://ing.org/wp-content/uploads/2022/03/2-Out-of-many-one-2-scaled.jpg",
-    "timestamp": 1775681340000,
-    "source": "Islamic Networks Group",
-    "publisher_id": "ing.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0V1ZMMUhSUmdKU25ucHhveHBwWGxjeEJ1TGZoMHg3UndVc2NZUW9ibU1ZYkxZS3BMbEV4ZTJXaEduT2tDSXNGdmktSXV3V01UcldibTRhdTBfVklkZkRNeGhCNTFrLTBJOHYtNg?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/urm-atnaujino-informacija-del-trumpo-pasiuntiniu-vizito-i-ukraina-120234553",
-    "title": "URM atnaujino informaciją dėl Trumpo pasiuntinių vizito į Ukrainą",
-    "description": "URM atnaujino informaciją dėl Trumpo pasiuntinių vizito į Ukrainą  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/urm-atnaujino-informacija-del-trumpo-pasiuntiniu-vizito-i-ukraina-120234553",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/3aaa8aba-c43f-4dbe-9809-93354e8ccd7e.jpg?w=1200&h=800",
-    "timestamp": 1775680092000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmczSnpRWU1jbjJBR3BqbElSeVBZT2NPclFXbjdNZDRldFZSOV9HcFJYU2Z0QUNJQURWLUZVVmNoSDlWbGJyaFQwX24xQ1YyVTlScVNBaTY0RHBUWHEyMG40enhHVndCN0R0djNzYkFWMUFxNnlKaGM1UWcydDBCdURoM3FYSW5tSXdpclg0NU9jUlVQWXdoanM2dDJXRGVnVVlhRjFwcm00ZVZtQUZ0YlZYSHF5TGM?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
   }
 ]

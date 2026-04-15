@@ -1936,24 +1936,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/world/middleeast/syria-civil-war-fast-facts",
-    "title": "Syrian Civil War Fast Facts",
-    "description": "Syrian Civil War Fast Facts  CNN",
-    "url": "https://www.cnn.com/world/middleeast/syria-civil-war-fast-facts",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/141012101403-turkey-into-kobani.jpg?q=x_180,y_424,h_2465,w_4383,c_crop/w_800",
-    "timestamp": 1775678520000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwZWRrVFhrNUwzSUc5S2taZFRNLXFDMWJlYnFOX2R1RElpOE9zZTJHbGxsU2I4aE40enVMQW0xdlN3WmJOWV9WSlBsZVdkWEFDSVJ1TzNNNjZGMXJ2UmxSOUM1R2E1N3AtY2pUOWZISmo?oc=5",
-    "rssid": "laN168",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
