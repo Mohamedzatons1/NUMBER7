@@ -1841,43 +1841,5 @@
     "extra": "Azerbaijan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.az/news/high-oil-prices-pros-and-cons-for-azerbaijan",
-    "title": "High oil prices: pros and cons for Azerbaijan",
-    "description": "High oil prices: pros and cons for Azerbaijan  News.az",
-    "url": "https://news.az/news/high-oil-prices-pros-and-cons-for-azerbaijan",
-    "image": "https://news.az/photos/2026/04/c09f73b1-1f54-3433-942d-4baf01144398-1200-1775581836.webp",
-    "timestamp": 1775625975000,
-    "source": "News.az",
-    "publisher_id": "news.az",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oUWc2N3dKYjY5bDJaQmlPcWR4bzVrNG0yVVJXd3daaU1kVmVrNVhsYUtKbzh0MXRiblp4TXRVLUpIdXVpdkx5WVMzT1BGazdiblB2ZGlwci04LUtJSUxIUFJIU3JmR0NYUTdwM2NwV3U4YnM?oc=5",
-    "rssid": "laN011",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Azerbaijan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.eng.kavkaz-uzel.eu/articles/74296",
-    "title": "An Azerbaijani man has been convicted of transferring money to terrorists.",
-    "description": "An Azerbaijani man has been convicted of transferring money to terrorists.  Caucasian Knot",
-    "url": "https://www.eng.kavkaz-uzel.eu/articles/74296",
-    "image": "https://www.eng.kavkaz-uzel.eu/system/uploads/article_image/image/0004/42144/main_image_view_new.jpg",
-    "timestamp": 1775622000000,
-    "source": "Caucasian Knot",
-    "publisher_id": "www.eng.kavkaz-uzel.eu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hbzdiQUVBR0U1NlktdDBqeGpPN1dONENXeGhIb09kU3h3TVA2U29aclN0c1JhTFh4T3VweHgtMjNad2NQU2dITVJuN0tMWllfZ1g2bEM4TTQ?oc=5",
-    "rssid": "laN011",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Azerbaijan",
-    "likes": 0,
-    "comments": 0
   }
 ]

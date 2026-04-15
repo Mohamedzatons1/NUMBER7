@@ -74,43 +74,5 @@
     "extra": "Iraq",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxb29Vakg4M29aOGZOSmNLTVVxTUd0LVJ0YUtYd055UDRJNmNIVGI5Y0Z1VkdWSWFRSU53SGZPcGtFQXM4ZVdKQlAtUkRaZw?oc=5",
-    "title": "העיתונאית האמריקנית שנחטפה בעיראק שוחררה: \"עליה לעזוב מידית\"",
-    "description": "העיתונאית האמריקנית שנחטפה בעיראק שוחררה: \"עליה לעזוב מידית\"  וואלה חדשות",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxb29Vakg4M29aOGZOSmNLTVVxTUd0LVJ0YUtYd055UDRJNmNIVGI5Y0Z1VkdWSWFRSU53SGZPcGtFQXM4ZVdKQlAtUkRaZw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1775626200000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxb29Vakg4M29aOGZOSmNLTVVxTUd0LVJ0YUtYd055UDRJNmNIVGI5Y0Z1VkdWSWFRSU53SGZPcGtFQXM4ZVdKQlAtUkRaZw?oc=5",
-    "rssid": "laN273",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Iraq",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/nu-nha-bao-my-bi-bat-coc-duoc-nhom-vu-trang-iraq-tra-tu-do",
-    "title": "עיתונאי אמריקאי שנחטף על ידי ארגון חמוש עיראקי שוחרר.",
-    "description": "עיתונאי אמריקאי שנחטף על ידי ארגון חמוש עיראקי שוחרר.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/nu-nha-bao-my-bi-bat-coc-duoc-nhom-vu-trang-iraq-tra-tu-do",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/04/08/1775619548697_nu-nha-bao-my.jpeg",
-    "timestamp": 1775620320000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVFIzQzVIaTF5LUIzd2E0NkNsMG5QREpCcG9OenJRSGZfQWxCVE9NbGVIamRyZEgwQVk1ZFNVOXM3cHczb1NxMFBFbk1yZGwzSGlGLTgxZ1Qzck5TSklhLU9CSllBV1BXM1B2QVYxbDNBeVZ6V1hlWDNjT2FveFF1UzBuY1gtS3MtYnBMUA?oc=5",
-    "rssid": "laN273",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Iraq",
-    "likes": 0,
-    "comments": 0
   }
 ]

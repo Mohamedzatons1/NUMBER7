@@ -1043,43 +1043,5 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/sao-paulo-beats-wind-and-rain-to-start-sul-americana-with-win-in-uruguay-42677271",
-    "title": "São Paulo beats wind and rain to start Sul-Americana with win in Uruguay",
-    "description": "São Paulo beats wind and rain to start Sul-Americana with win in Uruguay  OneFootball",
-    "url": "https://onefootball.com/en/news/sao-paulo-beats-wind-and-rain-to-start-sul-americana-with-win-in-uruguay-42677271",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F42677271%3Fdate=2026-04-08",
-    "timestamp": 1775623266000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlNhZUtyOGJ0TFpuSjZCZUM2VjJvTnN4MXM4MDlZdTBwTVIwUTN4UVgzTmhiempIaVNHcGNaNzRuV0dTckgtZzBxRldWc2xuU3VJR2hnQlVWcHVkbHNhbWg5Q2tsUnFLbmpPVElUT3NqZ19tcUYyT093aWJpU3VEV2hzcl9JdkEwbmJ0cWV3djBkc1B5LTl5WTQ5TkN1SHVHY2dveFFTRXc0OXg5dWllbUVacw?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://infovaticana.com/en/2026/04/08/the-vatican-is-considering-a-visit-by-leo-xiv-to-uruguay-at-the-end-of-2026/",
-    "title": "The Vatican is considering a visit by Leo XIV to Uruguay at the end of 2026",
-    "description": "The Vatican is considering a visit by Leo XIV to Uruguay at the end of 2026  infovaticana",
-    "url": "https://infovaticana.com/en/2026/04/08/the-vatican-is-considering-a-visit-by-leo-xiv-to-uruguay-at-the-end-of-2026/",
-    "image": "https://infovaticana.com/wp-content/uploads/2026/04/INFOVATICANA_84.png",
-    "timestamp": 1775620635000,
-    "source": "infovaticana",
-    "publisher_id": "infovaticana.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3FLR1gzcmdFSHVHLXkxM3QtWnBiS1dabzFCeWFVdXFlcWVBSk9keExLc0ZGUXc1eG1nVkFkT2dIWWlvSXFBQ1V0N05vRkxBcG1jYzlNdjVqR3RuclM3SlFlNV95aUJDbURnYjUtV2J5VUVQd0NNZnFFRzdkX3hwUGVsZGZnVjB1VmxTOXBwd19xbEVlSnJqOWNJR052VU9nZGFHMERycG9yaEloTTJEZWJzb0kwUQ?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
   }
 ]
