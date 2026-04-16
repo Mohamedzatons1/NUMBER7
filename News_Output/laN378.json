@@ -17,5 +17,43 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://kan.org.il/content/worldcup/classics/nedvsuru/s3/1027960/",
+    "title": "מיטב הביצועים של אריאן רובן",
+    "description": "מיטב הביצועים של אריאן רובן  כאן 11",
+    "url": "https://kan.org.il/content/worldcup/classics/nedvsuru/s3/1027960/",
+    "image": "https://www.kan.org.il/media/xfylpiue/0241adb8-0e92-43f2-b627-8bf14e6fd5d9.jpg?rmode=pad&width=1200&height=630",
+    "timestamp": 1775977200000,
+    "source": "כאן 11",
+    "publisher_id": "kan.org.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9seGNTdkszUHVZbE43REFueGZvaXI3YVNQMFpBdk84dG9sRF9uTjNqUnBLeE0zbjlPbXRvT0ItMEFKb21ULUdVZ2tVX1VoNVhNaVQ4Y2JyMHpqamtKOFdYQi1NWlhHQm9OY0hBZWs3ZzZmaVk?oc=5",
+    "rssid": "laN378",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Uruguay",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.kan.org.il/content/worldcup/classics/nedvsuru/s2/1027964/",
+    "title": "דקה 4: מצב הבקעה של דירק קויט",
+    "description": "דקה 4: מצב הבקעה של דירק קויט  כאן 11",
+    "url": "https://www.kan.org.il/content/worldcup/classics/nedvsuru/s2/1027964/",
+    "image": "https://www.kan.org.il/media/ze0hagh4/1e08c349-8b98-43f1-92dd-bba25d5ca36b.jpg?rmode=pad&width=1200&height=630",
+    "timestamp": 1775977200000,
+    "source": "כאן 11",
+    "publisher_id": "www.kan.org.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QQjU5c0t6QXpkWFMyTmpnbVRnTVYzRGNlMk9pbExRazBOb25rMTFRZENGbXpXYU1ISXZnSVY4R1RCY0dUZHF1Z21sZlliWjNnY1BNSGFXZmNZYTJrMTllbkxvMm83SFdVYUZDdmROY20tTWhWSDljag?oc=5",
+    "rssid": "laN378",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Uruguay",
+    "likes": 0,
+    "comments": 0
   }
 ]
