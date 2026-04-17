@@ -530,43 +530,5 @@
     "extra": "Iran",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/news/melo-detektorius/klastote/ar-tikrai-iranas-skyre-raketa-jeffrey-epsteino-aukoms-120235032",
-    "title": "Ar tikrai Iranas skyrė raketą Jeffrey Epsteino aukoms?",
-    "description": "Ar tikrai Iranas skyrė raketą Jeffrey Epsteino aukoms?  Delfi",
-    "url": "https://www.delfi.lt/news/melo-detektorius/klastote/ar-tikrai-iranas-skyre-raketa-jeffrey-epsteino-aukoms-120235032",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/e93c2859-7491-4bb8-a821-97677a55d2fa.jpg?w=1200&h=800",
-    "timestamp": 1775799948000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXdpZUViU2JSUmJybFI3dDlNMC1PcnI5VFRoWDhyQV84T2hzMWFJTGpENS11YWIzN0ZONHM4LTRWNEphMnBOcnNHS3BWTVprWVJkTUxuTHZSck4weVctQWpOZUVnb0o2d1lfM2lDTXV4NXBJTndZbnFMYnJVMTZ6VHpoR0RCbjlRelY1dWNGUGdFaW1Lcmg4SV95cHhYVnI0NEVLc0kwdEo1S3V5dkdvQ1RHZjAyUQ?oc=5",
-    "rssid": "laN465",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/1503r6k-former-israeli-pm-us-israel-iran-war-ceasefire-what-next?language=lt",
-    "title": "Former Israeli PM: US-Israel-Iran war ceasefire – what next?",
-    "description": "Former Israeli PM: US-Israel-Iran war ceasefire – what next?  Inbox.lv",
-    "url": "https://news.inbox.lv/1503r6k-former-israeli-pm-us-israel-iran-war-ceasefire-what-next?language=lt",
-    "image": "https://news.inbox.eu/w/img/7a/dc/7adc27101cfdf58caa.jpg",
-    "timestamp": 1775795922000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalN0dDRMakFwbTJ2SG9DWGpNQkVsa2VBYnIzUjdPc0xMWnZ4em5PTTJuV3pqZ0RHbGtwQjhNN3hoX0ZSUnhyLWYxNzRNTWEtZFllMkhya0NDZVJwMXV5a0ZfMUNRR1VkSFUxdXBjVC1TOUYwaE1xRkQzY2I3aUhSdTYwbzRpbE51dWlFZ1E5OHY3eUZoMUVxTjFMYVNQVEE?oc=5",
-    "rssid": "laN465",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
   }
 ]
