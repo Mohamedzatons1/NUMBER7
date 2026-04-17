@@ -2297,43 +2297,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3829614",
-    "title": "סמל הובס מול המוליכה בהונגריה, ניצחון לזרגרי ברומניה",
-    "description": "סמל הובס מול המוליכה בהונגריה, ניצחון לזרגרי ברומניה  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3829614",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/3/4/4034354-46.jpg",
-    "timestamp": 1775843580000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nQlE5ZWZ1U1FhTUYxVnZGbUdZSGFKRnhCLXdlSXNsTjBDSnI3SXNSeG9BajgteHhrZEQ1U2hZQUVmckl6a2xRem5UYmw4Qkg1?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/h1p8cvu3zl",
-    "title": "הפסד של אורבן בבחירות בהונגריה יהיה מכה קשה לישראל ולנתניהו",
-    "description": "הפסד של אורבן בבחירות בהונגריה יהיה מכה קשה לישראל ולנתניהו  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/h1p8cvu3zl",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/16/B1zOi6gOZe/B1zOi6gOZe_0_0_2242_1263_0_large.jpg",
-    "timestamp": 1775840667000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAza2l0RnZmSEQzSkZYUmtCbjdIUFNOaXhBTTlpY0o0aTVVMmlWaVZiZ29KSjlzcmJfT1Q0RnpTR2MzZnNEMUE2aUhDUkVTejhNbm9pQjFzaElaUQ?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
