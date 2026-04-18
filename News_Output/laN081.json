@@ -4482,43 +4482,5 @@
     "extra": "Ireland",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.rte.ie/news/ireland/2026/0411/1567706-fuel-protests/",
-    "title": "Around 600 filling stations run dry - Fuels for Ireland",
-    "description": "Around 600 filling stations run dry - Fuels for Ireland  RTE.ie",
-    "url": "https://www.rte.ie/news/ireland/2026/0411/1567706-fuel-protests/",
-    "image": "https://www.rte.ie/images/0024326e-1600.jpg",
-    "timestamp": 1775903861000,
-    "source": "RTE.ie",
-    "publisher_id": "www.rte.ie",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HR3FNMnNpQXNDdHlYWEdwYW1MSHdXOFJuVUx5VWM4aEtrWHJnTGlMNFlZSDY4bzBLZk9aaHdJTnBRR3V6RG5XYnhNUHpqajhtdGlDSk1FMXVJZlRZU0RNRmZ1ZFJIc3hTbXZHeHZIeHBuUQ?oc=5",
-    "rssid": "laN081",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ireland",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.longfordleader.ie/news/local-news/2059087/longford-joins-all-ireland-call-to-track-squirrels-and-pine-martens.html",
-    "title": "Longford joins All-Ireland call to track squirrels and pine martens",
-    "description": "Longford joins All-Ireland call to track squirrels and pine martens  Longford Leader",
-    "url": "https://www.longfordleader.ie/news/local-news/2059087/longford-joins-all-ireland-call-to-track-squirrels-and-pine-martens.html",
-    "image": "https://www.longfordleader.ie/resizer/1200/700/true/2026_04_10/Red_squirrel-1775840361494_1775840400.jpg--longford_joins_all_ireland_call_to_track_squirrels_and_pine_martens.jpg?1775840400847",
-    "timestamp": 1775898172000,
-    "source": "Longford Leader",
-    "publisher_id": "www.longfordleader.ie",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXRyOWRMeDJkei1JSTZkaXpqYXZkYlZvTVp1QmxlS0RTelo2T3ZIYkJtbUpiVVpRUDVQeS1wbW93NUVVM1RCLXZzTmpuN2E0djFQZGlzd3dXWDFhUG94YU00N2hmOFpoMjZ4b2JvMHlvQVdqTmR3SHFWNXBJNGVtODB6c21TZDBsTFpOcEtZc2h1bld1Wjh2SlZ1eUtwZHMwdk9qTFhjWjg1aXo5bHBaYjRoZGR1WDdwX19wSjFVNi1GV1pp?oc=5",
-    "rssid": "laN081",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ireland",
-    "likes": 0,
-    "comments": 0
   }
 ]

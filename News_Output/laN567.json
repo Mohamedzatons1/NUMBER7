@@ -663,43 +663,5 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/per-rusijos-atakas-ukrainoje-zuvo-keli-zmones-120235726",
-    "title": "Per Rusijos atakas Ukrainoje žuvo keli žmonės",
-    "description": "Per Rusijos atakas Ukrainoje žuvo keli žmonės  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/per-rusijos-atakas-ukrainoje-zuvo-keli-zmones-120235726",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/d895defb-9c0a-4efe-a904-6f3ec34c66f5.jpg?w=1200&h=800",
-    "timestamp": 1775900722000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1ZiVi1mM0pYOFlhOC0xbU0xaTBycjlvLXUxUjhYZXZkMjdfQXZQek1CcENjQnNhR214WGFKdmE3bm1telg2Z2NvNFh5UmRoSlNRak9kVUttZFdSMVg4UUNzZTZaQmdSWm1ESUV1X3lreXpTTmhMRmtIN3dESkk2NDhGZlBiZXhsWVhSeVhQOGMwam51OUUxUVA5N1k?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://m.technologijos.lt/cat/26068/article/S-233921",
-    "title": "Paliaubos Ukrainoje! Gal ginklai nebebus girdimi?",
-    "description": "Paliaubos Ukrainoje! Gal ginklai nebebus girdimi?  Mokslo ir technologijų pasaulis",
-    "url": "https://m.technologijos.lt/cat/26068/article/S-233921",
-    "image": "https://m.technologijos.lt/photo/202604/11/12/800_380271__reabo.PNG",
-    "timestamp": 1775900367000,
-    "source": "Mokslo ir technologijų pasaulis",
-    "publisher_id": "m.technologijos.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iUTBTWjZiOGlSdThITzFCVnA0dGNpUm9kZkNKeVMxNWRoZUllZ2l4dFhjbzYyNmxiNHRRdm1kZWpZcW0xaTd3Z1A5SGlrSGwxaC1xRkFQbXZjdmszZ1VSMzlfQQ?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
   }
 ]
