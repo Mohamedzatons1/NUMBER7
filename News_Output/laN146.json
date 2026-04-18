@@ -1195,43 +1195,5 @@
     "extra": "Samoa",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/samoa/119388",
-    "title": "More than $15M paid out in $150 school support",
-    "description": "More than $15M paid out in $150 school support  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/samoa/119388",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/38d08789cd7d127ad1a050b56cbc6a5a.jpg",
-    "timestamp": 1775874615000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3akMxSklVcjVmdnRiU2xyZzdTbDRiZDNQdHlEMTljSHhtSGtUUUtxNFRCTHRGTE9MYi1vMGQzV3V1YldfT3cyMkJCZ3I3MkI4ZVlBQ2EyaVIyYjBzbGVR?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/sport/119386",
-    "title": "Samoa Observer |",
-    "description": "Samoa Observer |  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/sport/119386",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/5124d495d3633e2e36bf24b7cf749b8a.jpg",
-    "timestamp": 1775863433000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XazRWbGd6emhrdVBONGJxUnpHUHBjNDExd1FGYlNJVF9mSVdKQVNZcnFMTko5NW1xdWJKOHluNmlkMGNNVXZSU1V0R2hUYzBPSE5sdmgyX3VnSjJZU2h3?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
   }
 ]
