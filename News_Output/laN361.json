@@ -549,43 +549,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.emess.co.il/radio/1853427",
-    "title": "דגלי ישראל בלב סוריה: הדרוזים זועקים לעזרה",
-    "description": "דגלי ישראל בלב סוריה: הדרוזים זועקים לעזרה  אמס",
-    "url": "https://www.emess.co.il/radio/1853427",
-    "image": "https://www.emess.co.il/resize/?width=800&height=450&url=/uploads/2025/07/6AZHpwTy-F250716MG13-1-1024x683.jpg",
-    "timestamp": 1775939341000,
-    "source": "אמס",
-    "publisher_id": "www.emess.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuSk8zaDlKQkF0QXRVVmxpbFNiblI4NHZMeHpxUXo2cW9FOVh2enZSc2tLMHQycUFTN2xpVjMwMzhiQ3ZNQmlvTnI5NXhmQQ?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/military/article-1308645",
-    "title": "דרמת ענק בלב דמשק: המהלך מסוכן של חיזבאללה - אל ג'ולאני קורץ לישראל?",
-    "description": "דרמת ענק בלב דמשק: המהלך מסוכן של חיזבאללה - אל ג'ולאני קורץ לישראל?  מעריב",
-    "url": "https://www.maariv.co.il/news/military/article-1308645",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/971462",
-    "timestamp": 1775935920000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94UzNadWhIelV3NllYOUdfUkQ4NTVMZWRzRGoxZUIyZEY2czg1cmpLMlhSMy1qUkdPWVMyaG9HY3Nkc1JvbkdWTkdHZ2tvclB0X3JNNS1LRG9WNzVKdTltUHRQd2s?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
