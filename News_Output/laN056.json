@@ -1271,43 +1271,5 @@
     "extra": "Estonia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.pravda.com.ua/eng/news/2026/04/12/8029845/",
-    "title": "Drone fragment found in Estonia",
-    "description": "Drone fragment found in Estonia  Українська правда",
-    "url": "https://www.pravda.com.ua/eng/news/2026/04/12/8029845/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/b/808035/cbf0a6275e10786bcda1c5b4f429135c.jpeg?w=1200&q=85&stamp=1775996912",
-    "timestamp": 1775997000000,
-    "source": "Українська правда",
-    "publisher_id": "www.pravda.com.ua",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hT0dpN3Y5cUFMQk1hc0hmczFYTGlHcjZlajBfRi11YUtKTmc0YklFZG5iVjhnbHpGVl8zZG5QRDU1VkZhNVNXNVBRZ254dUN4UGYtbHF0Zzd3emF3VmZ6Z2hwREjSAXBBVV95cUxPS1ZpXzEydVJCWWQzYWEzbklWSGhqamtwMTluRThUSWZJTUZfaTBDZDd0eDNxTzFSMUtMQkpTM0g2ZFVxdV9iNTJsQm1WMnNndnJIWFZPV21saTE3VHliVG1rbkdZTHpTVTVaUUo2ZDFi?oc=5",
-    "rssid": "laN056",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Estonia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/articles/drone-fragment-found-estonia-123000398.html",
-    "title": "Piece of a drone found in Estonia",
-    "description": "Piece of a drone found in Estonia  Yahoo",
-    "url": "https://www.yahoo.com/news/articles/drone-fragment-found-estonia-123000398.html",
-    "image": "https://s.yimg.com/os/en/ukrayinska_pravda_articles_451/b28c768d15d27cfcaf232fa5847f5545",
-    "timestamp": 1775997000000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTVyd1Jtajhzb2xCdGRBemtGSE9UNUZXa1o4cFJrVnRYazZKMG0xamVxLXBIc2xWdE9pTzkzSlh5WXpMcG9LNFZSNDNJMUNvM1NQTXlmSUVhQ082VVZVQUo0V2I4MERGb0tuSUxLaEdxQmtDODJnaGZqLVZPS3Rfc29Rd3BFQQ?oc=5",
-    "rssid": "laN056",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Estonia",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -1214,43 +1214,5 @@
     "extra": "Samoa",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/between_the_lines/119400",
-    "title": "Between the Lines",
-    "description": "Between the Lines  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/between_the_lines/119400",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/637afbb804c0d69f8a7823d0c66abc9e.jpg",
-    "timestamp": 1775998736000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IeEJ2U0FndzRsU2VEOHI5bGQyUm9DRmZaM3pUREltMTJuMTc3VU1ndmZzUHIwV2YwSXgwcmVnSlI2WjdjdzEtelpNV0xST2FoRzNCY3ZyN3NteUlkQ0dZVnVqb3RSWk9ZQjliU2gzTQ?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.sltrib.com/religion/2026/04/12/south-pacific-latter-day-saints/",
-    "title": "In the South Pacific, Latter-day Saints prepare for ‘a blessing beyond measure’",
-    "description": "In the South Pacific, Latter-day Saints prepare for ‘a blessing beyond measure’  The Salt Lake Tribune",
-    "url": "https://www.sltrib.com/religion/2026/04/12/south-pacific-latter-day-saints/",
-    "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FRWJS76F5ERBFHM3N4BJ4XOQWMM.jpg?auth=15e6878fc0b0c34a207726e54d81d0d2e4faa8b11c72bb9cb4f02787b974a8ba&width=1200",
-    "timestamp": 1775995341000,
-    "source": "The Salt Lake Tribune",
-    "publisher_id": "www.sltrib.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObThPa0hsVkZ4b2x5M3d0SW9fb0F0NGpxSGZpRk92S0s4OWR4QmlXY2d5cTFxbm5CWF94QjNFNWlRYXd3Yms1TGJJXy1iUkhxVFBOYm9LbncxQy1HYk9qUmo3NzQzdUtKNmNEVU95eGN0NUhNSnZ5REdwc1pwTXJZbw?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
   }
 ]
