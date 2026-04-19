@@ -188,43 +188,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1000537201",
-    "title": "Africa-Israel soothes on Russian properties",
-    "description": "Africa-Israel soothes on Russian properties  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1000537201",
-    "image": "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1610278111/Digital/share/sharearchive_y6xfco.jpg",
-    "timestamp": 1775979504000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yczRFVGl2Q00wa1ZkRDBqYnJwMGU4YmFMdGdaUllMX3NPbnh0ajdsbE92cFpUUWRCY21QTDFrd0hYbnZKeUJ2XzhUZVdFa0RJQnR4OFAtekxNdl9uR1hDamszUVZ2cnZv?oc=5",
-    "rssid": "laN334",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1000531780",
-    "title": "AFI Development unfreezes Russia projects",
-    "description": "AFI Development unfreezes Russia projects  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1000531780",
-    "image": "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1610278111/Digital/share/sharearchive_y6xfco.jpg",
-    "timestamp": 1775978788000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sZ0lxcnc0NjZ5a3ZEUzRJZkZTMGRYZkZoeFV1M01sNTJCaDk2dzZWakhubTNLdkpRN0dROGNuX3MzM1F4N2tPQVhiYTlnSHpyMGF6a0hOTlRUTkI1NHRkckhuY0V1V2Jv?oc=5",
-    "rssid": "laN334",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
