@@ -910,43 +910,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.inn.co.il/news/694320",
-    "title": "עמיחי אליהו מול ארדואן: התמונה שממחישה הכול",
-    "description": "עמיחי אליהו מול ארדואן: התמונה שממחישה הכול  ערוץ 7",
-    "url": "https://www.inn.co.il/news/694320",
-    "image": "https://2.a7.org/files/pictures/000/1214864.jpg",
-    "timestamp": 1776002760000,
-    "source": "ערוץ 7",
-    "publisher_id": "www.inn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JN1dFTElmY1lpNnRLeDdBMmxFSXVWUTh3dzN2RzRvQWdiSWQ2UVdoSDFIbVBpTHZQa2RQMFM1UFE3LUJqYXllRA?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/economy/international/article-1308603",
-    "title": "טורקיה במקום ה-11, ישראל בחוץ: רעידת האדמה הכלכלית של המזרח התיכון",
-    "description": "טורקיה במקום ה-11, ישראל בחוץ: רעידת האדמה הכלכלית של המזרח התיכון  מעריב",
-    "url": "https://www.maariv.co.il/economy/international/article-1308603",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1017421",
-    "timestamp": 1776001260000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYXdfQU5lNWt3VVJMUVNUckdyNlhTU0pfekM4Zm8wM3U4RFQyanpDQ1I4NDRXeDBRcDRveTZUdEc0d3R5U2E5TXMzczlnUVlvTWNiWGpaSDJaNzB4clY0MzlGX29ZU1I5WktPWHpjYw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]

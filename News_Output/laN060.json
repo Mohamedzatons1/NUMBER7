@@ -1955,43 +1955,5 @@
     "extra": "Finland",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/articles/another-drone-wreckage-unexploded-warhead-142700585.html",
-    "title": "Wreckage of another drone with unexploded warhead found in Finland",
-    "description": "Wreckage of another drone with unexploded warhead found in Finland  Yahoo",
-    "url": "https://www.yahoo.com/news/articles/another-drone-wreckage-unexploded-warhead-142700585.html",
-    "image": "https://s.yimg.com/ny/api/res/1.2/tL6Ud7ivu6SkksrKjjVXcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzE7Y2Y9d2VicA--/https://media.zenfs.com/en/ukrayinska_pravda_articles_451/045969491fd12dcf08acb0a9512c1c41",
-    "timestamp": 1776004020000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmg3bTBHZkNCdjJYYzNQY2hsZFhCNXpjRnktMEpYM1pPci04cGJMSjg4czdZY2dTZVZHakY4d1JGcG85NVg5VUFOY0FfSGhHeUpzNUVaT3R5c1I3TlZfSzhQbVJMNGZNaFB1LTN1ZldVczJUNHFiY2JyMEh2MERsZW4tMV94dnY1WXZPMmlnVFR3Y3J4OVVn?oc=5",
-    "rssid": "laN060",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Finland",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.pravda.com.ua/eng/news/2026/04/12/8029858/",
-    "title": "Another drone wreckage with unexploded warhead found in Finland",
-    "description": "Another drone wreckage with unexploded warhead found in Finland  Українська правда",
-    "url": "https://www.pravda.com.ua/eng/news/2026/04/12/8029858/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/808100/8546f882fe5395c5dc6f3e64368ecda8.jpeg?w=1200&q=85&stamp=1776004328",
-    "timestamp": 1776004020000,
-    "source": "Українська правда",
-    "publisher_id": "www.pravda.com.ua",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxWFJ4UTJJQU8tdjJyLThGTk1qYjZqOHB6SHN4OF9adUtQajk0QzB2XzRVME4tVlN0QS0xNkdoVlNZQ0QzNDJwOFBPX1BDNXJIMXVxX3hxc2hMa3RPdFc4dllvUjjSAXBBVV95cUxQaG8xbFRhWUZFU25EczZGS2VvZ1N5bElvRkJVRDlzYmZmMEZGWHY0TWhEQ1JELVNPYWpOdVdKREt5eEZVeXNwZlA3Nkd0aExFUEltVFQyendFR1BkcVdrMUJZSGRIaG9YengxaVlwSThB?oc=5",
-    "rssid": "laN060",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Finland",
-    "likes": 0,
-    "comments": 0
   }
 ]
