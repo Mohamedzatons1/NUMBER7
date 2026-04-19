@@ -93,43 +93,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94Y2U1XzVvbTdVRGxNZTZuY1d3eGI3SHlCbGpwY2RYTHZPdkE4QWwtUzFBWndoMXE5V2pJMnpFUWVVZnBZb01fMjgtSjk4SGM3NWIzMTYyeWNwbExkZUpWYVlQOXVvT29KQ0ZkNk9DZXM1eURWZ29J?oc=5",
-    "title": "Did Americans Set Up Orban?",
-    "description": "Did Americans Set Up Orban?  Inbox.lv",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94Y2U1XzVvbTdVRGxNZTZuY1d3eGI3SHlCbGpwY2RYTHZPdkE4QWwtUzFBWndoMXE5V2pJMnpFUWVVZnBZb01fMjgtSjk4SGM3NWIzMTYyeWNwbExkZUpWYVlQOXVvT29KQ0ZkNk9DZXM1eURWZ29J?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1776026167000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94Y2U1XzVvbTdVRGxNZTZuY1d3eGI3SHlCbGpwY2RYTHZPdkE4QWwtUzFBWndoMXE5V2pJMnpFUWVVZnBZb01fMjgtSjk4SGM3NWIzMTYyeWNwbExkZUpWYVlQOXVvT29KQ0ZkNk9DZXM1eURWZ29J?oc=5",
-    "rssid": "laN847",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.tvnet.lv/8450955/orbans-atzist-sakavi-velesanas",
-    "title": "Orbāns atzīst sakāvi vēlēšanās",
-    "description": "Orbāns atzīst sakāvi vēlēšanās  TVNET",
-    "url": "https://www.tvnet.lv/8450955/orbans-atzist-sakavi-velesanas",
-    "image": "https://f11.pmo.ee/ECZmLmTkUo8E4SFvaUv9dYlDil8=/1200x630/filters:focal(198x36:1846x1152):watermark(https://f.pmo.ee//logos/4133/bb989514d16b88b940b51f02e07642d0.png,-2p,-2p,0,18,none):format(webp)/nginx/o/2026/04/12/17560347t1hb8ec.jpg",
-    "timestamp": 1776023016000,
-    "source": "TVNET",
-    "publisher_id": "www.tvnet.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fYmM1VzJSTlgwV0FTSzljN01PNlVscnNSUExIc1Y5Y0Iwcm1RQUdvMWEyYURKQWtQemhFdkwwWXg5TnJNOVViYXlnMDJFRmZYOGpteEM5S3ZUOG5mM1R3R3ZiLU41SDNVTFBz?oc=5",
-    "rssid": "laN847",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
