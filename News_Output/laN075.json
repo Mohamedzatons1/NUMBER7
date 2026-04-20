@@ -2696,43 +2696,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/04/13/world/video/orban-hungary-defeat-peter-magyar-vrtc",
-    "title": "Why the defeat of Orbán in Hungary is good for Ukraine",
-    "description": "Why the defeat of Orbán in Hungary is good for Ukraine  CNN",
-    "url": "https://www.cnn.com/2026/04/13/world/video/orban-hungary-defeat-peter-magyar-vrtc",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/orban-defeat-hungary-vrtc-cln.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1776097980000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHlyd2IyNHVMYmkzaTNUWnhFUWFRSGJBbGlFM2ZfNW9WUHNUUjRtV3gtaWdadzA1R1BWNnpGZlAzY2hncmZhaUZLS2I5MnBLbE1MVUFSaFI2MUpsRk9hb2ppWk9VdFBsb1ktRkIwSW4yal9OaHh5MzM5enVWOE9EMTQ1Q21rcm84?oc=5",
-    "rssid": "laN075",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cbsnews.com/news/peter-magyar-replacing-viktor-orban-hungary-prime-minister/",
-    "title": "Meet Péter Magyar, the man replacing Viktor Orbán as Hungary's prime minister",
-    "description": "Meet Péter Magyar, the man replacing Viktor Orbán as Hungary's prime minister  CBS News",
-    "url": "https://www.cbsnews.com/news/peter-magyar-replacing-viktor-orban-hungary-prime-minister/",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/13/f07e5312-0d4d-4c59-83c9-9444adfc73d1/thumbnail/1200x630g2/5925456baf1f92bdbe785019312e32fa/gettyimages-2270680700.jpg",
-    "timestamp": 1776097680000,
-    "source": "CBS News",
-    "publisher_id": "www.cbsnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDNIdzBseUZETWRsVm1RQzVzSmhKZDhGQWhFTXVaNU1YUmg3QWlJdHpFNWxpZWdDc3YweE9jSVU3UE9aWjNGeU5IVUU4TnEtVFVWSEQ4ak9NcGlEWV9wa2otMURENHVXN0czUFNwVWlUaGtCbVZpNnpxYlRpazRxa2NjYXFPMk1lcXZxS3dIeEFNUdIBlwFBVV95cUxNMTVIZldSLTBXbXhkbmFxSWM0OGZUSDYxRG96T2F4dDM4T2RJWk5tTWZmN2k1NGJ5bU43MTZSNmp5VjNlRndHZTZEQU16S1g2RUFZWG52Sl9uZ080NUM1aXhicjhTUGxTcjNudTMxNWFyclE4UXpHMnB6eG9salZBWTJLMGVQZUMwbnNuZ1JwQk1saW50bGRr?oc=5",
-    "rssid": "laN075",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]

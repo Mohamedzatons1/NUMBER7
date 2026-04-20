@@ -55,5 +55,24 @@
     "extra": "Ireland",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.ynet.co.il/sport/article/sjgsxbk3wg",
+    "title": "שורד השואה שהפך לסמל ענק - דווקא באירלנד",
+    "description": "שורד השואה שהפך לסמל ענק - דווקא באירלנד  ynet",
+    "url": "https://www.ynet.co.il/sport/article/sjgsxbk3wg",
+    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/12/BkJXXHF211e/BkJXXHF211e_216_16_1555_876_0_large.jpg",
+    "timestamp": 1776139201000,
+    "source": "ynet",
+    "publisher_id": "www.ynet.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GLW50SnA1MHpaLXJfRXZmbUtBSUE2d1BoTU81QXhudFJaMHZYSDNKZDBIOTBNaXM2aEp1T3JDcXJZdG00b0FCc1lSZkMtSG5UVDQtX0ZyVVNLOEk?oc=5",
+    "rssid": "laN274",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Ireland",
+    "likes": 0,
+    "comments": 0
   }
 ]
