@@ -2924,43 +2924,5 @@
     "extra": "Argentina",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vulture.com/article/rachel-zegler-olivier-evita-performance.html",
-    "title": "Rachel Zegler Won the Oliviers",
-    "description": "Rachel Zegler Won the Oliviers  Vulture",
-    "url": "https://www.vulture.com/article/rachel-zegler-olivier-evita-performance.html",
-    "image": "https://pyxis.nymag.com/v1/imgs/10c/aae/afacbc8d8993382777c7c72e2862e92dcc-Rachel-Zegler.1x.rsocial.w1200.jpg",
-    "timestamp": 1776092579000,
-    "source": "Vulture",
-    "publisher_id": "www.vulture.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU29XM0Mtd0xYbHVUWnhRaU1jeUl2TFdiNzFmZDV5V3U2WWphdHo2bVFsT1NQdjUwR2ZHWUlBc3pmdGxGdGppMHRXaXlWc3hWUzBzeW5oai1jeVdJTHBydkxzS1k0RkU5czllMklKVU5GSDlRREJnREdlY0NWSWFzM2ZR?oc=5",
-    "rssid": "laN007",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Argentina",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.espn.com/soccer/story/_/id/48474970/tottenham-defender-cristian-romero-remainder-season-sources",
-    "title": "Tottenham defender Cristian Romero out for remainder of the season - sources",
-    "description": "Tottenham defender Cristian Romero out for remainder of the season - sources  ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/48474970/tottenham-defender-cristian-romero-remainder-season-sources",
-    "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0413%2Fr1642837_1296x729_16%2D9.jpg",
-    "timestamp": 1776091200000,
-    "source": "ESPN",
-    "publisher_id": "www.espn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGx3cDJxMGhOVGlsSG9jQVRyTFZHRnJvOFFnQWR3U3NsSHNZWUJpLThqNC1xcGhvVWV5ZEtOM0V1VlhzNkVnWHVRa3BKRk9hNFJVYkZqMk12Y2w2c0F4Y1huQndBSXhkRGJYUXpTQlhBejJfRmVHVDA5bzBmdkNrcHlfcTVyMlFXdW05REdEbTdDRjBCQ2ZRSjZLWEYzbGtnUnVRa29WQ0pXTnc?oc=5",
-    "rssid": "laN007",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Argentina",
-    "likes": 0,
-    "comments": 0
   }
 ]
