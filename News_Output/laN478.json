@@ -169,43 +169,5 @@
     "extra": "Latvia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/1504ali-he-miscalculated-and-will-not-return?language=lt",
-    "title": "He miscalculated and will not return...",
-    "description": "He miscalculated and will not return...  Inbox.lv",
-    "url": "https://news.inbox.lv/1504ali-he-miscalculated-and-will-not-return?language=lt",
-    "image": "https://news.inbox.eu/w/img/80/e3/80e3425e4984120ce1.webp",
-    "timestamp": 1776107411000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHMyeHpteEpabUJLUGJpWV9Fak5JaUVoQm1kTU0tbXZfMVdkb1Zoc0RTZEJ2aWpQZUtLbGZteTE1Ym5oLV84d0dxRVNSSld6V0YtTTdydEdhTEZKcjV5aDB5MjVwMk5vb1hDQ3F6cXBsYjRLVXJmSTBmZ2h5Z194T3JLeU0?oc=5",
-    "rssid": "laN478",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/1504awc-latvian-government-discusses-terms-of-30-million-euro-airbaltic-loan?language=lt",
-    "title": "Latvian government discusses terms of 30 million euro airBaltic loan",
-    "description": "Latvian government discusses terms of 30 million euro airBaltic loan  Inbox.lv",
-    "url": "https://news.inbox.lv/1504awc-latvian-government-discusses-terms-of-30-million-euro-airbaltic-loan?language=lt",
-    "image": "https://news.inbox.eu/w/img/d7/73/d773533114e0ba5e62.jpg",
-    "timestamp": 1776103320000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEZJWElraDZQUmJJODNPcW9MZFhReVhTbVBTTWNPMERTdlFSYUlma2tkLWFoMTNmS3h1V0Fsd19xYlBKdnBJNE9sUnlSU1o3U3lSeUgxYm9JTXp0SWVqN3ZGZEZSbFlaMXBRZTluSzN3dHc0dVpFSm44a2FFVy1hdmhVUkxfWDZRci1rVG0tVFE3dzFfUVJYTmUwU1hFSHo3V283WEtTNnpBNEdVNHcw?oc=5",
-    "rssid": "laN478",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
   }
 ]
