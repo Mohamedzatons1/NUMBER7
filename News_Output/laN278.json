@@ -169,43 +169,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=4934&docID=540169",
-    "title": "\"הפתעה מופרעת, איך ירדן גרזון לא נבחרה?\"",
-    "description": "\"הפתעה מופרעת, איך ירדן גרזון לא נבחרה?\"  ספורט 5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=4934&docID=540169",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/2/size944x700/1701512.jpg",
-    "timestamp": 1776132720000,
-    "source": "ספורט 5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WZ3FRTG5CZU1kTkh5M1hKM0xfcTFVYjMxSllYUkdab3hsUmk5MW9Lcm5WSkRkcWNkZXVXdWc2akwtdlhTMUZrZHF4TFFGd0FVNUVoNF9ScXdhTFk0OXRLNFk1MEtHTEFxclp5S0JwWEM0TWs?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3830426",
-    "title": "אכזבה גדולה: ירדן גרזון לא נבחרה בדראפט ה-WNBA",
-    "description": "אכזבה גדולה: ירדן גרזון לא נבחרה בדראפט ה-WNBA  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3830426",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/3/7/4037504-46.jpg",
-    "timestamp": 1776130380000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81R0VGNC0xQ2NvMjlUNmJKaURlanAtMmduM2dNS2M2MldDaVBUejZEWE1IY1BjNnZuMHZlUWpMRFhKZjRoeU1XbHotS0pJZ2Y3?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
