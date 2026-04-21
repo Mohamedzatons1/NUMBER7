@@ -55,5 +55,24 @@
     "extra": "Mexico",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/1505eha-gunman-opens-fire-at-mexico-s-teotihuacan-pyramids-killing-at-least-one?language=lv",
+    "title": "Gunman opens fire at Mexico's Teotihuacan Pyramids, killing at least one",
+    "description": "Gunman opens fire at Mexico's Teotihuacan Pyramids, killing at least one  Inbox.lv",
+    "url": "https://news.inbox.lv/1505eha-gunman-opens-fire-at-mexico-s-teotihuacan-pyramids-killing-at-least-one?language=lv",
+    "image": "https://news.inbox.eu/w/img/10/0c/100ceec7b6af406e82.jpg",
+    "timestamp": 1776715930000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmtMNlRTYkhYMk1uNTN4MUg0eVhfZlZYa21oZHcyZDJPUWxXd2ZMTW9USUFaRm1Rcmg3Tkw2X1owMzExdTRxMERzQjBEZGtiazRUSU1vZGVubWsxeTVtakdZTjBDNzViOWdFWExxRGFhejdMaXptNnJweFR5UjJlVTlvUVJsWWZVV3lKZVZGNXM0T2NTVzNFbWt5Mk42dEhFaDVuRC1xQ29zX0E2QWh1VnBfTQ?oc=5",
+    "rssid": "laN688",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Mexico",
+    "likes": 0,
+    "comments": 0
   }
 ]
