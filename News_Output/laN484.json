@@ -4501,24 +4501,5 @@
     "extra": "Lithuania",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.lrt.lt/mediateka/irasas/2000710155/lietuva-kalba",
-    "title": "Lietuva kalba",
-    "description": "Lietuva kalba  LRT",
-    "url": "https://www.lrt.lt/mediateka/irasas/2000710155/lietuva-kalba",
-    "image": "https://www.lrt.lt/img/2026/04/15/2368695-894988-1287x836.jpg",
-    "timestamp": 1776281160000,
-    "source": "LRT",
-    "publisher_id": "www.lrt.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10RlhwR3UxSno0ZmdvaEJHNUFDbDJzdzN4VVp4UE53Uk1jOERDNE5oWGlvemxMM2ozZ1dqdWFWZWs2NHAwVm5LM1FjMkotc3FOaW9BNGZVTWU1dkhrZ0hiS2R0dWZUcVpMTWQ5bw?oc=5",
-    "rssid": "laN484",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Lithuania",
-    "likes": 0,
-    "comments": 0
   }
 ]
