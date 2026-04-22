@@ -625,43 +625,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/sj00s00q2n11x",
-    "title": "טראמפ על ההפסד של אורבן בהונגריה: \"הבחור החדש יעשה עבודה טובה\"",
-    "description": "טראמפ על ההפסד של אורבן בהונגריה: \"הבחור החדש יעשה עבודה טובה\"  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/sj00s00q2n11x",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/22/SyfNEtJIbl/SyfNEtJIbl_0_308_3000_1693_0_large.jpg",
-    "timestamp": 1776230827000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SS0x1RlB0bFJSOHdac2hrN1EyM0xsc1BGTHl4bjZHRnNYOWVOVUVZckxhWE1zTEZtbzVoTWhjeG5MREgxanM2TjBNeFRDR2dlOVBhNzU2aUVPcktKTGc?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/opinions/article-1309978",
-    "title": "לא ימין מול שמאל: הקרב הפנימי האמיתי שהוביל למהפך בהונגריה | פולי ברונשטיין",
-    "description": "לא ימין מול שמאל: הקרב הפנימי האמיתי שהוביל למהפך בהונגריה | פולי ברונשטיין  מעריב",
-    "url": "https://www.maariv.co.il/news/opinions/article-1309978",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1087956",
-    "timestamp": 1776222044000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94Sk1weldtbjhsMFA5UFNJc19fX2F2a1BTT2lmenpGaUV6eDVOV1RlM291SkZfcE1tNDIxeTEtcGdhQlhsNDBUREsxX19zOEVrUkhvRkMyY1ZIekM0bWgxZ2dnX04?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
