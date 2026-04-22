@@ -587,43 +587,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://13tv.co.il/item/news/politics/state-policy/hungary-905092674/",
-    "title": "ראש ממשלת הונגריה הנבחר שוחח עם נתניהו, והזמין אותו לביקור",
-    "description": "ראש ממשלת הונגריה הנבחר שוחח עם נתניהו, והזמין אותו לביקור  רשת 13",
-    "url": "https://13tv.co.il/item/news/politics/state-policy/hungary-905092674/",
-    "image": "https://media3.reshet.tv/image/upload/t_og_image/v1776262267/uploads/2026/905092715.jpg",
-    "timestamp": 1776263328000,
-    "source": "רשת 13",
-    "publisher_id": "13tv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uRHhnaUFrSlFIcFZDbGZVdFpzM3o5VGNqMjBNbjRSZS1UOUxUWmtyYWFHbV9WWnlqeDY0LWgzSmptSkR2QnVfLVduSkw5dDhSa1VrcDM3V1ZYdVlOamhOR1I3ejZaa25UOURzSVY5bWJZV25oNEpoWQ?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/interesting/tdjfry",
-    "title": "משעשע: זה מה שקרה כשהמנצח והמפסיד בבחירות בהונגריה נפגשו באקראי",
-    "description": "משעשע: זה מה שקרה כשהמנצח והמפסיד בבחירות בהונגריה נפגשו באקראי  כיכר השבת",
-    "url": "https://www.kikar.co.il/interesting/tdjfry",
-    "image": "https://a.kikar.co.il/v2/articles/tdjfry/og-image.jpeg",
-    "timestamp": 1776261755000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMVFBjTkxfU3pyREQ0dzVqTnlkX3FRanVnTlZSOUl2dGpTYVFTN0xsckp4Q1ZMcGNnTk9idXRaLU9qdTMtZXE2cVQtSVVCNGZma09uaQ?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
