@@ -359,43 +359,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/1504t3a-russia-escalates-internet-crackdown-says-curbs-are-temporary?language=lv",
-    "title": "Russia escalates internet crackdown, says curbs are temporary",
-    "description": "Russia escalates internet crackdown, says curbs are temporary  Inbox.lv",
-    "url": "https://news.inbox.lv/1504t3a-russia-escalates-internet-crackdown-says-curbs-are-temporary?language=lv",
-    "image": "https://news.inbox.eu/w/img/c0/27/c027e23a57a0f65005.jpg",
-    "timestamp": 1776355053000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdi1aVzluVnlXbFdKbU01ZU1MRDNaZ2JTLVVpelYzc09jX0NMdmFlN0NUeFZGd3JBNFhhUGpZeHQ4RGpoWjlONll5dU13Y0I2cXRMWTZaZU9PV3lHblRxa0ZUQzJ5UnphMldNTXY1MjJyc01xREVIN2JULXdIX25qMVV6YWxXRjJEZkROUmVzUEp3YjYxX0JSbWN2b1pYekhBdEtPSg?oc=5",
-    "rssid": "laN720",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://jauns.lv/raksts/arzemes/705249-kremla-galvena-propagandiste-simonjana-pastasta-ko-izdarija-ar-vira-liki-un-ka-gatavojas-navei",
-    "title": "Kremļa galvenā propagandiste Simonjana pastāsta, ko izdarīja ar vīra līķi un kā gatavojas nāvei",
-    "description": "Kremļa galvenā propagandiste Simonjana pastāsta, ko izdarīja ar vīra līķi un kā gatavojas nāvei  Jauns.lv",
-    "url": "https://jauns.lv/raksts/arzemes/705249-kremla-galvena-propagandiste-simonjana-pastasta-ko-izdarija-ar-vira-liki-un-ka-gatavojas-navei",
-    "image": "https://i.jauns.lv/t/2026/04/16/3461898/1000x500.webp?v=1776350714",
-    "timestamp": 1776351078000,
-    "source": "Jauns.lv",
-    "publisher_id": "jauns.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSU51R1U5aHBydUVTUnNYSUNqTWRZNkxacW9ZQVo5WFYwaG9wdENqbUpxak5tUTlsVGtKbTU1WVVZTkx4R1VaT1FBU0lXdVZRYW41T1gwZjhMMEp6cVVtNHNlQlhzNEV3dm90WjJ4U2ZRS0RqMnJ0MUdCaDdiS0VwQWZQQ2VQWnplQlVLUzhUOHhIT2FKOTZSOGdMSXNLSHFDczYzam0xQm1JaFBJU2xsc3NnbkwyQVVnOEFhQjUzSEt1UzJETXNqazlYbkVmZw?oc=5",
-    "rssid": "laN720",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]

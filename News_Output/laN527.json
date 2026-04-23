@@ -283,43 +283,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/1504t3a-russia-escalates-internet-crackdown-says-curbs-are-temporary?language=lt",
-    "title": "Russia escalates internet crackdown, says curbs are temporary",
-    "description": "Russia escalates internet crackdown, says curbs are temporary  Inbox.lv",
-    "url": "https://news.inbox.lv/1504t3a-russia-escalates-internet-crackdown-says-curbs-are-temporary?language=lt",
-    "image": "https://news.inbox.eu/w/img/c0/27/c027e23a57a0f65005.jpg",
-    "timestamp": 1776355053000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlVyQW1lU0g5WXBPRGpzMk9jX1FzOTRaTVFqVnlGZnRVLUUySG1pamlnaTAtVUNrd3UzSWJiQUpYb1YwRldwcGNRQXBnTUVObmRyMzVjVHJtLVhZY2VLdEM0Sk9lSW1aOVhleGZ0dVZpbmtIbWktbWZaVDJHVUNDejJzaFZXU1pHV0Q0RGx5ZmtPMWpEdkNlQTlPLWMxWVQ2RDFPMw?oc=5",
-    "rssid": "laN527",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.lrt.lt/naujienos/pasaulyje/6/2900398/ziniasklaida-slovakija-blokuos-es-sankcijas-rusijai-del-druzba",
-    "title": "Žiniasklaida: Slovakija blokuos ES sankcijas Rusijai dėl „Družba“",
-    "description": "Žiniasklaida: Slovakija blokuos ES sankcijas Rusijai dėl „Družba“  LRT",
-    "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2900398/ziniasklaida-slovakija-blokuos-es-sankcijas-rusijai-del-druzba",
-    "image": "https://www.lrt.lt/img/2026/04/16/2369318-464488-1287x836.jpg",
-    "timestamp": 1776353040000,
-    "source": "LRT",
-    "publisher_id": "www.lrt.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2V5ZXM2REtXSTBrSFlqMlN1UmNGcThEUlhqemdNemxFaEhGZFBuMWlscmhUSjJDOWlUUUZTUkowUjNMMkliVVpLVW1TWkY5bEplS2U3bWVUZk5uNlhKWTdvMjd4bGpsMHpPQnRLLWVlcDVtRWJCUWsyQnJOS2dqZmlhQU93ckR2YU8tV2dMRnJTcWpPTmVhSHByY25XOTRNcWJ6QUlfVDJtcVduYTFXdA?oc=5",
-    "rssid": "laN527",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
