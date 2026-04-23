@@ -606,43 +606,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/economy/international/article-1310702",
-    "title": "אפילו טורקיה בפנים: ארה\"ב הפכה למדינה המבוקשת ביותר אחרי המלחמה עם איראן",
-    "description": "אפילו טורקיה בפנים: ארה\"ב הפכה למדינה המבוקשת ביותר אחרי המלחמה עם איראן  מעריב",
-    "url": "https://www.maariv.co.il/economy/international/article-1310702",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1077571",
-    "timestamp": 1776339791000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01OVdURm1GRWxSQ0xxYm5DUjhBaWpraG1vZm9MekVvbWZjcnBHQUhXQzFpNklHdXZpNHVmbG1LMEx6WHllOTNtMXdxUjU1NlExc2JOTHdUN0dndW1Ga0tHTk91clMwQk56ZnlvVUEzNA?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://yaffaps.com/he/page-95755.html",
-    "title": "טורקיה מזהירה: התקיפות הישראליות בלבנון מעכבות את שיחות וושינגטון ומהוות מכשול לשלום -",
-    "description": "טורקיה מזהירה: התקיפות הישראליות בלבנון מעכבות את שיחות וושינגטון ומהוות מכשול לשלום -  شبكة يافا الإخبارية",
-    "url": "https://yaffaps.com/he/page-95755.html",
-    "image": "https://yaffaps.com/files/attachs/55680.webp",
-    "timestamp": 1776338793000,
-    "source": "شبكة يافا الإخبارية",
-    "publisher_id": "yaffaps.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pVHcxdzhVbVkzbmVIU2JmNDZNYlNOc0F4REoydDQxYnREYnQ5dHhRYWpCa3VLMlB3VG5BQndFU21HTVFmQndoSEJ5Y0YzcDg?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
