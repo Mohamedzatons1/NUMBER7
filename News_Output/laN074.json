@@ -644,43 +644,5 @@
     "extra": "Honduras",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "http://www.wpbf.com/article/cloud-jaguar-spotted-honduras/71052871",
-    "title": "Near-mythical 'cloud jaguar' spotted for first time in 10 years",
-    "description": "Near-mythical 'cloud jaguar' spotted for first time in 10 years  WPBF",
-    "url": "http://www.wpbf.com/article/cloud-jaguar-spotted-honduras/71052871",
-    "image": "https://kubrick.htvapps.com/htv-prod/images/10e3a14e-ff6b-47c8-8dc0-949b4c51c598.jpg?crop=0.777xw:0.655xh;0.0160xw,0.0887xh&resize=1200:*",
-    "timestamp": 1776446520000,
-    "source": "WPBF",
-    "publisher_id": "www.wpbf.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fRzZQMS1zS242cGpJSEE1bkJOdjBHUi1sZ01BcVFBa1FrVHl0T1JvdnU1d2wxZFRYai1hUlA0dkYyUXZkTE96UXJIVTlfMnhxNVpscy1kdlVFbjZmZXJRemg2VUFxeGlSUnRCc3Q2dFl4Wmsx?oc=5",
-    "rssid": "laN074",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Honduras",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.wgal.com/article/cloud-jaguar-spotted-honduras/71052871",
-    "title": "Near-mythical 'cloud jaguar' spotted for first time in 10 years",
-    "description": "Near-mythical 'cloud jaguar' spotted for first time in 10 years  WGAL",
-    "url": "https://www.wgal.com/article/cloud-jaguar-spotted-honduras/71052871",
-    "image": "https://kubrick.htvapps.com/htv-prod/images/10e3a14e-ff6b-47c8-8dc0-949b4c51c598.jpg?crop=0.777xw:0.655xh;0.0160xw,0.0887xh&resize=1200:*",
-    "timestamp": 1776446520000,
-    "source": "WGAL",
-    "publisher_id": "www.wgal.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sRGZBbXY4c3MtYUR6OUJTZTFMMWxBV0VVbXpNVmM2cU9kZ2swVnN0SmlxWEZCb2ktNmpxRVd1VDR0QmJIRTBOekZCS1MtZ0tSM1ZhU3FOVkw1R3VuRUpuNlBnaU1raVl5MjVmWkFxOG01V05HWlE?oc=5",
-    "rssid": "laN074",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Honduras",
-    "likes": 0,
-    "comments": 0
   }
 ]
