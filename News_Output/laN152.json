@@ -549,43 +549,5 @@
     "extra": "Seychelles",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.mexc.co/en-NG/news/1033224",
-    "title": "Seychelles and Japan deepen economic cooperation",
-    "description": "Seychelles and Japan deepen economic cooperation  MEXC",
-    "url": "https://www.mexc.co/en-NG/news/1033224",
-    "image": "https://static.mocortech.com/image-host/web/new_og/news_og_en_US.webp",
-    "timestamp": 1776394181000,
-    "source": "MEXC",
-    "publisher_id": "www.mexc.co",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QWDJVaExwWmJNb1BJOFp6TEJ6dHFJazJQT2FTS3VEY1VhaW9LT3ZLaHdMRENnOUdFcWV4dl9OMnZFS0xYVlJjUzJmWDVUTzA?oc=5",
-    "rssid": "laN152",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Seychelles",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.mexc.co/news/1033224",
-    "title": "Seychelles and Japan deepen economic cooperation",
-    "description": "Seychelles and Japan deepen economic cooperation  MEXC",
-    "url": "https://www.mexc.co/news/1033224",
-    "image": "https://static.mocortech.com/image-host/web/new_og/news_og_en_US.webp",
-    "timestamp": 1776394181000,
-    "source": "MEXC",
-    "publisher_id": "www.mexc.co",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5cENEUEdHTnNGaGdtaWdiWFBfa19Od1BvelpJRExDcW5pLTc4VEdScktEMTctdHc2akpscFlTTU41RGlIeHVz?oc=5",
-    "rssid": "laN152",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Seychelles",
-    "likes": 0,
-    "comments": 0
   }
 ]
