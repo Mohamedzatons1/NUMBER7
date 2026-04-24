@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GX0VyVThZSVNQRmNsMXl0ckd2alJLcFdWdWtLZkxtRU5NRDRqR3hjT3ByeDg4Q0thdlY3blBXZm91QkRPLWt4djlvay05aVdjY3A4a0tHWVpKZk9uRkplQzVuTlBqaGFTMHJrYTNNSHRTMmc?oc=5",
+    "title": "The Ray of a Tragic Era",
+    "description": "The Ray of a Tragic Era  Inbox.lv",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GX0VyVThZSVNQRmNsMXl0ckd2alJLcFdWdWtLZkxtRU5NRDRqR3hjT3ByeDg4Q0thdlY3blBXZm91QkRPLWt4djlvay05aVdjY3A4a0tHWVpKZk9uRkplQzVuTlBqaGFTMHJrYTNNSHRTMmc?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1777029341000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GX0VyVThZSVNQRmNsMXl0ckd2alJLcFdWdWtLZkxtRU5NRDRqR3hjT3ByeDg4Q0thdlY3blBXZm91QkRPLWt4djlvay05aVdjY3A4a0tHWVpKZk9uRkplQzVuTlBqaGFTMHJrYTNNSHRTMmc?oc=5",
+    "rssid": "laN780",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Armenia",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/1505zhu-armenia-marks-111th-anniversary-of-armenian-genocide-in-yerevan?language=lv",
+    "title": "Armenia marks 111th anniversary of Armenian genocide in Yerevan",
+    "description": "Armenia marks 111th anniversary of Armenian genocide in Yerevan  Inbox.lv",
+    "url": "https://news.inbox.lv/1505zhu-armenia-marks-111th-anniversary-of-armenian-genocide-in-yerevan?language=lv",
+    "image": "https://news.inbox.eu/w/img/1b/6e/1b6e4be7c3a7cf79ac.jpg",
+    "timestamp": 1777011186000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUJ6SGhaTnYtZ0Q0bTBwYXpPZDRhY0FsNUFOYXdLa0JiTUxOeUd4SUVwQTNWV3IyOWRsQ3RGQWJHZHMteENRUXVPdmtnSHFlYzYtNHVnM29zMEVmM1VjRmJ0SnVnVmdhaUkyd3ZoT0xzQkxobHVISF9Zc0pLNTlkMlBjNVZFNEhmWWZISjRWOExONUY4cVBRZGMtcWRGMWRmRHA2R1VKczg?oc=5",
+    "rssid": "laN780",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Armenia",
+    "likes": 0,
+    "comments": 0
+  }
+]
