@@ -3475,43 +3475,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1311200",
-    "title": "טראמפ: \"נהפוך את לבנון לגדולה שוב\"",
-    "description": "טראמפ: \"נהפוך את לבנון לגדולה שוב\"  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1311200",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/894192",
-    "timestamp": 1776463616000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zeDNRZUQ3MVl4dnpYU3NnenNxbHYwZU5neVhaX1Vua2JPcXExOFdYbkFOQ25Zb1diU1E2WGdfZ29IMkZUWmRJRW9VcE9pbzlLcmhVQy1zb3ZwSXNHVWNxcmtWX20?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/rkj11ifl611x",
-    "title": "בחיזבאללה מאיימים על נשיא לבנון: \"יאבד את מעמדו אם ייפגש עם נתניהו\"",
-    "description": "בחיזבאללה מאיימים על נשיא לבנון: \"יאבד את מעמדו אם ייפגש עם נתניהו\"  ynet",
-    "url": "https://www.ynet.co.il/news/article/rkj11ifl611x",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/17/HJ0AkglTZg/HJ0AkglTZg_516_291_1485_836_0_large.jpg",
-    "timestamp": 1776460150000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBibklWQ2VkWFF0akRRWVZuVXhxWkJSM21pdldpNUxPdlI5cHoxVDR0bnphLVpiVUJ1Q2FIc2NLcTAteW5hSS1NTFFPQVBTb2FKNXRVVVA5dXJBaDlB?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
