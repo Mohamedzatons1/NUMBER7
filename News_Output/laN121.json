@@ -1651,43 +1651,5 @@
     "extra": "Netherlands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.qsrweb.com/news/krispy-kreme-to-enter-the-netherlands/",
-    "title": "Krispy Kreme to enter the Netherlands",
-    "description": "Krispy Kreme to enter the Netherlands  QSR Web",
-    "url": "https://www.qsrweb.com/news/krispy-kreme-to-enter-the-netherlands/",
-    "image": "https://nmgprod.s3.amazonaws.com/media/file/0b/3c/78a85c31a997d2a427427db12880/cover_image__qspnks6D__AdobeStock_457124262_Editorial_U.jpeg.720x405_q85_crop_upscale.jpg",
-    "timestamp": 1776427710000,
-    "source": "QSR Web",
-    "publisher_id": "www.qsrweb.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZHhUUjNTM1FzZGk3c1lvSy1PaHQxTkF0QkpaSXQwS2hZcEpfY2l1NTRWNGt6N3l6OFJsM0VGVUJhVGVNQWF1N1VQTzdUdGlpLTRzOVVkLUdjMDBUMmhOWFlZR2lIcVlBRVlGWVVGMTA4V1By?oc=5",
-    "rssid": "laN121",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://seekingalpha.com/news/4576058-krispy-kreme-expands-to-the-netherlands-as-it-grows-its-european-presence",
-    "title": "Krispy Kreme expands to the Netherlands as it grows its European presence (DNUT:NASDAQ)",
-    "description": "Krispy Kreme expands to the Netherlands as it grows its European presence (DNUT:NASDAQ)  Seeking Alpha",
-    "url": "https://seekingalpha.com/news/4576058-krispy-kreme-expands-to-the-netherlands-as-it-grows-its-european-presence",
-    "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1610004663/image_1610004663.jpg?io=getty-c-w630",
-    "timestamp": 1776426578000,
-    "source": "Seeking Alpha",
-    "publisher_id": "seekingalpha.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGZGX2NtUG5sM010QmFDdFZiLUR4OFhKTHhuZEMzYVk0RkstWGJtb05SSVhmcjlHVEJTeUxnek9kYm5zeTNvM0VnNE45akIxbzRkRXBMWDB0cHE0Si1QdG8zUTlMT3BqQllLc0luWmNOYUJ5Z2NKeVNZQ2w2UG1ELTI5SlZ1eFpDb3dZTnRNTXdqVGpSM1V2UEtVdVBIQjVVQmVGenRGWjRmYkdaVklYSA?oc=5",
-    "rssid": "laN121",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
   }
 ]
