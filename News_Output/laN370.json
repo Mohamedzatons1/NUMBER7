@@ -549,43 +549,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1311100",
-    "title": "רעידת אדמה בטורקיה בגלל ארדואן: \"מנהיגי המערב מעדיפים להעלים עין\"",
-    "description": "רעידת אדמה בטורקיה בגלל ארדואן: \"מנהיגי המערב מעדיפים להעלים עין\"  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1311100",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1089144",
-    "timestamp": 1776434745000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tOEFTVXRBZUdTX1ZDYmd0aDVFWm5Hb0Rnd2ZsVDJjMHNETTVrWWdvQ2ZFTUJmNDhuTnlkR2FCdUpNSWVqbDN1OFpFZWhOOHMwRWhCYWxRdnZ5dE1ZcDBKQjlEbWw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1311097",
-    "title": "התחקיר המדאיג שמראה: ארדואן עושה ככל העולה על רוחו - והעולם שותק",
-    "description": "התחקיר המדאיג שמראה: ארדואן עושה ככל העולה על רוחו - והעולם שותק  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1311097",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1089144",
-    "timestamp": 1776434166000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kd3RNN0hKMERFazRzZVVwTmxldDNmc2h1ai01bGVBR3pxN3VENlJIOFNidmtPeGRZN0NsWXBVNElxaDh5aFlUcnA5X1F2dUVxbndGY0R2ZThBbWk0T2EyRA?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
