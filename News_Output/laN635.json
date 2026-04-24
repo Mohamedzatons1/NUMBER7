@@ -112,24 +112,5 @@
     "extra": "Estonia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.la.lv/igaunijas-ziemelos-atrastas-drona-atluzas",
-    "title": "Igaunijas ziemeļos atrastas drona atlūzas",
-    "description": "Igaunijas ziemeļos atrastas drona atlūzas  LA.LV",
-    "url": "https://www.la.lv/igaunijas-ziemelos-atrastas-drona-atluzas",
-    "image": "https://pic.la.lv/2024/11/466794905_945263737634313_5162083025794265324_n.jpg",
-    "timestamp": 1776416148000,
-    "source": "LA.LV",
-    "publisher_id": "www.la.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QbnhvR2ZmNXc5RFVpSTg4VTZDREJxbGFPaTFjaWZVbWFBMXdfQnlkTkNhMkxGbFRIcjFfcVhwNnVLTkFCOU1uNHlPRzZBM0IxQnNxSFpsNXZBb0liLWNtUnhJQk1Nb0w4ZmhR?oc=5",
-    "rssid": "laN635",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Estonia",
-    "likes": 0,
-    "comments": 0
   }
 ]
