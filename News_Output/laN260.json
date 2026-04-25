@@ -55,24 +55,5 @@
     "extra": "Greece",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1000557802",
-    "title": "Psagot chief economist Dar: Greece plan will fail",
-    "description": "Psagot chief economist Dar: Greece plan will fail  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1000557802",
-    "image": "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1610278111/Digital/share/sharearchive_y6xfco.jpg",
-    "timestamp": 1776477553000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmeXREWHVxbWc5b1FXMHdQRU5PaFpqODlDOUQ4aGp2cklSY2tXSXVLeDUtQU9ZQVU3QkNHcXQtWHdpUmVET0pFUVBwcUJJWU5hc0JDaG9ic0V3aE1KeEJMZ1kzV2luaFJV?oc=5",
-    "rssid": "laN260",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Greece",
-    "likes": 0,
-    "comments": 0
   }
 ]
