@@ -1005,43 +1005,5 @@
     "extra": "Moldova",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.pravda.com.ua/eng/news/2026/04/18/8030737/",
-    "title": "Ukrainian foreign minister discusses meeting with his Moldovan counterpart",
-    "description": "Ukrainian foreign minister discusses meeting with his Moldovan counterpart  Українська правда",
-    "url": "https://www.pravda.com.ua/eng/news/2026/04/18/8030737/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/7/811949/97125ed9f02086b291898ad78c23cf11.jpeg?w=1200&q=85&stamp=1776522768",
-    "timestamp": 1776519960000,
-    "source": "Українська правда",
-    "publisher_id": "www.pravda.com.ua",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uREpqVm1jOXpFMEJKNFRXYWo0Nzd4OWdjaWQ5ZUUwSk1WbHZUUTZHbXR5bERRVzNLVHhpOXYyN2JubkYtbmFnQndDWXl0SmRVLXU0ZXlQbnNYb0pJdjAzNmxFcVHSAXBBVV95cUxQS2lLTFRJb0JRTVBjT1hxVjBTRG1ZRnp1YzBaZzZsZ1lWV0ZfRWliT25mN3pPMFd1UjJKcVRiazZpOTNuYzZmczhGSFFGWGU4RWRWTTF0ZTlnRmcyTlRNbTkxWk1VR3RuRjItOXBrX3ZE?oc=5",
-    "rssid": "laN111",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/articles/ukrainian-foreign-minister-discusses-meeting-134600813.html",
-    "title": "Ukrainian foreign minister discusses meeting with his Moldovan counterpart",
-    "description": "Ukrainian foreign minister discusses meeting with his Moldovan counterpart  Yahoo",
-    "url": "https://www.yahoo.com/news/articles/ukrainian-foreign-minister-discusses-meeting-134600813.html",
-    "image": "https://s.yimg.com/os/en/ukrayinska_pravda_articles_451/8a7966646c25c812d6404f86abfbf51f",
-    "timestamp": 1776519960000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0xybzRVN25jRXlIQ0w1cnhkeXdSWk9yZVgzV2RBQ1JYVXZDRmkzdEFrRElsMi1wZmxfUlVyMV9MTkxPVVB6QmFpUWNIdEJhaWdyNFRDQno2TVppVWhjMkFMTWlXVnlBQlExNTlFN3hGSy1LZzBRckZCQWpsUnRpZXRpNl9FTHFlTjFFbkhWWXFPTXNYYmQ1S1JPdw?oc=5",
-    "rssid": "laN111",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
   }
 ]

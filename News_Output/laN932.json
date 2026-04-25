@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://tv3.lv/tv3mini/programma/2026-04-27/",
+    "title": "TV3 Mini programma, 27. aprīlis | TV3 Mini",
+    "description": "TV3 Mini programma, 27. aprīlis | TV3 Mini  tv3.lv",
+    "url": "https://tv3.lv/tv3mini/programma/2026-04-27/",
+    "image": "https://tv3cdn.lv/misc/tv3mini/bg-mini.jpg",
+    "timestamp": 1777119615000,
+    "source": "tv3.lv",
+    "publisher_id": "tv3.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zM0VBQUZDZXdfSEN2MXFXN1NMcjdnNlhadHV6dUxDM1F1a1NRUkpwajRYbm9PVDNfU1VVekxna1VEVVB1VjBsS0hUX3hkS0VTeFdQRkZhaw?oc=5",
+    "rssid": "laN932",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "South Korea",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://tv3.lv/tv3mini/programma/2026-04-28/",
+    "title": "TV3 Mini programma, 28. aprīlis | TV3 Mini",
+    "description": "TV3 Mini programma, 28. aprīlis | TV3 Mini  tv3.lv",
+    "url": "https://tv3.lv/tv3mini/programma/2026-04-28/",
+    "image": "https://tv3cdn.lv/misc/tv3mini/bg-mini.jpg",
+    "timestamp": 1776807274000,
+    "source": "tv3.lv",
+    "publisher_id": "tv3.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKeTFvZzhIeDF4VUxQSHY0WE4yZU9rZ0lCb3hzN2RFLXFSOWllZFFqNEtjRHM5Y3ZOcXpoUkJRdmlwOXBDZ1NEMGdiSUhyV2UxSjRySDVhVQ?oc=5",
+    "rssid": "laN932",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "South Korea",
+    "likes": 0,
+    "comments": 0
+  }
+]
