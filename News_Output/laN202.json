@@ -416,24 +416,5 @@
     "extra": "Australia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "http://www.globes.co.il/news/docview.aspx?did=1000560258&amp;fid=594",
-    "title": "חוזה חדש לסרגון באוסטרליה בהיקף של יותר ממיליון דולר",
-    "description": "חוזה חדש לסרגון באוסטרליה בהיקף של יותר ממיליון דולר  גלובס",
-    "url": "http://www.globes.co.il/news/docview.aspx?did=1000560258&amp;fid=594",
-    "image": "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1610278111/Digital/share/sharearchive_y6xfco.jpg",
-    "timestamp": 1776549626000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRlM2YmFtVzVZMUZ5NGphb2pwVjc1a1Nyc0Y3YmFmam9EdlEzXzRFSFJLeHlIWWxvUGlpSm9EYzJLX2Fkc0ZOUWkxQldLa3FqdU9PbFhOQzlIMjFpQ2pZLVd3S1hadktKUXRoTmxSYlpyalpieUhB?oc=5",
-    "rssid": "laN202",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Australia",
-    "likes": 0,
-    "comments": 0
   }
 ]
