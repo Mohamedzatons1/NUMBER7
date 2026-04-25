@@ -530,24 +530,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1311179",
-    "title": "איום ה-1,000 ק\"מ: הטילים החדשים של ארדואן שיכולים להגיע לכל נקודה באזור",
-    "description": "איום ה-1,000 ק\"מ: הטילים החדשים של ארדואן שיכולים להגיע לכל נקודה באזור  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1311179",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1089182",
-    "timestamp": 1776493920000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hQW5xX1ZRWEZZRXJYUnYzUTd4M0tYdG84R1Z5WkFKdVNiQ0hYSUNqM1dtQXJFT0E1NE9pdWdqQ0hOVzhxUlAzLXVwTVhsWl9QamoxQTFQWkV1TnM2RkhscA?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]

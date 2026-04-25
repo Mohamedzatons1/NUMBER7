@@ -378,43 +378,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://techtime.co.il/2026/04/19/linux/france-2/",
-    "title": "france",
-    "description": "france  Techtime",
-    "url": "https://techtime.co.il/2026/04/19/linux/france-2/",
-    "image": "https://techtime.co.il/2026/04/19/linux/france-2",
-    "timestamp": 1776495600000,
-    "source": "Techtime",
-    "publisher_id": "techtime.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTQnBoaHZBNlJqOFh1bFFQLVpfTDRvUVNkMTJZWGZjS2VRQXBsMmlXaGpoRTRNTXoyTW1uTWlEbHRvb3FCcmYzZzJCYXFrUl9saWdBTEg0Qll6US1BVHc?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBeFRldWZFOU5YMThBRzkzTGxaYkFQSXgzNERpT1ZwSzlxbk55cl81TmJoWmhqT2psQ3A3M3YtQWZaWDJ5VW40cHNEVklfZmRnQzA5eDd4RnNPeHlKLUt2OEk1MjRYZkU3QVFEbA?oc=5",
-    "title": "צרפת מאשימה את הונגריה ב״בגידה״ בעקבות דיווח על העברת מידע לרוסיה",
-    "description": "צרפת מאשימה את הונגריה ב״בגידה״ בעקבות דיווח על העברת מידע לרוסיה  מקור ראשון",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBeFRldWZFOU5YMThBRzkzTGxaYkFQSXgzNERpT1ZwSzlxbk55cl81TmJoWmhqT2psQ3A3M3YtQWZaWDJ5VW40cHNEVklfZmRnQzA5eDd4RnNPeHlKLUt2OEk1MjRYZkU3QVFEbA?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1776495600000,
-    "source": "מקור ראשון",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBeFRldWZFOU5YMThBRzkzTGxaYkFQSXgzNERpT1ZwSzlxbk55cl81TmJoWmhqT2psQ3A3M3YtQWZaWDJ5VW40cHNEVklfZmRnQzA5eDd4RnNPeHlKLUt2OEk1MjRYZkU3QVFEbA?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
