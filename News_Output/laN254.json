@@ -340,43 +340,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/politics/article-1311410",
-    "title": "ישראל תוקפת את צרפת באו\"ם: \"כמה כסף שילמתם לאיראן?\"",
-    "description": "ישראל תוקפת את צרפת באו\"ם: \"כמה כסף שילמתם לאיראן?\"  מעריב",
-    "url": "https://www.maariv.co.il/news/politics/article-1311410",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1008322",
-    "timestamp": 1776535521000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WaDRnbEFHeW9YSjYxa2hVVWthNTVMNk9hdldsbThPRTRSNmgtTWxUYU93TjRvMTMzREwxajNBa1ItZmstSVFNcndldTI4UWUxUDIwS1g1bkViX1JYUl9mOTFqMUM?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/french-soldiers-killed-lebanon-hezbollah-accused",
-    "title": "תקרית חריגה בדרום לבנון: שני חיילים צרפתיים נהרגו - חיזבאל..",
-    "description": "תקרית חריגה בדרום לבנון: שני חיילים צרפתיים נהרגו - חיזבאל..  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/french-soldiers-killed-lebanon-hezbollah-accused",
-    "image": "https://a.kikar.co.il/v2/articles/french-soldiers-killed-lebanon-hezbollah-accused/og-image.jpeg",
-    "timestamp": 1776535291000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTNEa1FmNDBtTWNNX2p0NXF6eGl0TE1kb2RWMms0R0dsUGJTRFdaLXpwWmo1NnF3a0RuTHhNazBUdUEwX2t3U3lTQVhKMlpqeTUzbTJZME5xUWQ1ZGhnZ1Jyek9adzRmcjlKU3ZUaHVMRTNJd2twNEFnM1lkY2RRLTJ0NFp3bFJkMmJV?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
