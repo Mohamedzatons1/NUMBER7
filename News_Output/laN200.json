@@ -454,43 +454,5 @@
     "extra": "Argentina",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/israel-news/milei-argentina-president-award-israel",
-    "title": "עם עוגיות: כך קיבל נשיא ארגטינה מיליי את העיטור האזרחי הגבוה ביותר",
-    "description": "עם עוגיות: כך קיבל נשיא ארגטינה מיליי את העיטור האזרחי הגבוה ביותר  כיכר השבת",
-    "url": "https://www.kikar.co.il/israel-news/milei-argentina-president-award-israel",
-    "image": "https://a.kikar.co.il/v2/articles/milei-argentina-president-award-israel/og-image.jpeg",
-    "timestamp": 1776582000000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qckNvMDRodjg1bllHWFV1OTBjZlVoSk11aUpUUDFnUHp5NHBfSENVbDdORG1YZGhCa0FjdFZFQzJrcy1CSDhfaDJ4c0prUXlHWVYwOG81RC1ZTkE3TFE5MXlGdE14OGtQYWJ0TVoyTVVIcjVOUFBIYnhaRGh4M0k?oc=5",
-    "rssid": "laN200",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Argentina",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/political-news/milei-argentina-president-israel-visit-netanyahu",
-    "title": "נשיא ארגנטינה ינחת בקרוב בישראל: צפוי לבקר בישיבה היוקרתית",
-    "description": "נשיא ארגנטינה ינחת בקרוב בישראל: צפוי לבקר בישיבה היוקרתית  Kikar.co.il",
-    "url": "https://www.kikar.co.il/political-news/milei-argentina-president-israel-visit-netanyahu",
-    "image": "https://a.kikar.co.il/v2/articles/milei-argentina-president-israel-visit-netanyahu/og-image.jpeg",
-    "timestamp": 1776579784000,
-    "source": "Kikar.co.il",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0tSeHgxVko0aGxycXNETkRBMXF3YW5XTGU5SlIycTBMVzRQRGcwblJob19SaDZmV0V1YnNpbldXNlBkNlpBOEVvYy1ZNlo4MklFTlpEX0d0dDRBOXlYbXV5Y1lLUXk4c3VJQkdoSnJBRHpxYy01SWRpNHBGSTVDNndqYnhMTEl3OWV2RW1QV3g?oc=5",
-    "rssid": "laN200",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Argentina",
-    "likes": 0,
-    "comments": 0
   }
 ]
