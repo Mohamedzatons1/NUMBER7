@@ -152,6 +152,25 @@
     "comments": 0
   },
   {
+    "id": "https://abcnews.com/alerts/RussiaNation",
+    "title": "Russia - ABC News",
+    "description": "Russia  ABC News - Breaking News, Latest News and Videos",
+    "url": "https://abcnews.com/alerts/RussiaNation",
+    "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "timestamp": 1777115705000,
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "publisher_id": "abcnews.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zcXpEcmhWaFkyVE5ZWUFHRW5tcm1CUUp3WXpIbzJxYmIzbE13ay1pNE11dGlOLTN0MTRpYlZNd0gtX1VsdDJFOHNZT1ZJZWEy?oc=5",
+    "rssid": "laN141",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "Russia",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.forbes.com/sites/katyasoldak/2026/04/25/saturday-april-25-russias-war-on-ukraine-news-and-information-from-ukraine/",
     "title": "Saturday, April 25. Russia’s War On Ukraine: News And Information From Ukraine",
     "description": "Saturday, April 25. Russia’s War On Ukraine: News And Information From Ukraine  Forbes",

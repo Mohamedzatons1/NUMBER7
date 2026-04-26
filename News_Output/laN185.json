@@ -910,24 +910,5 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/uruguay-2-3-chile-final-42734013",
-    "title": "Uruguay 2-3 Chile (FINAL)",
-    "description": "Uruguay 2-3 Chile (FINAL)  OneFootball",
-    "url": "https://onefootball.com/en/news/uruguay-2-3-chile-final-42734013",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F42734013%3Fdate=2026-04-19",
-    "timestamp": 1776573677000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FZ1pFMVUwQm1tWUdvb25OQXhUdHZ1TlZCeVRZYlpSWmZyMlJ2bzNTZTZZVnFEWVR3NEt0NVJiNVcyWTdIYUwzeWF5cDVsZlNqTmxUOFRPQW84THMwaTdTd1hhSldvalJCQzhsNkctNGctQQ?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
   }
 ]
