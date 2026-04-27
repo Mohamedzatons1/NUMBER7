@@ -340,43 +340,5 @@
     "extra": "Tonga",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.nrl.com/news/2026/04/20/tonga-eligible-players-tries-of-the-week/",
-    "title": "Tonga-eligible players tries of the week",
-    "description": "Tonga-eligible players tries of the week  NRL.com",
-    "url": "https://www.nrl.com/news/2026/04/20/tonga-eligible-players-tries-of-the-week/",
-    "image": "https://www.nrl.com/remote.axd?https://imageproxy-prod.nrl.digital/api/assets/80806201/keyframes/565949/image?center=0.5%2C0.5&preset=share",
-    "timestamp": 1776662624000,
-    "source": "NRL.com",
-    "publisher_id": "www.nrl.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGJ2ZXJHV01DRzFaSnVtMmNQV05YbXRlTnVQbE9McEZ6TEEtVmVuTGsxai1IcF9uQmN1Tmp1N3VQZm42a2lpYkY0TkFYLTgzOXpjZFFyT3ZQNHFIN3lIY3czTUZqRVBteUZiMnhjWmFWR2FaWEZQY2FnX0R3T3FkWXZ4TQ?oc=5",
-    "rssid": "laN174",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tonga",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://qna.org.qa/en/News-Area/News/2026-4/20/61-magnitude-earthquake-strikes-tonga-islands-in-south-pacific",
-    "title": "6.1-Magnitude Earthquake Strikes Tonga Islands in South Pacific",
-    "description": "6.1-Magnitude Earthquake Strikes Tonga Islands in South Pacific  Qatar news agency",
-    "url": "https://qna.org.qa/en/News-Area/News/2026-4/20/61-magnitude-earthquake-strikes-tonga-islands-in-south-pacific",
-    "image": "https://cdn.qna.org.qa/media/jvtpgril/earthquake-logo.jpeg?width=1200&height=900&v=1dcc26f68f13970",
-    "timestamp": 1776660664000,
-    "source": "Qatar news agency",
-    "publisher_id": "qna.org.qa",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUlMY01pd3gxUDNjTkRyaS1YWWpzWHl3TXVfUUg4SHdpOFlkZllhWjA4ZGV3WGhudUNwSWlZMjFIQnZTWEU1bFdMWUE2SG5jWTZVX19KX2RILWxERS1NbTRwTjN4eThFaGp4YWZNTEtUcHowM3pjMWYwNDFOTUdMbExqeGo2U1lIME9pOW1uQUhINk5INjFKZ0YtNkV4eURmWGgzbi1PTWxBTkZSY1E?oc=5",
-    "rssid": "laN174",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tonga",
-    "likes": 0,
-    "comments": 0
   }
 ]
