@@ -1670,43 +1670,5 @@
     "extra": "Monaco",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.luxurytraveladvisor.com/hotels/monaco-must",
-    "title": "The Monaco Must: What It's Like to Stay at Hotel Metropole Monte-Carlo",
-    "description": "The Monaco Must: What It's Like to Stay at Hotel Metropole Monte-Carlo  Luxury Travel Advisor",
-    "url": "https://www.luxurytraveladvisor.com/hotels/monaco-must",
-    "image": "https://qtxasset.com/quartz/qcloud1/media/image/Hotel%20Metropole%20MC%20by%20night_W.Pryce_.jpg?VersionId=Nasp8mN6jTWy.bt2POYeUYTCjHI4qZvO",
-    "timestamp": 1776891600000,
-    "source": "Luxury Travel Advisor",
-    "publisher_id": "www.luxurytraveladvisor.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nVWgtdXl4VmtnUi0tZW9fUlBYUTZMODNiR1RpVmJFeE1LTzVQUnk4MzQ0Zzl5SlFULWN1RUt0QkNIcGg1ckdjeFg3S0xxVTk2WkN0b3cwZFVFR2RrSWYzQ3B0Z1k?oc=5",
-    "rssid": "laN112",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Monaco",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://hackaday.com/tag/monaco/",
-    "title": "Monaco",
-    "description": "Monaco  Hackaday",
-    "url": "https://hackaday.com/tag/monaco/",
-    "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaGFja2FkYXkuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIwXC8wN1wvaGFja2FkYXktbG9nby13aXRoLXRleHQtb3BlbmdyYXBoLWRlZmF1bHQtaW1hZ2UuanBnIiwidHh0IjoiSGFja2FkYXkiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTU2NjcwMTc3fQ.kVPxWrsIQyGdD1cPoxYvzP1mD56qtpkNpW1nAFiZiIgMQ",
-    "timestamp": 1776888096000,
-    "source": "Hackaday",
-    "publisher_id": "hackaday.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uc0h5NDJjRmhJMUZ1TkFxNWU4ZmZjTjVXMGNuS0xKQXFMQ0t6SGpoWFhzamdPNjBGSHg5Tm1URGRvanBoMFlj?oc=5",
-    "rssid": "laN112",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Monaco",
-    "likes": 0,
-    "comments": 0
   }
 ]
