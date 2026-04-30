@@ -549,43 +549,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/lifestyle/travel/article-1312928",
-    "title": "העיר האירופאית שישראלים לא מכירים - והיא תהיה הלהיט של קיץ 2026",
-    "description": "העיר האירופאית שישראלים לא מכירים - והיא תהיה הלהיט של קיץ 2026  מעריב",
-    "url": "https://www.maariv.co.il/lifestyle/travel/article-1312928",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1090429",
-    "timestamp": 1776919206000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5MzVITHhZTDVzSUI1Y0FpdjduMDhtWE81SHdoOW1VMV9iV0RaYVNuS2hiR2JNQm5iUkdsVC1jOHFYbUQ0SDAtNExGOGE3VjAwM1RLSG5nMVlqd3pUOE5QZF9XRDRGbTgy?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/neymar-thang-vu-kien-chan-dong-tay-ban-nha",
-    "title": "ניימאר זוכה בתביעה שמטלטלת את ספרד.",
-    "description": "ניימאר זוכה בתביעה שמטלטלת את ספרד.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/neymar-thang-vu-kien-chan-dong-tay-ban-nha",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/04/23/1776911018281_2026_03_18t181501z_322251301_mt1rbullc8v8beo0tspck21mbr1abantvp0_rtrwefp_4_football_neymar_global.jpeg",
-    "timestamp": 1776917681000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtVlpuRjY2UkNZSXBXX1ppQmhtNldSbHplMzBtNG9kWmExM0tJcHpiMG1qWV96M1g4TXNFOFg1ak83dlpMTlJIdWpvS2lWYk9na2NLS19vZVNxczZVdk1VUi1rVVo3VzZSb0w0UmsyUXRJUW55R1I4?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
