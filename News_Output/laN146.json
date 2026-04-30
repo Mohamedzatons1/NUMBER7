@@ -1537,43 +1537,5 @@
     "extra": "Samoa",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/between_the_lines/119608",
-    "title": "Between the Lines",
-    "description": "Between the Lines  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/between_the_lines/119608",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/2ce0d7322e4089dc3847b479e5b14ae9.jpg",
-    "timestamp": 1776947653000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IYXdVSGNWR3NSVWJLaUFHWFN2QXh5NTFYdzBsTXZxVW55MGJxMXhQbXJyV1hheTlvOVRSV1RWankyY3FSdm5jRTRXWHpvdlVzM1pDRjhiVE5HczNOTjVldlpCSmZCUnFtcjRKRDJGUQ?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://samoaobserver.ws/category/technology/9210",
-    "title": "Apple Music posts new Frank Ocean video album",
-    "description": "Apple Music posts new Frank Ocean video album  Samoa Observer",
-    "url": "https://samoaobserver.ws/category/technology/9210",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/ce30681d4a2cf986f34fcc1cf483d8b1.jpg",
-    "timestamp": 1776942466000,
-    "source": "Samoa Observer",
-    "publisher_id": "samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KTWg2TlJ3OVEwaWZBUG55Rko4VTBGQXZPa2NoQUpHM2lrT3c2UThab3RNMGJ5VDJXeFkzaTBPUlYwRHgxMGxaSHlLNWFtdTlXWnF4d0Nkc1JPd1ctU0E?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
   }
 ]
