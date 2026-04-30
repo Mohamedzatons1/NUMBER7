@@ -1271,43 +1271,5 @@
     "extra": "Saint Lucia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://ourworldindata.org/profile/health/saint-lucia",
-    "title": "Saint Lucia - Health Country Profile",
-    "description": "Saint Lucia - Health Country Profile  Our World in Data",
-    "url": "https://ourworldindata.org/profile/health/saint-lucia",
-    "image": "https://ourworldindata.org/default-thumbnail.png",
-    "timestamp": 1776963354000,
-    "source": "Our World in Data",
-    "publisher_id": "ourworldindata.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IVm1QZzVyQmp0QTZ3SGYtUURvbElyN3RTMnBzY1dTcVBuTWFFXzRmSHFKSzNONkhQVTg5Q0N5Nm0yd2tDejd2NE9mOVh2TDJjekRYYUJjWnFlT2lMYmFhNHdVSQ?oc=5",
-    "rssid": "laN144",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Saint Lucia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vogue.com/article/the-rainforest-spa-at-sugar-beach",
-    "title": "The Rainforest Spa at Sugar Beach",
-    "description": "The Rainforest Spa at Sugar Beach  Vogue",
-    "url": "https://www.vogue.com/article/the-rainforest-spa-at-sugar-beach",
-    "image": "https://assets.vogue.com/photos/69e042cb6eb9cb74cba4814f/16:9/w_1280,c_limit/SpaGuide_SugarBeachViceroyResort_001.jpg",
-    "timestamp": 1776960000000,
-    "source": "Vogue",
-    "publisher_id": "www.vogue.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VHFSbFlaeWZEVVBpUE1tZWFETVdUWUpvWTVuSXJSQkZ4ZnBaQURKTHdwYm8yRUw5bWhHejRQZmdrNVRBV0pfVEc0MkhQYTRnMkRuWmRxWm4tMDN1VXpOTFdKNDU5eS04aFA2cUdLN3Q?oc=5",
-    "rssid": "laN144",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Saint Lucia",
-    "likes": 0,
-    "comments": 0
   }
 ]
