@@ -720,43 +720,5 @@
     "extra": "Papua New Guinea",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.abc.net.au/emergency/warning/AUREMER-62a9263ee855b93aa37e97b61ea79219",
-    "title": "Magnitude 5.1 earthquake - New Ireland Region, Papua New Guinea - 24/04/2026 11:59:31 (UTC)",
-    "description": "Magnitude 5.1 earthquake - New Ireland Region, Papua New Guinea - 24/04/2026 11:59:31 (UTC)  Australian Broadcasting Corporation",
-    "url": "https://www.abc.net.au/emergency/warning/AUREMER-62a9263ee855b93aa37e97b61ea79219",
-    "image": "https://static.abc-cdn.net.au/emergency-web/abc-emergency-share.png?imformat=generic",
-    "timestamp": 1777078431000,
-    "source": "Australian Broadcasting Corporation",
-    "publisher_id": "www.abc.net.au",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGM1QWJ2UDlRT1k0Y0xXbXQ1VndYc3o5dXk5bGFvdE1RYWJnYkRYV19PaFMwTVhMcnQyczd3RkJNWUlndHhKN24yaEVIVUJNdWxIWG1hcno0NmdUendjRjVVbVhndVJVQmdubkc2REdvUDVwalYwclI2Sk5FWDdlZ1dKbFJUQzZ3?oc=5",
-    "rssid": "laN133",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Papua New Guinea",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.postcourier.com.pg/bound-by-history-anzac-day-reflections-from-papua-new-guinea/",
-    "title": "Bound by history: Anzac Day reflections from Papua New Guinea",
-    "description": "Bound by history: Anzac Day reflections from Papua New Guinea  Post Courier",
-    "url": "https://www.postcourier.com.pg/bound-by-history-anzac-day-reflections-from-papua-new-guinea/",
-    "image": "https://www.postcourier.com.pg/wp-content/uploads/2026/04/EDITORIAL-5.png",
-    "timestamp": 1777075665000,
-    "source": "Post Courier",
-    "publisher_id": "www.postcourier.com.pg",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW1DNVpQaHlGRVptREhFWkt5TUZ1Wk92NGFVOW1wdEJodGphNFhtUVFZRmlCTnkyNlZOYUFhMTRNQzBPbmVuMEtVMEFBU3ZmMW1td3N2djlvOHhRcmdxU3lqQmRhVEJlaVFGeEFMTkRBRFlNSXhjTmhjU3lFVXV5OE5pU00yS3pabTJleHE3c1Y2ajVLSHRR?oc=5",
-    "rssid": "laN133",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Papua New Guinea",
-    "likes": 0,
-    "comments": 0
   }
 ]
