@@ -2620,43 +2620,5 @@
     "extra": "Egypt",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2026/apr/25/egyptian-family-ice-custody",
-    "title": "Egyptian family of six taken back into ICE custody days after being released",
-    "description": "Egyptian family of six taken back into ICE custody days after being released  The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/apr/25/egyptian-family-ice-custody",
-    "image": "https://i.guim.co.uk/img/media/4a3fd1cc2e9aadcc64a1e25364eb023993733140/234_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a251dff2182aa5542a4e2f54d16fc02d",
-    "timestamp": 1777142580000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcG9sbWIta2Mxd2hsRWZWcnpudHp1dDR3c0l6Tk5vRWpzbl92XzJKT1lqODBBRjF0ekpXTzFlU1VrT3pBVEgwRFZIMFNXWHBfaUhkWjB0SVhZUnF0UTZQaUFTUlFqZ3VLak1SRFhmalNCV1BiTzBzVnN2dFcySzVMNQ?oc=5",
-    "rssid": "laN052",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.dailynewsegypt.com/2026/04/25/egypt-steps-up-diplomacy-to-ease-regional-tensions-back-us-iran-talks/",
-    "title": "Egypt steps up diplomacy to ease regional tensions, back US-Iran talks",
-    "description": "Egypt steps up diplomacy to ease regional tensions, back US-Iran talks  Dailynewsegypt",
-    "url": "https://www.dailynewsegypt.com/2026/04/25/egypt-steps-up-diplomacy-to-ease-regional-tensions-back-us-iran-talks/",
-    "image": "https://images.dailynewsegypt.com/2026/04/662008801_1266449588998218_7936531446947984037_n.jpg",
-    "timestamp": 1777140487000,
-    "source": "Dailynewsegypt",
-    "publisher_id": "www.dailynewsegypt.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclhmR00ydHlEOUl1akpGcjhOUVdZV1FZWmJVaDVIZ3NoMUU1cnRycnhZTlBWdm9RWHg2aS1raTZOMUdVYm9zcHgxM0xZc2g4NGNRZjdWdjNVdjRiUDVFYXN3cnpjeVlRamxOUHpZd2hDaUNZQ3hMdURManFfNmRqeTN1eFFkYVMyQWNUUF9VeUlhOU5PX2JUQ3o1UHZoaTZ2cVlMczNSTEdiMFFqdS1kMXV3?oc=5",
-    "rssid": "laN052",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
   }
 ]
