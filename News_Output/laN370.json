@@ -435,43 +435,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1313663",
-    "title": "שר החוץ הטורקי: טורקיה עשויה להשתתף בפינוי מוקשים בהורמוז לאחר הסכם אפשרי בין ארה\"ב לאיראן",
-    "description": "שר החוץ הטורקי: טורקיה עשויה להשתתף בפינוי מוקשים בהורמוז לאחר הסכם אפשרי בין ארה\"ב לאיראן  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1313663",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1050843",
-    "timestamp": 1777110715000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOQ29DNzdtcXBHWldqa0x4cnd6bzlTVFNrd0hRZkNGalZOT3dIQnAxMEh1Wmw3OERQTVN1NjdmNnpSakFWMWtORDR2N2MzcWlxMC0tLUgtUjVzLXIxWENfMjhReEk?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1313661",
-    "title": "\"השפה הטורקית מתה\": ארדואן הדיח באישון לילה את סגן שר החינוך - שעורר סערה",
-    "description": "\"השפה הטורקית מתה\": ארדואן הדיח באישון לילה את סגן שר החינוך - שעורר סערה  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1313661",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1083900",
-    "timestamp": 1777110339000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPal9ha2Q4enM1bXdZekQ5dGktcVR5LTd0MFB0eWROSF9qRXJ0a3hDM0tfby1oajlVV1ZNZEFYcWxyNjRWYXVjZ2V0QmNNZGtVck1kR3pFMmdCYThMc0dGdg?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
