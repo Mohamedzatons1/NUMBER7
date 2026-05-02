@@ -302,24 +302,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1313590",
-    "title": "זה כבר אישי: ספרד נגד ישראל – והקרב מתלהט",
-    "description": "זה כבר אישי: ספרד נגד ישראל – והקרב מתלהט  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1313590",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/938611",
-    "timestamp": 1777091110000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUa2hHUUZybnVjdnNRUzlIc08wRVBGejAxME81bzZvbmlWYl9QN0lFLXhscEZ2YTNjaWZteUlxRjVieGlCMnV2dVNOTlFOV1A4b3N6SS1obE5ldkVkUnpERTA4ZlQ?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
