@@ -93,5 +93,24 @@
     "extra": "Mexico",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.mako.co.il/news-world/2026_q2/Article-bdb75c2c1b2dd91027.htm",
+    "title": "המשבר עם אוקראינה מעמיק: זלנסקי מאיים בסנקציות על ישראל",
+    "description": "המשבר עם אוקראינה מעמיק: זלנסקי מאיים בסנקציות על ישראל  mako",
+    "url": "https://www.mako.co.il/news-world/2026_q2/Article-bdb75c2c1b2dd91027.htm",
+    "image": "https://img.mako.co.il/2023/09/20/BIBIZIZI_autoOrient_w.jpg",
+    "timestamp": 1777358280000,
+    "source": "mako",
+    "publisher_id": "www.mako.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NalFnQ194X1pIQmtTd3NoVG1tR2lOMkRYRGozR1paV19kUWI3bk1vS3FwMnVRMjN2NUdmSGNCNWlfSkdzUE5kazdNYW10VlBpYjk2Y05OODhOVVBhLTFlZS1FM0J2WE10T0VxV2xqVFNTU0R2dEtGMUxjMW8?oc=5",
+    "rssid": "laN302",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Mexico",
+    "likes": 0,
+    "comments": 0
   }
 ]
