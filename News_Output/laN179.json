@@ -150,43 +150,5 @@
     "extra": "Tuvalu",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0tzSFZvNHlYanJZVV9rckxBRC16Z3VIRGVCMXZPQW9yZkdCZ3JsQU1kNEtaeUJMUVg2WjJTNGJLY2IyaW5VVF9ENUhzRXRMTzdrOHlscEw0S0o3LXZKTlZSLTRuWFF0c1BYSnBFZjdORjhPRGdQal9KeHZ4TU1fRDhCNzdaRnpCWVRpR1ZIb09kRnBrelM2N1pWbkFwV3JSc3BrY1dRZw?oc=5",
-    "title": "Countries end Colombia fossil fuel summit with focus on next steps and financing",
-    "description": "Countries end Colombia fossil fuel summit with focus on next steps and financing  News-Times",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0tzSFZvNHlYanJZVV9rckxBRC16Z3VIRGVCMXZPQW9yZkdCZ3JsQU1kNEtaeUJMUVg2WjJTNGJLY2IyaW5VVF9ENUhzRXRMTzdrOHlscEw0S0o3LXZKTlZSLTRuWFF0c1BYSnBFZjdORjhPRGdQal9KeHZ4TU1fRDhCNzdaRnpCWVRpR1ZIb09kRnBrelM2N1pWbkFwV3JSc3BrY1dRZw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1777519988000,
-    "source": "News-Times",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0tzSFZvNHlYanJZVV9rckxBRC16Z3VIRGVCMXZPQW9yZkdCZ3JsQU1kNEtaeUJMUVg2WjJTNGJLY2IyaW5VVF9ENUhzRXRMTzdrOHlscEw0S0o3LXZKTlZSLTRuWFF0c1BYSnBFZjdORjhPRGdQal9KeHZ4TU1fRDhCNzdaRnpCWVRpR1ZIb09kRnBrelM2N1pWbkFwV3JSc3BrY1dRZw?oc=5",
-    "rssid": "laN179",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tuvalu",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.e3g.org/news/santa-marta-outcomes/",
-    "title": "Santa Marta Conference: outcome",
-    "description": "Santa Marta Conference: outcome  E3G",
-    "url": "https://www.e3g.org/news/santa-marta-outcomes/",
-    "image": "https://www.e3g.org/wp-content/uploads/IMG_1629.jpg",
-    "timestamp": 1777509124000,
-    "source": "E3G",
-    "publisher_id": "www.e3g.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VTVBTUnNoVDVKUy12MUNxZ2w0UnozVDJEUFB0VnBRUGJMWDBiRFZZbW1iaWc0bVpQbVc3bFhOdXU2M0tRSGl1U21BUXNwQmRGZVUxOWpSa1p4UQ?oc=5",
-    "rssid": "laN179",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tuvalu",
-    "likes": 0,
-    "comments": 0
   }
 ]
