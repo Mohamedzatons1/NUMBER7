@@ -1594,43 +1594,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.wral.com/news/ap/ad322-rebels-claim-to-capture-military-camp-in-northern-mali-town-of-tessalit/",
-    "title": "Rebels claim to capture military camp in northern Mali town of Tessalit",
-    "description": "Rebels claim to capture military camp in northern Mali town of Tessalit  WRAL",
-    "url": "https://www.wral.com/news/ap/ad322-rebels-claim-to-capture-military-camp-in-northern-mali-town-of-tessalit/",
-    "image": "https://images.wral.com/7977c86c-8e7e-547e-9abf-1ff9c2de873e?w=1200&h=630",
-    "timestamp": 1777668978000,
-    "source": "WRAL",
-    "publisher_id": "www.wral.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0txTncta0FXa1BBSG0tWE1pTk9RVXVYU2Jwc2NRLU5vMFlIU1pld2hMZDFnZHlKT2NUZlk5RTUzaVk3aU5sRzhjUDlWUHRIVmVxNGVoNURyUjhINmlDVHlhMlJmSUNYeVZwUjhpTjZmZWJtUW5PYTVnVGExZnJFUVROUGY3Vm5oQmF2bHhna2Z4QWNmYXFkdG84Y2M0S3RKR0I3YmpRcGh6WUk?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://apnews.com/article/rebels-mali-capture-tessalit-azawad-liberation-front-ad322075647daeda4332d71e1a102631",
-    "title": "Rebels claim to capture military camp in northern Mali town of Tessalit",
-    "description": "Rebels claim to capture military camp in northern Mali town of Tessalit  AP News",
-    "url": "https://apnews.com/article/rebels-mali-capture-tessalit-azawad-liberation-front-ad322075647daeda4332d71e1a102631",
-    "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-    "timestamp": 1777668060000,
-    "source": "AP News",
-    "publisher_id": "apnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGJ2SlRXYy1EX1lwS2VmMVdaUWh6UFJsa01mZWxVV1YyaTJLZXdTLUR5MDNpc3dPOThkVkNxVDdMczZGZjdiY1Q1SE1JLUFsYnF2SVBISTFxSVVsSmc5a05HU2xKM1BkUlM1Z1hLMzNOQUM1TEctZ2RRMmI5MGM0NzMwRUNxc3pwMHdJTXFsMFFPWEVxTkpXX29wTjVVRUVSTUhIRHA1T3RxN19aVks3ODFR?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]
