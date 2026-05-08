@@ -1575,43 +1575,5 @@
     "extra": "Luxembourg",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.artforum.com/events/leonora-carrington-musee-du-luxembourg-review-1234748534/",
-    "title": "Review of Leonora Carrington at Musée du Luxembourg by Lillian Davies",
-    "description": "Review of Leonora Carrington at Musée du Luxembourg by Lillian Davies  artforum.com",
-    "url": "https://www.artforum.com/events/leonora-carrington-musee-du-luxembourg-review-1234748534/",
-    "image": "https://www.artforum.com/wp-content/uploads/2026/04/7-Davies-Leonora-Carrington.jpg?w=650",
-    "timestamp": 1777612547000,
-    "source": "artforum.com",
-    "publisher_id": "www.artforum.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeWtjZW5Cb0xXUW1UdC1LdXE1YjFlYmItbjdubWNCTUdXTndMaVFqQVRZWnV5R2Y5WlN3RTUtT210bXFsaUFkUkV5N2FqbDlwMmZzb2hLRV9VbWFCVXRpUjhxa3lPdml4NzNsTFl2LUpLcUczakZzcEpNdkVBSkQxLVExanZJZmpma3lzTl9QZTJ4SzQ?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://delano.lu/article/luxembourg-a-battleground-for-investment-apps",
-    "title": "Luxembourg: a battleground for investment apps",
-    "description": "Luxembourg: a battleground for investment apps  delano.lu",
-    "url": "https://delano.lu/article/luxembourg-a-battleground-for-investment-apps",
-    "image": "https://assets.paperjam.lu/images/articles/luxembourg-a-battleground-for-investment-apps/0.5/0.5/600/400/788635.jpg",
-    "timestamp": 1777610173000,
-    "source": "delano.lu",
-    "publisher_id": "delano.lu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wbnBMYU8yaVBOaTdfaGxDOHpDak1xNTE1eEQzdjlhSUQwY0FMc0piX3I5QXR4NUtuaWJ6RjhWaDgwLWZEeWlUamVaVlA1SzZoSWU5a3cxU21adUluOTdGbXlIY0J2S1lacGhwbWFmdFR6SzhaNGxyRzNKOA?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
   }
 ]
