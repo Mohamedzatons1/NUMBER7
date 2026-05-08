@@ -74,5 +74,24 @@
     "extra": "Comoros",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.transfermarkt.com/parma-fc/gastarbeiterDetails/verein/46927/land_id/35",
+    "title": "Parma FC",
+    "description": "Parma FC  Transfermarkt",
+    "url": "https://www.transfermarkt.com/parma-fc/gastarbeiterDetails/verein/46927/land_id/35",
+    "image": "https://tmssl.akamaized.net/images/tm_logo.png",
+    "timestamp": 1777699904000,
+    "source": "Transfermarkt",
+    "publisher_id": "www.transfermarkt.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGJUUWtCSC1kWThKQkFFR3V1ckZHVlQwV3VTYjA0U2JrMVBmMEtfUVg4M1FjYXlUTENNdXV3N0F4Vm4yN0wyMHpOa2thSEZHakRXVnBXek5qdDhBM3UwMFFRUFVLT09MV21lSVloM1k0OTYzbGVZUWNsaWh3cnMyOVVBX3dUOUo0TXc?oc=5",
+    "rssid": "laN038",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "Comoros",
+    "likes": 0,
+    "comments": 0
   }
 ]
