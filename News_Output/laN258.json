@@ -1005,43 +1005,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bizportal.co.il/globalmarkets/news/article/20031229",
-    "title": "טראמפ מוציא 5,000 חיילים מגרמניה: איתות לאירופה, מתנה לרוסיה?",
-    "description": "טראמפ מוציא 5,000 חיילים מגרמניה: איתות לאירופה, מתנה לרוסיה?  ביזפורטל",
-    "url": "https://www.bizportal.co.il/globalmarkets/news/article/20031229",
-    "image": "https://res.cloudinary.com/bizportal/image/upload/f_auto,q_auto/giflib/news/rsPhoto/sz_318/rsz_870_420_שדכשדגכשדגכגדש.jpg",
-    "timestamp": 1777690140000,
-    "source": "ביזפורטל",
-    "publisher_id": "www.bizportal.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RMUJvaUpOaUVQMXc2NXFuNml3eGw5WUlSOUQ3NXQ4S29SMlFDT3FPME5UZGRhM1duRjVEVGZ4dERKSWU5UVJzOS1JZ3g2S055cmxPclZOUXpqYUszUnR3ZFV4MHd3RWxvM1FROTZ5Nlc?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/world/europe/2026-05-02/ty-article/.premium/0000019d-e616-dba5-a1ff-efd7486f0000",
-    "title": "לאחר העימות עם קנצלר גרמניה, ארה\"ב הודיעה כי תסיג 5,000 חיילים מהמדינה",
-    "description": "לאחר העימות עם קנצלר גרמניה, ארה\"ב הודיעה כי תסיג 5,000 חיילים מהמדינה  הארץ",
-    "url": "https://www.haaretz.co.il/news/world/europe/2026-05-02/ty-article/.premium/0000019d-e616-dba5-a1ff-efd7486f0000",
-    "image": "https://img.haarets.co.il/bs/0000019d-e616-dba5-a1ff-efd7486f0000/e7/09/4772f0e44a0dbf3253ef49187382/799748-2.jpg?&width=1200&height=630&cmsprod",
-    "timestamp": 1777683480000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE51eEVuVXRhNm02eFA0U0oybFpiMVo3SFJReWhJMV9waHVCcllJdUhVdDl1MlhBVTB3WEJhLWllMGNnRjFMbW1ZQ3J6OUQ4eTNxM2lZRnc2TFZNMEd4SjF1UEFld1dZdWh2NWZQQ3l2QVFvVU5PX2t2a1pNUEQwTWFSVkJjVEZQVERScEJTMTVnbjlYek1WTVdvR2ljbDZBMjFKSEQzZkloa0c5eERHdA?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
