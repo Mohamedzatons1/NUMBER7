@@ -834,43 +834,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVTDU3ek40TWNrNFExa2M5cE15Rkdka3pEZTRnR3FuTy1EUXJ2XzVOVHpERjdVMW1ITUs3dElWZ2hZeHFVT2JHMHc1dw?oc=5",
-    "title": "ארדואן בצרות: משבר כלכלי חריף פוקד את טורקיה",
-    "description": "ארדואן בצרות: משבר כלכלי חריף פוקד את טורקיה  בחדרי חרדים",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVTDU3ek40TWNrNFExa2M5cE15Rkdka3pEZTRnR3FuTy1EUXJ2XzVOVHpERjdVMW1ITUs3dElWZ2hZeHFVT2JHMHc1dw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1777746660000,
-    "source": "בחדרי חרדים",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVTDU3ek40TWNrNFExa2M5cE15Rkdka3pEZTRnR3FuTy1EUXJ2XzVOVHpERjdVMW1ITUs3dElWZ2hZeHFVT2JHMHc1dw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/world-news/middle-east/article/20450725",
-    "title": "מאחורי הקלעים של התיווך: חלקה של טורקיה בשיקום חיזבאללה",
-    "description": "מאחורי הקלעים של התיווך: חלקה של טורקיה בשיקום חיזבאללה  היום",
-    "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/20450725",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2026/03/18/18/הירו-דסקטופ_עמית-סגל-AFP-1280x853.jpg",
-    "timestamp": 1777744863000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4YU51Tmx4cnBqV1RCckdIM2JTaTdvZDNQalI4N2lJQU5WeE9mRW51UVVqbXdVVVdoQ2pFdEpMaHptVzgxSktZR2RYLVFvVFhCcG9SaGNkZV9PaE9jUXoxVGl4bXQxRUxOZi1mRmx5c0xHX0NJcnZfYThRUDBkMTTSAYcBQVVfeXFMUEZHVFU5NHFIbm0zbVVpZUVFS240QUVmTFlWem9JS3lPWk43R3RaWjI2WkZZRnc5N2s2SkhwRTljZDFXTWhjOVdXaUFfWllnTGlUcGZSY0J3OVBFLVBKUFRlSFh0eWhMTW0xRlU5Ujd6T24tWUNfbTJtSy1KbDUwYm43Sk9DTFRJ?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
