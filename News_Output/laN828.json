@@ -36,5 +36,24 @@
     "extra": "Estonia",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/1507anu-pec-pasreizejas-informacijas-no-sejienes-atgriezas-krievija-kas-isti-notiek-baltijas-gaisa-telpa",
+    "title": "“Pēc pašreizējās informācijas, no šejienes atgriezās Krievijā…” Kas īsti notiek Baltijas gaisa telpā?",
+    "description": "“Pēc pašreizējās informācijas, no šejienes atgriezās Krievijā…” Kas īsti notiek Baltijas gaisa telpā?  Inbox.lv",
+    "url": "https://news.inbox.lv/1507anu-pec-pasreizejas-informacijas-no-sejienes-atgriezas-krievija-kas-isti-notiek-baltijas-gaisa-telpa",
+    "image": "https://news.inbox.eu/w/img/11/95/11953e402a76c4f490.jpg",
+    "timestamp": 1777794336000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFc2VnpGOWttWHU0dHdycnByclRrYWdrZmNINURMUURhS3RGS19lSmpBODVSQ3daYnVKQ1Nxc0ZRamNXb1ZkX25CNk1NZUdibEZkUjU1MWJYSHdZY3IzWG94bG9RUG8yX1hzT3NiQ2J3d0tQOUN5R0JPaE9NOFM4cWF5LW1BUU8zNE9mTlBDM2N3a0dNUU8tM0ZTdV8zcXJZRm9YRzluSmRxbk1KWUJXUVc2bUs1N3RRSlNGOWdkRmp2RjBf?oc=5",
+    "rssid": "laN828",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Estonia",
+    "likes": 0,
+    "comments": 0
   }
 ]
