@@ -796,43 +796,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MaGM5Ry1OS2tmQ0M0cTQxQi1rYnE5ZXJ6TnN4dGM5TUpuOVZoanMtXzVtZWhFQWYzRWhINWp5ZWZ2Rm9kQUZpZFFPR0JSc3UwRnNVMi1paExWYkJRcjU4T3NSYjI2RjFEWkJFeg?oc=5",
-    "title": "נאט\"ו מאשרת: איראן ירתה לעבר טורקיה",
-    "description": "נאט\"ו מאשרת: איראן ירתה לעבר טורקיה  מקור ראשון",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MaGM5Ry1OS2tmQ0M0cTQxQi1rYnE5ZXJ6TnN4dGM5TUpuOVZoanMtXzVtZWhFQWYzRWhINWp5ZWZ2Rm9kQUZpZFFPR0JSc3UwRnNVMi1paExWYkJRcjU4T3NSYjI2RjFEWkJFeg?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1777783138000,
-    "source": "מקור ראשון",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MaGM5Ry1OS2tmQ0M0cTQxQi1rYnE5ZXJ6TnN4dGM5TUpuOVZoanMtXzVtZWhFQWYzRWhINWp5ZWZ2Rm9kQUZpZFFPR0JSc3UwRnNVMi1paExWYkJRcjU4T3NSYjI2RjFEWkJFeg?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1316618",
-    "title": "\"איראן הייתה רק חזרה גנרלית\": האנליסט הטורקי מודאג מישראל",
-    "description": "\"איראן הייתה רק חזרה גנרלית\": האנליסט הטורקי מודאג מישראל  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1316618",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1062069",
-    "timestamp": 1777781629000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xcEtCSTFyNTI1ZmdNSloxdUpoSm1NdXVCWEtOOVF0bnc0MHh5YlhEZUNGbHFRSFg5Y0d5V1BCOWkzNGhhZE0xZldPTmZ1LVVlZ3RoMm0xLUtwaFRqNmZJbHp4ejg?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
