@@ -93,43 +93,5 @@
     "extra": "Estonia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/1507anu-pec-pasreizejas-informacijas-no-sejienes-atgriezas-krievija-kas-isti-notiek-baltijas-gaisa-telpa?language=fr",
-    "title": "“Pēc pašreizējās informācijas, no šejienes atgriezās Krievijā…” Kas īsti notiek Baltijas gaisa telpā?",
-    "description": "“Pēc pašreizējās informācijas, no šejienes atgriezās Krievijā…” Kas īsti notiek Baltijas gaisa telpā?  Inbox.lv",
-    "url": "https://news.inbox.lv/1507anu-pec-pasreizejas-informacijas-no-sejienes-atgriezas-krievija-kas-isti-notiek-baltijas-gaisa-telpa?language=fr",
-    "image": "https://news.inbox.eu/w/img/11/95/11953e402a76c4f490.jpg",
-    "timestamp": 1777794336000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMDAyWDRxa1YyVEwxNXFtYkxjWk0taFdEaFBvQ3lRTjBKYlhoeExpalFYcGxNcUVYaEl2ZmV5cG1XYlYwR3F1NHdjR0QtRW93RnBxTzZ2RGhJU2UybzFBUXZlUmxwczRzOEdkVVJ3V0JRRHBqOFplRzFjbGpaajd6c1hGZExZRnpTYTJqbXpRclZ6cmM1TG5VRVRnRWFNNDlfRkdIYWJTdWNGMk11aWphMUlYbWZkcmtkUDBidm9yZWhxZFI5RWlkdFhTc0lLRFhnTlhRaA?oc=5",
-    "rssid": "laN635",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Estonia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/1507anu-pec-pasreizejas-informacijas-no-sejienes-atgriezas-krievija-kas-isti-notiek-baltijas-gaisa-telpa?language=de",
-    "title": "“Pēc pašreizējās informācijas, no šejienes atgriezās Krievijā…” Kas īsti notiek Baltijas gaisa telpā?",
-    "description": "“Pēc pašreizējās informācijas, no šejienes atgriezās Krievijā…” Kas īsti notiek Baltijas gaisa telpā?  Inbox.lv",
-    "url": "https://news.inbox.lv/1507anu-pec-pasreizejas-informacijas-no-sejienes-atgriezas-krievija-kas-isti-notiek-baltijas-gaisa-telpa?language=de",
-    "image": "https://news.inbox.eu/w/img/11/95/11953e402a76c4f490.jpg",
-    "timestamp": 1777794336000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb18wM0oyOWtoT3RyUmNxRngwQ0lpZXgzVzhXV1dCSG1jUkdTLWNVX0NOZlhXdktBbUJPY2JjVXEwNWVfY3RIWmd0Q1hqQ25ocUpyNm8xRmpMbGNXaFBhWFNwM1NNeXlLb184SHMxcDJVY1dmUWM2SmNZZkRkRUk3LXdjVTlTaTYtMWNmNlNXTzhQaGVKTGdxeXNoTjFEbVJPTFFER0JYb2hSaVRSamJCUWMwMFMtWEsxTkRHSHdnVWpSUTVFV2xUbjl4OVNxcThUb3ZNMg?oc=5",
-    "rssid": "laN635",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Estonia",
-    "likes": 0,
-    "comments": 0
   }
 ]
