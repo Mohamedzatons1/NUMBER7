@@ -910,43 +910,5 @@
     "extra": "Guatemala",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cantonrep.com/obituaries/pwoo1470834",
-    "title": "Timothy Spurrier Obituary",
-    "description": "Timothy Spurrier Obituary  Canton Repository",
-    "url": "https://www.cantonrep.com/obituaries/pwoo1470834",
-    "image": "https://cantonrep.com/gcdn/community-hub/images/prod/images/4559057d-29a9-4b2b-9eb5-2adb22bd94af/obituary/fb5bf20e-aae1-49f3-b278-31359858be71.jpg",
-    "timestamp": 1777824752000,
-    "source": "Canton Repository",
-    "publisher_id": "www.cantonrep.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQU3FnLUk2dy1zUTYzTTBObC0tVHJvQmtoVzZodFJMaFNuSHFPSXVjQVExUzRHZ1ZwdW8zVHg1ZzllSFdSN0loNDhqSEF2ejRDQk5DOWNRU2xTWVEz?oc=5",
-    "rssid": "laN069",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Guatemala",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/04/2003856728",
-    "title": "Traveling the seas",
-    "description": "Traveling the seas  Taipei Times",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/04/2003856728",
-    "image": "https://img.taipeitimes.com/images/2026/05/04/P02-260504-326.jpg",
-    "timestamp": 1777824000000,
-    "source": "Taipei Times",
-    "publisher_id": "www.taipeitimes.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUOUwtSDM0aklUdXdPQkxtVGg2TU94SU41YVNHQnUybWNxYW9TcmRJM2lRYmk0aUxNUWVQaWNyMWZhanMtLXJ5U1V1OU1EeF9uN1RpRXptTk5PZTA4U2NXdGozR0hSM2hUSVFubk1PdjlPTllxQ1NwQkpR?oc=5",
-    "rssid": "laN069",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Guatemala",
-    "likes": 0,
-    "comments": 0
   }
 ]
