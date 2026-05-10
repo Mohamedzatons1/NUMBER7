@@ -188,24 +188,5 @@
     "extra": "Tuvalu",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://weather.com/forecast/allergy/l/Nukulaelae+Nukulaelae+Tuvalu?placeId=1aefe16d97ae2071b0d1dd18fab535b4243149438c1c53334c7dfe3e756fdc8f",
-    "title": "Pollen Breakdown",
-    "description": "Pollen Breakdown  The Weather Channel",
-    "url": "https://weather.com/forecast/allergy/l/Nukulaelae+Nukulaelae+Tuvalu?placeId=1aefe16d97ae2071b0d1dd18fab535b4243149438c1c53334c7dfe3e756fdc8f",
-    "image": "https://s.w-x.co/240x180_twc_default.png",
-    "timestamp": 1777831460000,
-    "source": "The Weather Channel",
-    "publisher_id": "weather.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWE9JSjNUXzhEWnNYS011R0VJdWliMXFuOHZXQjFpSHF2b2xwQWN0dGV2bGxkdDV0SU5OeXV6cEloZzlhRktpRFp5cElOMkNqbkVsYnFIRkpkeEhacEdSRnByWDhGQ2p2VzZoS3plNjhYSmhtNHRsdzBFRW1HLThMTDlsVFpidFRIZl9DVFFEcklIOVB0R2FNdFFfdWNqNkVrS3ZNeGlCOUtiZ0RNejQxVURaXzh3bjdxTjJ0b3dEczZXQlEwaE9jSkV0U0dYMzM1S2RyU3hiSQ?oc=5",
-    "rssid": "laN179",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tuvalu",
-    "likes": 0,
-    "comments": 0
   }
 ]
