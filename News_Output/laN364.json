@@ -568,43 +568,5 @@
     "extra": "Thailand",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DZ253QWd2R2RFa3N3SDF6V2F4a2lUUTM4ejNHNUJVd3pSemlYZlM1SUtlOGltWE4zU3JyMExEeWFKZ0YzSElFSFlvSkRDNzdh?oc=5",
-    "title": "בתאילנד החלו בניקוי עיר הזנות הכי גדולה של התיירים",
-    "description": "בתאילנד החלו בניקוי עיר הזנות הכי גדולה של התיירים  וואלה תיירות",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DZ253QWd2R2RFa3N3SDF6V2F4a2lUUTM4ejNHNUJVd3pSemlYZlM1SUtlOGltWE4zU3JyMExEeWFKZ0YzSElFSFlvSkRDNzdh?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1777886909000,
-    "source": "וואלה תיירות",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DZ253QWd2R2RFa3N3SDF6V2F4a2lUUTM4ejNHNUJVd3pSemlYZlM1SUtlOGltWE4zU3JyMExEeWFKZ0YzSElFSFlvSkRDNzdh?oc=5",
-    "rssid": "laN364",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Thailand",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://travel.walla.co.il/item/3835087",
-    "title": "תאילנד מתכננת חוק חדש שישפיע כניסת ישראלים למדינה",
-    "description": "תאילנד מתכננת חוק חדש שישפיע כניסת ישראלים למדינה  וואלה תיירות",
-    "url": "https://travel.walla.co.il/item/3835087",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/4/5/4045829-46.jpg",
-    "timestamp": 1777884377000,
-    "source": "וואלה תיירות",
-    "publisher_id": "travel.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PRzlaTUtwNmNlSGRVdXVnWHM3UmE1U1FBdnF0M0NSU2RDVEhCX0R6ZWhQbzVzUnR1dl83RWdhVkVYVGxGQmFjbjB1RnZydG4t?oc=5",
-    "rssid": "laN364",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Thailand",
-    "likes": 0,
-    "comments": 0
   }
 ]
