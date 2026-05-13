@@ -1119,43 +1119,5 @@
     "extra": "Tanzania",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.awf.org/news/river-holds-community-together",
-    "title": "The River That Holds a Community Together",
-    "description": "The River That Holds a Community Together  African Wildlife Foundation",
-    "url": "https://www.awf.org/news/river-holds-community-together",
-    "image": "https://www.awf.org/sites/default/files/2026-05/Ariel%20Gakunga_TZ_Kilombero%20Ifakara%20Trip_October%202023-03930.jpg",
-    "timestamp": 1778098496000,
-    "source": "African Wildlife Foundation",
-    "publisher_id": "www.awf.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ENi1BRzNudmc1SWNvZDlxSUJDYXFjQUdzRkJKendYTGpTZHNaWWl2ZGw2TXhHQTMwME9QN0FmOHFUcTU1YTFPWnkycnNkbWJTQUUzR09kdjdndzhPMi15di1yNU01Zw?oc=5",
-    "rssid": "laN170",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tanzania",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.awf.org/news/river-sustains-community",
-    "title": "The River That Sustains a Community",
-    "description": "The River That Sustains a Community  African Wildlife Foundation",
-    "url": "https://www.awf.org/news/river-sustains-community",
-    "image": "https://www.awf.org/sites/default/files/2026-05/Ariel%20Gakunga_TZ_Kilombero%20Ifakara%20Trip_October%202023-03930.jpg",
-    "timestamp": 1778096096000,
-    "source": "African Wildlife Foundation",
-    "publisher_id": "www.awf.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zZXdfVkpmNy1NWVlXeVRDMDhLRTJjUmFfMzBjX1AwOC1vd09kVFZJN1hROXZMTUhRR0xISWwtUDNEZmtBbVJTdWlzbjlIY3ZTRUYwcWxnZFYwUlpEdkE?oc=5",
-    "rssid": "laN170",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tanzania",
-    "likes": 0,
-    "comments": 0
   }
 ]
