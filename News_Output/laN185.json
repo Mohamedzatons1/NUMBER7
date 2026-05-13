@@ -1290,43 +1290,5 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/suarez-spoke-about-a-possible-return-to-uruguay-42825537",
-    "title": "Suárez spoke about a possible return to Uruguay",
-    "description": "Suárez spoke about a possible return to Uruguay  OneFootball",
-    "url": "https://onefootball.com/en/news/suarez-spoke-about-a-possible-return-to-uruguay-42825537",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F42825537%3Fdate=2026-05-06",
-    "timestamp": 1778108052000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkx0Z2dYSFBtYmdyTWY3Yzd2Z0JGSTVBRmNMUW9GNW5BSjl1STF5NUlQS1JHbkpNXzdIU1Y5ajNFei1PVXlnT2U3aUtJZ0F1V244empiVWNwNENOaGJ6TGplMGt1cUFJU1dZdXBLMUt2aUc2eU85X19pdHVvMjFoSXg5UDRuZkotQU9KVzRFeUdnZw?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.wine.co.za/News.aspx?NEWSID=46935&CLIENTID=&SPOTLIGHTID=",
-    "title": "Uruguay declares wine a living culture in landmark policy move",
-    "description": "Uruguay declares wine a living culture in landmark policy move  wine.co.za",
-    "url": "https://news.wine.co.za/News.aspx?NEWSID=46935&CLIENTID=&SPOTLIGHTID=",
-    "image": "http://images.wine.co.za/GetImage.ashx?IMAGEID=369974&ImageType=news&mode=social",
-    "timestamp": 1778104945000,
-    "source": "wine.co.za",
-    "publisher_id": "news.wine.co.za",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Rb2RoWFRCd25DbzJTMWpZRFZ3ZXRmLU5DSXdEVVFraHZvd2Z6MS11Ukxoa1R1R2VVLW92c3pKZDkwMmRvdTVzTGFTUkIyN2hlODhLT1VXMDA0MWMxQ21pRkdEbmtmcUk0TFR1ZS1mMkwtWE5aWnprVQ?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
   }
 ]
