@@ -1404,43 +1404,5 @@
     "extra": "Samoa",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/between_the_lines/119839",
-    "title": "Between the Lines",
-    "description": "Between the Lines  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/between_the_lines/119839",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/239703a6fa0976cddf9462cadd3759cd.jpg",
-    "timestamp": 1778076751000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KbENnbzVmdi1kS0tlTU4zWWs4MF9nWm5PaGRSRGJQUHAzOHp0eTBSMXpGczFtZnpJeGpaX2dMNWhvYnplbGY5SllQYTM5dl9VR0huYlducF93WE5BOTJKWnN0WDUwNGI3OWhxMEp3cw?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://samoaobserver.ws/category/world/8125",
-    "title": "Trump acts to advance Keystone XL, Dakota Access pipelines",
-    "description": "Trump acts to advance Keystone XL, Dakota Access pipelines  Samoa Observer",
-    "url": "https://samoaobserver.ws/category/world/8125",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/a0e90dc728522cace4969a90df332036.jpg",
-    "timestamp": 1778075548000,
-    "source": "Samoa Observer",
-    "publisher_id": "samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50TmsxWWRFbTZ0NV9pSl9jYkdubzNGSkh0eWJXS19FTjJCMEx3RzRvbVhuSG5ZQ1BRaklrM21VRFVJeUlsV1hINUVRemdDd2NvMmZqX2RhSQ?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
   }
 ]
