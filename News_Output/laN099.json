@@ -1043,43 +1043,5 @@
     "extra": "Luxembourg",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.pizzicato.lu/beatrice-rana-is-artist-in-focus-at-the-philharmonie-in-luxembourg/",
-    "title": "Beatrice Rana is Artist in Focus at the Philharmonie in Luxembourg",
-    "description": "Beatrice Rana is Artist in Focus at the Philharmonie in Luxembourg  pizzicato.lu",
-    "url": "https://www.pizzicato.lu/beatrice-rana-is-artist-in-focus-at-the-philharmonie-in-luxembourg/",
-    "image": "https://www.pizzicato.lu/wp-content/uploads/2026/05/Rana.jpg",
-    "timestamp": 1778033560000,
-    "source": "pizzicato.lu",
-    "publisher_id": "www.pizzicato.lu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSktYNVhkUGVnb05ZQWpJMnZCeTFvTy1zRTRmU1VweXM2b1o5dTR0THJrNmJxa05VeWFKQ0V3ZW9EN1hKRTJDZVdMZ2lsMjlTZmpScXM3VkE0eHhOOWZBSkFZSFNsZk5Xb3ZReHlBc2dGNUZ6S2RNQ0JubUxsTlZJNlAtNTVON3lrWGNEVVJmT08wRFpXUEhz?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.deloitte.com/lu/en/services/tax/perspectives/IFRS-quarterly-update-q1-2026.html",
-    "title": "IFRS quarterly update: Key IFRS developments in Q1 2026",
-    "description": "IFRS quarterly update: Key IFRS developments in Q1 2026  Deloitte",
-    "url": "https://www.deloitte.com/lu/en/services/tax/perspectives/IFRS-quarterly-update-q1-2026.html",
-    "image": "https://media.deloitte.com/is/image/deloitte/insight-accounting-advisory:1200-x-627",
-    "timestamp": 1778027881000,
-    "source": "Deloitte",
-    "publisher_id": "www.deloitte.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ21YT3VGaWt4Ul8wcE03aDNRZzdRRFFkdVRLMkNJQTk5THhGcElDYUFfZnBGbHkyTnFNN3NHSWVOd2JmZUViSm5LcHJxZ0dNQmhiM0lyTUZ2YTBBOWI5WWpiVldfWGpkVmlxV2tHUk1LQ3MxNHZCeTlZR0xxYTAyMUlvRjNuTFpkTnZzT0gzSnJNenlWcFE?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
   }
 ]
