@@ -1632,43 +1632,5 @@
     "extra": "Iran",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://13tv.co.il/item/news/politics/security/iran-usa-905137112/",
-    "title": "דיווח: ארה\"ב דורשת מאיראן פירוק מתקני הגרעין והסכמה לפיקוח מלא",
-    "description": "דיווח: ארה\"ב דורשת מאיראן פירוק מתקני הגרעין והסכמה לפיקוח מלא  רשת 13",
-    "url": "https://13tv.co.il/item/news/politics/security/iran-usa-905137112/",
-    "image": "https://media3.reshet.tv/image/upload/t_og_image/v1774445498/uploads/2026/905049637.jpg",
-    "timestamp": 1778128723000,
-    "source": "רשת 13",
-    "publisher_id": "13tv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PM2VpRy1UUllHS3pTZUJWMHZvcE5RWWJ0N191cWEzUnN5OVRiUXZYRldsQ1FWUXY4dXZ4YjlEc3lrX20yUnRyODJOV1hpMVlXZ0Y1T1d5LUhteVB2QjkyMUxFUjljRU1SS3g2RzRVSGEwLVI5?oc=5",
-    "rssid": "laN272",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KYlphOUdZaGFZZ2RqcFE0M283VkRPOElqZnlMWXVVdHFrUUVWLXdOYktjdkJGbUNVOVV3UU9PTWFwOUkzMjExZEZWN3lpM25XTmRpZA?oc=5",
-    "title": "טראמפ משהה את “Project Freedom” במצרי הורמוז לאחר הסלמה מול איראן",
-    "description": "טראמפ משהה את “Project Freedom” במצרי הורמוז לאחר הסלמה מול איראן  Israel Defense",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KYlphOUdZaGFZZ2RqcFE0M283VkRPOElqZnlMWXVVdHFrUUVWLXdOYktjdkJGbUNVOVV3UU9PTWFwOUkzMjExZEZWN3lpM25XTmRpZA?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1778127400000,
-    "source": "Israel Defense",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KYlphOUdZaGFZZ2RqcFE0M283VkRPOElqZnlMWXVVdHFrUUVWLXdOYktjdkJGbUNVOVV3UU9PTWFwOUkzMjExZEZWN3lpM25XTmRpZA?oc=5",
-    "rssid": "laN272",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
   }
 ]
