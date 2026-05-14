@@ -454,43 +454,5 @@
     "extra": "Congo (Republic of the Congo)",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.az/news/36-killed-in-democratic-republic-of-congo-assaults",
-    "title": "36 killed in Democratic Republic of Congo assaults",
-    "description": "36 killed in Democratic Republic of Congo assaults  Latest news from Azerbaijan",
-    "url": "https://news.az/news/36-killed-in-democratic-republic-of-congo-assaults",
-    "image": "https://news.az/photos/2026/05/1778182789.webp",
-    "timestamp": 1778183107000,
-    "source": "Latest news from Azerbaijan",
-    "publisher_id": "news.az",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lWVB4dUdhQi1obHlBRV9PTEEwdnkzR1NDSFVnMGFOZXgxU2sxcWtTT2dnU2Iwa0VUajhoT2NHZ0tqdlMwVjg0dUtjNFlDWFozZllhSnUwdVBqOUJQZUpkM1FCa3lUVGZyeWZwUnItX0RIMWtSc0J0MnFycw?oc=5",
-    "rssid": "laN039",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Congo (Republic of the Congo)",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.az/news/36-killed-in-democratic-republic-of-the-congo-assaults",
-    "title": "36 killed in Democratic Republic of the Congo assaults",
-    "description": "36 killed in Democratic Republic of the Congo assaults  Latest news from Azerbaijan",
-    "url": "https://news.az/news/36-killed-in-democratic-republic-of-the-congo-assaults",
-    "image": "https://news.az/img/logo512.png",
-    "timestamp": 1778183002000,
-    "source": "Latest news from Azerbaijan",
-    "publisher_id": "news.az",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1hhdFViTGMtTjl0RmxYWENEc2RmTUFOemExdWNNV241Ty16Uk5TaU4yNTB4TjR5ckwwUUt6eUh4Qm9wWjJUOHJRZkxpc1Zwa0dIdzNzSVotWDBTbEhUbGZsV1BXSXdaY0ZES3JOSktVZWwyR2VXRTVwMUpxTjloQQ?oc=5",
-    "rssid": "laN039",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Congo (Republic of the Congo)",
-    "likes": 0,
-    "comments": 0
   }
 ]

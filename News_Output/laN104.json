@@ -739,43 +739,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/articles/civilians-lynched-mali-witch-hunt-194058327.html",
-    "title": "Civilians lynched in Mali witch hunt after jihadist, rebel attacks",
-    "description": "Civilians lynched in Mali witch hunt after jihadist, rebel attacks  Yahoo",
-    "url": "https://www.yahoo.com/news/articles/civilians-lynched-mali-witch-hunt-194058327.html",
-    "image": "https://s.yimg.com/os/en/afp.com/d33ee08a11857ade63d27525422fb52e",
-    "timestamp": 1778182858000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamd1Y2ppS0xtUHBlU0ItdzFKN0hSbFJ5aXNxWmpmSlBLT0dncmpkYVpEdjhnUmVMdlBVV1lNa2tiSWwydUJ1ZEV0U2wyRVRlVnVHUHFZb0dXQ2xHLXp2NUtfMTlqYl8wRlhzcUctS2R0bjhXc0d6RXZ4WGxXTDdDVjNNQ1NVc21CS25XUw?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kitco.com/news/off-the-wire/2026-05-07/barrick-contractor-exit-mali-lay-more-600-people",
-    "title": "Barrick contractor to exit Mali, lay off more than 600 people",
-    "description": "Barrick contractor to exit Mali, lay off more than 600 people  KITCO",
-    "url": "https://www.kitco.com/news/off-the-wire/2026-05-07/barrick-contractor-exit-mali-lay-more-600-people",
-    "image": "https://image-api.prod.kitco.com/image/0425babb-d307-4638-8e13-e6c57bd60144.png?top=80&left=0&width=1536&height=864&scale_width=1920&token=7006797dd77142bdbee04a47230f7e662ab783446806a690c12c1f3d0650f59f",
-    "timestamp": 1778178558000,
-    "source": "KITCO",
-    "publisher_id": "www.kitco.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjMySjlKUkZWeTZEV19YX1FGLXJvVXdDU0dUSmxXQUFMSWNuZ0hRNnVvajFWU2k3WmluODJjaThmT2s1ckE2MWJHcTFsUFk5YkFhYVVRSGpjVFlNbUR5dWdicWIyMk5RMEtEUTNsZXRFNEhDZWtkT0M3N1dLRHR3RGJqS3AwNUJScGxGVklYcC1WdXUxdE1iRklId195SjdU?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]
