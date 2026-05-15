@@ -1233,43 +1233,5 @@
     "extra": "El Salvador",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/match/2682122",
-    "title": "Alianza vs Águila | Primera Division de El Salvador | “Live scores” + “Preview”",
-    "description": "Alianza vs Águila | Primera Division de El Salvador | “Live scores” + “Preview”  OneFootball",
-    "url": "https://onefootball.com/en/match/2682122",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fv2%2Fen%2Fmatch%2F2682122%2F2726%3Fvariable=0&utcOffset=-0700",
-    "timestamp": 1778270289000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZTDdsSUNwSXZ6bWpSZnJDQWNobWZBdWVqc1kzcWZxaGUzZVNOQlhkeXl1cHpPRUgyTFRldjZNOWh3S3NJdm0wcUQxWTdLd2F1dEE?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.pbs.org/wgbh/frontline/article/salvadoran-news-outlet-el-faro-bukele-frozen-assets/",
-    "title": "‘Trying to Silence Us’: Salvadoran News Outlet El Faro Says Bukele Government Has Frozen Some Assets",
-    "description": "‘Trying to Silence Us’: Salvadoran News Outlet El Faro Says Bukele Government Has Frozen Some Assets  PBS",
-    "url": "https://www.pbs.org/wgbh/frontline/article/salvadoran-news-outlet-el-faro-bukele-frozen-assets/",
-    "image": "https://www.pbs.org/wgbh/frontline/media/uploads/2026/05/carlos-dada-carlos-martinez-oscar-martinez-el-faro-2.jpg",
-    "timestamp": 1778270246000,
-    "source": "PBS",
-    "publisher_id": "www.pbs.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcE0wSGhCMjFQUWpMUlFjanJiODVkeTBmMGluWlk3alFuRnkyUERCbnZ4d1ppOEpueDJXWFBUMDlfOEtMaEp5R0N5OGZqd0dTclZEbGxNZU9lc1JvU3RpeW1OZ0wyYjdwcG9QaE1NNlY1M2xRSnRMUS0zeUdFMk1DOFhQZXMtYzMzQXl1VEFrelJMYm50cEJzUjJEcw?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
   }
 ]
