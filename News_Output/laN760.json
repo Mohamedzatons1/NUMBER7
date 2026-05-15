@@ -454,43 +454,5 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/15085aq-chernobyl-caught-fire-again?language=lv",
-    "title": "Chernobyl Caught Fire Again",
-    "description": "Chernobyl Caught Fire Again  Inbox.lv",
-    "url": "https://news.inbox.lv/15085aq-chernobyl-caught-fire-again?language=lv",
-    "image": "https://news.inbox.eu/w/img/0e/e3/0ee38f5e7257d6c774.webp",
-    "timestamp": 1778251993000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZZXQ0U1A2X3hxY2xnR1ZBYWlneEtlcS1vWWFtZzZrWHpDMjZZNlBBdjFNcVA4SUVXYmlGaUkzaGlMLXlxbkp2T0RkbVFWMV9BZmxvb09tUXV1ZmIyUy1pa1NMQjJJdDNHbXhOZTZnYndRbDVnM2xBUw?oc=5",
-    "rssid": "laN760",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150854a-russia-loses-ground-but-not-the-war-in-ukraine?language=lv",
-    "title": "Russia loses ground – but not the war – in Ukraine",
-    "description": "Russia loses ground – but not the war – in Ukraine  Inbox.lv",
-    "url": "https://news.inbox.lv/150854a-russia-loses-ground-but-not-the-war-in-ukraine?language=lv",
-    "image": "https://news.inbox.eu/w/img/b8/03/b8034850ba47d306a4.jpg",
-    "timestamp": 1778250160000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWUydlZtNS1UX05hN2V3MFYzRDkySU1RR0RvN09jdlE5dkc0Q3I5dTAyM3A2eUlSNmx0UVBLUEg0Y3ZBOEV1UndjbXdKd0FNUl9pZ0FUUC11TVpPTjg3UlJROTRjN0RObzMyekN0cjRtT1ZWUFU4bTdBSHJrdEF6ZnctR0RFdEk5cUVvbnhiTHI4Zw?oc=5",
-    "rssid": "laN760",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
   }
 ]
