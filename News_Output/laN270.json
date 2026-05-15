@@ -701,43 +701,5 @@
     "extra": "India",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/vimc-va-doanh-nghiep-an-do-bat-tay-mo-rong-ket-noi-chuoi-cung-ung",
-    "title": "VIMC ועסקים הודיים מאחדים כוחות כדי להרחיב את הקישוריות של שרשרת האספקה.",
-    "description": "VIMC ועסקים הודיים מאחדים כוחות כדי להרחיב את הקישוריות של שרשרת האספקה.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/vimc-va-doanh-nghiep-an-do-bat-tay-mo-rong-ket-noi-chuoi-cung-ung",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/05/08/1778228951004_ky-ket-vn_an-do-7-5-26.png",
-    "timestamp": 1778229643000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMFZtbWphRGozZ0tvNFVrem1wa0c4ZEhxbGJqUGQ4S3VjR2NjdHJVQ3lQbmtzUVhVM0hqZFViSkRWUzBSZTdzaW52dXNXeDRnSzl6VzNvbzJDWGJLUlNnVVVFakQxMkVYcGNCdjZvWjQ4aktOYlEyYWs1N1pqWUNoZWE5RFNuckpadm8wUW9qcThzVXdidlE?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.mako.co.il/hix-feed/2026-m05_w02/shorts-a8604914c860e91027.htm",
-    "title": "הודו: צנחן צנח בלי מצנח",
-    "description": "הודו: צנחן צנח בלי מצנח  mako",
-    "url": "https://www.mako.co.il/hix-feed/2026-m05_w02/shorts-a8604914c860e91027.htm",
-    "image": "https://img.mako.co.il/2026/05/08/M_HIX_7640_08052026075229_1400_1778226832975_H.jpg",
-    "timestamp": 1778226825000,
-    "source": "mako",
-    "publisher_id": "www.mako.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ejVaTU9lRUVRNkhFcGlsVVhMQXV5eFRJMTJGLThvY1l1TXZfVll0WDFRMURVcUhLY3p4aVJLdjlYdWNsTnA4endaSkFYMnlsa3k4ZG5ueEhDUkV1MWtTX083S3dVN1F2SWpRcllSdjhBS1N0YUFHNTFKaHVsakE?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
   }
 ]

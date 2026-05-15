@@ -568,43 +568,5 @@
     "extra": "Madagascar",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/travel/madagascar-isalo-national-park.html",
-    "title": "Wild Swimming and Stargazing in Madagascar’s Grand Canyon",
-    "description": "Wild Swimming and Stargazing in Madagascar’s Grand Canyon  The New York Times",
-    "url": "https://www.nytimes.com/2026/05/08/travel/madagascar-isalo-national-park.html",
-    "image": "https://static01.nyt.com/images/2026/05/01/multimedia/00trav-madagascar-07-hqbf/00trav-madagascar-07-hqbf-facebookJumbo.jpg",
-    "timestamp": 1778230825000,
-    "source": "The New York Times",
-    "publisher_id": "www.nytimes.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcFFVTWIyZ0Nfb3pBNTQ2TW1rdENwM3V4TWpOUWpUQlF0N2wzMVpVTVVGRHhOR3F1RXkxMkVuYWtibkVBTGN3QTA3aUozNlZxZXV5SUE2UDRsTkZrYnc0d2RReGt1aFlhdDV3cklzSG1rZzBDaThERlRTb0hTYlZpYkJLZw?oc=5",
-    "rssid": "laN100",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Madagascar",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://mg.usembassy.gov/u-s-stands-with-madagascar-against-monkeypox/",
-    "title": "U.S. Stands with Madagascar against monkeypox",
-    "description": "U.S. Stands with Madagascar against monkeypox  U.S. Embassy in Madagascar (.gov)",
-    "url": "https://mg.usembassy.gov/u-s-stands-with-madagascar-against-monkeypox/",
-    "image": "https://mg.usembassy.gov/wp-content/uploads/sites/47/2026/05/2026-CDC-Kinzer.png",
-    "timestamp": 1778225802000,
-    "source": "U.S. Embassy in Madagascar (.gov)",
-    "publisher_id": "mg.usembassy.gov",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01MzNPZFF5bVlWcE5NSVNwM1BYc1kxQUdZam1YQ0c5aUR3NXlkd0xHYkpyWWtZcThjWWNEVFNBUmNGcF9BbS1kdFU1WENSaEp1NGcyOXZZWTBoaEFnTGJtZzNlbDM1REdGRzVIbE9TVlZIQl94Yl94MVhB?oc=5",
-    "rssid": "laN100",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Madagascar",
-    "likes": 0,
-    "comments": 0
   }
 ]
