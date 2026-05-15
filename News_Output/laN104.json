@@ -606,43 +606,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5yeg0rkdkxo",
-    "title": "Dozens killed in jihadist attacks on villages in central Mali",
-    "description": "Dozens killed in jihadist attacks on villages in central Mali  BBC",
-    "url": "https://www.bbc.com/news/articles/c5yeg0rkdkxo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/afb3/live/ea70d710-4aac-11f1-abbe-696bdf3a3d1b.jpg",
-    "timestamp": 1778224549000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9od1JVMnpsSmF0c3BqRFlUOVRXOXVBN2Z0MEp0V09jN0ZELVpxTm5ndk9WVS0wby1kSC11UTF4WFNlSnNqSkhJbHo3T0lxcmszWkhhbU5OQ2owUQ?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.aa.com.tr/en/africa/mali-says-april-25-attacks-aimed-to-decapitate-leadership-vows-no-talks-with-armed-groups/3930840",
-    "title": "Mali says April 25 attacks aimed to ‘decapitate’ leadership, vows no talks with armed groups",
-    "description": "Mali says April 25 attacks aimed to ‘decapitate’ leadership, vows no talks with armed groups  Anadolu Ajansı",
-    "url": "https://www.aa.com.tr/en/africa/mali-says-april-25-attacks-aimed-to-decapitate-leadership-vows-no-talks-with-armed-groups/3930840",
-    "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/05/08/thumbs_b_c_ff66adfb6571fb9eefdf1e99d4b8e57d.jpg",
-    "timestamp": 1778212320000,
-    "source": "Anadolu Ajansı",
-    "publisher_id": "www.aa.com.tr",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYlIwRTJXM3NfaEJqdnQtM0JvS2pjTndERUZibzdnN2M3QW45blhJcndHSWFhVHNrWUo2V0NkYXlyOXdvTE5nWDJ5SXN6X2dxcjFrVXZvVHZORHZsYTFFZjY2VWJyUnFGVjBaM2Rja2pzRjJ5UzljUTNnSHBSU1dnS0o3UENrZmhRcWZHSmtDdXBRUDI4RzdBM2lrUmI0dVBIRG9tOHNtOUR4aTgyVGR5dWJlTkduRTFYNTYzWXR5LS1tbzBFRTlXaw?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]
