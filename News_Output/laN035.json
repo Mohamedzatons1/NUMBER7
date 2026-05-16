@@ -1974,43 +1974,5 @@
     "extra": "Chile",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/in-chile-tricolor-face-ohiggins-in-the-conmebol-sul-americana-42826180",
-    "title": "In Chile, Tricolor face O’Higgins in the CONMEBOL Sul-Americana",
-    "description": "In Chile, Tricolor face O’Higgins in the CONMEBOL Sul-Americana  OneFootball",
-    "url": "https://onefootball.com/en/news/in-chile-tricolor-face-ohiggins-in-the-conmebol-sul-americana-42826180",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F42826180%3Fdate=2026-05-09",
-    "timestamp": 1778352639000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQelEwRW5KYkx1VmVkTl9KSjJKWHlKb1NseHpWNUZna1JaSTNtaXZBYnFmN3VDMk4tNG1jbFY0LVAwdDZ3V0wxNUNaLVZOZnJQOHlvY0JhMmRiOGhZZ1M0R2l2LWpiUjNoNDVEOGRmbjhIdFJNY1NRYkxkajN6UzBDQlNvS21PU2cxUE1VYldzZmtvNmRfZnNma2s5dTdqVG11Z0RzMg?oc=5",
-    "rssid": "laN035",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Chile",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bloomberg.com/news/articles/2026-05-09/chile-finance-chief-sees-2-growth-amid-reform-push-this-year",
-    "title": "Chile Finance Head Sees 2% Growth Amid Reform Push This Year",
-    "description": "Chile Finance Head Sees 2% Growth Amid Reform Push This Year  Bloomberg.com",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-09/chile-finance-chief-sees-2-growth-amid-reform-push-this-year",
-    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyD20NGuQScU/v0/1200x800.jpg",
-    "timestamp": 1778349345000,
-    "source": "Bloomberg.com",
-    "publisher_id": "www.bloomberg.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ19VYlpGc01FVHotaUR4U01EYjVIWnNQR2RHcko3QTZxUFNjbE1hWFVlcnZ4UmpOWUtpZlI1emY4T3h0TXZ4UEdOUjZDZUhrSnNwanhaVzBjaHhBQXRnRHgxWkItdEVaSlFNUDNZRUZHYm80VHRLLXgxYjYzSWozMm5IQ0VUSklldUFKTjBiU2Y1Q0h3R2xnbEt3ZXYwYlQ3OEF3QWVIZmtUN3ZiRFo3MQ?oc=5",
-    "rssid": "laN035",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Chile",
-    "likes": 0,
-    "comments": 0
   }
 ]
