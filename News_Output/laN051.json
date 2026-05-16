@@ -1366,24 +1366,5 @@
     "extra": "Ecuador",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/chile-vs-ecuador-42839020",
-    "title": "Chile vs Ecuador",
-    "description": "Chile vs Ecuador  OneFootball",
-    "url": "https://onefootball.com/en/news/chile-vs-ecuador-42839020",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F42839020%3Fdate=2026-05-09",
-    "timestamp": 1778337370000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kRTFkR0w5NVl2dGxYbmZ1X2pYd09FTVFQSGxMMUpldVo5R1lsQ1lNTmdTdkF4OUZwQUU5MVI4S2o5VTZuQzF0NWNMaXBvQXdXRW0wQjhEaUZYNUdHTFpOa0NXYlRrQVJp?oc=5",
-    "rssid": "laN051",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ecuador",
-    "likes": 0,
-    "comments": 0
   }
 ]

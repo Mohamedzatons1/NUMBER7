@@ -17,43 +17,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.tvnet.lv/8467838/ungarijas-parlaments-ievel-magaru-premjerministra-amata",
-    "title": "Ungārijas parlaments ievēl Maģaru premjerministra amatā",
-    "description": "Ungārijas parlaments ievēl Maģaru premjerministra amatā  TVNET",
-    "url": "https://www.tvnet.lv/8467838/ungarijas-parlaments-ievel-magaru-premjerministra-amata",
-    "image": "https://f8.pmo.ee/T62lcDgcTy6OcRkohbr62VJmHG4=/1200x630/filters:focal(2731x536:7635x3936):watermark(https://f.pmo.ee//logos/4133/bb989514d16b88b940b51f02e07642d0.png,-2p,-2p,0,18,none):format(webp)/nginx/o/2026/05/09/17623227t1h905e.jpg",
-    "timestamp": 1778335504000,
-    "source": "TVNET",
-    "publisher_id": "www.tvnet.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUpJQmFYZGMzQVpxdWJzeXU3M3pteDloa3JOZ3dVSy1BSUl5cTdkR210X212YVJfU19qSjhKVER5dUs3OVVoM2g2aU5vOVAxMlhrOWYyT1NYMUFDeVhwZEZ2a3l6T2JzbUc4bDVRZFVJZFZkRi00Rkx3Y0dvXzFtVE42c1NmQnIxVWM2SQ?oc=5",
-    "rssid": "laN654",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/15089ra-peter-magyar-sworn-in-as-hungary-s-prime-minister?language=lv",
-    "title": "Peter Magyar sworn in as Hungary’s prime minister",
-    "description": "Peter Magyar sworn in as Hungary’s prime minister  Inbox.lv",
-    "url": "https://news.inbox.lv/15089ra-peter-magyar-sworn-in-as-hungary-s-prime-minister?language=lv",
-    "image": "https://news.inbox.eu/w/img/63/67/63678ee0ed05ac35a6.jpg",
-    "timestamp": 1778335320000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2pTM1drcEE0bFVNZFRUWktwZmUwRGpHcVlkSVA4bm43U1FkT0VzZk51cVZiNFhWaE5KNDYyX1pFd2lkNVM2eW55VHFiLXpfWEd2cldMbGtfYTJQR0QzXzhKWG1JdjZkNzMxUE43RGk4SUpXQ2o4TjBWdmNCVTVHNDNweEgwZnhHNlA0QzhBRzJkbWxqQUE?oc=5",
-    "rssid": "laN654",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
