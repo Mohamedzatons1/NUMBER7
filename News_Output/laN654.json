@@ -55,43 +55,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/15088o0-magyar-to-succeed-orban-as-hungary-s-new-prime-minister?language=lv",
-    "title": "Magyar to succeed Orban as Hungary's new prime minister",
-    "description": "Magyar to succeed Orban as Hungary's new prime minister  Inbox.lv",
-    "url": "https://news.inbox.lv/15088o0-magyar-to-succeed-orban-as-hungary-s-new-prime-minister?language=lv",
-    "image": "https://news.inbox.eu/w/img/8e/ab/8eab573b88b4054175.jpg",
-    "timestamp": 1778322335000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlBoTHA1WWwwQW1wRjhzb21FbW9EbTN0bnVKMHJoWmFsNy1kQkVaRXZuMUdLSjVDR3JiVHEyR05aVmltUExwZktlQnQ2Wkh2SFZyQlE4cDAxdU9BYi1ScDZBcWpieFRDNHhoZU45dDNKNUR1SmJrdXlveTMzZ0RRQVJPMEtpdmdjdC1JUjQ1N2gxbmprZ3djUG5CYlVJdw?oc=5",
-    "rssid": "laN654",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/15088l0-hungary-s-magyar-set-to-be-sworn-in-as-new-prime-minister?language=lv",
-    "title": "Hungary’s Magyar set to be sworn in as new prime minister",
-    "description": "Hungary’s Magyar set to be sworn in as new prime minister  Inbox.lv",
-    "url": "https://news.inbox.lv/15088l0-hungary-s-magyar-set-to-be-sworn-in-as-new-prime-minister?language=lv",
-    "image": "https://news.inbox.eu/w/img/6b/b6/6bb6654fb64c0ce491.jpg",
-    "timestamp": 1778321086000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1VtSW9oRHh2NWpkUURKTFM0NEFMTmlwdFlCSGJjUFhERzdXV213NC13OXdmbzl1b3llRGZxbWduanh2U3hzcHRIN0pvQUx2UWlObU40ZC1IWjAtUnlYcFFPWXFtMklTbkZkVC0wc01WVXFvd09sbFZmcGxPRzBwdkVYdzQxa2stQ0tteUJETHRnTFJQLUpKZTdKdThhUkJW?oc=5",
-    "rssid": "laN654",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
