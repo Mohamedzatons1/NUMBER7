@@ -1195,43 +1195,5 @@
     "extra": "Libya",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://nz.news.yahoo.com/libya-launches-major-security-operation-132515913.html",
-    "title": "Libya launches major security operation in Zawiya after clashes near key oil refinery",
-    "description": "Libya launches major security operation in Zawiya after clashes near key oil refinery  Yahoo News New Zealand",
-    "url": "https://nz.news.yahoo.com/libya-launches-major-security-operation-132515913.html",
-    "image": "https://s.yimg.com/os/en/euronews_uk_articles_973/10bd936d1d85990d80ad914081b82f58",
-    "timestamp": 1778333115000,
-    "source": "Yahoo News New Zealand",
-    "publisher_id": "nz.news.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOV9HNnJEcm9EQXVmeDJUd1lrTEJjdnpnWi02T3I0RXBCeVVSczhpeGxxODVCbVpBMlVxVWdNV2hiekpsNGZfMDR6WlExWEZIbGx1Q0NzNzBrZi1xZnlpRUVEczR2QnQybmlLVW9RVHpjRGZ5QThiZ2dfZXFHUUpkNzRqTEhzVUE?oc=5",
-    "rssid": "laN096",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Libya",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.euronews.com/2026/05/09/libya-launches-major-security-operation-in-zawiya-after-clashes-near-key-oil-refinery",
-    "title": "Zawiya security operation follows refinery clashes",
-    "description": "Zawiya security operation follows refinery clashes  Euronews.com",
-    "url": "https://www.euronews.com/2026/05/09/libya-launches-major-security-operation-in-zawiya-after-clashes-near-key-oil-refinery",
-    "image": "https://images.euronews.com/articles/stories/09/75/21/11/1200x675_cmsv2_33070899-bd70-50ef-85bb-1dce15b3788c-9752111.jpg",
-    "timestamp": 1778333115000,
-    "source": "Euronews.com",
-    "publisher_id": "www.euronews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOejF4QU1DNC04bWZGNzBwTlFqRVctLUtrNlhrU1cyMG52aEp1YWI3anl2M0VGSUZxUGRRUDh6ekcwbmFGZkF1RWMtNW41RG5OSkpjSUo3bTY5cThIenJxVDBKbFB5UjMtdi1YTm9ndGZ0VHhTdkRNOGJpRS16bmNDMVgwVFU0cDNBVXk3TGE3NXAwcE1UZXJubnBJalkwSlVudFZycTkzNW1vXzI3Zm8tQmNocW4tY2wyaWVqN0Z3?oc=5",
-    "rssid": "laN096",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Libya",
-    "likes": 0,
-    "comments": 0
   }
 ]
