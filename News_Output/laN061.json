@@ -3437,43 +3437,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c87qd49gjyro",
-    "title": "We moved our parents to France to run an English-themed pub",
-    "description": "We moved our parents to France to run an English-themed pub  BBC",
-    "url": "https://www.bbc.com/news/articles/c87qd49gjyro",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5066/live/8ddeb790-4a18-11f1-a7ce-b934bcb15ff4.jpg",
-    "timestamp": 1778307497000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WblFlay1rd3gxc2NvYUVZbFN1ZEkzMXl3akVlOEhRQVkza29LTGw2TGFvZkt0a1NKVHo4QlBSZHpfbURtRDRfQXN1M3lpX3dySU9NT1NIUWxvZw?oc=5",
-    "rssid": "laN061",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/may/09/france-has-a-record-number-of-presidential-hopefuls-will-any-of-them-be-able-to-hold-back-the-far-right",
-    "title": "France has a record number of presidential hopefuls. Will any of them be able to hold back the far right?",
-    "description": "France has a record number of presidential hopefuls. Will any of them be able to hold back the far right?  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/may/09/france-has-a-record-number-of-presidential-hopefuls-will-any-of-them-be-able-to-hold-back-the-far-right",
-    "image": "https://i.guim.co.uk/img/media/7e4067dc524335ed4b7a1a61b69665f4c0a6b6a4/996_0_4980_3984/master/4980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d347a3e2b59ead53fdfc93d43d1067bc",
-    "timestamp": 1778302800000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa3pVV1hmTlZLdE40VWpqRjNvRGVLZ1QyNTNjWVV5anY0blBoX3ZFSEtkVlhIYTZKeHVxTm9qQWkyTzZScExDUXJoaloxQ0djQ2x2M1Zlek1yM05xaFZORnNsVTBrQ21yVUZZNElYNVExdVFiTzRoUHVnbGZPVWwyajNCOW1Db1Y1OUFMcE8xMGY1RzlNUzRlWWE0WkRVTUxEeGF2ZERJcHRQRUlla3Fxd1lLbzdkRUczQ08teTFPN1hreU5nVHEwR2FXcUVHanYzWEVOSXdlVUVNc2dnMEVzYmV1RQ?oc=5",
-    "rssid": "laN061",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
