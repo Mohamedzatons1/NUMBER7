@@ -207,24 +207,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/001-D-518540-00.html",
-    "title": "פוטין מעריך כי המלחמה באוקראינה קרובה לסיומה בשל הפסקת האש",
-    "description": "פוטין מעריך כי המלחמה באוקראינה קרובה לסיומה בשל הפסקת האש  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/001-D-518540-00.html",
-    "image": "https://media.news1.co.il/thumbs/480/NEWSY204bbe01f791f44b12ab15cb7ff2f2fdd2.jpg",
-    "timestamp": 1778396585000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsOGppU20wN0haYTA2SlBwSXhrLUR4bWRyeHRtV1RVN3pIaVBubXRGbEZFN3dXMXBraWRYblJFNDBLWk10Y2dkU0o5eU5Lb1FyOXFqOHV5cktHTk1kV1NmVGZn?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
