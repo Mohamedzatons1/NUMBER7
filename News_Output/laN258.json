@@ -416,24 +416,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bizportal.co.il/globalmarkets/news/article/20031742",
-    "title": "גרמניה מחפשת טילים אמריקאיים - ומגלה מחדש את התלות בוושינגטון",
-    "description": "גרמניה מחפשת טילים אמריקאיים - ומגלה מחדש את התלות בוושינגטון  ביזפורטל",
-    "url": "https://www.bizportal.co.il/globalmarkets/news/article/20031742",
-    "image": "https://res.cloudinary.com/bizportal/image/upload/f_auto,q_auto/giflib/news/rsPhoto/sz_295/rsz_870_420_ffxx.jpg",
-    "timestamp": 1778437680000,
-    "source": "ביזפורטל",
-    "publisher_id": "www.bizportal.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84cms0WUVDWWN5VVA4bFhhck1iY0lUUFlMTkZrUU54SmNtc0hwT01zVWVpaDVBRnNDcjZXeEtMN0cxVlZxa1k3ZkdmVldreEp2OUF5a0Q4Rm5QRmdwdTZ1dEVtTGNQTjdjM2dGaXZUZWQ?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
