@@ -302,43 +302,5 @@
     "extra": "Andorra",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.transfermarkt.co.uk/ticker/begegnung/live/4647734",
-    "title": "Match Centre",
-    "description": "Match Centre  Transfermarkt",
-    "url": "https://www.transfermarkt.co.uk/ticker/begegnung/live/4647734",
-    "image": "https://tmssl.akamaized.net/images/tm_logo.png",
-    "timestamp": 1778410924000,
-    "source": "Transfermarkt",
-    "publisher_id": "www.transfermarkt.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sNEpMcTNIc0RrMC1qbEFjd2l0ekQ4NkVYUHN6TzltakY4Sk5HWlVvM05Oemg0Sm5NVHpnM3BHZGh6QkVQU1M2Y2lRa3ZuVEpWTVhNMmVXVVFIZ3RfSm1JcVdNaGdnTkNWd25BNzR3?oc=5",
-    "rssid": "laN004",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Andorra",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.modernetdigital.cat/en/articulo/travel/routes-of-andorra-are-perfect-for-walking-it-is-good-to-know-what-to-do-bru-appears/20260510120206012440.html",
-    "title": "Andorra’s trails are perfect for walking, but it’s important to know what to do if a brown bear appears",
-    "description": "Andorra’s trails are perfect for walking, but it’s important to know what to do if a brown bear appears  modernetdigital.cat",
-    "url": "https://www.modernetdigital.cat/en/articulo/travel/routes-of-andorra-are-perfect-for-walking-it-is-good-to-know-what-to-do-bru-appears/20260510120206012440.html",
-    "image": "https://www.modernetdigital.cat/media/modernetdigital/images/2026/05/09/2026050911485922829.jpg",
-    "timestamp": 1778407326000,
-    "source": "modernetdigital.cat",
-    "publisher_id": "www.modernetdigital.cat",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU190dWRESjRzMWtnZzdUYW5lSkR2cHlIdVdpOHNmbGNCcTc0LUYzZWRmNGR3czJUcGFLSDA3WDZYUVQ0a1Q4RFRtQWFlMDcyOWM5T1hRS3BLcEhyczRKQWpoUGY2eFpiZTNhYlczZkQxZVA5TE83czVYb2VsZXlNdEVvOVdlSm92SWJsYy1LUlhGTXJ6a2RHenFmRER1SmpBWmdvUkRwNjVoNHg0YU1JQ1dNZU0xTGQyVVpJNGt2aVhSS3JXMXdWMnlfQkdBeEtoalpwT0FJYmFkNHAxMHdpdDk4QTFYOHdFMzdvZmFjMExwZw?oc=5",
-    "rssid": "laN004",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Andorra",
-    "likes": 0,
-    "comments": 0
   }
 ]
