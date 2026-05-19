@@ -17,5 +17,24 @@
     "extra": "Sweden",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zZE9kRkpBdXFwWm4tNms4NmxHMXNqSURONWI2SEs4elZETEFpNW5HM3U2QmhVeGlyTFZmNHkyMVF6eThjWGp0eXVFU1ZndDBJNEM3ZnhfbGU1eXBQZjFYdXZEbXVYcXZla2xBS1pBV0laTkJjTzRQQVlEVlM?oc=5",
+    "title": "LETA",
+    "description": "LETA  LETA",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zZE9kRkpBdXFwWm4tNms4NmxHMXNqSURONWI2SEs4elZETEFpNW5HM3U2QmhVeGlyTFZmNHkyMVF6eThjWGp0eXVFU1ZndDBJNEM3ZnhfbGU1eXBQZjFYdXZEbXVYcXZla2xBS1pBV0laTkJjTzRQQVlEVlM?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1778959332000,
+    "source": "LETA",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zZE9kRkpBdXFwWm4tNms4NmxHMXNqSURONWI2SEs4elZETEFpNW5HM3U2QmhVeGlyTFZmNHkyMVF6eThjWGp0eXVFU1ZndDBJNEM3ZnhfbGU1eXBQZjFYdXZEbXVYcXZla2xBS1pBV0laTkJjTzRQQVlEVlM?oc=5",
+    "rssid": "laN938",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Sweden",
+    "likes": 0,
+    "comments": 0
   }
 ]
