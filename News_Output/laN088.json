@@ -112,5 +112,24 @@
     "extra": "Kiribati",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.nec.com/en/press/202605/global_20260515_02.html",
+    "title": "NEC completes construction of approximately 2,250 km EMCS submarine cable linking Pacific island nations",
+    "description": "NEC completes construction of approximately 2,250 km EMCS submarine cable linking Pacific island nations  nec.com",
+    "url": "https://www.nec.com/en/press/202605/global_20260515_02.html",
+    "image": "https://www.nec.com/en/press/202605/images/1502_ogp.jpg",
+    "timestamp": 1778780886000,
+    "source": "nec.com",
+    "publisher_id": "www.nec.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HTE96SHhLb0V5V2V6eUNSUEJFdEJhNXVkUG1DYlFNNS1iVlFTVWd0MXUwYkxKR1gyZ0JpLWNwWlB0TVVVUWJEN3EyaFlvTVVWb2xhcDJORmI2QXhxMEhZZEhMVGc3SWZFdG1R?oc=5",
+    "rssid": "laN088",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "Kiribati",
+    "likes": 0,
+    "comments": 0
   }
 ]

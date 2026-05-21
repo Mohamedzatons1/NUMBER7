@@ -55,24 +55,5 @@
     "extra": "Netherlands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.inn.co.il/news/696881",
-    "title": "מה עושה יהודי בקולנוע הולנדי?",
-    "description": "מה עושה יהודי בקולנוע הולנדי?  ערוץ 7",
-    "url": "https://www.inn.co.il/news/696881",
-    "image": "https://2.a7.org/files/pictures/000/1107428.jpg",
-    "timestamp": 1778761440000,
-    "source": "ערוץ 7",
-    "publisher_id": "www.inn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZa05aNndzOVdHUUZNeEdXcWtIejZfNHdJS2ZYS1NhbFg1M05WRnB1VTZLZ0hNcFNINmZScDRYeGgzNlFubTZ2Sw?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
   }
 ]
