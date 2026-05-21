@@ -1271,43 +1271,5 @@
     "extra": "Bahamas",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.usatoday.com/story/news/nation/2026/05/13/plane-crash-florida-rescue-coast-guard/90058048007/",
-    "title": "Plane crashes off Florida coast, 11 rescued from ocean",
-    "description": "Plane crashes off Florida coast, 11 rescued from ocean  USA Today",
-    "url": "https://www.usatoday.com/story/news/nation/2026/05/13/plane-crash-florida-rescue-coast-guard/90058048007/",
-    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/13/USAT/90058202007-usatsi-28924132.jpg?crop=8191,4608,x0,y273&width=3200&height=1801&format=pjpg&auto=webp",
-    "timestamp": 1778721840000,
-    "source": "USA Today",
-    "publisher_id": "www.usatoday.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcExuNzNHTWxVNlIxLUc1ZHRNMnBlbjBpLWlSbmpkUXR6ZHRnUHJPNk9NZEprZ3hQRzhHTnc3Rkk5dE52V2JxS1p2dXVnVGdSZDR3NmI0SExoMHlLX2FGcEJyT0RmT1lWeGVnRm9PbzZtVTBTM1FQRk04UFN6Qk1HN3V2bmZZQ2E0dTBjeXZUYVhHcjNwdC1QZlJRTW1BVkdsYXZRNnNTTjY?oc=5",
-    "rssid": "laN012",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahamas",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.the-independent.com/news/world/americas/florida-plane-crash-rescue-bahamas-b2976234.html",
-    "title": "‘Miraculous’ survival after plane crash leaves 11 stranded off Florida coast",
-    "description": "‘Miraculous’ survival after plane crash leaves 11 stranded off Florida coast  the-independent.com",
-    "url": "https://www.the-independent.com/news/world/americas/florida-plane-crash-rescue-bahamas-b2976234.html",
-    "image": "https://static.the-independent.com/2026/05/14/0/34/AP26133781674235.jpg?width=1200&height=800&crop=1200:800",
-    "timestamp": 1778717940000,
-    "source": "the-independent.com",
-    "publisher_id": "www.the-independent.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3lHTnFwTzNCZnczaG43SVRMOU5BSjFJQUVndVpLZUIxTURfeUtaay1xOUUtR244cHFaTWtKTHZaY0tJTWxDSzliMmZYNlFMc1ItUDBTZ2w0bmpsSVV3VER1MHFudUhPaGxJYVJwNWNPYmQyN0JXbHlQVFdSUDNpVzQtVXdpTkVNR25FSENoZEp1N0RsMlJTOW5FSUtTSUJOcGc?oc=5",
-    "rssid": "laN012",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahamas",
-    "likes": 0,
-    "comments": 0
   }
 ]
