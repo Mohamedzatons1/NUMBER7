@@ -74,43 +74,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/15098pk-lebanon-israel-ceasefire-extended-by-45-days-says-us?language=lt",
-    "title": "Lebanon–Israel ceasefire extended by 45 days, says US",
-    "description": "Lebanon–Israel ceasefire extended by 45 days, says US  Inbox.lv",
-    "url": "https://news.inbox.lv/15098pk-lebanon-israel-ceasefire-extended-by-45-days-says-us?language=lt",
-    "image": "https://news.inbox.eu/w/img/03/62/03622da4ff1e838e32.jpg",
-    "timestamp": 1778871984000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnRFVHI4WTVsLUdBd19qb0lPZE9hQ1NpdU9pNEFPcWpnZEpHZXIwb3M1RFB3MllxWjNBSVFaX2x4SjlISVhITHJhaDB1eVVTRUROSXprN2tNZFRSUmN6bFBPUHNaWGFfbzMwRGFjNXRtaEprZzFtU2xfTzF1VWNkNTlZMkdWWmFGclhHV1pGY1drQm1VMXZwZE5n?oc=5",
-    "rssid": "laN479",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/izraelis-ir-libanas-susitare-pratesti-paliaubas-45-dienoms-120250818",
-    "title": "Izraelis ir Libanas susitarė pratęsti paliaubas 45 dienoms",
-    "description": "Izraelis ir Libanas susitarė pratęsti paliaubas 45 dienoms  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/izraelis-ir-libanas-susitare-pratesti-paliaubas-45-dienoms-120250818",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/3bfc2245-83e0-40a9-a067-0e4cb5bda976.jpg?w=1200&h=800",
-    "timestamp": 1778870578000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1ZpNjFYNENBZ0tTU3NuSlhXSXB3VGxJQWVPUXpwUDZtZ1RSZmtYc2l5VHFoOWRRZVNUalRPV2U1ZTVZVVozSlpnYm1WYmVaZU1wTk9TX293SzVuQS1SM1d2OEgxeXB5azBnTTNXVzk4S29TY3o2TC1mNzkyZkpSQVpVa3hpU296UFNmWHRIQnBoU0liMlVzc1VNYmV4TXZILUF0aGtzS2xtc0JqUUE?oc=5",
-    "rssid": "laN479",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
