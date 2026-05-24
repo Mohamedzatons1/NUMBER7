@@ -131,43 +131,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://saeima.lv/lv/galleries/video/3419/17364",
-    "title": "Andrejs Klementjevs tiekas ar Mali vēstnieci",
-    "description": "Andrejs Klementjevs tiekas ar Mali vēstnieci  Saeima",
-    "url": "https://saeima.lv/lv/galleries/video/3419/17364",
-    "image": "https://saeima.lv/img/facebook.jpg",
-    "timestamp": 1778987604000,
-    "source": "Saeima",
-    "publisher_id": "saeima.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00QWdtWHhGTVFsZmRkRjZJZ1ZGQlVoOThRWHJLSzhtSmkwamJRZzJQM1Fpb0twM1k3MVR2WHdsNW5OYzV6ZldXZlYzc1RYQnFCWEVDYXJaYVRvaXc?oc=5",
-    "rssid": "laN683",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EOFFBS29DMTdDZDB5dEI5dEM0ZnlmU1Fac3ByQjVjWmhnMVhiTm9pMDMxLUtiNTZXS0tXQkx3QzRNcTlmRDd0d0pfVGZleC1xTnVB?oc=5",
-    "title": "Andrejs Klementjevs tiekas ar Mali vēstnieci",
-    "description": "Andrejs Klementjevs tiekas ar Mali vēstnieci  Saeima",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EOFFBS29DMTdDZDB5dEI5dEM0ZnlmU1Fac3ByQjVjWmhnMVhiTm9pMDMxLUtiNTZXS0tXQkx3QzRNcTlmRDd0d0pfVGZleC1xTnVB?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1778981907000,
-    "source": "Saeima",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EOFFBS29DMTdDZDB5dEI5dEM0ZnlmU1Fac3ByQjVjWmhnMVhiTm9pMDMxLUtiNTZXS0tXQkx3QzRNcTlmRDd0d0pfVGZleC1xTnVB?oc=5",
-    "rssid": "laN683",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]
