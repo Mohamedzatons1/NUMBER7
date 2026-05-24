@@ -264,24 +264,5 @@
     "extra": "Suriname",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.paho.org/en/suriname?format=feed&type=rss&page=1",
-    "title": "Suriname",
-    "description": "Suriname  Pan American Health Organization (PAHO)",
-    "url": "https://www.paho.org/en/suriname?format=feed&type=rss&page=1",
-    "image": "https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-06/suriname-personal-salud-1500-536.jpg?itok=9EGGTYY2",
-    "timestamp": 1779023687000,
-    "source": "Pan American Health Organization (PAHO)",
-    "publisher_id": "www.paho.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SclY3VUVjeDJJWEpfWEpxaWxIZ25pYWN6ZUt6ZlAxVm0wb1VQbDVNVEY1bVZsMGpfWll1OGxzS1J3S0dnWXVfalk3VE5paG44VnBBZUduaFNFRVh4SmFLYTJCR1Bfcy1lTXgzbA?oc=5",
-    "rssid": "laN165",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Suriname",
-    "likes": 0,
-    "comments": 0
   }
 ]
