@@ -720,43 +720,5 @@
     "extra": "Malta",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/19/2003857584",
-    "title": "ICDF, Malteser to team up on humanitarian aid",
-    "description": "ICDF, Malteser to team up on humanitarian aid  Taipei Times",
-    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/19/2003857584",
-    "image": "https://img.taipeitimes.com/images/2026/05/19/p02-260519-003.jpg",
-    "timestamp": 1779120000000,
-    "source": "Taipei Times",
-    "publisher_id": "www.taipeitimes.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZalhDX2I3VE9RUGRPYmdMSzhBYUlWcW81bFBVSnprY3U5bEVhWmlTeHVudHZYanJpRUZScUc5Q2QxMUZBQzZaSG1sT1ZUd2tBMGRRVWlMSjhjczZnSnpiYkVtemhrNmZRMHZBMTA5c0ZWU0tQS09vOXd3?oc=5",
-    "rssid": "laN105",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Malta",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.chosun.com/english/world-en/2026/05/19/U7RRMQQ5KJHPVHS3KEBR6BHEHI/",
-    "title": "Malta Offers ChatGPT Plus Free Nationwide in AI Initiative",
-    "description": "Malta Offers ChatGPT Plus Free Nationwide in AI Initiative  조선일보",
-    "url": "https://www.chosun.com/english/world-en/2026/05/19/U7RRMQQ5KJHPVHS3KEBR6BHEHI/",
-    "image": "https://www.chosun.com/resizer/v2/VOG5GMV2DRMDRJIJCPKECFR4CE.JPG?auth=bc9c6bfa3fa1b7a01f5a790c18f208e9dc81bafaba2afb72512bc3259729f57f&width=1200&height=630&focal=888,742",
-    "timestamp": 1779119406000,
-    "source": "조선일보",
-    "publisher_id": "www.chosun.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTg2NUJIaW5YUXd3SlFKbFNfVWlRelc1Wm9PRG5uekdaaTJueHFsMmxzU2lOblpzMnB2Vlo0Mkg2ZmpiS1h6MkxsR0ZvaU1NT1RJQkhOcTBxdlZLSms1cTZXdUt0a3J4VlRXNThUV0tnam9PUmdwRUxyUXdGeEk0MTRxel8?oc=5",
-    "rssid": "laN105",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Malta",
-    "likes": 0,
-    "comments": 0
   }
 ]
