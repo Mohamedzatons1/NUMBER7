@@ -1442,43 +1442,5 @@
     "extra": "Haiti",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.un.org/en/story/2026/05/1167541",
-    "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
-    "description": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa  UN News",
-    "url": "https://news.un.org/en/story/2026/05/1167541",
-    "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Ukraine-03.jpg/image770x420cropped.jpg",
-    "timestamp": 1779134269000,
-    "source": "UN News",
-    "publisher_id": "news.un.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKVVBOaG1KM2todUNlSzRtZlR4RkFldlpVdy1XT3A1a2Fld09jSGx3am9KU1FxbGdleXdSQ3M0alJwSXlicHQwMjNKY0hULVhaOV9HUE5Mbw?oc=5",
-    "rssid": "laN073",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Haiti",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://pitchfork.com/reviews/tracks/b0yg1rl-novagang-little-haiti/",
-    "title": "“Little Haiti”",
-    "description": "“Little Haiti”  Pitchfork",
-    "url": "https://pitchfork.com/reviews/tracks/b0yg1rl-novagang-little-haiti/",
-    "image": "https://media.pitchfork.com/photos/6a0b5f507fc6f92eeff4275c/16:9/w_1280,c_limit/B0YG1RL:%20EXIT%202B.jpg",
-    "timestamp": 1779133717000,
-    "source": "Pitchfork",
-    "publisher_id": "pitchfork.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBETUtNNS04RnZGMXc0SlVmMEFoSS1QMXQ2c2JJMk9EUm5MeXB5N1FleUJPOGhjc0xkeGphOFo3bktXVGJYYk0wVTNVRFJvd000S2RCM0tLZXdtcTMxNUstczBqa3dtT29IZ2dXQVh2QURHUVJrNUE?oc=5",
-    "rssid": "laN073",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Haiti",
-    "likes": 0,
-    "comments": 0
   }
 ]
