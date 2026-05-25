@@ -1005,43 +1005,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/hjqahrdyfl",
-    "title": "ארדואן לא משתלט על הנשק: עוד מסע ירי בטורקיה, חמוש פתח באש במסעדה ורצח 6",
-    "description": "ארדואן לא משתלט על הנשק: עוד מסע ירי בטורקיה, חמוש פתח באש במסעדה ורצח 6  ynet",
-    "url": "https://www.ynet.co.il/news/article/hjqahrdyfl",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/11/17/SkxDrEHNp/SkxDrEHNp_0_0_3000_1689_0_large.jpg",
-    "timestamp": 1779129398000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uZnhpdFg1OWF0N1JNN2lhQlUxcVJPSHlrbFlhZzBWZVQtVjRiYjhtX19aM2RnSDhkbnRPUGRzczJpaVFNTkNOa1RBLWFZMm05N2hpcnl4RFk2Zw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://hm-news.co.il/632316/",
-    "title": "טורקיה מקדמת חוק חדש שעלול להצית מלחמה אזורית",
-    "description": "טורקיה מקדמת חוק חדש שעלול להצית מלחמה אזורית  המחדש",
-    "url": "https://hm-news.co.il/632316/",
-    "image": "https://hm-news.co.il/wp-content/uploads/2026/05/HISG7dgX0AABVO6-1024x683.jpeg",
-    "timestamp": 1779128428000,
-    "source": "המחדש",
-    "publisher_id": "hm-news.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBONVBxWDd6emlfVUNPSUo1eWlVUjhNeXU5cGdfVU9fQ3hSYjVxSFpwS3FVZkN6VEVpU2Nac2RZeDZIa28?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
