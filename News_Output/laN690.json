@@ -492,43 +492,5 @@
     "extra": "Moldova",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMlR3OEZOU3NLSXVtT3BPdG5XN0VFRC1wQ1huclNWVTg0WUc5TkFGRE1TZFVBOTMyT2d1bE4zV2UxblROWk10dlJUMHl3eC13X3hJ?oc=5",
-    "title": "Moldovas Republikas prezidentes vizīte Latvijā",
-    "description": "Moldovas Republikas prezidentes vizīte Latvijā  Saeima",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMlR3OEZOU3NLSXVtT3BPdG5XN0VFRC1wQ1huclNWVTg0WUc5TkFGRE1TZFVBOTMyT2d1bE4zV2UxblROWk10dlJUMHl3eC13X3hJ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1779151310000,
-    "source": "Saeima",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMlR3OEZOU3NLSXVtT3BPdG5XN0VFRC1wQ1huclNWVTg0WUc5TkFGRE1TZFVBOTMyT2d1bE4zV2UxblROWk10dlJUMHl3eC13X3hJ?oc=5",
-    "rssid": "laN690",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zRWc0NXk0LWFvbEpMdW1lYl9sWkZENXkxNkQtLXdjcWVDUDQzbFZSTy1TNXdKRTBpZ0ZWcjVnZVZWR09mdDl1TnpZUkk4c2c5QWJJ?oc=5",
-    "title": "Moldovas parlamenta prezidenta oficiālā vizīte Latvijā",
-    "description": "Moldovas parlamenta prezidenta oficiālā vizīte Latvijā  Saeima",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zRWc0NXk0LWFvbEpMdW1lYl9sWkZENXkxNkQtLXdjcWVDUDQzbFZSTy1TNXdKRTBpZ0ZWcjVnZVZWR09mdDl1TnpZUkk4c2c5QWJJ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1779140969000,
-    "source": "Saeima",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zRWc0NXk0LWFvbEpMdW1lYl9sWkZENXkxNkQtLXdjcWVDUDQzbFZSTy1TNXdKRTBpZ0ZWcjVnZVZWR09mdDl1TnpZUkk4c2c5QWJJ?oc=5",
-    "rssid": "laN690",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
   }
 ]
