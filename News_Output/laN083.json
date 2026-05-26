@@ -1670,43 +1670,5 @@
     "extra": "Jamaica",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
-    "title": "Woman shot dead by police in Jamaica at protest over previous police shooting",
-    "description": "Woman shot dead by police in Jamaica at protest over previous police shooting  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/may/19/woman-shot-dead-by-police-jamaica-protest",
-    "image": "https://i.guim.co.uk/img/media/d9b905dffd14a173425b90dd7580a2357fd659ae/55_0_726_581/master/726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a043a17a040920268e24939e9ca07ae",
-    "timestamp": 1779222180000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM1hBRmlsUzhGcmZkUzdmUnZUTnd1TF9qc1FlTnhMaU84TEh3THZxc09TUVRiY3ByNzVvYlJoWDZZSGlOXzBJUDFYZ3V2WjEzMmJnLU1ZWjBvcVM3b0Z5VFdOaEFQWUllaXdhZkYyUm9RWGY4eEstZC1xWFY3Q2dzOHEtWTUyNFBaY09fSE5jY0I?oc=5",
-    "rssid": "laN083",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Jamaica",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://jamaicaplainnews.com/2026/05/19/gangnam-spice-wants-to-serve-alcohol/689301",
-    "title": "Gangnam Spice Wants to Serve Alcohol",
-    "description": "Gangnam Spice Wants to Serve Alcohol  Jamaica Plain News",
-    "url": "https://jamaicaplainnews.com/2026/05/19/gangnam-spice-wants-to-serve-alcohol/689301",
-    "image": "https://jamaicaplainnews.com/wp-content/uploads/2026/05/584797185_17996722226842283_4917788910758130588_n-768x957-1.webp",
-    "timestamp": 1779217522000,
-    "source": "Jamaica Plain News",
-    "publisher_id": "jamaicaplainnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFRnYl9qUTNDNmZfbnRvejR5c0Q3RlgyalZGNlZrWnRadm4tMEF0amR0OHE2N0FUMnd1clFEMDgtM3BNdS02RkNpODBvRDFhQ2hmaTd6NHVaU1Q2REtaNE1rRXMxVGxwdFRpWXhkNjAyRFJxR2tTOUdnd1Q0NElvelZpVm9DYzVzX3dN?oc=5",
-    "rssid": "laN083",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Jamaica",
-    "likes": 0,
-    "comments": 0
   }
 ]
