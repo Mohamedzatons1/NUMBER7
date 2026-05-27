@@ -416,43 +416,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tXzQ3bUNGYnhxMzZHalYxZ1JGcG5QQVhzZDQwMzltdGdfcUFVRWxtcnNqNDA3T1Q4U3VqbDNEdDhzSkRpazJHeDVtTQ?oc=5",
-    "title": "דיווח: ישראל וארה\"ב תכננו להעלות את אחמדינג'אד לשלטון כמנהיג איראן",
-    "description": "דיווח: ישראל וארה\"ב תכננו להעלות את אחמדינג'אד לשלטון כמנהיג איראן  חרדים10",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tXzQ3bUNGYnhxMzZHalYxZ1JGcG5QQVhzZDQwMzltdGdfcUFVRWxtcnNqNDA3T1Q4U3VqbDNEdDhzSkRpazJHeDVtTQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1779263473000,
-    "source": "חרדים10",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tXzQ3bUNGYnhxMzZHalYxZ1JGcG5QQVhzZDQwMzltdGdfcUFVRWxtcnNqNDA3T1Q4U3VqbDNEdDhzSkRpazJHeDVtTQ?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqRmJNR0dIUmo1WGE5TGhGcldZNXFxREx5VlJZSWwwZm5jeXR4X2JoS0I4UlRNaE44Y2xEdmZncmZKakhKdERvMUo2MFFMVzF0TlpZVi1CWWRrVm44VmpJdTQyVQ?oc=5",
-    "title": "אוקראינה משפרת את מצבה וכעת תור אירופה לפעול",
-    "description": "אוקראינה משפרת את מצבה וכעת תור אירופה לפעול  News1 מחלקה ראשונה",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqRmJNR0dIUmo1WGE5TGhGcldZNXFxREx5VlJZSWwwZm5jeXR4X2JoS0I4UlRNaE44Y2xEdmZncmZKakhKdERvMUo2MFFMVzF0TlpZVi1CWWRrVm44VmpJdTQyVQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1779256886000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqRmJNR0dIUmo1WGE5TGhGcldZNXFxREx5VlJZSWwwZm5jeXR4X2JoS0I4UlRNaE44Y2xEdmZncmZKakhKdERvMUo2MFFMVzF0TlpZVi1CWWRrVm44VmpJdTQyVQ?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]

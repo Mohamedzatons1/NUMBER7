@@ -739,43 +739,5 @@
     "extra": "Malta",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.tradingview.com/news/te_news:552271:0-malta-inflation-hits-4-month-high/",
-    "title": "Malta Inflation Hits 4-Month High",
-    "description": "Malta Inflation Hits 4-Month High  TradingView",
-    "url": "https://www.tradingview.com/news/te_news:552271:0-malta-inflation-hits-4-month-high/",
-    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "timestamp": 1779268548000,
-    "source": "TradingView",
-    "publisher_id": "www.tradingview.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFhYandYcUE2bUo0Y1N4R3hLTzJMeXhiNF9YMjJGSEFXeUZuUV9mNUpSV2lZWEctWnhaRmVHbUxhNFI0bVpWdjBWSEdud1huWkhmVW50YjAxVjlDOWpwYmc0UmFRbzNNemNzSFFWSENJWlhRaDBkbDhFVnFUSVpWRHdTWDF0eWV2QU1oOA?oc=5",
-    "rssid": "laN105",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Malta",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.electrive.com/2026/05/20/malta-adds-40-electric-buses-and-launches-autonomous-shuttle-trials/",
-    "title": "Malta adds 40 electric buses and launches autonomous shuttle trials",
-    "description": "Malta adds 40 electric buses and launches autonomous shuttle trials  electrive.com",
-    "url": "https://www.electrive.com/2026/05/20/malta-adds-40-electric-buses-and-launches-autonomous-shuttle-trials/",
-    "image": "https://www.electrive.com/media/2026/05/malta-electric-buses-king-long-2026.jpeg",
-    "timestamp": 1779263034000,
-    "source": "electrive.com",
-    "publisher_id": "www.electrive.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHc5cm1VRnBoX3hoNkxJSldlVWdBdllaY1kwbW44eGRycHdNblVtX0V6dHFuWUc2QjFrekkxakMwdXFSRXBfb2FUMFpxWF9KRnBRZlNSb3hhU3p2RUVWUFY0YmNoX1g5dTQ5eHdiN1NMSlpKdW5sZS1pNlBpSmFLNlVjMmlpNFcyYUxwRFo4Nkt0emprdzRNSVhqWWo0QzVZMW1Id0Z0anE?oc=5",
-    "rssid": "laN105",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Malta",
-    "likes": 0,
-    "comments": 0
   }
 ]
