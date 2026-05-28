@@ -777,43 +777,5 @@
     "extra": "Mongolia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp3p7yzgq4no",
-    "title": "Race Across the World series six winners crowned",
-    "description": "Race Across the World series six winners crowned  BBC",
-    "url": "https://www.bbc.com/news/articles/cp3p7yzgq4no",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6eaf/live/44f283d0-545a-11f1-a996-23a66636b2cc.jpg",
-    "timestamp": 1779393824000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGTF9xRVJaRS1NNzRueEFKZTMzRElVSmpxTXR3QmZQQjJjd19BTEtva3RZOEhQd2pSbFFQV2FXN3pQSmgyQkptSVJXRVcwZi1nRFR5dWIwck9nZw?oc=5",
-    "rssid": "laN113",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mongolia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/live/c74r0dnkzl8t",
-    "title": "‘We did it’: Race Across the World winners crowned in Mongolia",
-    "description": "‘We did it’: Race Across the World winners crowned in Mongolia  BBC",
-    "url": "https://www.bbc.com/news/live/c74r0dnkzl8t",
-    "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-    "timestamp": 1779388596000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IendEUWl5QVREcVJkbDEyeDlIRDJydUV5c1JCTWVNb20yTEFrbS1nVnJkVkxjNUpGNEdVdElVVDhTY2h1Uy1CcXNMaXAyeXpLekk0Tw?oc=5",
-    "rssid": "laN113",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mongolia",
-    "likes": 0,
-    "comments": 0
   }
 ]
