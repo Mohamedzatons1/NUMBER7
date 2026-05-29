@@ -891,24 +891,5 @@
     "extra": "Democratic Republic of the Congo",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c78qw88jjd4o",
-    "title": "Article removed",
-    "description": "Article removed  BBC",
-    "url": "https://www.bbc.com/news/articles/c78qw88jjd4o",
-    "image": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
-    "timestamp": 1779408607000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HcURBRkdDWGV1dUpNaWlYbkI4dXRmNkpjZXo3VzlaTmhJemxoWWtvUVMxRjIxUWMzWU9lMmdFaE4tOEFBQVAwenNvdHdZbFlQYjJmSXBNeGJJdw?oc=5",
-    "rssid": "laN046",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Democratic Republic of the Congo",
-    "likes": 0,
-    "comments": 0
   }
 ]
