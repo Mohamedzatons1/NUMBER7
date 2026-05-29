@@ -2582,43 +2582,5 @@
     "extra": "Kyrgyzstan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://egov.kg/en/ministry/economy/news/22440",
-    "title": "Kyrgyzstan and Belarus Discussed Joint Implementat",
-    "description": "Kyrgyzstan and Belarus Discussed Joint Implementat  EGOV.KG",
-    "url": "https://egov.kg/en/ministry/economy/news/22440",
-    "image": "https://egov.kg/api/proxy?url=https%3A%2F%2Fegov.kg%2Fapi%2Fv1%2Fattachments%2F97352%2Ff3793cd3-d7cc-40e2-8c59-0aa70a666f01",
-    "timestamp": 1779485612000,
-    "source": "EGOV.KG",
-    "publisher_id": "egov.kg",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GRUs2cWNuVDdNOVVHRlhTNjI4dTV3SHNSczR1LU1uVS1PblV5bVVodnBSMHNsT0Qya2VJTzdKRmZhODd0cXhXcnNoQkZOR1FlOXVCWHY1RTZFdw?oc=5",
-    "rssid": "laN090",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Kyrgyzstan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://tol.org/client/article/when-transition-ends-before-it-ever-arrived.html",
-    "title": "When ‘Transition’ Ends Before It Ever Arrived",
-    "description": "When ‘Transition’ Ends Before It Ever Arrived  tol.org",
-    "url": "https://tol.org/client/article/when-transition-ends-before-it-ever-arrived.html",
-    "image": "https://tol.org/wp-content/uploads/Japarov-at-Baku-forum-FB.jpg",
-    "timestamp": 1779483931000,
-    "source": "tol.org",
-    "publisher_id": "tol.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXBuOEt1UTZ5M2wwSk4td1YxdC1vRVBNUnNWbklwanZxNVlyVXhFLWF6U2IyaERqazNTNDRNZWRiMFdlVmNJdEtFSFJfU3FjanFCUnZza0N6dUFtMlpKcXZmRC1rVFI4TWZDa1I3S1pQQWJuQnN0dUYyM092QzEtaTJIbnE1UQ?oc=5",
-    "rssid": "laN090",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Kyrgyzstan",
-    "likes": 0,
-    "comments": 0
   }
 ]
