@@ -169,43 +169,5 @@
     "extra": "Uganda",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150afje-three-new-ebola-cases-declared-in-uganda?language=lt",
-    "title": "Three new Ebola cases declared in Uganda",
-    "description": "Three new Ebola cases declared in Uganda  Inbox.lv",
-    "url": "https://news.inbox.lv/150afje-three-new-ebola-cases-declared-in-uganda?language=lt",
-    "image": "https://news.inbox.eu/w/img/a0/0e/a00e970d00ecf91931.jpg",
-    "timestamp": 1779531900000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzNONXRSenVZSW9GT0g3OWFnam5ObVNVdHNwZXEwNU1GczJDTUhGUTBteG1IaF9DRjc5dVlSTFpPUmNsZkZVeXhVdG5mMWhhN1BXc1d6OXVPc3ZObDBEUFVCcXBTV1BHbVhfSHJ6dEpCLThkSGlwU3JqS2x6WDRmZjV6Vm9ZNzI1Q3c?oc=5",
-    "rssid": "laN566",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Uganda",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.eu/150afje-three-new-ebola-cases-declared-in-uganda?language=lt",
-    "title": "Three new Ebola cases declared in Uganda",
-    "description": "Three new Ebola cases declared in Uganda  Inbox.eu",
-    "url": "https://news.inbox.eu/150afje-three-new-ebola-cases-declared-in-uganda?language=lt",
-    "image": "https://news.inbox.eu/w/img/a0/0e/a00e970d00ecf91931.jpg",
-    "timestamp": 1779531900000,
-    "source": "Inbox.eu",
-    "publisher_id": "news.inbox.eu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVVRYVlhKR044SzVaTmhHVFRQMjV0bWY3SGtUU2IyX3BNTG8tal8zRVFFQmtwQzh0RWdRc2xIamVfNjkwREtNR0RhSEh2S0Y4aGZkMjVKV09uTFMxNkZVZVplSTlHQmZncGQ0UnhsRHdaa0lBTVVQdHZzdEgwYmEydUtNb1hpemVYa3c?oc=5",
-    "rssid": "laN566",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Uganda",
-    "likes": 0,
-    "comments": 0
   }
 ]
