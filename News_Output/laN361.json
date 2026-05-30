@@ -321,24 +321,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001543608",
-    "title": "בין דמשק לירושלים: מהפכת ההתאזרחות השקטה של צעירי הגולן הדרוזים",
-    "description": "בין דמשק לירושלים: מהפכת ההתאזרחות השקטה של צעירי הגולן הדרוזים  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001543608",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1752726349/direct/AP25197453873480_r5fxwz.jpg",
-    "timestamp": 1779545349000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11T1N4WjN0TmtscFNFSUVCUElIbEU1RDlzRVRwczdUSkdsSV8tMFFxNFRmZURVR3lPSHFMZURNbk5mQ2I2UGl2V3JLUl9jbkNqcHp1djBkalR3ZnZfVUZMMjFZdmR0VFFk?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
