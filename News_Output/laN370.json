@@ -853,43 +853,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/h1drlteegx",
-    "title": "מהומה בטורקיה: המשטרה פרצה למטה האופוזיציה וגירשה את יריבו של ארדואן",
-    "description": "מהומה בטורקיה: המשטרה פרצה למטה האופוזיציה וגירשה את יריבו של ארדואן  ynet",
-    "url": "https://www.ynet.co.il/news/article/h1drlteegx",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/24/HJp6KFlxGl/HJp6KFlxGl_0_0_850_479_0_large.jpg",
-    "timestamp": 1779633097000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GbVpiMGF1QU4tWjlGTXEwLU9KU0JVdGxmTHl5Z2NKaXBpeE50MlJhV2RYekpBMHc3Q3NQaDdjU3BOLV8xbFhFQVhPZXFRckFDLXFfOTdkTUFPZw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3840427",
-    "title": "משטרת טורקיה פרצה למטה מפלגת האופוזיציה, מנהיגה המודח: \"צועדים לשלטון\"",
-    "description": "משטרת טורקיה פרצה למטה מפלגת האופוזיציה, מנהיגה המודח: \"צועדים לשלטון\"  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3840427",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/5/5/4055239-46.jpg",
-    "timestamp": 1779631260000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RZ19EUkxkb292WUZlTi0yUm1zdHZ5bzVlUU9DLVp6TUh0RXZQbHVOTFZKTTEzVEVicGpmZHYzd3VZMVhiMXZGdlpiME5ldw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
