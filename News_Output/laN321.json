@@ -36,43 +36,5 @@
     "extra": "Norway",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPZkd0NGZtYjJuNm1DMDhSRzlzTGhRd0RJOW1DWm43T05xQXJQOERSaWRKUF8teWY1NUlSQktxTlk1UGtxV29DNEJqeUpFcmxSUE5nemRR?oc=5",
-    "title": "NORWAY",
-    "description": "NORWAY  Portugal Resident",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPZkd0NGZtYjJuNm1DMDhSRzlzTGhRd0RJOW1DWm43T05xQXJQOERSaWRKUF8teWY1NUlSQktxTlk1UGtxV29DNEJqeUpFcmxSUE5nemRR?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1779610990000,
-    "source": "Portugal Resident",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPZkd0NGZtYjJuNm1DMDhSRzlzTGhRd0RJOW1DWm43T05xQXJQOERSaWRKUF8teWY1NUlSQktxTlk1UGtxV29DNEJqeUpFcmxSUE5nemRR?oc=5",
-    "rssid": "laN321",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Norway",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/espionage-public-toilets-norway",
-    "title": "חדר עם נוף לטילים: כך הפכו השירותים המפורסמים בעולם למלכודת ריגול",
-    "description": "חדר עם נוף לטילים: כך הפכו השירותים המפורסמים בעולם למלכודת ריגול  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/espionage-public-toilets-norway",
-    "image": "https://a.kikar.co.il/v2/articles/espionage-public-toilets-norway/og-image.jpeg",
-    "timestamp": 1779605520000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zQWRpUEZ2VmJnZDU5NDM1WlBIUUNZX3J4YnppczhOUW9QQXY4R045LUlYSUtXc25wbzJGdUhTYnlWaGllZkJZWmtneE1wQzdCTzZ0cFVHbjRXQk1yaVU5T3Y4c1JMaTh5a19NcUx0STZuQ2xR?oc=5",
-    "rssid": "laN321",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Norway",
-    "likes": 0,
-    "comments": 0
   }
 ]
