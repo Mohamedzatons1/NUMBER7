@@ -245,43 +245,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sbkhUaVAtQ056eXFsbUdKcHFFN2VGNnJPeE5wS1pZOHpUV0VoMjBQajltM3hDYU9QdjV5U0c3QkU2TGRISTNJaFlTSQ?oc=5",
-    "title": "טראמפ: צוחק על הדמוקרטים, הרפובליקנים והטיפשים שלא יודעים כלום על העסקה",
-    "description": "טראמפ: צוחק על הדמוקרטים, הרפובליקנים והטיפשים שלא יודעים כלום על העסקה  חרדים10",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sbkhUaVAtQ056eXFsbUdKcHFFN2VGNnJPeE5wS1pZOHpUV0VoMjBQajltM3hDYU9QdjV5U0c3QkU2TGRISTNJaFlTSQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1779708340000,
-    "source": "חרדים10",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sbkhUaVAtQ056eXFsbUdKcHFFN2VGNnJPeE5wS1pZOHpUV0VoMjBQajltM3hDYU9QdjV5U0c3QkU2TGRISTNJaFlTSQ?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.portugalresident.com/iw/united-states-of-iberia/",
-    "title": "United States of Iberia",
-    "description": "United States of Iberia  Portugal Resident",
-    "url": "https://www.portugalresident.com/iw/united-states-of-iberia/",
-    "image": "https://www.portugalresident.com/wp-content/uploads/2025/11/WEBSITE-DEFAULT-IMAGE-2025-11-13.jpg",
-    "timestamp": 1779701300000,
-    "source": "Portugal Resident",
-    "publisher_id": "www.portugalresident.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fMUNFQ3RadHZBdTNqaG5GRHZvai1EM3NMbDNEN3JGUXp3eklGTV9iQmc2MFhIOXoxYjgzS1ZKVmFOOVNZU1FWdEM5M1NadS03dWozOVctWU5xdHlIUnRTUjBOMVN4bG1ReVFQcw?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
