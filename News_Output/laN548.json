@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RdFRHdDBYZ3ZnNGItZlBnZmh5di14LS11eXVxZFdmTXVyTUJLMzlKM1dtdHliOG1fS1RSdTZpUUoxY2NGazFNSDBDbmltNTM4ckVXeVpBcnFPeEdYcWZIaGZ2U0ZZS0FIcWxKVEdLSTNkekh3?oc=5",
+    "title": "Vilniuje įvertinta šeimos vyninė iš Priorato",
+    "description": "Vilniuje įvertinta šeimos vyninė iš Priorato  Infoerdve.lt",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RdFRHdDBYZ3ZnNGItZlBnZmh5di14LS11eXVxZFdmTXVyTUJLMzlKM1dtdHliOG1fS1RSdTZpUUoxY2NGazFNSDBDbmltNTM4ckVXeVpBcnFPeEdYcWZIaGZ2U0ZZS0FIcWxKVEdLSTNkekh3?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1780334540000,
+    "source": "Infoerdve.lt",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RdFRHdDBYZ3ZnNGItZlBnZmh5di14LS11eXVxZFdmTXVyTUJLMzlKM1dtdHliOG1fS1RSdTZpUUoxY2NGazFNSDBDbmltNTM4ckVXeVpBcnFPeEdYcWZIaGZ2U0ZZS0FIcWxKVEdLSTNkekh3?oc=5",
+    "rssid": "laN548",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Spain",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RWVRkN3ZrYkRHczNaMWRaOXYzemNtTnFRN3RueGdVZml1dWVldEFxeXZQT2JxR0lzWjVabXlTNjZNdDgxWTlSbkh0YVFQSWp2U2ZNQ0h1ZHR0VERKcmx2bG8weGlTekhkclRuVktjZmxEbnAtN3M3aG9raVg?oc=5",
+    "title": "Vilniaus vyninė gavo ispanišką autentiškumo ženklą",
+    "description": "Vilniaus vyninė gavo ispanišką autentiškumo ženklą  Infoerdve.lt",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RWVRkN3ZrYkRHczNaMWRaOXYzemNtTnFRN3RueGdVZml1dWVldEFxeXZQT2JxR0lzWjVabXlTNjZNdDgxWTlSbkh0YVFQSWp2U2ZNQ0h1ZHR0VERKcmx2bG8weGlTekhkclRuVktjZmxEbnAtN3M3aG9raVg?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1780323779000,
+    "source": "Infoerdve.lt",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RWVRkN3ZrYkRHczNaMWRaOXYzemNtTnFRN3RueGdVZml1dWVldEFxeXZQT2JxR0lzWjVabXlTNjZNdDgxWTlSbkh0YVFQSWp2U2ZNQ0h1ZHR0VERKcmx2bG8weGlTekhkclRuVktjZmxEbnAtN3M3aG9raVg?oc=5",
+    "rssid": "laN548",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Spain",
+    "likes": 0,
+    "comments": 0
+  }
+]
