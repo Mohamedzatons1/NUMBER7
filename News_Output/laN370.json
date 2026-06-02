@@ -682,43 +682,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001543886",
-    "title": "סגירת אוניברסיטה והסרת יריבים: מה עושה ארדואן בזמן שהכלכלה קורסת",
-    "description": "סגירת אוניברסיטה והסרת יריבים: מה עושה ארדואן בזמן שהכלכלה קורסת  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001543886",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779717585/direct/RMADP_3_ANADOLU_k4hfw4.jpg",
-    "timestamp": 1779764821000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuSXRtSkZSMDhQcWY4eWN5RTRaRDYwS19HUUw4Xy1TNjZDZDFnSE1kd19Sc21rS095UVBUVGdOUldsenZxUHJoYzRGa09udFBTNXhFWnJHMk9CbzIzNTlZUTV6c01GN1Jk?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYQ3NZb3k1VUxGbVg1X0VTbUg5RmxRVmNCQmZQQ2xPcVhkcHRLMDBKUFFhVVE5T09wek83TVhaY2taSXFFejJGNzZ5dE5KNWpHckx2OGNiNXZOMTM4NHkwaw?oc=5",
-    "title": "\"טורקיה פשוט תיעלם\": בכירים באנקרה מבועתים מפני תוכנית ישראלית והאויב השנוא",
-    "description": "\"טורקיה פשוט תיעלם\": בכירים באנקרה מבועתים מפני תוכנית ישראלית והאויב השנוא  מעריב",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYQ3NZb3k1VUxGbVg1X0VTbUg5RmxRVmNCQmZQQ2xPcVhkcHRLMDBKUFFhVVE5T09wek83TVhaY2taSXFFejJGNzZ5dE5KNWpHckx2OGNiNXZOMTM4NHkwaw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1779764400000,
-    "source": "מעריב",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYQ3NZb3k1VUxGbVg1X0VTbUg5RmxRVmNCQmZQQ2xPcVhkcHRLMDBKUFFhVVE5T09wek83TVhaY2taSXFFejJGNzZ5dE5KNWpHckx2OGNiNXZOMTM4NHkwaw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
