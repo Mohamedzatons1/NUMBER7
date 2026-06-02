@@ -910,43 +910,5 @@
     "extra": "Luxembourg",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://lu.usembassy.gov/step-health-alert-worldwide-caution/",
-    "title": "STEP – Health Alert: Worldwide Caution",
-    "description": "STEP – Health Alert: Worldwide Caution  U.S. Embassy in Luxembourg (.gov)",
-    "url": "https://lu.usembassy.gov/step-health-alert-worldwide-caution/",
-    "image": "https://lu.usembassy.gov/wp-content/uploads/sites/8/2025/12/294317769_417245993771790_6702568047572311065_n.jpg",
-    "timestamp": 1779807243000,
-    "source": "U.S. Embassy in Luxembourg (.gov)",
-    "publisher_id": "lu.usembassy.gov",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QaERIN1Z2Z2JjZkw3Smt1eXpteVNnZ3FWbWRPYTJLQkwwTzZMVTQ4R3FZb3RhdG9UYlhQeVNIMkFnaGowa1J2TEdTQ1VVMzlhQnlEOXhsSHZycDNVV2dndzY2MVZfaW44SWN3ZDF3?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.tradingview.com/news/te_news:553800:0-stocks-in-luxembourg-hit-near-18-year-high/",
-    "title": "Stocks in Luxembourg Hit Near 18-year High",
-    "description": "Stocks in Luxembourg Hit Near 18-year High  TradingView",
-    "url": "https://www.tradingview.com/news/te_news:553800:0-stocks-in-luxembourg-hit-near-18-year-high/",
-    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "timestamp": 1779805077000,
-    "source": "TradingView",
-    "publisher_id": "www.tradingview.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnY3R1hGTE5GTE8tTEZRWmMwTVprTlpWbGsxYlZyOGE5QUNraGFNOGZYVWEwMS1uWnItR09PS3JfeEdpcjRvNW5mZ1JlUm5zRXZQODA3blptQ3FLZkMtY0FKb2xOVWZ5b3phcjFVZERkNHJMaVBBLVN4Vk52NTVJcEN6R2FnblFqNTg1RnVGZUctVE45YkR1WA?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
   }
 ]
