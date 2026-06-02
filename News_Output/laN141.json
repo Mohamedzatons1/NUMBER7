@@ -2639,43 +2639,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c4g44gprnnvo",
-    "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
-    "description": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says  BBC",
-    "url": "https://www.bbc.com/news/articles/c4g44gprnnvo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0118/live/10a379f0-5954-11f1-a6fa-11d400c73a39.jpg",
-    "timestamp": 1779838936000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jN2RoWlJwaHlKa194WGFCelcyTDluT3VOWEZIYTVEWkxUU3lHMzBiUU1YdDR6eXlJeWo0eXUtZlZ6Rjh6LVJWOGxJUXJXNWZSalZIbEJ2eE5SQQ?oc=5",
-    "rssid": "laN141",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/uk-news/2026/may/27/russia-targeting-uk-infrastructure-democracy-gchq-head-anne-keast-butler",
-    "title": "Russia is targeting UK’s infrastructure and democracy, GCHQ head to say",
-    "description": "Russia is targeting UK’s infrastructure and democracy, GCHQ head to say  The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/may/27/russia-targeting-uk-infrastructure-democracy-gchq-head-anne-keast-butler",
-    "image": "https://i.guim.co.uk/img/media/5e5e91c28b1f703842f57ca249b17173d9f1fc09/472_0_2497_1998/master/2497.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d801ff68f5f21909025e79721cd2a39",
-    "timestamp": 1779836520000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1FNNkg5cTZKa2xMQ2tvSWdieG1wT0U5a0txeWY0TVlxd3RGUEt4aVV1enRudHNwaW03alRCN1QwQ0pqNDltUG44bnYyb25QZURILU1hNjBUcHZscWNGZ0dtOE5xeHFMNFZqX0hUSjhUZDZYbmotdjhHbUNZdVloRWt1U1U0eWhHam5zZ1BvN0FWckR3XzBTNnJpY3ZyU0dfNHcxTGtFbXk4RGxpbm00ZzBvNXowNC0yRlN1eQ?oc=5",
-    "rssid": "laN141",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
