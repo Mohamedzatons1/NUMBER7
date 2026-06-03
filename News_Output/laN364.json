@@ -1005,43 +1005,5 @@
     "extra": "Thailand",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3841331",
-    "title": "סמים במטבח ובריחה לחו\"ל: עבריין ישראלי נעצר בתאילנד",
-    "description": "סמים במטבח ובריחה לחו\"ל: עבריין ישראלי נעצר בתאילנד  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3841331",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/5/6/4056768-46.jpg",
-    "timestamp": 1779906360000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkVzlhRHpFT1RsNUMyT29zNmpBMmpxVW93emVTQUIzSjd4YzZRNG5mLUgzaVN0b2tGdlI2QlIyRjNyempnTzc1RE5Eb09pUQ?oc=5",
-    "rssid": "laN364",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Thailand",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/travel/israelisabroad/article/20633791",
-    "title": "סוחר סמים ישראלי שברח מהארץ נעצר בפשיטה בתאילנד",
-    "description": "סוחר סמים ישראלי שברח מהארץ נעצר בפשיטה בתאילנד  היום",
-    "url": "https://www.israelhayom.co.il/travel/israelisabroad/article/20633791",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2026/05/27/27/ISRAELI-ARRESTED-IN-THAILAND-1280x853.png",
-    "timestamp": 1779905167000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNdmh6VmszclZ5T1ljV0gxSHN6OGtwc0JIYlFuNS1CWDVDLVdPT2pJVGNLNUI4V2xTek1sYTc1VHpEMmQ4MG9wVjAzWUtwbnRuaEZOaXhGU1I4RkQtSnhBSno3VnE4LW9aVHllbUd3VUZwT0tKWl9N0gF_QVVfeXFMTVE0Q2gyYUJVazEyb0QxZUdLaEJZU3pldHEwTHNjWG05SXFHdFdFYlEzb3ZYalpqVDNEMmFyVGotTzl6NEtlZUNzRm5iSERPSTRLcER2aWtINl9BNjVyYkFDZk9rNHZUX3pZWFJmY3NzLVQwQ0JJR2ZRTVVYUFo2Zw?oc=5",
-    "rssid": "laN364",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Thailand",
-    "likes": 0,
-    "comments": 0
   }
 ]
