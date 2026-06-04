@@ -3513,43 +3513,5 @@
     "extra": "Iran",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c87qng40wz9o",
-    "title": "US and Iran reach tentative deal to extend ceasefire",
-    "description": "US and Iran reach tentative deal to extend ceasefire  BBC",
-    "url": "https://www.bbc.com/news/articles/c87qng40wz9o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5f25/live/e8f162b0-5ab5-11f1-8f60-593796f4e07d.jpg",
-    "timestamp": 1779987830000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tYWgtbkNJcHEyekJrQzVaZDZDMWdzWmNsak1YcmN4enFEMy0yUVBibzhSbHdkTlRKX1NSbXNQTTJqaGlqRUd4aWJ1Y3VKNktsU3hmc0kydEdfUQ?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cbsnews.com/news/iran-war-trump-protesters-fear-us-will-leave-dangerous-regime-in-place/",
-    "title": "Iranians who fled country tell CBS News they fear U.S. will leave \"really dangerous regime\" in place",
-    "description": "Iranians who fled country tell CBS News they fear U.S. will leave \"really dangerous regime\" in place  CBS News",
-    "url": "https://www.cbsnews.com/news/iran-war-trump-protesters-fear-us-will-leave-dangerous-regime-in-place/",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/28/4bb5213e-79a2-4536-ab42-3b5aed5e6ea8/thumbnail/1200x630g2/34f28798ebaaaecbbbd47e2d10064b9b/iran-brothers-protesters.jpg",
-    "timestamp": 1779986940000,
-    "source": "CBS News",
-    "publisher_id": "www.cbsnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnozakU0TE01ZHZ0ZWdBZmR2WTAwNXZjTGpjOHVVREFtNkFFZzFRenRDSzBxbVlNamc4LV8xWmc5YzRqaG54TWwyQ0NLTDYxN3lwdTRuWlhJbWFGTHhJbmN4R3VCSlE1NUJlODU5MlRvdTBzUDdobXVfRGc3eGJLSDNXNDJjaEMwVkRFTE5ocXUya0hyRU1BUzFzbi1wMWswSHc?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
   }
 ]
