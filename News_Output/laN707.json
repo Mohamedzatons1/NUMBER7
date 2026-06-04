@@ -74,43 +74,5 @@
     "extra": "Norway",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.eu/150b8a2-latvia-narrowly-beaten-by-determined-norway?language=lv",
-    "title": "Latvia narrowly beaten by determined Norway",
-    "description": "Latvia narrowly beaten by determined Norway  Inbox.eu",
-    "url": "https://news.inbox.eu/150b8a2-latvia-narrowly-beaten-by-determined-norway?language=lv",
-    "image": "https://news.inbox.eu/w/img/f6/ef/f6ef12a413a4f148bc.jpg",
-    "timestamp": 1780001580000,
-    "source": "Inbox.eu",
-    "publisher_id": "news.inbox.eu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3hjUDZVTWZWdFAtZE9OZzYwME44NVh1dVFUcEZTTFFHdUVIRFhxck5ndlZZYm5lZ194QmwyTVZCc3VjUS1yYnNaQjFNTzdiWmdIUVZ2SHhJU3JzeHZIaWswTnBiRnpEVHBrc3Zib0R3Z2NHb2Q0MUlWNEJveGh1eWJUZ1JVd3FJNVhOVHRR?oc=5",
-    "rssid": "laN707",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Norway",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150b876-latvia-s-national-team-loses-to-norway-and-exits-the-world-cup?language=lv",
-    "title": "Latvia's national team loses to Norway and exits the World Cup",
-    "description": "Latvia's national team loses to Norway and exits the World Cup  Inbox.lv",
-    "url": "https://news.inbox.lv/150b876-latvia-s-national-team-loses-to-norway-and-exits-the-world-cup?language=lv",
-    "image": "https://news.inbox.eu/w/img/76/2f/762fa086b0b9e90e7c.webp",
-    "timestamp": 1780000672000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelV3Szc5b1hBcG1GSGlWMklGeHhOLUt3NjR5NU93czIxUE1PWF93QTRtVEV2V3NFTUpKb2lhSFhlR3lRaUVNSWNReDg3eEpNQkZWTVo0a3dFTTdFT25ZbEFVUHdlS2VKa0ZIZDdvOTdqUWJydnk0T3poWGx4MVJraWlReEV1VF9XenRyWWxvbUVidnVWaHRWdUx6X1lHTl9qTkEzV1JKMA?oc=5",
-    "rssid": "laN707",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Norway",
-    "likes": 0,
-    "comments": 0
   }
 ]
