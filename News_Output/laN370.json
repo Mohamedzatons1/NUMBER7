@@ -606,24 +606,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001543932",
-    "title": "האיום החדש של טורקיה על מדינות הים התיכון",
-    "description": "האיום החדש של טורקיה על מדינות הים התיכון  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001543932",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779783984/direct/Untitled-1_vyykra.jpg",
-    "timestamp": 1779936299000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YZ2p1S24wakpicExEZzNlNlltQUl0czNBV0xLSHlhdWZLRHZ1T0Ruckc1UnVzeWhzLVREY0RyXzJCSGZ2eTNmVDlXSko3Q25MYXNzaTE0SjJncTFxampJVXhpOWdibWYy?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
