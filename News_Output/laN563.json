@@ -74,24 +74,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/krepsinis/naujienos/sausai-ketvirtfinali-laimejes-saras-ir-fenerbahce-zenge-i-turkijos-lygos-pusfinali-120257019",
-    "title": "Sausai ketvirtfinalį laimėjęs Šaras ir „Fenerbahče“ žengė į Turkijos lygos pusfinalį",
-    "description": "Sausai ketvirtfinalį laimėjęs Šaras ir „Fenerbahče“ žengė į Turkijos lygos pusfinalį  Delfi",
-    "url": "https://www.delfi.lt/krepsinis/naujienos/sausai-ketvirtfinali-laimejes-saras-ir-fenerbahce-zenge-i-turkijos-lygos-pusfinali-120257019",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/2b85b493-3f7f-428d-a19f-3e64aad1e6af.jpg?w=1200&h=800",
-    "timestamp": 1780084027000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWVjT2l1MHRnbzdyMnpvTGt4RnpGanVHSzRmUlZxTmd3YmlhSldKak1LRHZHN2Z2QURLWGR4VTF2MTVUOG9OUHY2MldaU3hUVWdRa0VTeDc1WkJvdWFJRU9OZmw1NndxZVNwZXJoaGY5cWpPdDZHaWJBOWRfTE5nS1JLZjY1QXM2OTFpTHBKbjBCSFBtWGt2S1pJTmFEOE12eXNpY0lEbTAzc2VZbEFzWnRUUEYxbzZPTi1iNjc0RWRULXdjLW9zVERNMWpqdw?oc=5",
-    "rssid": "laN563",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
