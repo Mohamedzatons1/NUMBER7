@@ -36,5 +36,24 @@
     "extra": "Chile",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.ice.co.il/local-news/news/article/1114742",
+    "title": "מנשה זלקה שופך אור על עתידו: \"עדיין לא\"",
+    "description": "מנשה זלקה שופך אור על עתידו: \"עדיין לא\"  ice (אייס)",
+    "url": "https://www.ice.co.il/local-news/news/article/1114742",
+    "image": "https://img.ice.co.il/giflib/news/0-348-03-084-08409409-409=4-=4-=4-.png",
+    "timestamp": 1780032667000,
+    "source": "ice (אייס)",
+    "publisher_id": "www.ice.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zV2gwZkptQmlEQWppTFp2MzdjOGxXVS1oWC00MW1QcXhrLS15amVUY29uSXVUQXFyNzdOLWw5QjZOOGpWTlBGOEVHS2tCT2Y0U19RaERYZGVlOXUzVC1kUHp6OA?oc=5",
+    "rssid": "laN228",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Chile",
+    "likes": 0,
+    "comments": 0
   }
 ]
