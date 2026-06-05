@@ -416,43 +416,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150bb86-israel-launches-deadly-strike-near-beirut-widening-lebanon-offensive?language=lv",
-    "title": "Israel launches deadly strike near Beirut, widening Lebanon offensive",
-    "description": "Israel launches deadly strike near Beirut, widening Lebanon offensive  Inbox.lv",
-    "url": "https://news.inbox.lv/150bb86-israel-launches-deadly-strike-near-beirut-widening-lebanon-offensive?language=lv",
-    "image": "https://news.inbox.eu/w/img/b9/6d/b96d2f1001742d5713.jpg",
-    "timestamp": 1780050567000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVN6ejV2RFFxMW95WnA1M0NBY3l6Vk1udGpPbGl0b3NSLTZMVmZxRDZ6V29Jb3o4MkxsaV8ySGNoTDl3ejU1R3lCT1ZzN29lNzI1MGNQV1QyQmtONXZtMHp0b1I0Sk1SSks4WndyWldyQ1VWZnVQVGdSNnVKSFczOWRHYUJ6ejgxbXE3clA3dEtpYnZwTkJNSGRTY3lFLTBId19BNEFtckZTZ2o1UFhZ?oc=5",
-    "rssid": "laN672",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.eu/150bb86-israel-launches-deadly-strike-near-beirut-widening-lebanon-offensive?language=lv",
-    "title": "Israel launches deadly strike near Beirut, widening Lebanon offensive",
-    "description": "Israel launches deadly strike near Beirut, widening Lebanon offensive  Inbox.eu",
-    "url": "https://news.inbox.eu/150bb86-israel-launches-deadly-strike-near-beirut-widening-lebanon-offensive?language=lv",
-    "image": "https://news.inbox.eu/w/img/b9/6d/b96d2f1001742d5713.jpg",
-    "timestamp": 1780050567000,
-    "source": "Inbox.eu",
-    "publisher_id": "news.inbox.eu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUU5eHhxYUNuclNmWjRDVlVqdXZEOHVDUVpuYnRTWHFhcV9qWWtEVDg5SmxVVklrYUYzWTBQdDRkUjUzRFpYZjJyVHlVaGVkR1d5RXpLZUtFaTZMcEktQk96aFVseFBQRnJWbVNfUFd2ZGFubUk2djV3Sm1Db1o4bVl5NF8wcmZ5TVh6NWFSNnlDamZRNnZIWjJKQkZPcnFFblZ4cUFfdDRQTGx5VEJz?oc=5",
-    "rssid": "laN672",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
