@@ -1575,43 +1575,5 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/uruguay-unveil-marcelo-bielsas-squad-for-the-world-cup-42947519",
-    "title": "🚨 Uruguay unveil Marcelo Bielsa's squad for the World Cup",
-    "description": "🚨 Uruguay unveil Marcelo Bielsa's squad for the World Cup  OneFootball",
-    "url": "https://onefootball.com/en/news/uruguay-unveil-marcelo-bielsas-squad-for-the-world-cup-42947519",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F42947519%3Fdate=2026-05-31",
-    "timestamp": 1780236027000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXhxUzctUHplRWJncjFzeUh2b3ZmR1lsdWFjSXpfLXY4eUZqYVRhUzkwbVNNTHNGa2lyeVlsaFlna3I3eWZneENIOUJvcHpDcURzVWc0dWhGcGk4MHY0aWt6c1FPOThTQVVCUGNoWnNRZVhSVFBvOXNpdXVVdHRKbktHbkJzM09MT3o1dTFtM1BLQ3pMcVJhQVM3Zw?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://ca.sports.yahoo.com/news/uruguay-unveil-marcelo-bielsas-squad-135700853.html",
-    "title": "🚨 Uruguay unveil Marcelo Bielsa's squad for the World Cup",
-    "description": "🚨 Uruguay unveil Marcelo Bielsa's squad for the World Cup  Yahoo Sports Canada",
-    "url": "https://ca.sports.yahoo.com/news/uruguay-unveil-marcelo-bielsas-squad-135700853.html",
-    "image": "https://s.yimg.com/os/en/onefootball_articles_802/30f8e219271b0f8e44f83cc2a40a94fe",
-    "timestamp": 1780235820000,
-    "source": "Yahoo Sports Canada",
-    "publisher_id": "ca.sports.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3FHLU9Qd0k4X3Y4cHZWNy1nWVFNemp6UDBoWkFCdHM0WkNxQ0ZWdzllQUhGYml6Y09jZXZ4STFBV1ZYeGFsdjFjRkZKMkI3a2VsU2lhZ2NOQzd5MnFDdzBpVGRmVVNPem54NWhHM2FMRXRqeVdoQmZSVW5GazZBM2xDVnJRYklvWGFnVg?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
   }
 ]
