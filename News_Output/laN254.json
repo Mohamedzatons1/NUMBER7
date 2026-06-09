@@ -606,43 +606,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNM21XbnVWdHJuendaaGlYSk52ZS1ZTXZmWmhNeF9zR002eklvSk1XekFXdTM0b2g1MFB0VEgzdk5CWFIwUDZVMHJVU3VTdjM0OEpLR21hSmQwc3BsY3A0eHpHbTA1Y3drVTNjXzBWQ3lFSEN3MGhKRTYxdnFxQ0ZCVTdWOUVFOWhWa1VYekVSY2FKN012ZFM3WlFCQ1Z1MnZ4cDNpR05mbVFocGFRYnViTTI5WklVUVFVM0xXNk9nZnZMSUZ6RW9STERjU3I1YW1FcC12SnFHa3QtYU1idHY5WVlzOXctcXg0TG54WE1NdEFSUVN2Q0d1c1dKa2FfWkp0WGpta28zbjBNcEtjS1F0aTFYWDdhcE9PQUJCeC1MTFYySVdZ?oc=5",
-    "title": "חוף שמשתנה כל הזמן על ידי הטבע",
-    "description": "חוף שמשתנה כל הזמן על ידי הטבע  MSN",
-    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNM21XbnVWdHJuendaaGlYSk52ZS1ZTXZmWmhNeF9zR002eklvSk1XekFXdTM0b2g1MFB0VEgzdk5CWFIwUDZVMHJVU3VTdjM0OEpLR21hSmQwc3BsY3A0eHpHbTA1Y3drVTNjXzBWQ3lFSEN3MGhKRTYxdnFxQ0ZCVTdWOUVFOWhWa1VYekVSY2FKN012ZFM3WlFCQ1Z1MnZ4cDNpR05mbVFocGFRYnViTTI5WklVUVFVM0xXNk9nZnZMSUZ6RW9STERjU3I1YW1FcC12SnFHa3QtYU1idHY5WVlzOXctcXg0TG54WE1NdEFSUVN2Q0d1c1dKa2FfWkp0WGpta28zbjBNcEtjS1F0aTFYWDdhcE9PQUJCeC1MTFYySVdZ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1780389997000,
-    "source": "MSN",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNM21XbnVWdHJuendaaGlYSk52ZS1ZTXZmWmhNeF9zR002eklvSk1XekFXdTM0b2g1MFB0VEgzdk5CWFIwUDZVMHJVU3VTdjM0OEpLR21hSmQwc3BsY3A0eHpHbTA1Y3drVTNjXzBWQ3lFSEN3MGhKRTYxdnFxQ0ZCVTdWOUVFOWhWa1VYekVSY2FKN012ZFM3WlFCQ1Z1MnZ4cDNpR05mbVFocGFRYnViTTI5WklVUVFVM0xXNk9nZnZMSUZ6RW9STERjU3I1YW1FcC12SnFHa3QtYU1idHY5WVlzOXctcXg0TG54WE1NdEFSUVN2Q0d1c1dKa2FfWkp0WGpta28zbjBNcEtjS1F0aTFYWDdhcE9PQUJCeC1MTFYySVdZ?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/food/2026-06-02/ty-article-magazine/0000019e-6475-d6f2-a1fe-f5752f5c0000",
-    "title": "הנקמה המתוקה של השף הצרפתי שאיבד כוכב מישלן",
-    "description": "הנקמה המתוקה של השף הצרפתי שאיבד כוכב מישלן  הארץ",
-    "url": "https://www.haaretz.co.il/food/2026-06-02/ty-article-magazine/0000019e-6475-d6f2-a1fe-f5752f5c0000",
-    "image": "https://img.haarets.co.il/bs/0000019e-6475-d6f2-a1fe-f5752f5c0000/73/0d/a41887c240b8b4e61300f017c5ad/204723.jpg?&width=1200&height=630&cmsprod",
-    "timestamp": 1780388520000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVlWZ0tlRll2V0hHUkpoczJPRXNFNHNXOV8zNVpYYnh2a1B0T195bUhaeTEtUDJfWDB6QlV6U0lvUHJTVzdqYm5ubkVqdzFhcmE5azEyc1U2RjZNUzM0bGFQaXJJR2M4a1NreUhwT01SVlk0cDNjcGI2NFBvTDFLOGVXVjBjRm9QTTIwVGw0WW0yZ1o3dHU2cUROamh3WEU?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
