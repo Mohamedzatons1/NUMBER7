@@ -435,43 +435,5 @@
     "extra": "Slovenia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001544926",
-    "title": "\"פוצצתי את זה כי נמאס לי\": המשבר החשאי של ישראייר בסלובניה נחשף",
-    "description": "\"פוצצתי את זה כי נמאס לי\": המשבר החשאי של ישראייר בסלובניה נחשף  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001544926",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1773150146/direct/800_zbeqp7.jpg",
-    "timestamp": 1780507729000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJRFpKNU13RHRMZnh3ZkNqYTZRZFY5LXNDZ1V1MXpiSWpPVlVzYm10REV4YldDNk9Sc3lBWkVuZXNrTy1vVWZUaGJpeUJHV0ljM3N5Nk5EX0lPVWE0WF9hSk1nRXBjNUdX?oc=5",
-    "rssid": "laN349",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Slovenia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ice.co.il/culture/news/article/1115487",
-    "title": "השחקן הישראלי על התקרית בסלובניה: \"ביקשו שנקדים ב-5 שעות, לא הבנתי\"",
-    "description": "השחקן הישראלי על התקרית בסלובניה: \"ביקשו שנקדים ב-5 שעות, לא הבנתי\"  ice (אייס)",
-    "url": "https://www.ice.co.il/culture/news/article/1115487",
-    "image": "https://img.ice.co.il/giflib/news/9ice1862020.jpg",
-    "timestamp": 1780505700000,
-    "source": "ice (אייס)",
-    "publisher_id": "www.ice.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBscUtOMUR6VjI5TVlyME4xbExDc21LVk5KZW1TcDBnMFZyNWFmT0JtMDhseVRheWdiYzkzNXVzcVNIRWpHNGdncnJYSmNIM1FRUzQ3c3N5bTN3dXRBRTFZ?oc=5",
-    "rssid": "laN349",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Slovenia",
-    "likes": 0,
-    "comments": 0
   }
 ]
