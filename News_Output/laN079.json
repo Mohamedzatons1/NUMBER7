@@ -3608,43 +3608,5 @@
     "extra": "Iran",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
-    "title": "Trump says he could meet Iran's supreme leader 'if it was to make a deal'",
-    "description": "Trump says he could meet Iran's supreme leader 'if it was to make a deal'  CNBC",
-    "url": "https://www.cnbc.com/2026/06/04/trump-iran-supreme-leader.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108316683-1780578684893-gettyimages-2279672905-kd1_8445_xllmw1ma.jpeg?v=1780578718&w=1920&h=1080",
-    "timestamp": 1780604847000,
-    "source": "CNBC",
-    "publisher_id": "www.cnbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PeTlCbHpueHY1cHl0NkJZcW82emNTNXBMVE8zbjNCdUthNVV1Ti1lTUExWkU4UVN2czNGTm1WT2pOZTcwcWoyNTRPU0hMNFBQaU42N0xmRExJS2JLWTlOcTVxVVA1RU9yMm5yV3VnONIBdEFVX3lxTFBCVXFvX2RtMmZqRi03Y2dOekNka1huMXlXR2NzRnBRc3o4Sy1OQUtBSnU4M2prMm5CdnZmN0N1QjM0aXhaYjc3ajBZUUlUWTdtZkdxOW5zSS0yRzB1cGZqbnBPNUY3YkxYSlVMNHphRGprUHJn?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cbsnews.com/news/dow-jones-today-900-points-record-high-iran-deal/",
-    "title": "Dow soars nearly 900 points as Wall Street bets on Iran peace deal",
-    "description": "Dow soars nearly 900 points as Wall Street bets on Iran peace deal  CBS News",
-    "url": "https://www.cbsnews.com/news/dow-jones-today-900-points-record-high-iran-deal/",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/19/d92f86ad-2257-489f-9833-bad3baef1908/thumbnail/1200x630/6dbe061c8db9a70235f37811439e0c6f/gettyimages-2126121315.jpg",
-    "timestamp": 1780599660000,
-    "source": "CBS News",
-    "publisher_id": "www.cbsnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0ZheXpiXzlvQU9SQWRzYVdSYXdCbTc4UlAwSkpLRUNZVTBTX3BlX3lLSHppcFNMZ2UzRmJFcDEzTHJCeGJiX2tmNlY4cHA1UHFmSjRQRF9GWFR0RmtJMlpMUm0wN3BoQ2xJU3VQelBaVlpmWVdvVDhlX014TWVqUTlBeFQ?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
   }
 ]
