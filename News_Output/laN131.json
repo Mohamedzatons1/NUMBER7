@@ -853,43 +853,5 @@
     "extra": "Palau",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://focustaiwan.tw/politics/202606060006",
-    "title": "VP Hsiao sets off for 5-day visit to Palau",
-    "description": "VP Hsiao sets off for 5-day visit to Palau  Focus Taiwan",
-    "url": "https://focustaiwan.tw/politics/202606060006",
-    "image": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/WebOg/600/2026/20260606/1152x605_350858909408.jpg",
-    "timestamp": 1780728840000,
-    "source": "Focus Taiwan",
-    "publisher_id": "focustaiwan.tw",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nS3B1dTk4Wng3U0h2LWNXVjhHVXRTbEpyV0pMN3hFY2RyVWgwV0t3dnh2Z3pmWjZOdVJjckoyTElsZzhkWWFySXRzQzRkRnVDVXBPWTBlNA?oc=5",
-    "rssid": "laN131",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Palau",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.taiwannews.com.tw/en/news/6377905",
-    "title": "Hsiao leaves for Palau on first ally visit",
-    "description": "Hsiao leaves for Palau on first ally visit  Taiwan News",
-    "url": "https://www.taiwannews.com.tw/en/news/6377905",
-    "image": "https://image.taiwannews.com.tw/2026%2F06%2F06%2F4974f2edc14a4bf8ae5cb7b5494f0e3a.jpg",
-    "timestamp": 1780726620000,
-    "source": "Taiwan News",
-    "publisher_id": "www.taiwannews.com.tw",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qeDR4RGVYQm9Tc3BFMGNXQ3BSV3YxbHNFOTVlQ2x5REdlU1VFV0J1aFVUX0xlcUVtNU9CTTFwa2pZRjgwQkhUUFc2Nk8tNGFSQWZ3ZFA4UUU?oc=5",
-    "rssid": "laN131",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Palau",
-    "likes": 0,
-    "comments": 0
   }
 ]
