@@ -1062,43 +1062,5 @@
     "extra": "Lithuania",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://ua.news/en/world/u-litvi-cherez-tri-tornado-znestrumleni-tisiachi-budinkiv",
-    "title": "Thousands of homes in Lithuania have lost power due to three tornadoes",
-    "description": "Thousands of homes in Lithuania have lost power due to three tornadoes  UA.NEWS",
-    "url": "https://ua.news/en/world/u-litvi-cherez-tri-tornado-znestrumleni-tisiachi-budinkiv",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/no-image.webp",
-    "timestamp": 1780746900000,
-    "source": "UA.NEWS",
-    "publisher_id": "ua.news",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnVtMWVaNHFPeXQ2TTFIVkZWLTVrTEE0bG1ZZFl6ZkVIdk83MXRyRV83ZUtldVh3dm1UYWIyU0xXczV4NDhuRUR2bEFlX1BUVHN1dE5ESUM4a3lHOERXeGZLR1Q0eHhXcm4yT3ZPMTJYVnVNT1ZnR0x3R1B4YWQwUnZaNnp1czJ0Snc?oc=5",
-    "rssid": "laN098",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Lithuania",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42E02J:0-lithuania-s-social-democrats-remove-junior-party-from-coalition-government-seek-new-partner/",
-    "title": "Lithuania's Social Democrats remove junior party from coalition government, seek new partner",
-    "description": "Lithuania's Social Democrats remove junior party from coalition government, seek new partner  TradingView",
-    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42E02J:0-lithuania-s-social-democrats-remove-junior-party-from-coalition-government-seek-new-partner/",
-    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "timestamp": 1780746142000,
-    "source": "TradingView",
-    "publisher_id": "www.tradingview.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLWRjTnZyM1RycHE5SXk1WVZyTUxVZHh0R1RBZnBFdG9kT0ZjZFo1ZEdrXzBuMzcwcmphcm0zREJ2bTJ3YkIzVlJRM2tXOEFkQVJtMWFFbmN6bW5fUnZOMzRKQkl0NWc2Q3dxT3lnYW1Xd1l1dXFvazJkQVoxVlhXd1RCb2ZkS0NsX3E4Y3lMV3BVdS1zLTZrdkIxbmRUdFZtRWpsOVFFc2w2bktvR0c5blY2ZEY1VWRjWm1wZTJtUGkzcDZNZnFBVUVhQnh3djN2VG5iVlRoODNYcVJxWG14WVRhQ2UzZ2F5dFQyWHpIclFNM1E?oc=5",
-    "rssid": "laN098",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Lithuania",
-    "likes": 0,
-    "comments": 0
   }
 ]
