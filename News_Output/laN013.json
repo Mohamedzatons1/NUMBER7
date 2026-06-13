@@ -1461,43 +1461,5 @@
     "extra": "Bahrain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.foxnews.com/video/6397762824112",
-    "title": "Iranian attacks on Bahrain and Kuwait reignite concerns war could restart",
-    "description": "Iranian attacks on Bahrain and Kuwait reignite concerns war could restart  Fox News",
-    "url": "https://www.foxnews.com/video/6397762824112",
-    "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98998f51-3e0f-4b1b-95a2-558c3ec1d9cb/38066b2c-01ba-4dd5-8a96-44a12767a3ff/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-    "timestamp": 1780779327000,
-    "source": "Fox News",
-    "publisher_id": "www.foxnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1NkhkUGxyLVF3dnlBempMY3hhUmFhbXAwakh4Z3lUNFlSbVdIVnUtZHJYSWpocjRuYjBHbDVFVzNxU1ZzN2ZxbEtEa2EwcFlnSTdmNENn?oc=5",
-    "rssid": "laN013",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahrain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.the-journal.com/articles/air-raid-sirens-in-bahrain-as-iranian-missiles-and-drones-head-for-gulf-neighbors/",
-    "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire - Front",
-    "description": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire  Front - The Journal",
-    "url": "https://www.the-journal.com/articles/air-raid-sirens-in-bahrain-as-iranian-missiles-and-drones-head-for-gulf-neighbors/",
-    "image": "https://imengine.public.prod.dur.navigacloud.com/?uuid=be3e3ba3-e8d3-530f-af3d-ce78172c7ed7&function=fit&type=preview",
-    "timestamp": 1780776170000,
-    "source": "Front - The Journal",
-    "publisher_id": "www.the-journal.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlhpbTI5U2VacnBqQzhkQlFXaXBlY1BFeWotUU5YRGN5cDdqRVhoajNtamNsNlhJT1FFM25iTTlzRWtKeVhLQnMzMVZPc01rOXVUNkxVTHpZaGxVelJ4SUhXTVhtMGpWLWNfU2p1VktKVHV5YmpfUkJJNzN0LVVIajVaMm9hR18xejBHQ0IzRjhwRFd2QWZxYUJJY0liblhqQkJoaVNOMzJTdEYyTVpwcHp0MnZBWWh2ZDNv?oc=5",
-    "rssid": "laN013",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahrain",
-    "likes": 0,
-    "comments": 0
   }
 ]
