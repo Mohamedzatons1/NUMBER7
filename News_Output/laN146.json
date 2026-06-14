@@ -1252,43 +1252,5 @@
     "extra": "Samoa",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/between_the_lines/120310",
-    "title": "Between the Lines",
-    "description": "Between the Lines  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/between_the_lines/120310",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/799ddb392321e7531c7194fe8a5a8ae2.jpg",
-    "timestamp": 1780830225000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yXzFuaTFQZ3dBWTI4MWl6SDJvZjN3ZTJrQ2Q1V0lpNE1HRkUyTDhDMGp3emRxTW5FaHRmSElGdXBYSV9BdFdydUhTTkpLQ0xSTmlDN2gtajJVbWloa2lXdzNxZVBza2VYWFg1ZThhaw?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/sponsored/120306",
-    "title": "Kontiki Finance celebrates one year anniversary in",
-    "description": "Kontiki Finance celebrates one year anniversary in  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/sponsored/120306",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/deb31a7d7abedeace2d1ce2adf383fd6.jpg",
-    "timestamp": 1780826611000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NQWJZZlBkVWJRUFlEQmI1blBBcGNqd0FLcFNPZktqV2ExZ2VNR1RxdVFOU2VYZnZWclJVWkNVT1VQVDg1aUxPX2lvcy10dWJROVI1dG16WXVQOEktcnpvVFdxRUE?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
   }
 ]
