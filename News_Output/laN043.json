@@ -2278,43 +2278,5 @@
     "extra": "Cuba",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://abcnews.com/alerts/Cuba",
-    "title": "Cuba - ABC News",
-    "description": "Cuba  ABC News - Breaking News, Latest News and Videos",
-    "url": "https://abcnews.com/alerts/Cuba",
-    "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-    "timestamp": 1780799043000,
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "publisher_id": "abcnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kMkxkcVRGRFBDZlJGUzhIMkR4RFNSWGFPeTdSbGJlazhNRi1NU0lRQURhc0tDbVBsaW9jOE9IRmVPc0ZFbXc?oc=5",
-    "rssid": "laN043",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Cuba",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.local10.com/video/news/2026/06/06/cuba-ex-president-raul-castro-makes-first-appearance-since-us-charges-to-celebrate-birthday/",
-    "title": "Cuba ex-President Raúl Castro makes first appearance since US charges to celebrate birthday",
-    "description": "Cuba ex-President Raúl Castro makes first appearance since US charges to celebrate birthday  WPLG Local 10",
-    "url": "https://www.local10.com/video/news/2026/06/06/cuba-ex-president-raul-castro-makes-first-appearance-since-us-charges-to-celebrate-birthday/",
-    "image": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F06-07-2026%2Ft_6886de9981a345c3ba6b77f54c84c7eb_name_46392991204_hdtv.jpg?auth=317dbe37a8b475bbc1690381ca53cb41f55ac910a34834aaec394bf65cd6346f&width=700",
-    "timestamp": 1780798647000,
-    "source": "WPLG Local 10",
-    "publisher_id": "www.local10.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFBsa3Q0NERhSEZIUl80TGtleERiN0x5TWNSdDgzVEtkMTRMU2k2dzNPWXdIOUNyeWRVMFA0ZHNaamU2WEZyMWRodThLbzVxQkpfak0xWjJkeEQweVhhSjYxVWZWUmtFY3c4RXItTlk3SGJxOUNHS29fWU9YMGFSN3p3MHJxaHBGMDVJaElJcFVwLTVCVkUzV1V5dTVaMEtiNUhWVnU0cTBQYkR2NnFKNHFnZUlPR1g2UjV6bnExWlZwUkdDV0d6akViXzAtYlg4Um5GZA?oc=5",
-    "rssid": "laN043",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Cuba",
-    "likes": 0,
-    "comments": 0
   }
 ]
