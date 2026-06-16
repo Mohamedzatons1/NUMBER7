@@ -340,24 +340,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/kremlius-yra-problemu-120261213",
-    "title": "Kremlius: yra problemų",
-    "description": "Kremlius: yra problemų  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/kremlius-yra-problemu-120261213",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/05634ff2-778b-4131-8e56-94d64d9d1edd.jpg?w=1200&h=800&ch=0.8438&cw=1&cx=0&cy=0.0547",
-    "timestamp": 1780989483000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84XzFiSF9KekMtcXNqSzVmSnhQME96U0J5azJEUTFCemhyQmF4V0JvV0FkaHg1bVZFckdPa0dvZE9pVnY1YmlUeEJlNHVuMEVzOVVGbUJoOFdiaEdHZTRKM1JxeWhmc0tiSUUwcERFdkt0aUZNTGJ3dTViTnI?oc=5",
-    "rssid": "laN527",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
