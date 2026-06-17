@@ -1005,43 +1005,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://13tv.co.il/item/news/politics/security/wal6r-905206914/",
-    "title": "על מסלול ההתנגשות: השאיפות של ארדואן הופכות את טורקיה לאיום",
-    "description": "על מסלול ההתנגשות: השאיפות של ארדואן הופכות את טורקיה לאיום  רשת 13",
-    "url": "https://13tv.co.il/item/news/politics/security/wal6r-905206914/",
-    "image": "https://media3.reshet.tv/image/upload/t_og_image/v1761038937/uploads/2025/904811709.jpg",
-    "timestamp": 1781112763000,
-    "source": "רשת 13",
-    "publisher_id": "13tv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TeXk0R1BOU0F0SnlCZWhWOVpHaUxjUzlRcDdYaWRJZ0dQZ09SYVRBSXpiMjdRcFlzU3NoWXBQMU91Z05NVnI0LTZ3Z2kxNWlKa0EwWFFhVE0xQ2ZpQ3hnWnZ1WWtsUmp6TjhYSWFBVWg?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kT0hBaXZlVDlrWmo1ckMtaFVTTC1SMjVLUXpMVkJvSDZZOWV1di1yWmdja2lKZm51SGZoU2xPZnhPUEJhVG1mYVQ4T3RuUQ?oc=5",
-    "title": "צפו: טראמפ נשאל האם תהיה מלחמה בין ישראל לטורקיה - כך הגיב",
-    "description": "צפו: טראמפ נשאל האם תהיה מלחמה בין ישראל לטורקיה - כך הגיב  C14",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kT0hBaXZlVDlrWmo1ckMtaFVTTC1SMjVLUXpMVkJvSDZZOWV1di1yWmdja2lKZm51SGZoU2xPZnhPUEJhVG1mYVQ4T3RuUQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1781107502000,
-    "source": "C14",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kT0hBaXZlVDlrWmo1ckMtaFVTTC1SMjVLUXpMVkJvSDZZOWV1di1yWmdja2lKZm51SGZoU2xPZnhPUEJhVG1mYVQ4T3RuUQ?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
