@@ -644,24 +644,5 @@
     "extra": "Guinea",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ga.gov.au/news/australia-and-papua-new-guinea",
-    "title": "Australia and Papua New Guinea",
-    "description": "Australia and Papua New Guinea  Geoscience Australia",
-    "url": "https://www.ga.gov.au/news/australia-and-papua-new-guinea",
-    "image": "https://www.ga.gov.au/__data/assets/image/0009/190944/Prof-Renagi-group-shot-web.jpg",
-    "timestamp": 1781051379000,
-    "source": "Geoscience Australia",
-    "publisher_id": "www.ga.gov.au",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9icVNTOG5oR2R6R2J2aDcxeHVpVU54R1dZVDJNdUtkcGRwdnFTMVRPN3U0a1ZlWVpWbFZIYjNnTXFrcVBFeFE5bmg4dEZVa3ZHSmQxTkx1bE5VRHZMSlRIdHhwQTNhVGQy?oc=5",
-    "rssid": "laN070",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Guinea",
-    "likes": 0,
-    "comments": 0
   }
 ]
