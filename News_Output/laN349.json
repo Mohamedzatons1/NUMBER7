@@ -55,43 +55,5 @@
     "extra": "Slovenia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/politics/2026-06-11/ty-article/.premium/0000019e-b7a9-d7bd-a3bf-bfed034a0000",
-    "title": "לאחר החלפת הממשלה, סלובניה הודיעה כי תסיר את הסנקציות מישראל",
-    "description": "לאחר החלפת הממשלה, סלובניה הודיעה כי תסיר את הסנקציות מישראל  הארץ",
-    "url": "https://www.haaretz.co.il/news/politics/2026-06-11/ty-article/.premium/0000019e-b7a9-d7bd-a3bf-bfed034a0000",
-    "image": "https://img.haarets.co.il/bs/0000019e-b7a9-d7bd-a3bf-bfed034a0000/92/aa/3e1cbb65426e898a9a859c8dba78/082560.jpg?precrop=2200,1280,x0,y0&width=1200&height=630&cmsprod",
-    "timestamp": 1781203920000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVRabGlyekh0MjNXQ19LejBZME16ZGowWV9wR0JVZ3pTZ2p3Y190YlJueEtVZ3BpOWJqWFdnVnFsX190Y2xtMVpiUHVNMHhzcktJRk9BRmVaYkRnUktRaFE1ZW13UlJoTnFnMVdXUTZ0NEl2NERCaGV0VDBJUl9BNzRWY01xTlhOcEd3cWdpeWFtNEc0REh0MENiX3ZQQXlLWndjNW1wZlkwSU0?oc=5",
-    "rssid": "laN349",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Slovenia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.hidabroot.org/article/1223644",
-    "title": "הממשלה החדשה בסלובניה: בוטלו הסנקציות שהוטלו על ישראל",
-    "description": "הממשלה החדשה בסלובניה: בוטלו הסנקציות שהוטלו על ישראל  הידברות",
-    "url": "https://www.hidabroot.org/article/1223644",
-    "image": "https://storage.hidabroot.org/articles_new/3a3802b4-7bfa-4ea9-9e08-f5f77e944ee2_tumb_1200X675.webp",
-    "timestamp": 1781203560000,
-    "source": "הידברות",
-    "publisher_id": "www.hidabroot.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qcmIyVWpRVUhzS29UVjFubjlkVGlnSmxiZU5kSlFJS29ra1poZG1WZXY5LVJRcFRSX3JxYTV2ZGlXZHYwY091Um5FY3VKS1BicDVN?oc=5",
-    "rssid": "laN349",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Slovenia",
-    "likes": 0,
-    "comments": 0
   }
 ]
