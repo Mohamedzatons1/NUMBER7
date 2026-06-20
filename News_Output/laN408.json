@@ -74,5 +74,43 @@
     "extra": "Bosnia and Herzegovina",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.lrt.lt/naujienos/sportas/10/2964347/akistata-del-pirmosios-pergales-cempionate-sveicarija-bosnija-ir-hercegovina",
+    "title": "Akistata dėl pirmosios pergalės čempionate: Šveicarija – Bosnija ir Hercegovina",
+    "description": "Akistata dėl pirmosios pergalės čempionate: Šveicarija – Bosnija ir Hercegovina  LRT",
+    "url": "https://www.lrt.lt/naujienos/sportas/10/2964347/akistata-del-pirmosios-pergales-cempionate-sveicarija-bosnija-ir-hercegovina",
+    "image": "https://www.lrt.lt/img/2026/06/18/2420400-644227-1287x836.jpg",
+    "timestamp": 1781808600000,
+    "source": "LRT",
+    "publisher_id": "www.lrt.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUNLWFNxdVBRUmR4MGpWMzVzRGVoR1pQQmFuWVZhRVJGc3ltT2trR1FBc0Y0Rk5jSnhrQnB3emF6bDYxc2xBakEtMnRTWGQyR0FONVJKUjgtNjFsa1RpdFR2WGMzUnJUOFZubUxBeTZFdk8xZGFZS3AzQkpLdG04cjltZWNxWUE3cG9pbkd3MmpraFFNYldWclJJMXB4ek9Gd3VpazJFRmI1eW56R3VHTU9qYXFZRUstUmRHVzJMTzZ0dw?oc=5",
+    "rssid": "laN408",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Bosnia and Herzegovina",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://madeinvilnius.lt/en/pasaulio-futbolo-cempionatas-2026/?rungtynes=537350",
+    "title": "FIFA World Cup 2026 LIVE: results, schedule, standings",
+    "description": "FIFA World Cup 2026 LIVE: results, schedule, standings  MadeinVilnius.lt",
+    "url": "https://madeinvilnius.lt/en/pasaulio-futbolo-cempionatas-2026/?rungtynes=537350",
+    "image": "https://madeinvilnius.lt/wp-content/uploads/2026/06/34242sd342432-scaled.jpg",
+    "timestamp": 1781488021000,
+    "source": "MadeinVilnius.lt",
+    "publisher_id": "madeinvilnius.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZklYY3ZNZnJtQWVfYzRZcU9xN0d3c3JsdHJMcjR5REt0MFpNYXFZM29CWnBZWXp1VEsyclJjam02eHY3UXd5S0dqWlhZMzFvZ3dKb1pieDNhand1WHhJMk5WeHV0NDF6NFFuUEdjZnRiRHM1b2JwbDZGdG9CMUpLQXprZm90UQ?oc=5",
+    "rssid": "laN408",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Bosnia and Herzegovina",
+    "likes": 0,
+    "comments": 0
   }
 ]
