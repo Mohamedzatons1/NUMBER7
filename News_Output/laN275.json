@@ -796,43 +796,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/hang-nghin-nguoi-do-xuong-cac-duong-pho-o-rome-phan-doi-nhap-cu",
-    "title": "אלפי אנשים יצאו לרחובות רומא במחאה נגד ההגירה.",
-    "description": "אלפי אנשים יצאו לרחובות רומא במחאה נגד ההגירה.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/hang-nghin-nguoi-do-xuong-cac-duong-pho-o-rome-phan-doi-nhap-cu",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/15/1781495072262_ng-bieur-tinh-jpg.webp",
-    "timestamp": 1781496077000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEZBTFc4aGV1OXNyWUhTTWlYd042UVlWQ1FiLUx5TjVyOXRyMFpxbVFzMS1raFg4NEFfNXpsM2J5VXI0UDBULVgzX1BrX3FvTXZSeWxCSzhBNGFzTXVYZ195UnBKN0Q4Q2JEQnZ6bjVDSWFNR3ZKa2ZER09lbEpaWHNjV2ctdjRFNVRwSFJqalpIbm8?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/anh-phap-duc-va-italy-san-sang-do-bo-lenh-trung-phat-iran",
-    "title": "בריטניה, צרפת, גרמניה ואיטליה מוכנות להסיר את הסנקציות על איראן.",
-    "description": "בריטניה, צרפת, גרמניה ואיטליה מוכנות להסיר את הסנקציות על איראן.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/anh-phap-duc-va-italy-san-sang-do-bo-lenh-trung-phat-iran",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/15/1781487256624_ttxvn-nguoi-dan-iran-jpg.webp",
-    "timestamp": 1781488266000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRlFDOU1LaER3WTFVcm1vSTdrTElxQ0RJcXI2LTMtbkEtQlZzRGR5ZzR1bDdDQUt0eWZCUm4zNmxfSGJtRm1Cdm9HNnIxVEZDQ3B3UGVRRG9xVzlfWWtGaWRkRXg0eTF2cllGYTdDVUxZYUNLLUx1b1BsMFFUTXQ0TGw5MVN4SDRmVzU4?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
