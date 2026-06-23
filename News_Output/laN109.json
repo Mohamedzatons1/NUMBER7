@@ -2373,43 +2373,5 @@
     "extra": "Mexico",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.nytimes.com/video/world/americas/100000010971004/world-cup-mexico-jersey-duck.html",
-    "title": "Video: Among Mexico’s World Cup Fans: Merlin the Duck",
-    "description": "Video: Among Mexico’s World Cup Fans: Merlin the Duck  The New York Times",
-    "url": "https://www.nytimes.com/video/world/americas/100000010971004/world-cup-mexico-jersey-duck.html",
-    "image": "https://static01.nyt.com/images/2026/06/16/world/americas/merlin-duck-cover/merlin-duck-cover-facebookJumbo-v2.jpg?play-overlay",
-    "timestamp": 1781636342000,
-    "source": "The New York Times",
-    "publisher_id": "www.nytimes.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEFjTWRWeW03MFp1OGhuSkpWVXBxY1RLYS1tOVptTEtBRmVwZHBWanBGT3BZWkFxV0Iyd3k1WHktWTZEbVRvT2YzcVU2UjNwZFcxQTlIQms4R3lXU1RNRUd5Q0JJV3lCcUJfRVJ6NHduV3pLTUtUVm5jRnVTSXlmRUpIMkNoc2Q2OFZtT0NvZFE4NXdnbzluZ1FB?oc=5",
-    "rssid": "laN109",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.nbcnews.com/video/shorts/duck-wearing-mexico-jersey-becomes-viral-sensation-265183813784",
-    "title": "Duck wearing Mexico jersey becomes viral sensation",
-    "description": "Duck wearing Mexico jersey becomes viral sensation  NBC News",
-    "url": "https://www.nbcnews.com/video/shorts/duck-wearing-mexico-jersey-becomes-viral-sensation-265183813784",
-    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_06/Duck_Mexico_Thumb_Vert-9hsbpv.jpg",
-    "timestamp": 1781635506000,
-    "source": "NBC News",
-    "publisher_id": "www.nbcnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDlUS2xOVjhVc1ptTjZvcm5qR3VUQkNqLVY2UEo0amNIZjh2cFBIdXFYbDNkeHQydjlQSm9EY3c5RUk4Mkw4OEVpXzU3UGNhYjFNTl9qS05lRzZWR0JJSHhBdUJmZzdBWWNVQkY3SndNSzFZeDJ1N1pScXlDR2lHd1dpdk9YdmVIa29QcUNhSlgtZXFOcWdJMzRKZUpJdWxjWWc?oc=5",
-    "rssid": "laN109",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
   }
 ]
