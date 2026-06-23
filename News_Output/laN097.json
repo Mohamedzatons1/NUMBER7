@@ -131,43 +131,5 @@
     "extra": "Liechtenstein",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-switzerland-olivia-ricketts",
-    "title": "Change of His Majesty’s Ambassador to Switzerland: Olivia Ricketts",
-    "description": "Change of His Majesty’s Ambassador to Switzerland: Olivia Ricketts  GOV.UK",
-    "url": "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-switzerland-olivia-ricketts",
-    "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "timestamp": 1781604000000,
-    "source": "GOV.UK",
-    "publisher_id": "www.gov.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaS0yTEM0NEdjNDdkOEZzaVVLbjRCZ2hnMU14Unh0cUVjMU9MLWZLLTVUNDdNcDh6dlVzZVZYa1FSMDFudzhpZGFMeXFIWXBsQUZsVWNEY2ZlTl9TNnFQeXowNGVmU0h4SzdIeTRDM19OTkltNG56aDZ5RkN0WGMtbzJXQU9KSzV2SWJjQzV5em83ODY1aGNUNHRxZS11R1Et?oc=5",
-    "rssid": "laN097",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Liechtenstein",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://worldpopulationreview.com/countries/liechtenstein",
-    "title": "Liechtenstein",
-    "description": "Liechtenstein  World Population Review",
-    "url": "https://worldpopulationreview.com/countries/liechtenstein",
-    "image": "https://worldpopulationreview.com//images/country-flags/w1280/li.png",
-    "timestamp": 1781593200000,
-    "source": "World Population Review",
-    "publisher_id": "worldpopulationreview.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybkFVXzZiLTg0eTFYMm9NZnBscmpsUi1ncy0xaEhSeWpOcHdwNnA4emhpemRBdjJIaERtczhTSGprenZ1d3RjYUczQ2FuV0ZYWUdudVV0ZVZwbkxsVWlYVzNiT3YtaG1Z?oc=5",
-    "rssid": "laN097",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Liechtenstein",
-    "likes": 0,
-    "comments": 0
   }
 ]
