@@ -302,43 +302,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3846624",
-    "title": "חתימה מרחוק: נשיאי ארה\"ב ואיראן אישרו את מזכר ההבנות",
-    "description": "חתימה מרחוק: נשיאי ארה\"ב ואיראן אישרו את מזכר ההבנות  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3846624",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/6/5/4065829-46.jpg",
-    "timestamp": 1781732160000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oYmdVUzNjMzBjX2hVRVNoQW92ekRGN3RMNFRDRmtYY0Zrc2VOeWlPWGNXY1I2dnVWMkFET3BSVDY2bEhzY1JjUXB3aGxIQQ?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.davar1.co.il/684390/",
-    "title": "עדכונים שוטפים / משרד החוץ השוויצרי: שיחות ראשוניות בין ארה\"ב לאיראן מתוכננות ביום שישי באתר הנופש בורגנשטוק",
-    "description": "עדכונים שוטפים / משרד החוץ השוויצרי: שיחות ראשוניות בין ארה\"ב לאיראן מתוכננות ביום שישי באתר הנופש בורגנשטוק  davar1.co.il",
-    "url": "https://www.davar1.co.il/684390/",
-    "image": "https://static.davar1.co.il/www/uploads/2026/06/Screenshot-2026-06-18-055242.jpg",
-    "timestamp": 1781730240000,
-    "source": "davar1.co.il",
-    "publisher_id": "www.davar1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0cFlqU1ZPN3N2bk5jSFVXcllFaGEzZEZNcmFxaHhlRlFZT0lQa2lBVm9CRHZJSFBzNU5LMFNxNE0tYVEyWHZF?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
