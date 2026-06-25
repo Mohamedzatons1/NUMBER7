@@ -663,43 +663,5 @@
     "extra": "Sierra Leone",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1eygyg2zeno",
-    "title": "'My brother hid in a rice sack' - The refugee stars at the World Cup",
-    "description": "'My brother hid in a rice sack' - The refugee stars at the World Cup  BBC",
-    "url": "https://www.bbc.com/news/articles/c1eygyg2zeno",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/de9a/live/629d2eb0-65aa-11f1-8546-8f19e4fe30f4.jpg",
-    "timestamp": 1781790066000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JSVkxVVRNendpQWU4cjZVcUdEQWFybXlXcG1RUWZMYmJWWkVKVmVEN2MzWkJSUzVCdmtORHpteWhjclllR1B3ejM1QUdpUHFNeTNrQVh6ZmxtUQ?oc=5",
-    "rssid": "laN153",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Sierra Leone",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
-    "title": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
-    "description": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms  The Guardian",
-    "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
-    "image": "https://i.guim.co.uk/img/media/9a4e57df353ed3e037dce6a884a03e5e9af1cacf/491_476_5613_4492/master/5613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f23af75312aaa76caa6a268c5713266",
-    "timestamp": 1781788440000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDhkZ2NIMkdYSTVuNGJqYlc3cVp4OVJ6dzRGSnp6R1lXcWpvc1M3aFlQUS1rb0V3YzJKWGF2ejFhb0l4aDFubWhrWldBZlZTQVJzSThrRTZnY0RyTWhMT2pIek5yMDZyZGhhVVUyUUJBeU9xOThuTkI3c2pFV0luMVZhMklhMWc3QzNyUkpoNlMwbFZmd29wVktjUEV5dDBaVW5kRm1Kck9tdUpjRHE0eEF4cHMtbjQ3UGJ1ZVNsbC1oUENlUDM5N1YwMjNUUF9VRkxv?oc=5",
-    "rssid": "laN153",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Sierra Leone",
-    "likes": 0,
-    "comments": 0
   }
 ]
