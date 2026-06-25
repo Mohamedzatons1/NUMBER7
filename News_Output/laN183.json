@@ -3779,43 +3779,5 @@
     "extra": "United Kingdom",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cvg75npqkq4o",
-    "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-    "description": "Brexit cost 6% of UK economy, Bank of England company data suggests  BBC",
-    "url": "https://www.bbc.com/news/articles/cvg75npqkq4o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d91a/live/1bd38900-6b5b-11f1-b47c-952f3223237b.jpg",
-    "timestamp": 1781823905000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDdVZjekJOODY4SjYyTlJTMVZmQjllM2VxZXlSQ0pzVFNjbmFKSnRabVZrM0RmOUhwTVVOcnk2dnpnZVJoalZqelhDRko4MElxRkYtQkhMbWUwUQ?oc=5",
-    "rssid": "laN183",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "United Kingdom",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg75npqkq4o",
-    "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-    "description": "Brexit cost 6% of UK economy, Bank of England company data suggests  BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cvg75npqkq4o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d91a/live/1bd38900-6b5b-11f1-b47c-952f3223237b.jpg",
-    "timestamp": 1781823900000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TdU03Rm10NC1ZYk9NV3RhTmZkVE1kWHJISEdpa3ZSRGlsX3VaR2Z1TlYwZG9nVWpHUS1Cc2dLV2JGeldPR0ZCcGFIUlZXNGNHRHM4cDloWWpMUG9T?oc=5",
-    "rssid": "laN183",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "United Kingdom",
-    "likes": 0,
-    "comments": 0
   }
 ]
