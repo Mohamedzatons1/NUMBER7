@@ -1176,43 +1176,5 @@
     "extra": "Ethiopia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy49e7w3rmxo",
-    "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
-    "description": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital  BBC",
-    "url": "https://www.bbc.com/news/articles/cy49e7w3rmxo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/31f5/live/8d69b580-6b10-11f1-ad9f-addb423b1b6c.jpg",
-    "timestamp": 1781864730000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwTUpEX0RHNWxzUWJzOVltNnVxYW00UTZtSF9MWmNqTmlhUDNZWWhlZjN1TmplbnlwMFVuYjZXTzhmdU9OVndEeFBWal9PTXJMbE92OGJMOTFEUQ?oc=5",
-    "rssid": "laN058",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ethiopia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://link.springer.com/article/10.1007/s42399-026-02478-6",
-    "title": "First Marburg Outbreak in Ethiopia –A Regional Public Healthcare Concern",
-    "description": "First Marburg Outbreak in Ethiopia –A Regional Public Healthcare Concern  Springer Nature Link",
-    "url": "https://link.springer.com/article/10.1007/s42399-026-02478-6",
-    "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs42399-026-02478-6/MediaObjects/42399_2026_2478_Fig1_HTML.png",
-    "timestamp": 1781861996000,
-    "source": "Springer Nature Link",
-    "publisher_id": "link.springer.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SUEd6NWNkdFN3OUxGSWdUb3lGOXhaWXV2TVI0S2hsVVBEQzNXaXRCb0ppbWFReGctQXRaSndqcWF5cEJOWVVzNl8xTlYwRnkzYy1ZVElYNnZoaTE5ZHVnYU5mb3Z0T1FVQm9Pcg?oc=5",
-    "rssid": "laN058",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ethiopia",
-    "likes": 0,
-    "comments": 0
   }
 ]
