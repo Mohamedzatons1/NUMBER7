@@ -188,43 +188,5 @@
     "extra": "Belgium",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150ep4i-neilands-finise-astotaja-desmita-baloise-belgium-tour-posma?language=lv&source=portal",
-    "title": "Neilands finišē astotajā desmitā \"Baloise Belgium Tour\" posmā",
-    "description": "Neilands finišē astotajā desmitā \"Baloise Belgium Tour\" posmā  Inbox.lv",
-    "url": "https://news.inbox.lv/150ep4i-neilands-finise-astotaja-desmita-baloise-belgium-tour-posma?language=lv&source=portal",
-    "image": "https://news.inbox.eu/w/img/11/73/1173d5e7b2a1bd6de2.jpg",
-    "timestamp": 1781898669000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzF5RVVEUmswQ0RBNTZmaVZuNl9RX3cxMl9kYkZUNV9nS1hYYWNJdk5HMmNlMTU0TXJDanc4U3lnWV84WDBWamVHSHZsRGlITUFpaDhSMlM4bnMtcGVBNFRkWXZwRlFaeHZiQWFTXzEyRkdxTmR3YlNobFhLUFQxWl9CanJYaW9XMkFZdVM4RDZmUEZPVmFGVmoxUWNnSkR3QWFfRk4wM002WHpFUEYwX0o4WllmQQ?oc=5",
-    "rssid": "laN596",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Belgium",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://tv3.lv/sports/citi/neilands-finise-astotaja-desmita-baloise-belgium-tour-posma/",
-    "title": "Neilands finišē astotajā desmitā \"Baloise Belgium Tour\" posmā",
-    "description": "Neilands finišē astotajā desmitā \"Baloise Belgium Tour\" posmā  tv3.lv",
-    "url": "https://tv3.lv/sports/citi/neilands-finise-astotaja-desmita-baloise-belgium-tour-posma/",
-    "image": "https://tv3cdn.lv/thumbnails/1200x630/2026/06/0a4d-6a357328a41ab-scaled.jpg",
-    "timestamp": 1781887869000,
-    "source": "tv3.lv",
-    "publisher_id": "tv3.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHdmU0x1T1dOd1JWWjU0LVhnX2NtSUF1Vmx0RUtSVFE3eEVmUWNqcWpvYVdfbTBEMk5EQXdIeEIzODlfWWEyNTI4eTFOc2NDYWdmSVBjaWswT0lVdEl2NEZtdkxWVkc5Z214VzdER3J1TldydFBiZDZocGZqMHdNSWQ4M1VQdVpYUFhWc3NpemM?oc=5",
-    "rssid": "laN596",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Belgium",
-    "likes": 0,
-    "comments": 0
   }
 ]
