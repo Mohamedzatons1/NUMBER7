@@ -2981,43 +2981,5 @@
     "extra": "Singapore",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://finance.yahoo.com/technology/ai/articles/dhl-transitions-zelostech-autonomous-vehicles-130000552.html",
-    "title": "DHL transitions Zelostech autonomous vehicles to live Singapore hub ops",
-    "description": "DHL transitions Zelostech autonomous vehicles to live Singapore hub ops  Yahoo Finance",
-    "url": "https://finance.yahoo.com/technology/ai/articles/dhl-transitions-zelostech-autonomous-vehicles-130000552.html",
-    "image": "https://s.yimg.com/os/en/freightwaves_373/77455f120e13b5153141978d669adff6",
-    "timestamp": 1781960400000,
-    "source": "Yahoo Finance",
-    "publisher_id": "finance.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObml3TkRfZnJvSkNXNHFLWmtpMmFzUC1tYjZjSDNQdTdtMVdYaU1xVmdBNF9lVV9EQm93ejl4Q3BQcVhkN1RacmpfZTU4V3ZvbkFIMHA5YVlqcURJS3lnYzg5T2ZiSjBxelJ0blVHRDNULXlGcGJKU0JoYUs0bHdWb1ZBR2pSWHY0N0dXc3FnaUdpTS1FTV9CXzJXNzhjR3VMeHZobjNIYjlHeVAyWmc?oc=5",
-    "rssid": "laN154",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Singapore",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.freightwaves.com/news/dhl-zelostech-autonomous-vehicles-singapore-arc",
-    "title": "DHL transitions Zelostech autonomous vehicles to live Singapore hub ops",
-    "description": "DHL transitions Zelostech autonomous vehicles to live Singapore hub ops  FreightWaves",
-    "url": "https://www.freightwaves.com/news/dhl-zelostech-autonomous-vehicles-singapore-arc",
-    "image": "https://freightwaves.b-cdn.net/wp-content/uploads/2026/06/18/DHL-autonomous-truck-Singapore.jpg?width=1200&height=630",
-    "timestamp": 1781960400000,
-    "source": "FreightWaves",
-    "publisher_id": "www.freightwaves.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlpmUXNkeWd3MnVhamtnWHlXeUtpRkktYWxDY2M4RXQ0bHJsVENVZ2h3U0NISXBtR3kwZEtDUU80S2dBM1lsMGpVMnhRR2hzMTlfMmktYVNkMDY2YlhNOWJiQlRJeUVZNzczc1FxVjRRZ0QzZHI5OTNua2xsS2gwdHZEZnV3d3lT?oc=5",
-    "rssid": "laN154",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Singapore",
-    "likes": 0,
-    "comments": 0
   }
 ]
