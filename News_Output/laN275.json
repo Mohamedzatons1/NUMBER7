@@ -511,43 +511,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/h1z4grvfzg",
-    "title": "טראמפ: \"מלוני ביקשה שוב ושוב להצטלם\"; ר\"מ איטליה: ממליצה שתתעסק בעצמך",
-    "description": "טראמפ: \"מלוני ביקשה שוב ושוב להצטלם\"; ר\"מ איטליה: ממליצה שתתעסק בעצמך  ynet",
-    "url": "https://www.ynet.co.il/news/article/h1z4grvfzg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/20/B18ceBNfGl/B18ceBNfGl_0_469_730_412_0_large.jpg",
-    "timestamp": 1781973560000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yRWx1ejZsTEpfQ2dIMU9KTXZkOURTcWVMbTdNQkVicFZHWm9KWURrRVJkYm5UcXU5N2ktUi1BU0pyVDhENVhlU3Vmc3RzMTJXU0Y1QjR5M0lMdw?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/world-news/europe/article/20803355",
-    "title": "טראמפ מתעקש שמלוני ״התחננה לתמונה״ - שתקפה: ״תתעסק בשלך״ | הפיצוץ בין איטליה לארה״ב",
-    "description": "טראמפ מתעקש שמלוני ״התחננה לתמונה״ - שתקפה: ״תתעסק בשלך״ | הפיצוץ בין איטליה לארה״ב  היום",
-    "url": "https://www.israelhayom.co.il/news/world-news/europe/article/20803355",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2026/06/20/20/טראמפ-שלישייה-1280x853.jpg",
-    "timestamp": 1781972841000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hdlg0enFfQXRhR3J3c0Y4dzE4WHUyRHpSbTQxVUM2Tko2a0I3SklLaVhSd2lHMWJncUUxMmNNYzVTeVNBcDEzaVFGaU5hbnotZW5LdWpId1lwS21xT1gzVXZhUl9uUUpMcldsZFlGQ3JjT1Y0MTE5QdIBgAFBVV95cUxPaEVKM2ZfQnloMXhRNG11MTdjbFdWMW5nekRjUFdJN3RWdUlNX2hCX2d2MHBZbGY0TzI0NEY4UXR6SzJRYklhU3FKb1MxMFNlemRfMEhIWUZGSGhTdnJVX0YtN1ViZEFzb3Uxb2VlXzNFVW9LS1BObThJcjNTdDNJQg?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
