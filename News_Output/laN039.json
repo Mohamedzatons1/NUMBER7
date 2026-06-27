@@ -741,6 +741,25 @@
     "comments": 0
   },
   {
+    "id": "https://www.afdb.org/en/countries/central-africa/congo",
+    "title": "Republic of Congo",
+    "description": "Republic of Congo  African Development Bank Group",
+    "url": "https://www.afdb.org/en/countries/central-africa/congo",
+    "image": "https://www.afdb.org/sites/default/files/congo.jpg",
+    "timestamp": 1782198000000,
+    "source": "African Development Bank Group",
+    "publisher_id": "www.afdb.org",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TTkRObmxzc1FGTTA1ejZVeU12c0F1OEp6T2tMZ1g1N3lRZmlSSHFGZXc1NkZGRnhfS2FtaDZXdDNIM29KSEJDVXRfQ1ZpVXJYUVYzcVIyNGxoYUN3emxIdVI5R0c?oc=5",
+    "rssid": "laN039",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "Congo (Republic of the Congo)",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://news.un.org/en/story/2026/06/1167783",
     "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
     "description": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable  UN News",

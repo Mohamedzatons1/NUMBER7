@@ -2810,43 +2810,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://airmail.news/issues/2026-6-20/dancing-with-light",
-    "title": "Paolo Roversi's Lessons in Light",
-    "description": "Paolo Roversi's Lessons in Light  Air Mail",
-    "url": "https://airmail.news/issues/2026-6-20/dancing-with-light",
-    "image": "https://photos.airmail.news/bu07e6w1e554g1o5kq2cy6h3mkkf-b86850b4a26d7a3110bf8881e5a3dcd6.jpg",
-    "timestamp": 1781949375000,
-    "source": "Air Mail",
-    "publisher_id": "airmail.news",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vMW41bGV4d0dob0RQX0N4dlNOSTFoWndPbDRSeXlKaE1aMDQ0WGxGVXB0OWhXZlgwZ0NicS1GNXprUXluQ3E4cjRsX2FuaHhNUFZnZ3BqRUxoX1VkS1E2UlQ5cW9Mb2s?oc=5",
-    "rssid": "laN162",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism",
-    "title": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m",
-    "description": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism",
-    "image": "https://i.guim.co.uk/img/media/aab0296541eaf443728fbf7674d2ac71c5c2ef20/171_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da521ea1290525a309e01a22aeb7b167",
-    "timestamp": 1781938800000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjVSVkxSUkZXV216c2RDbFZfMFdjZlQycnliSmhuYVNJRWU0YjNzMm1iRzRWYTlIQlQ1eGZSQWVDSHRyb1VPZHVTMnp6c0lmQ3NoUkJNN2llRXctRU55QXpBUmhNUkdhMFhHcHB6NHVwaXJ3d1JUdGFZSDVlWU9JU0Uza0hMeGdMR0QtM3BnWUxGZHhnT0pYM2xLaw?oc=5",
-    "rssid": "laN162",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
