@@ -1271,43 +1271,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3847339",
-    "title": "ימאל בפנים: ההרכב של נבחרת ספרד מול ערב הסעודית",
-    "description": "ימאל בפנים: ההרכב של נבחרת ספרד מול ערב הסעודית  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3847339",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/6/6/4066969-46.jpg",
-    "timestamp": 1781965080000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxejJnNFFhVnlUdi0wNjY3ckx5TmNKT1puMDltNXVmcnVoNTQ0d1VlaTVKeWJJc0FxeHlZSUxfRjYzdGREOWdwb3RHcVdkRnNz?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YN0RoOTBfMnZVNmdfbjdVTkM3eGZ1UGdBRFRtV0NyV3dmb25LbEVJZW5GMDBRa2tlNndfbkhPcDdXaXhWU21Ja1NTZkNXOFVVYnZkSE9JeG94N0RYTUpXMA?oc=5",
-    "title": "החקירה הפלילית בצמרת ספרד עולה מדרגה - דרכונה של אשת ראש הממשלה הוחרם",
-    "description": "החקירה הפלילית בצמרת ספרד עולה מדרגה - דרכונה של אשת ראש הממשלה הוחרם  מעריב",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YN0RoOTBfMnZVNmdfbjdVTkM3eGZ1UGdBRFRtV0NyV3dmb25LbEVJZW5GMDBRa2tlNndfbkhPcDdXaXhWU21Ja1NTZkNXOFVVYnZkSE9JeG94N0RYTUpXMA?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1781964454000,
-    "source": "מעריב",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YN0RoOTBfMnZVNmdfbjdVTkM3eGZ1UGdBRFRtV0NyV3dmb25LbEVJZW5GMDBRa2tlNndfbkhPcDdXaXhWU21Ja1NTZkNXOFVVYnZkSE9JeG94N0RYTUpXMA?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
