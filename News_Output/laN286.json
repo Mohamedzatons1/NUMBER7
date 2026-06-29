@@ -3779,43 +3779,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/geopolitics/article/20822519",
-    "title": "העימות מול ארה\"ב בסוגיית לבנון הוא בלתי נמנע",
-    "description": "העימות מול ארה\"ב בסוגיית לבנון הוא בלתי נמנע  היום",
-    "url": "https://www.israelhayom.co.il/news/geopolitics/article/20822519",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2026/06/23/22/8a253443-7ac9-4627-84f2-0e2ef80cfa63-1280x853.jpg",
-    "timestamp": 1782169141000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OMHBhb1Y4Y3BOUVZJNHhSLVR4cnpQamw2SVh2bkp5Nm5fS2oyeVZYNGpXa1JxcU9ib3JkRU9XWWJ1OFh4ME94R0pxcm90Yk0wanhzTG1PZXRmVHdmNFkxck5yYWFHRjhUTWtVblJUMmPSAXhBVV95cUxOOE0yQzQ0YVVtVnA3LU15bXVoODFLbnRYNW5OVlo3bXNzWHFUd2NJd1lLNE1FNEFDbmQ3V1MzajFQTHpSakhVVHNfbHdRLTlBLVlLN2R5U083V01FOXh0cEJIYVd4NTdZaHVRejA4NjhSN2RsSS11cEc?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.jdn.co.il/news/2678940/",
-    "title": "צמרת הביטחון בהצהרה משותפת על לבנון – בשטח ידי הלוחמים כבולות",
-    "description": "צמרת הביטחון בהצהרה משותפת על לבנון – בשטח ידי הלוחמים כבולות  JDN",
-    "url": "https://www.jdn.co.il/news/2678940/",
-    "image": "https://www.jdn.co.il/wp-content/uploads/2026/06/F251030NRF002.jpg",
-    "timestamp": 1782167575000,
-    "source": "JDN",
-    "publisher_id": "www.jdn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GVm5PS3ZFUHowVnE2dHJPbjBZeTZ3VVdqcElQcERsU2FuOVZYb2ZpVUNRbWVHMmlrM0xCRndvbUhTVlZ2WmJucEpyaw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
