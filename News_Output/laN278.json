@@ -568,43 +568,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/politics/2026-06-23/ty-article/.premium/0000019e-f4c8-d4c5-a9fe-fdca74750000",
-    "title": "אנשי ביטחון באזור אילת: לא מופתעים מאזהרותיו של זיני, הגבול המזרחי פרוץ",
-    "description": "אנשי ביטחון באזור אילת: לא מופתעים מאזהרותיו של זיני, הגבול המזרחי פרוץ  הארץ",
-    "url": "https://www.haaretz.co.il/news/politics/2026-06-23/ty-article/.premium/0000019e-f4c8-d4c5-a9fe-fdca74750000",
-    "image": "https://img.haarets.co.il/bs/0000019e-f4c8-d4c5-a9fe-fdca74750000/62/f3/667939e146daa8ec6cf30e07ec41/405424.jpg?&width=1200&height=630&cmsprod",
-    "timestamp": 1782237180000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFI5YmJqNFF5azNUUUxDa1pwbWNVOEFaRkI0Y0xXT3JRbFNhQmhVeFJxeTJ2QW1idkI4SC1uWHpRN01ib293ckNBUGhZTDVYbE9yQlB3MUpXTzliVDdqa19KWUppT2dDX1dkSUxSQU50SUFfWXk4Rjh3NkZXWnY0b0ZBUWt0eC13bUdPcHFEY3hBYzRDTnVKRjJ6clNTdm5tLVVzVVk3a0RHWVE?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sport1.maariv.co.il/mundial-2026/article/1880886/",
-    "title": "חגיגת המונדיאל שהסתיימה בטרגדיה: אוהד נהרג ושמונה נפצעו כשצפו בנבחרתם",
-    "description": "חגיגת המונדיאל שהסתיימה בטרגדיה: אוהד נהרג ושמונה נפצעו כשצפו בנבחרתם  ספורט 1",
-    "url": "https://sport1.maariv.co.il/mundial-2026/article/1880886/",
-    "image": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1200,h_630/1275673",
-    "timestamp": 1782229980000,
-    "source": "ספורט 1",
-    "publisher_id": "sport1.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rOGxTbmxhclhoSnVzb1FiUnFxbTZlNktKM2xXWkNzakh2dU0yaXFVNzJLOVZmUlJ0WWhPVldDbk1QWEJjMEswMHJKb0w3ZDZBR1NUOVBsM1NkNjNudjdnOHItMVptYUlG?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
