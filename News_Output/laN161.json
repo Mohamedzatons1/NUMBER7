@@ -1043,43 +1043,5 @@
     "extra": "South Sudan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.un.org/en/story/2026/06/1167812",
-    "title": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
-    "description": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign  UN News",
-    "url": "https://news.un.org/en/story/2026/06/1167812",
-    "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-07-2024_bridge_South_Sudan_UNMISS.jpg/image770x420cropped.jpg",
-    "timestamp": 1782421328000,
-    "source": "UN News",
-    "publisher_id": "news.un.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBMDJMY3RQUkFaam5jSjNGVEZoOEJEay16YW1MMmJ4a2YzWmk3NmxGenJDbDNnUmV0ekcyNXRqbW5jMm9jcnRCYkJJU01PR1BkVmxLV0gzTQ?oc=5",
-    "rssid": "laN161",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "South Sudan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://persecution.org/2026/06/25/sudanese-priest-killed/",
-    "title": "Sudanese Priest Killed",
-    "description": "Sudanese Priest Killed  International Christian Concern",
-    "url": "https://persecution.org/2026/06/25/sudanese-priest-killed/",
-    "image": "https://persecution.org/wp-content/uploads/2026/06/Sudanese-priest.jpg",
-    "timestamp": 1782418065000,
-    "source": "International Christian Concern",
-    "publisher_id": "persecution.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSVdRQlJxWW56b0ZSM2JTZmtvWkZtbktKbjlwRl9na244Tkk1Y09MUElfRFN2cmhId3M5RXNEZzVnU21ucTlPaXdlNmlyeW1MVDRUYWo5U2dvS1J5MWxoZFYwZ1ZRam5UMWc?oc=5",
-    "rssid": "laN161",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "South Sudan",
-    "likes": 0,
-    "comments": 0
   }
 ]
