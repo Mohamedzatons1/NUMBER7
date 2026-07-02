@@ -264,24 +264,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "http://www.globes.co.il/serveen/globes/docview.asp?did=1001547043",
-    "title": "El Al suspends flights to Russia",
-    "description": "El Al suspends flights to Russia  גלובס",
-    "url": "http://www.globes.co.il/serveen/globes/docview.asp?did=1001547043",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1755073089/direct/0W4A8848_xw66rb.jpg",
-    "timestamp": 1782401265000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMRmIxVC1HZExadlU1ZHlsLWFlaEh2RjFBNWZSemppNGZ3a3ZpWmhYemxLQ0k0akRRMl84WVVPSEpNcDRGZzN6dUg1dGNsWFBycW1RczNOOEItV05zRjY1cHhJRFRTSjhEOUJUbTRRNDN4MlE?oc=5",
-    "rssid": "laN334",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]

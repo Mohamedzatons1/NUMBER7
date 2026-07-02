@@ -454,43 +454,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/italy-suspends-defense-agreement-israel-meloni",
-    "title": "\"סכין בגב\": איטליה מקפיאה את הסכם ההגנה עם ישראל",
-    "description": "\"סכין בגב\": איטליה מקפיאה את הסכם ההגנה עם ישראל  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/italy-suspends-defense-agreement-israel-meloni",
-    "image": "https://a.kikar.co.il/v2/articles/italy-suspends-defense-agreement-israel-meloni/og-image.jpeg",
-    "timestamp": 1782399874000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3dzU2NZdVA2Z3NIcm9tREZpcU0xbFoxM0NHWnktRXVzTEtvMnZzTWpKazNLdWRPSjNQVGRNNmtTSWdSV1RUQzRHQy1sbkRuNjMxTkJOU3NaV1kxcnpEbmVFQ2phR25iV19OQTRjanRKaEgzLTZ4Y2NmZTJxSWpZa1NfanN6a0FZ?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sport1.maariv.co.il/world-soccer/article/1882660/",
-    "title": "יחדש ימיו כקדם? הקאמבק הגדול של אנטוניו קונטה מתקרב",
-    "description": "יחדש ימיו כקדם? הקאמבק הגדול של אנטוניו קונטה מתקרב  ספורט 1",
-    "url": "https://sport1.maariv.co.il/world-soccer/article/1882660/",
-    "image": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1200,h_630/1275917",
-    "timestamp": 1782398397000,
-    "source": "ספורט 1",
-    "publisher_id": "sport1.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQQ04yeU1tSEg1MW1nQlNHSGdZWXU5cmFyeHQ1bFRUbDNNVm4yVzdnYmFqZ25rWjI4ZXU0a3J4dDdlcU52SldMcE9scWxtem44VFl0QlFrWUhqQ25OSzRrZHNDWl9OWmky?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
