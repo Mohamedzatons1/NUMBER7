@@ -549,24 +549,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001547074",
-    "title": "חדירת מיליציות וקריסת הגבול: הסימנים לתרחיש האימה מול ירדן",
-    "description": "חדירת מיליציות וקריסת הגבול: הסימנים לתרחיש האימה מול ירדן  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001547074",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1782392441/direct/shutterstock_2487790831_i7ccaq.jpg",
-    "timestamp": 1782410970000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43ZW84OTc0c0ZybGNzcVlRNDlrTE9kd201SjZFRWRBNlNXVTItRzVYeVM5bGp1ZEFzWEhsQ1NqT0FyNE8wUDVHdUtqLUdmcExiLV9meWZ4aG8tSkdjdVp2RGZYR1RrVjI1?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
