@@ -1043,43 +1043,5 @@
     "extra": "Luxembourg",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://en.bloomingbit.io/feed/news/114978",
-    "title": "Coinbase Secures MiCA License in Luxembourg, Expanding Services Across EU's 27 Member States",
-    "description": "Coinbase Secures MiCA License in Luxembourg, Expanding Services Across EU's 27 Member States  bloomingbit",
-    "url": "https://en.bloomingbit.io/feed/news/114978",
-    "image": "https://media.bloomingbit.io/news/65a52ad8-3672-43f6-b0f1-d27425b19949.webp",
-    "timestamp": 1782355723000,
-    "source": "bloomingbit",
-    "publisher_id": "en.bloomingbit.io",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ySnRNeFlSZnZ4bVRNWmd0OVVYbEt2WFZFQ2YxVXVLZEkzb1Z3WkhZTDYtcy1wMWU5Smc4bGp0eVYwYWZ6Q2k3bnZudEY4YzNxeTR5VQ?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://beincrypto.com/coinbase-luxembourg-mica-hub-binance-deadline/",
-    "title": "Coinbase Opens Luxembourg MiCA Hub as Binance Races EU Deadline",
-    "description": "Coinbase Opens Luxembourg MiCA Hub as Binance Races EU Deadline  BeInCrypto",
-    "url": "https://beincrypto.com/coinbase-luxembourg-mica-hub-binance-deadline/",
-    "image": "https://assets.beincrypto.com/img/fr3gMLq99RDaHSJVAQ2SZ-neuTg=/1200x630/smart/filters:format(jpeg):quality(82)/f5a600c008e049a88ee39f6de9d42787",
-    "timestamp": 1782345360000,
-    "source": "BeInCrypto",
-    "publisher_id": "beincrypto.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ja1AzREppN3EzVjJ0OXVPUWFRc3kyajN1THo5TEQ2eHM1ZkFUVkQtamtkSENtZTMyTk4tMlkzeTg3OVR2SXYwRXRnR3pqU3Z5SEtzckNVTXZYa0JaZE1tRW5McVo0bF9meUh1bEZYS29yMHlhTGdxZQ?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
   }
 ]

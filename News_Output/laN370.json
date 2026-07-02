@@ -1404,43 +1404,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.mako.co.il/news-podcast_n12/one_a_day/Article-72c939ffeebfe91026.htm",
-    "title": "\"אחד ביום\": האם טורקיה היא איראן החדשה?",
-    "description": "\"אחד ביום\": האם טורקיה היא איראן החדשה?  mako",
-    "url": "https://www.mako.co.il/news-podcast_n12/one_a_day/Article-72c939ffeebfe91026.htm",
-    "image": "https://img.mako.co.il/2026/06/24/promote_re_autoOrient_w.jpg",
-    "timestamp": 1782357000000,
-    "source": "mako",
-    "publisher_id": "www.mako.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzlSMnpmNFhCOHRDNVVtSWFSUUExdUNFWVN3TGh1T3RONU9RNmZlSnVHeGtoSEc2R1E0QVFrUTcxZ01wMlJpdi15NVBDeVRIY0tCZldLWGdnTHU2MTBBY0kyNEw0WXJSdU16N185c19CVVdfRXZFT2R5ZVBsTUJwVG1HcU53NUE?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/nhan-dinh-tran-dau-tho-nhi-ky-vs-my-9h00-ngay-26-6-so-phan-chia-hai-nga",
-    "title": "סיכום משחק: טורקיה נגד ארה\"ב, 26 ביוני, 9:00 בבוקר: הגורלות נפרדו.",
-    "description": "סיכום משחק: טורקיה נגד ארה\"ב, 26 ביוני, 9:00 בבוקר: הגורלות נפרדו.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/nhan-dinh-tran-dau-tho-nhi-ky-vs-my-9h00-ngay-26-6-so-phan-chia-hai-nga",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/25/1782354607744_tho_nhi_ky_vs_my_irsw.jpeg",
-    "timestamp": 1782354886000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3NnVDdDelctYzJZRHFKb0lUUFpRSWg5Rk10ZGxNMHJsV1pyakZzLUtnS051ck9IVXk4UlRPZXRXREIyemotcjNVQzltLTNySWZyUU1PUjBsVDBSZDRPNjc5Vk9CZVB1VFVsM3BhWm9nSnNBT25JaHFkUXVtUGNSeVZOVGpiMHZmN2lhLVNqWE5YdlIwcWJKYWRab3gyZw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
