@@ -188,24 +188,5 @@
     "extra": "China",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/hy7shg3fmx",
-    "title": "סין: מטוס קל פגע בגורד השחקים הגבוה ביותר בבייג'ינג",
-    "description": "סין: מטוס קל פגע בגורד השחקים הגבוה ביותר בבייג'ינג  ynet",
-    "url": "https://www.ynet.co.il/news/article/hy7shg3fmx",
-    "image": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-    "timestamp": 1782480462000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fSWUxdHBhcUlMdmVCalh4QjJkUEVhcmtkY1ZERm9zQndPNkV4YU5WZDh4Z29sa3F6NHNld2l1YzRtR0RXdXFuSXRYaU9EVmtpbmMzWFpMMnpBZw?oc=5",
-    "rssid": "laN229",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "China",
-    "likes": 0,
-    "comments": 0
   }
 ]

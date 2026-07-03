@@ -1043,43 +1043,5 @@
     "extra": "Netherlands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3848807",
-    "title": "רק שלא יגיע לפנדלים: הולנד רקדה כל הדרך לנוקאאוט",
-    "description": "רק שלא יגיע לפנדלים: הולנד רקדה כל הדרך לנוקאאוט  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3848807",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/6/6/4066685-46.jpg",
-    "timestamp": 1782477900000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxOHZUbXNVRUF0VzhqVFdNWHZrMEZFamlYUi0xY2FMQmxWc28xc1M3TzJDSy1jME9QZk9haklUbjdRNGNtU21XNld5cVVIX0Ru?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.sortiraparis.com/he/tachbivim/sport-ve-revacha/articles/346061-mrwqw-mwl-hwlnd-zwr-h-whdym-hmrwq-y-hwzr-lgrnd-rqs-b-29-bywny",
-    "title": "מרוקו מול הולנד: אזור האוהדים המרוקאי חוזר לגרנד רקס ב-29 ביוני!",
-    "description": "מרוקו מול הולנד: אזור האוהדים המרוקאי חוזר לגרנד רקס ב-29 ביוני!  Sortir à Paris",
-    "url": "https://www.sortiraparis.com/he/tachbivim/sport-ve-revacha/articles/346061-mrwqw-mwl-hwlnd-zwr-h-whdym-hmrwq-y-hwzr-lgrnd-rqs-b-29-bywny",
-    "image": "https://cdn.sortiraparis.com/images/80/83043/1261006-avant-premiere-de-michael-au-grand-rex-avec-show-animations-et-concours-de-cosplays.jpg",
-    "timestamp": 1782474795000,
-    "source": "Sortir à Paris",
-    "publisher_id": "www.sortiraparis.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajhlbWM5ems0UnBwQWJ5YUktbHlwNU5yc1JsRVFuUEZhcTF4anZIb3J3Mkg0NkptN2I4U1pjZzdadFJUZGtKUVVZMm14bFhWSXFJX0xOYW5DbFZBNjhyVHlCa2puSVl4Q0ZTc05kYXlTSllGeE5VQ2lTQU5URmxrRm9MdVpJZWM0Z1F1ZC03Ymx1TFpZWUFNT1JPNGdfNXptN0FURGRJeW5lQ0RRMDRjTHo1djZXaXR2VDZFaHhIXzhYWjBTYzJndmN6anNRaDd6MWc?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
   }
 ]
