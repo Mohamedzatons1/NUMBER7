@@ -1043,43 +1043,5 @@
     "extra": "Austria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sport1.maariv.co.il/mundial-2026/article/1884024/",
-    "title": "המפגש הכי טעון במונדיאל: האם אלג'יריה תסגור חשבון עם אוסטריה?",
-    "description": "המפגש הכי טעון במונדיאל: האם אלג'יריה תסגור חשבון עם אוסטריה?  ספורט 1",
-    "url": "https://sport1.maariv.co.il/mundial-2026/article/1884024/",
-    "image": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1200,h_630/1275624",
-    "timestamp": 1782566891000,
-    "source": "ספורט 1",
-    "publisher_id": "sport1.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcTAzcmNqeFUtejBnUmNGVllXS0ZHZGFUbXpJU0JrWHFvejJlajNLT280UHo2eXBNZDVZQS1fYk9mcDZveW9PNUFYT3V3cUJPdXFqeEplTl9iRmRDZFZpTEtVVENFbTlG?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/sport/worldcup2026/article/sjzasztggx",
-    "title": "44 שנים אחרי \"חרפת חיחון\": אלג'יריה תסגור חשבון עם נבחרת אוסטריה?",
-    "description": "44 שנים אחרי \"חרפת חיחון\": אלג'יריה תסגור חשבון עם נבחרת אוסטריה?  ynet",
-    "url": "https://www.ynet.co.il/sport/worldcup2026/article/sjzasztggx",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/27/HkhHHW6MMe/HkhHHW6MMe_0_63_3000_1689_0_large.jpg",
-    "timestamp": 1782561600000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RSExyMnJWYkc0OWttVV9JLTFBeElvbEFNWE4xMDN3X1g2QkhKUU82NE5OZTFWcGFyd0F1VERwTmlDcl9qSlVTNml2cjBzUTN4TWxrN2QxbE44WllESFlQNGtac3R0ckg5RnM1Yg?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
   }
 ]

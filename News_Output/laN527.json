@@ -264,43 +264,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/putino-karo-padariniai-pasieke-ir-maskva-asaros-liejosi-upeliais-linko-kojos-120269004",
-    "title": "Putino karo padariniai pasiekė ir Maskvą: ašaros liejosi upeliais, linko kojos",
-    "description": "Putino karo padariniai pasiekė ir Maskvą: ašaros liejosi upeliais, linko kojos  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/putino-karo-padariniai-pasieke-ir-maskva-asaros-liejosi-upeliais-linko-kojos-120269004",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/d50dc8c6-8eb7-4197-b96a-6cf7e8325d89.jpg?w=1200&h=800",
-    "timestamp": 1782561066000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlJXWE5HUm9CS0pyMjIycGRzbkJDVU1uQU1ZUXhHTjVYNzZQaHlWM0RRYU95MVZVTF9fNDJEeFZmNWJXZEllMXpCR3A3cUtCcElaSEVET0hhMGJFNXhKOE9vN01DQW1peEtoUjB6TG5PdWVtWGd6UUFqSGpPaDFaWWU4ckd4RlJEYzlzRG5oRVd3ZFg5ai1OUEVJdC1EQ1cxMjNsSkNjbUUtNkxjQ0hFMkdmRlROQU5TcjdKUG11SkhfSzlrUmc?oc=5",
-    "rssid": "laN527",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://madeinvilnius.lt/en/news/Lithuanian-news/karine-zvalgyba-ramina-zenklu-del-rusijos-puolimo-pries-baltijos-salis-nera/",
-    "title": "Military intelligence reassures: no signs of Russian attack on the Baltic states",
-    "description": "Military intelligence reassures: no signs of Russian attack on the Baltic states  MadeinVilnius.lt",
-    "url": "https://madeinvilnius.lt/en/news/Lithuanian-news/karine-zvalgyba-ramina-zenklu-del-rusijos-puolimo-pries-baltijos-salis-nera/",
-    "image": "https://madeinvilnius.lt/wp-content/uploads/2026/05/20260520ppel3091-20260520.jpg",
-    "timestamp": 1782559800000,
-    "source": "MadeinVilnius.lt",
-    "publisher_id": "madeinvilnius.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdW5OdUJlTlJmYWhQcmdTWjNJRjJIVW41NXpuZEZhSmFIMlhlS3JQWU5qbk5lUFhaa2loek9ObXBfRmNtTUM5eC1sSHVpam13UHRBcHVFaVp4QWxVVkcwdWk1RUhwUEJGUmtQVHpGakZwZEtYaTdpTm9MUXB1a0hpa1BQQjRJaGpzYU1FRDBJd2tCdVN6dHpXenFXNmtCdnUzSVVNQ2JiMnlYVW5MY3BjM1N3UTl5MmlmVzBWaDR3SkhYN3M?oc=5",
-    "rssid": "laN527",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
