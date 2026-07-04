@@ -492,43 +492,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=550159",
-    "title": "תוכנית מסי: המטרות החדשות של ארגנטינה",
-    "description": "תוכנית מסי: המטרות החדשות של ארגנטינה  ספורט 5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=550159",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/7/size944x700/1739917.jpg",
-    "timestamp": 1782547905000,
-    "source": "ספורט 5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wWXpfZTBMa1F0ZDBkM1ZPMmtDeEEza2tlMWpxeVJZLXB0Y1M1SlRzQ0N4aWlDUVYxblFhMWFGM2Z0c0h0SmtoUTh1Rjkwa2gxYV9kS3MtRV9VQVhmcjZfRG0wbk9LR21nNVFhbDlMUFJZZnc?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/truc-tiep-jordan-vs-argentina-tran-dau-dang-dien-ra",
-    "title": "ירדן נגד ארגנטינה בשידור חי: המשחק בעיצומו.",
-    "description": "ירדן נגד ארגנטינה בשידור חי: המשחק בעיצומו.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/truc-tiep-jordan-vs-argentina-tran-dau-dang-dien-ra",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/28/1782612408809_match_thumb_c8e8dec8.jpeg",
-    "timestamp": 1782543600000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWtCaUpwR1ZKZ3h3RjMyc1FQSW1Qc1ZrcmhHUnNkcDdyTndTU0ktUXV2bzE3enI1TklGV2hGLU5MNDZTem01RjJ4SGlhdmItMXNkZlNBN1FYd3RaN3g4NUVjbFhwQlNBM2FKSHFSNUh6OVRyNDZQLTVMVzNNdlpzVHNYOA?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
