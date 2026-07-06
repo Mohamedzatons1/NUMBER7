@@ -321,24 +321,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150g17u-another-dangerous-virus-begins-to-spread?language=lv",
-    "title": "Another Dangerous Virus Begins to Spread",
-    "description": "Another Dangerous Virus Begins to Spread  Inbox.lv",
-    "url": "https://news.inbox.lv/150g17u-another-dangerous-virus-begins-to-spread?language=lv",
-    "image": "https://news.inbox.eu/w/img/e3/3e/e33ec3a5c45e1d517f.webp",
-    "timestamp": 1782766180000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0c1WTJNVmhlQ21idldTR09IcWl1Q0k2bEdTX29BV1Q4djFnRXNRbmVDbEw4TjJENzFudFNyWFg4OFR6U2h6a2FRTlhRbmNRTWVLSzgyNHpRaXlQSlV1YzZHdmxwdk95emJjTkRJY05Tc1kyZWFNTW5iZV92bUtaQmJkSnNJRm9IeHc?oc=5",
-    "rssid": "laN763",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]

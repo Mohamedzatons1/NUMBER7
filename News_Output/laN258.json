@@ -1100,43 +1100,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/israelnow/article/20873388",
-    "title": "גרמניה ופרגוואי נכנסות להארכה בקרב על שמינית הגמר",
-    "description": "גרמניה ופרגוואי נכנסות להארכה בקרב על שמינית הגמר  היום",
-    "url": "https://www.israelhayom.co.il/israelnow/article/20873388",
-    "image": "https://www.israelhayom.co.il/general_image.jpg",
-    "timestamp": 1782772275000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTmJ2bWxjVzFzNUZrWkJNVzdKWFN5ZXRtSFVDejZDNXJxWlFOZjhUU2hFbDZGUm1jOTNjejJlbTdkT3VzOXpZbEotakF6dTVaS0JSSHdYdlp6TjJqRjdLQXRpdG83bDDSAW9BVV95cUxOeG1pSm9Wbk1EVGpsUkxBUXBzQUQxMHVTZ1p1NWlZVlNxcGJrMEZVSmdpWWVWXzF0ZERDWlVCZmZ2MFJyUmxESUQ3Smx3UFg2T0FrMUU5LTFqUzRkMjk5NjBnM1JaU2V3a1NDM1hwUG8?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=550496",
-    "title": "כיכב מול ישראל וכבש מול גרמניה במונדיאל",
-    "description": "כיכב מול ישראל וכבש מול גרמניה במונדיאל  ספורט 5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=550496",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/1/size944x700/1741021.jpg",
-    "timestamp": 1782768420000,
-    "source": "ספורט 5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kbGxSRkhWM1liN1dOUE1JRnFEWTBpcDEzZTZGbHM1cUFfZnZyZXR6eE9YRjMzaEFTT2t0M0FYZkl3N1VLNWlmV1hnLXdPamgzT3YyTlczRWdVUUVYZTdJM2hkYUo0bDk5YjBoR3pYY0FRa1E?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
