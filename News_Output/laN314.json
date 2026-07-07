@@ -150,43 +150,5 @@
     "extra": "Netherlands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=550637",
-    "title": "רשמית: רונאלד קומאן עזב את הולנד",
-    "description": "רשמית: רונאלד קומאן עזב את הולנד  ספורט 5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=550637",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/1/size944x700/1741581.jpg",
-    "timestamp": 1782854644000,
-    "source": "ספורט 5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMZllNOTRLUzR1MllxXzdveE9PT0xiaHZBZUtvNVhSbjZBNmxsMjhHUHZMMUdsRWpUTGFHekNmVFBIWE1TN2JFVDBqT3RqTjJSQklqTGJvbTc0QW4xTDhTTVgzb2VUU3dhblMwTHZDdjM2Nkk?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1067965/",
-    "title": "טירוף במרוקו: הנבחרת ניצחה את הולנד בפנדלים - והאוהדים מפנטזים על זכייה",
-    "description": "טירוף במרוקו: הנבחרת ניצחה את הולנד בפנדלים - והאוהדים מפנטזים על זכייה  כאן 11",
-    "url": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1067965/",
-    "image": "https://www.kan.org.il/media/gxyntim1/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630",
-    "timestamp": 1782849163000,
-    "source": "כאן 11",
-    "publisher_id": "www.kan.org.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CNWNMUGxwYUpXWDRURVRET0tsYzd3RndHVmxZeXJtLWVnNVZJV1Y0Yk9zWVhHaVc2NFpKMlJtYmg5TnRXbUpBR3hJaGZINk1oTXpfbUhsOFkwM3dMcGFqd1EweEYxV0xPdTJwVzdRTERhSEVXQmlR?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
   }
 ]
