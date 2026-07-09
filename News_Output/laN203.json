@@ -454,43 +454,5 @@
     "extra": "Austria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3850286",
-    "title": "ספרד - אוסטריה 0:3 (מחצית 2)",
-    "description": "ספרד - אוסטריה 0:3 (מחצית 2)  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3850286",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/7/2/4072231-46.jpg",
-    "timestamp": 1782988260000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VNm9UbXJmRV92eXBFMHFXdHAyTTFSNjd4bGM0R3EzbHVPYlNJdmY5ZFpia2E5SEh6eWl0ZURYVHVKUmVOSks1TV83bU5CUjNG?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/tong-hop-du-doan-ti-so-tay-ban-nha-vs-ao-luc-2h-ngay-3-7-2026",
-    "title": "סיכום התוצאות הצפויות למשחק ספרד נגד אוסטריה בשעה 2:00 לפנות בוקר ב-3 ביולי 2026",
-    "description": "סיכום התוצאות הצפויות למשחק ספרד נגד אוסטריה בשעה 2:00 לפנות בוקר ב-3 ביולי 2026  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/tong-hop-du-doan-ti-so-tay-ban-nha-vs-ao-luc-2h-ngay-3-7-2026",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/02/1782980353455_tong-hop-du-doan-ti-so-tay-ban-nha-vs-ao-luc-2h-ngay-3-7-2026.png",
-    "timestamp": 1782981202000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc00yNnhJV2UxZjd6a3NMTTZHTnhqWEVTNGZPTmNpSjkxbGwzNHZWYnFTQlhxMVE3ZmVKRjFuaDFFVG82Tm1QaDRhbHB4Z3Rra1F2cGFNSS1sX0JTT2NCdWRDZnBZUEExbk5aR29yVlFUWVY2OVZtMW0yVUdMWUJBQ3plU05Wb3dEcDFYdWpXay0?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
   }
 ]

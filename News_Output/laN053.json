@@ -606,24 +606,5 @@
     "extra": "El Salvador",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.concacaf.com/competitions/beach-soccer-championship",
-    "title": "Beach Soccer",
-    "description": "Beach Soccer  Concacaf | Official Website",
-    "url": "https://www.concacaf.com/competitions/beach-soccer-championship",
-    "image": "https://images.concacaf.com/image/private/t_ratio16_9-size60-f_webp-c_fill/v1747408853/prd/assets/mobileapp/fallback-image.png",
-    "timestamp": 1782989386000,
-    "source": "Concacaf | Official Website",
-    "publisher_id": "www.concacaf.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rSjZXOTRobE51QTl2ZGxCdFFWNzhCS2V3TW9EYnVTREdjUDlRN1o2SXVLSXBnMjRwRW9TQ0ZMV0ZkRUphdDNMd3pKYzRveEVEcDJ2TGNwUDY0NFJLQ0Z0LTNUMmhqRm5kWHVTODVOaGs?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
   }
 ]
