@@ -169,43 +169,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/serveen/globes/docview.asp?did=1001547653",
-    "title": "Israel’s tech employees cost more than US counterparts",
-    "description": "Israel’s tech employees cost more than US counterparts  גלובס",
-    "url": "https://www.globes.co.il/serveen/globes/docview.asp?did=1001547653",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1705335428/COT_Pic/800_jcuptj.jpg",
-    "timestamp": 1782976215000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2Q0ZycmwyU3kzSDgtV1Y4TFU4UFpVdnRJYU5JRkxQRmx5TTVCaGxVSVJJN1hrNUczU1hzT3FIZXpIbTNEUlFkaUNwb3lHclRrcFhsVmpJVUxnaV8ta1plaEdFS0NEY1lsaFBtRG1HcFJTZDk4?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "http://www.globes.co.il/serveen/globes/docview.asp?did=1001547653",
-    "title": "Israel’s tech employees cost more than US counterparts",
-    "description": "Israel’s tech employees cost more than US counterparts  גלובס",
-    "url": "http://www.globes.co.il/serveen/globes/docview.asp?did=1001547653",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1705335428/COT_Pic/800_jcuptj.jpg",
-    "timestamp": 1782976215000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tZmdQZU9oZ0lMZ0hvS1A5eV9KcGpYbTRyM1p3MHhmREo0SFZQV0FGRlp3S05IZzJibW9XUWFZUjR5WlhzZXMxYmh1M0pkTXM2ckpYcURMQ2VvSkJ2MDREWkxqNC1uLWVHUU9nWUVLOFFnbE0?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
