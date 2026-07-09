@@ -74,5 +74,24 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.bbc.com/marathi/articles/ckg087llpxqo",
+    "title": "इराणवर अमेरिकेचा भीषण हल्ला; दक्षिण किनारपट्टीवर स्फोटांचे जोरदार आवाज",
+    "description": "इराणवर अमेरिकेचा भीषण हल्ला; दक्षिण किनारपट्टीवर स्फोटांचे जोरदार आवाज  BBC",
+    "url": "https://www.bbc.com/marathi/articles/ckg087llpxqo",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_marathi/43da/live/87fa22c0-7b3b-11f1-bee8-53ce494e1abc.jpg",
+    "timestamp": 1783565348000,
+    "source": "BBC",
+    "publisher_id": "www.bbc.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOeTdTTmxwQzg1QnFhNVp6dEg4NXZtT20zOFJ0TDJRY1RtQ18zNFpoVTN1dU1uZWFNMWJwa2lmb3NLNTNGbDZhdzBpckN3bk55dUM5ODNCNVRsZnZJT1HSAWNBVV95cUxPUkhMcEpvRmZ4NlVSSmVsNUluVmQtaHVGYlFJalRuQUNyUEZ2ZW56YkhXaGI4Slo2cV9NT0drb0tyMVR5cjJZc1NJZ1hubmJpT0N6bGh3SnE2bWtsY0pNdGczSXM?oc=5",
+    "rssid": "laN1050",
+    "topic": "news",
+    "lang": "general",
+    "category": "الماراثية",
+    "extra": "Jordan",
+    "likes": 0,
+    "comments": 0
   }
 ]
