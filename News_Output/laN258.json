@@ -606,43 +606,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=416&docID=550992",
-    "title": "כמעט קאמבק: ישראל הפסידה 92:86 לגרמניה",
-    "description": "כמעט קאמבק: ישראל הפסידה 92:86 לגרמניה  ספורט 5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=416&docID=550992",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/7/size944x700/1742867.jpg",
-    "timestamp": 1783105020000,
-    "source": "ספורט 5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtZk8wQlhBOVdGeVBTRnZtUGxISjFUM1pwbzZDdlFaZDRKTThpNzdOdHhLLW1INFhRcXBNdlpMTzBQZEpPeUdtakJMXzBfQUJ5cU5nMGtQY1hiWEhybnplTFhYbnlIdl9kaEJfVnpmbHc4QQ?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3850522",
-    "title": "ישראל - גרמניה 48:37 (רבע 3)",
-    "description": "ישראל - גרמניה 48:37 (רבע 3)  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3850522",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/7/2/4072497-46.jpg",
-    "timestamp": 1783101900000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzNm5jT2V4c0g5Sl81ellsRmFqdllsQzlaSGN6aUoxWmpBZnBxWHIxM09OSDlDTnViZ0h2dUVXT2pLQ3pVd2tOWUhLWFdXN3Yz?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
