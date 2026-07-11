@@ -150,43 +150,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/001-D-520692-00.html",
-    "title": "זלנסקי מבקש מארה\"ב רישיונות לייצור טילי פטריוט באוקראינה ובאירופה",
-    "description": "זלנסקי מבקש מארה\"ב רישיונות לייצור טילי פטריוט באוקראינה ובאירופה  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/001-D-520692-00.html",
-    "image": "https://media.news1.co.il/UploadImages/NEWSY20e3562aea9dcd46f9a1a8ac4c3ed47168.jpg",
-    "timestamp": 1783144843000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1Vm5mb2VIamhRMzN1cVVvMS1xVkRCTGVlcm9TdlIyX3pYaVYyLU9sa3RlMVMwNEV5d3hyTWh3VkQzZWpmcTU5Y01Jb0lYN0Y3MUFiMHlabVNQdmFFUVl6SEZB?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/judaism/article/s1pma00qxzx",
-    "title": "לא תמיד קראו לה ארצות הברית: השמות העבריים שנשכחו",
-    "description": "לא תמיד קראו לה ארצות הברית: השמות העבריים שנשכחו  ynet",
-    "url": "https://www.ynet.co.il/judaism/article/s1pma00qxzx",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/S1uEIbgpu/S1uEIbgpu_0_57_3000_1689_0_large.jpg",
-    "timestamp": 1783140999000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hSElvMm9RWXVWNkJaRHRBcUJBckhXcXJLTXRQWmI4M3lGOWsycXQ5WmtHeDAwZ0QwMDFXaWQzYVEwNVZRTGEwa2Itb1AwWTh6TFA0X2FQZVptdjhwTGZr?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
