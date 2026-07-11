@@ -3228,43 +3228,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/weather-news/articles/europes-baked-rice-bowl-seeks-105611097.html",
-    "title": "Europe's baked rice bowl seeks escape from drought",
-    "description": "Europe's baked rice bowl seeks escape from drought  Yahoo",
-    "url": "https://www.yahoo.com/news/weather-news/articles/europes-baked-rice-bowl-seeks-105611097.html",
-    "image": "https://s.yimg.com/os/en/afp.com/b93e0c215ddaeaf620c817eb1a0ab099",
-    "timestamp": 1783162571000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWNHbjcxZGZSSGVzNDc4bHVpQjJNOXFBSmtkNFBweExYQ1ZEekV2bFdlM3FJaUFXMGlJQ251eWk3ZHhfTlBKeGszUkVCaVp2UXNWcm9lTm1wRVUzM3FwMzlUcy0xbFhPUnVuMVZ5MjBoNXFNYU5uMjVaWS1DUlhpbUM3YUpQb2VqWkl4MFdwQW1OUDBfMEo0bw?oc=5",
-    "rssid": "laN082",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/articles/pope-leo-marks-us-anniversary-090516223.html",
-    "title": "Pope Leo urges US to welcome immigrants in July 4 appeal from Lampedusa",
-    "description": "Pope Leo urges US to welcome immigrants in July 4 appeal from Lampedusa  Yahoo",
-    "url": "https://www.yahoo.com/news/articles/pope-leo-marks-us-anniversary-090516223.html",
-    "image": "https://s.yimg.com/os/en/reuters.com/709d93eb66c8aca2bf86625d1c049670",
-    "timestamp": 1783160060000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXE4MzFnOE5OSzZXTnVCUEhaQmVJY1JKcHplM0NBMnd5Nm4wYk80V3pvZnhOdFJJLTNRS25KeTN5SGw3OXdaeGR6SEpfQ3Q5bTRVZmVrUTlfRF9ZVk1ucWw1cmpfQXhvd0pnWm9fZUpZN3gtb3ZNLTNNVnlRMkFCM2xpd2l2YmM?oc=5",
-    "rssid": "laN082",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
