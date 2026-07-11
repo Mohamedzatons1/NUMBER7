@@ -1594,43 +1594,5 @@
     "extra": "Mexico",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=551021",
-    "title": "כדי לעבור שלב: באנגליה ישתמשו בוויאגרה?",
-    "description": "כדי לעבור שלב: באנגליה ישתמשו בוויאגרה?  ספורט 5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=551021",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/5/size944x700/1743005.jpg",
-    "timestamp": 1783156434000,
-    "source": "ספורט 5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMTkRKRDlqaEFETEQxcldOR3VITVN1Ulg3SEtMMlBDcGJySGJWQ19FVURHU2MxcFUzT2NiTVBKNVNMWUdDeDNhX1B5NDBVUDNGSFA2bE5XSXkzaTZWc19WSlpKdnZLelMxTEYzemFQT3BnVG8?oc=5",
-    "rssid": "laN302",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/thi-truong-o-to-mexico-dat-doanh-so-cao-ky-luc",
-    "title": "שוק הרכב של מקסיקו הגיע לשיאי מכירות.",
-    "description": "שוק הרכב של מקסיקו הגיע לשיאי מכירות.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/thi-truong-o-to-mexico-dat-doanh-so-cao-ky-luc",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/04/1783144537859_100826_youtub_e_2024_02_35_16_13_still14519_12294604.jpeg",
-    "timestamp": 1783154032000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JZ2tQQkxqYTFyN3d5ZVJ3TzV4SGRuZkE1QlpuSndPMkpaMVVpYl9UQkg1WlN0RDNReUdwY1NtZXRxamZCamZDM3ZYaTNrcUxJYm9fQk9PSElPZzRUb2NzT2pKT3laWkRVMlZqcXZYa0wwUDJsRzNPaU9FdzA?oc=5",
-    "rssid": "laN302",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -549,43 +549,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/sport/worldcup2026/article/sj7x00n8mfx",
-    "title": "מהפכת קלופ? המשימה הכמעט בלתי אפשרית של נבחרת גרמניה",
-    "description": "מהפכת קלופ? המשימה הכמעט בלתי אפשרית של נבחרת גרמניה  ynet",
-    "url": "https://www.ynet.co.il/sport/worldcup2026/article/sj7x00n8mfx",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/04/S1Kw94IQGl/S1Kw94IQGl_431_0_2570_1447_0_large.jpg",
-    "timestamp": 1783152000000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWFgxV2pKQnRFTHh2VzZJcjMwZWhyMDhfaHhRaUkwNG9VbFBWUW5aeGhOS3ZIck1GcUhqSmtWUjRpajVFa0RsSVJUdU9DS1dKd1cybU9TZzBmXzVQWEJ1eXM3SmJ6bklfNzZzMHlR?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/phap-vs-paraguay-lieu-les-bleus-co-giai-ma-duoc-hang-thu-vua-quat-nga-tuyen-duc",
-    "title": "צרפת נגד פרגוואי: האם \"הכחולים\" יצליחו לפענח את ההגנה שניצחה את גרמניה?",
-    "description": "צרפת נגד פרגוואי: האם \"הכחולים\" יצליחו לפענח את ההגנה שניצחה את גרמניה?  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/phap-vs-paraguay-lieu-les-bleus-co-giai-ma-duoc-hang-thu-vua-quat-nga-tuyen-duc",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/24/1782276242265_ogimagedn.jpeg",
-    "timestamp": 1783147703000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODRZbjVrWFNYeXdlRklKODhvdnNIdEhJdEVzSFZrWkdoVmdTYllfQ3hGZVoxLXBaVGhTTHN2dU9CVXV0cUlhMEdpdTVJNmc0b3hzYWN3OFZTNUFOZEZ1WUo2WE5YUEZfeGpsSEhLS0ZmeVhENGQtNmF5YXA2NXB5MEJuQlVYNzlkZ01lMWFQZTJGMFQ5MlBaWjZkTDFNRWJ1VzhzV25xa3g?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
