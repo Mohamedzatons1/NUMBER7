@@ -2335,24 +2335,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/0026-D-184644-00.html",
-    "title": "טורקיה כאיום הבא",
-    "description": "טורקיה כאיום הבא  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/0026-D-184644-00.html",
-    "image": "https://media.news1.co.il/UploadImages/NEWSY20ca4aa8a8695845539c831ba2d75c406f.jpg",
-    "timestamp": 1783191316000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUQUozX1kxTnhkVER5aGpOSk9INmFLQjI0WEljeFd2TVpuYmhyb2t5ZHBOX0JaOXlWelRhY2o4WXY2MjNNR2dZZVdiRUFaT05uRU02WVAxaWxybFU0Xzg0bEtsSQ?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
