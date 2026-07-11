@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "https://www.delfi.lt/naujienos/uzsienyje/bahamose-per-lektuvo-avarija-zuvo-10-zmoniu-120274885",
+    "title": "Bahamose per lėktuvo avariją žuvo 10 žmonių",
+    "description": "Bahamose per lėktuvo avariją žuvo 10 žmonių  Delfi",
+    "url": "https://www.delfi.lt/naujienos/uzsienyje/bahamose-per-lektuvo-avarija-zuvo-10-zmoniu-120274885",
+    "image": "https://images.delfi.lt/media-api-image-cropper/v1/ec7bff38-2eb2-4a35-95a7-b49b3e542bca.jpg?w=1200&h=800&ch=0.4208&cw=1&cx=0&cy=0.4816",
+    "timestamp": 1783762825000,
+    "source": "Delfi",
+    "publisher_id": "www.delfi.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYlFQa3dFQld6X0dSRDZzTW5qUW9OaVEwU1BsQWpsM1RiS1ZxY01BT0ZqZDNCbmJPZ0RZQ1dMaF9MMERZaWVTY0NZczI5ZkJsOTViNVluWTMxYXc2eFdzMWNyUG1zSG5uSUJQRU5hQWVELThrbVYwQW0zWm9WNE1rRWNjOTlhaFBaWWlvN2hQbHRKc09iSGhhdW9n?oc=5",
+    "rssid": "laN398",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Bahamas",
+    "likes": 0,
+    "comments": 0
+  }
+]
