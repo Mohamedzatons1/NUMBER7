@@ -1081,43 +1081,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/world/articles/mali-hit-wave-coordinated-attacks-094128026.html",
-    "title": "Mali hit by new wave of coordinated rebel attacks",
-    "description": "Mali hit by new wave of coordinated rebel attacks  Yahoo",
-    "url": "https://www.yahoo.com/news/world/articles/mali-hit-wave-coordinated-attacks-094128026.html",
-    "image": "https://s.yimg.com/os/en/afp.com/1b2e21a5315e41660897eeca9a994b3d",
-    "timestamp": 1783176407000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFowOER3N2xNR0JoM3UtOFVlMF9qSU1TQWZDZDNnbm14OHRuUHRnZ29GSTFscXNDaVNUTUxaM0V6MDlIclpaVTJ1VjluMHBNSEY1aDJCSTBaXzlXTU1OUHh4STBNQ1NfT0dBcEhIem9XZTNQeWRTUjRERXpvazgwaVZmV1ZhOHhuQzhhdkFTNklQMXoy?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.nbcnews.com/world/africa/insurgents-stage-attacks-mali-army-says-situation-control-rcna352958",
-    "title": "Insurgents stage attacks across Mali, army says situation ‘under control’",
-    "description": "Insurgents stage attacks across Mali, army says situation ‘under control’  NBC News",
-    "url": "https://www.nbcnews.com/world/africa/insurgents-stage-attacks-mali-army-says-situation-control-rcna352958",
-    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260704-bamako-mali-ch-1018-917024.jpg",
-    "timestamp": 1783175010000,
-    "source": "NBC News",
-    "publisher_id": "www.nbcnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFV6ajh5MTdVZ1lnTDE3a0lHNGs0MnMxQ2NPdndMdFRTNC1HTzlLUS1tdzZNTU5DMkhZOHgtaG0zeEhKSUdJZWhZZEVrYy02QzNMaHV2aG9PNHNRLVJ2MVEzS0FBRnU5NG9lWUsxNlFNemhIakFFaHNVUV92WkVOTU5HbHF5UjhBODhDQ1dhMk9KRjcyWEVuRHJNS2Z2OWF0X1FaS2ozd3g?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]
