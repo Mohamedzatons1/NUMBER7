@@ -2240,43 +2240,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/israelnow/article/20916003",
-    "title": "גרמניה מגנה את טורקיה - שר החוץ יגיע לביקור בישראל",
-    "description": "גרמניה מגנה את טורקיה - שר החוץ יגיע לביקור בישראל  היום",
-    "url": "https://www.israelhayom.co.il/israelnow/article/20916003",
-    "image": "https://www.israelhayom.co.il/general_image.jpg",
-    "timestamp": 1783270949000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wTWlmUmhKUmNiM2NsYzBLRklHLWx4YW1uN2hTTnBHRXpTZnhoRFhNRnNYRGg3eW02cGxycGFMNWdYMWszXzFjWFpnbVF5LTNMTTBZVGhxeHZaWVNXclg0STRpRXhCNmfSAW9BVV95cUxQb3BPZUJNV0JKT3NyUmp5c0dIa1V5ZkgzRUh6T2t2cExsX0pmVWdvQWdOR0tVcXVreTNkRUdKNzY0LTIxRlhCU0VsTzhUQi1uazV2NlFTenVzaWM2VEJUX3dtWFNVVFQzZ1pMaEh0QWc?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1340965",
-    "title": "סערה בנאט\"ו: המעצמה האירופית שפתחה בעימות עם טורקיה - בגלל ישראל",
-    "description": "סערה בנאט\"ו: המעצמה האירופית שפתחה בעימות עם טורקיה - בגלל ישראל  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1340965",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1050843",
-    "timestamp": 1783267922000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CY0pJTUF5Z3kwdTFDY2Y1ZEtMRmhIUmMzMUthQWRTSWptOG85cmkyLTlHeVlyREZNU0xEVFJYLS1rSWVocEpSblk1ZjRPbHNkSXBqX1Y1WGtUNEFCdU03VA?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
