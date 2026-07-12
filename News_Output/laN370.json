@@ -2278,43 +2278,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1340765",
-    "title": "המומחה שמכיר את טורקיה מקרוב: \"יש לישראל בעיה קשה - זאת הכי חמורה\"",
-    "description": "המומחה שמכיר את טורקיה מקרוב: \"יש לישראל בעיה קשה - זאת הכי חמורה\"  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1340765",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1111345",
-    "timestamp": 1783240224000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XdnpGX3hMNUt5TU0tXzNRUENNOWF6b0o4YTRQZkhWWjNnVGVJQjFLZ3NETi1JYnFJc05aZ1ljV2RFeEFPYXd1UEpXVTVQTUVaS1E3V2tBYzFhZ1FWVkdpREdJNUE?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.zman.co.il/700472/",
-    "title": "פנחס ענברי: מסכנה לדמוקרטיה לסכנה לקיום המדינה",
-    "description": "פנחס ענברי: מסכנה לדמוקרטיה לסכנה לקיום המדינה  זמן ישראל",
-    "url": "https://www.zman.co.il/700472/",
-    "image": "https://static.zman.co.il/www/uploads/2025/06/AP23199050571619-1200x630.jpg",
-    "timestamp": 1783234804000,
-    "source": "זמן ישראל",
-    "publisher_id": "www.zman.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tUXIwMGpXNy0zSkRtYU5DMHg2VVBQalBHZHpob05KVFQ5RTd6SWZEV2lXZEZyZGhuOVRNQk1GSExRU0ZM?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]

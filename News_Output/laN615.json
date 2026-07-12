@@ -283,43 +283,5 @@
     "extra": "China",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150gu70-porsche-turpina-mocities-kina-un-sledz-dilercentrus?language=lv",
-    "title": "“Porsche” turpina mocīties Ķīnā un slēdz dīlercentrus",
-    "description": "“Porsche” turpina mocīties Ķīnā un slēdz dīlercentrus  Inbox.lv",
-    "url": "https://news.inbox.lv/150gu70-porsche-turpina-mocities-kina-un-sledz-dilercentrus?language=lv",
-    "image": "https://news.inbox.eu/w/img/5f/74/5f7435b4ba7b075d06.jpg",
-    "timestamp": 1783234800000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFJERG00MVNid1NvUEQzczN5QXAydG1FLXFzd25QNlRZY2lOaHgyQ3hNdklndy16M2FXUVpDNzZpYnQ2QzdvcXVkZjhaUFN3TmtvRk9kRFF3bGNZZG1FNFhwcnNxZHRWd3duT3lQU1VmQ3ZYek9McVUxekVYbURPelBsYVB1bnF0Z3BsaTBheWpoS3NoYlg0Tg?oc=5",
-    "rssid": "laN615",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "China",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150gu70-porsche-turpina-mocities-kina-un-sledz-dilercentrus?language=de",
-    "title": "“Porsche” turpina mocīties Ķīnā un slēdz dīlercentrus",
-    "description": "“Porsche” turpina mocīties Ķīnā un slēdz dīlercentrus  Inbox.lv",
-    "url": "https://news.inbox.lv/150gu70-porsche-turpina-mocities-kina-un-sledz-dilercentrus?language=de",
-    "image": "https://news.inbox.eu/w/img/5f/74/5f7435b4ba7b075d06.jpg",
-    "timestamp": 1783234800000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEE2TU1yUG9IZzlpZFhtR2gtdkVBcWtkQkIzUmFWdGsyQ3FYbWpISmlUbDZqb0cxRHRJVURTRXF0SlVfc25sbVFUVDlaRWdkV1h4dG81Z2ZJWjZIVGxKU21HaW91a21sdE5aQXNEWnlvTUJqSDN5UkJTWUFfdXpYRm1qWDJVeFhkcVAta0RSOEdhbU8xQjdSSA?oc=5",
-    "rssid": "laN615",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "China",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -720,43 +720,5 @@
     "extra": "El Salvador",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.volcanodiscovery.com/earthquakes/quake-info/23160073/mag3quake-Jul-4-2026-50-km-Al-Sur-De-Delta-Del-Rio-Lempa-El-Salvador.html",
-    "title": "Light mag. 3.0 earthquake - Offshore EL Salvador on Saturday, Jul 4, 2026, at 04:03 pm (GMT -6)",
-    "description": "Light mag. 3.0 earthquake - Offshore EL Salvador on Saturday, Jul 4, 2026, at 04:03 pm (GMT -6)  Volcano Discovery",
-    "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23160073/mag3quake-Jul-4-2026-50-km-Al-Sur-De-Delta-Del-Rio-Lempa-El-Salvador.html",
-    "image": "https://volcanodiscovery.de/maps/quakemap-20k_s-23160073.jpg?t=1783240624",
-    "timestamp": 1783240620000,
-    "source": "Volcano Discovery",
-    "publisher_id": "www.volcanodiscovery.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdjF4LVJGNUJsTmlOeGNWQ1NrWVloWEZwUlhObFdycncxS0tzRW9TSWROanEtejBjRVV0X25CNFBUV1ZIdHRQTHFxb1o2Y0REakRoZGIwYlUtUGFyUnFZS0tidXc1eXBDcTQzQUw4ejVYYzBPMndQdzJYeExFbTJ0Zy0xd0hSUWpzYmpkZVlJdU1IcllheDBadHAzSFRfOUVscDZfaXFGNUpvMTZtSjFpZU9BT0d4aXRNVmNjdzFXZ2Zzek80eWFZbERSRTJncEhBa3dnMg?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.discoverlosangeles.com/event/2026/07/05/los-angeles-football-club-vs-el-salvador-national-team",
-    "title": "Los Angeles Football Club vs. El Salvador National Team",
-    "description": "Los Angeles Football Club vs. El Salvador National Team  Discover Los Angeles",
-    "url": "https://www.discoverlosangeles.com/event/2026/07/05/los-angeles-football-club-vs-el-salvador-national-team",
-    "image": "https://www.discoverlosangeles.com/sites/default/files/images/2021-10/losangeles-observatory-social.jpg",
-    "timestamp": 1783239076000,
-    "source": "Discover Los Angeles",
-    "publisher_id": "www.discoverlosangeles.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSm52MjRsZ0ZsWUJvTEtNSGl0NUl3ZHliUUhSSW5QQ213NDN3S1RoNjNpWllxdzE3MS1IME50RUJVM1Q4eExUQnRyNHZNX1dwN3VjSV9Jb1ptcFoyOTQ5UU9FX2RDaUI4OTV5NmhmaTJ0N2JMSzJNd19yUUNRTWlELWE0cDZPV19QOGNYdm1fSHI5RWxjek9naVM1S0M0MFltSlBwWFhZaTd0dw?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
   }
 ]
