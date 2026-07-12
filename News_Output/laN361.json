@@ -1214,43 +1214,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.inss.org.il/he/publication/syria-new-parliament/",
-    "title": "הפרלמנט הסורי החדש: תחילתה של דמוקרטיזציה או מעטפת בלבד?",
-    "description": "הפרלמנט הסורי החדש: תחילתה של דמוקרטיזציה או מעטפת בלבד?  inss.org.il",
-    "url": "https://www.inss.org.il/he/publication/syria-new-parliament/",
-    "image": "https://www.inss.org.il/he/wp-content/uploads/sites/2/2026/07/2025-05-10T000000Z_762496162_MT1NURPHO000JQXB3P_RTRMADP_3_SYRIA-PARLIAMENT-ELECTIONS.jpg",
-    "timestamp": 1783254290000,
-    "source": "inss.org.il",
-    "publisher_id": "www.inss.org.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0OV9BMlZfYjZCTEpIN0xuc2pial9ubjZrNGJmX1J2MTVLekg4YXg1U2hJN043VWZ0MnBaWlZHNkVjQk10ZFJzTEVwdC04NWxrV1BBTDFaMVZWQTkwejFVdlFLMmJQaWRpOFNBNw?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.zman.co.il/live/701125/",
-    "title": "סוריה: נשיא צרפת יבקר במדינה וייפגש עם הנשיא א־שרע",
-    "description": "סוריה: נשיא צרפת יבקר במדינה וייפגש עם הנשיא א־שרע  זמן ישראל",
-    "url": "https://www.zman.co.il/live/701125/",
-    "image": "https://static.zman.co.il/www/uploads/2025/06/AFP__20250624__63KD638__v1__HighRes__NorwayFrancePoliticsDiplomacyRoyalsDefence-1200x630.jpg",
-    "timestamp": 1783253873000,
-    "source": "זמן ישראל",
-    "publisher_id": "www.zman.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MZ01NY1BlckRjM2lMci1BZV9XSG9YVzVkdFFBQUZFN2JCdEJUNTdCaTVJeUtZc2lFalRpMmFmeFduVEdNOXVrX2h1SQ?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
