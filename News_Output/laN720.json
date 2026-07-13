@@ -435,43 +435,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150gzfu-at-least-14-killed-in-kyiv-after-second-massive-russian-attack?language=lv",
-    "title": "At least 14 killed in Kyiv after second massive Russian attack",
-    "description": "At least 14 killed in Kyiv after second massive Russian attack  Inbox.lv",
-    "url": "https://news.inbox.lv/150gzfu-at-least-14-killed-in-kyiv-after-second-massive-russian-attack?language=lv",
-    "image": "https://news.inbox.eu/w/img/43/2d/432da618354fc9bee2.jpg",
-    "timestamp": 1783332470000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczBpRnBkZDVSUF85ZWZSX0tzSUxXUU5PYTBvMms0UUUwWXl1ZmxlanRaODRmUGhUa2w3LVN3T2ZUVldYbTF4QXZBMFJuOWpSX3pKQVdFdGdhTTg5WlB2TEtISGZDNkxwaWY2c3d4aTA3UkR4QjdTaU00SGNERnpPWEJkM2NfcU9kcVR1dTBPMzI0VE1USy1tZUFlNkt2TUVfVmRrME1sbw?oc=5",
-    "rssid": "laN720",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150gz9a-kyiv-struck-by-second-deadly-russian-attack-in-less-than-a-week?language=lv",
-    "title": "Kyiv struck by second deadly Russian attack in less than a week",
-    "description": "Kyiv struck by second deadly Russian attack in less than a week  Inbox.lv",
-    "url": "https://news.inbox.lv/150gz9a-kyiv-struck-by-second-deadly-russian-attack-in-less-than-a-week?language=lv",
-    "image": "https://news.inbox.eu/w/img/ff/ff/ffffe3d50d100621fd.jpg",
-    "timestamp": 1783331310000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOU5Bai1UeTQybTdSMzZjTlRBNldjZ3JYVmNQQTZKZmtmVHJZLVl3bGdLcTRjdlJMa2VyS2pPSlFic2tvMXltM3RiTUdxZzkwXzFfVENaeG1qampOb1NSLVJSU2E5ZE1GbV8yUldJMXNKbnM2dUlhNEhBeWdqTVctaG51X1RiVUJlb2IyYlQ4VU04c0JQMk1vSGlSXzVmTTlhV3dUa3RYZHg?oc=5",
-    "rssid": "laN720",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
