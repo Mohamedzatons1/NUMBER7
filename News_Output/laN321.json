@@ -1556,43 +1556,5 @@
     "extra": "Norway",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sport1.maariv.co.il/mundial-2026/article/1892356/",
-    "title": "רגע לפני רבע הגמר: חדשות רעות בנורבגיה",
-    "description": "רגע לפני רבע הגמר: חדשות רעות בנורבגיה  ספורט 1",
-    "url": "https://sport1.maariv.co.il/mundial-2026/article/1892356/",
-    "image": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1200,h_630/1277511",
-    "timestamp": 1783428303000,
-    "source": "ספורט 1",
-    "publisher_id": "sport1.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRGVsUHNhd1NpZ1c1NHpWdVRjakJqQWVWSm1mMmZ2WklUdC1zQ19mc1dWejI0SUlXRTBnc0t3ZEM5aHlWaGZZdURfLXVTNmkxNHhWcnJ5dGF1ZHktc2I0QlkzN0tmaXk4?oc=5",
-    "rssid": "laN321",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Norway",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/mon-qua-cua-haaland-cho-na-uy",
-    "title": "המתנה של האלאנד לנורבגיה",
-    "description": "המתנה של האלאנד לנורבגיה  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/mon-qua-cua-haaland-cho-na-uy",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/07/1783425462915_731808203-18607794574059473-37578852105633689-n-3342-jpg.webp",
-    "timestamp": 1783425873000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XYzQ0N1U3ZDVXSFJZRGxDWTVYQ28xc1NHVi1rRS1jVkg1Q09qd3pxX2hQc3ZjaE5JUUw5SUNEd1JsTjZlMGx2a0dnTlNVU2hwM3VjVUFiWTFwR1RITEZ4MHlGMk1JQQ?oc=5",
-    "rssid": "laN321",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Norway",
-    "likes": 0,
-    "comments": 0
   }
 ]
