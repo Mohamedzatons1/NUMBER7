@@ -1879,43 +1879,5 @@
     "extra": "Belgium",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/lionel-messi-lap-ky-luc-buon-da-hong-2-qua-phat-den-trong-1-vck-world-cup",
-    "title": "ליונל מסי קובע שיא מצער: החמצת 2 פנדלים בגמר גביע העולם אחד.",
-    "description": "ליונל מסי קובע שיא מצער: החמצת 2 פנדלים בגמר גביע העולם אחד.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/lionel-messi-lap-ky-luc-buon-da-hong-2-qua-phat-den-trong-1-vck-world-cup",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/07/1783443511716_messi2-2348.jpeg",
-    "timestamp": 1783443806000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPel8xaDE3cV9pellHaUhmMFcxNzhuNE92cEdFeDdWYnhQNjAwb2x6c3RwR2dUbHBfazg5MzBYS1FFdmx0MEpoV0ZwSUMybkEweWFBRi1mS1BYX0xJWG5YRThFVHpQOWFJV0NMUTd0U1ItUjRETEhSN2lyS3VleWhmcmtyRHk5QjlKYU8yVHA1c2N2a25xNlBFNHhhRFNESU1V?oc=5",
-    "rssid": "laN210",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Belgium",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/cuoc-dua-vi-dai-cua-nhung-so-10",
-    "title": "המירוץ הגדול של \"מספר 10\"",
-    "description": "המירוץ הגדול של \"מספר 10\"  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/cuoc-dua-vi-dai-cua-nhung-so-10",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/08/1783445914232_21a1-online-17834343542491303334401-36-0-676-1024-crop-1783434845360747069722.jpeg",
-    "timestamp": 1783438675000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UUGpyeVI4OEE0VjlMQ1RSV05XM3M1SkJaSk55UWZtbFpYRm5IMWJBRkJIUEF6aW1HVVNLUi1KQ1NXeHVhLU1PVi16TWVZSU5YUGdVb0oxczJOQ083WFU3SFRBYlo4Rmc0?oc=5",
-    "rssid": "laN210",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Belgium",
-    "likes": 0,
-    "comments": 0
   }
 ]

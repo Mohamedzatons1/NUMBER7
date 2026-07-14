@@ -1537,43 +1537,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.jdn.co.il/video/2689295/",
-    "title": "משגרי טילים בחדרי השינה: לוחמי חטיבה 769 פועלים בדרום לבנון",
-    "description": "משגרי טילים בחדרי השינה: לוחמי חטיבה 769 פועלים בדרום לבנון  JDN",
-    "url": "https://www.jdn.co.il/video/2689295/",
-    "image": "https://www.jdn.co.il/wp-content/uploads/2026/07/f222e45a-0006-46d7-8e37-aef0b234087f-compressed.jpg",
-    "timestamp": 1783441385000,
-    "source": "JDN",
-    "publisher_id": "www.jdn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhN1FuTy1yZ2U4dW1QM1piWmZIQ1JnVGZpX3IwZndwbGV3VU85MmtQYmtkenR0Mk1fVk1JZFptbjBuNUQ4dEdvR1FockY?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/military/article-1341846",
-    "title": "המחבלים הכלואים לא יוותרו: הפרשן הלבנוני מזהיר מהצעד שעלול לפוצף הכל",
-    "description": "המחבלים הכלואים לא יוותרו: הפרשן הלבנוני מזהיר מהצעד שעלול לפוצף הכל  מעריב",
-    "url": "https://www.maariv.co.il/news/military/article-1341846",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1002742",
-    "timestamp": 1783438260000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBU1ZqeTR6Qnh3ZzUtMjBZREUzb3lHWnJyaVhma05GanBBUFNlMi1yR1Q0Q0trOFVOa3hGcDdyeHFzV2hqZVdpWldBRzdXbVI1MTB3WTd1ZnhxZVlVQ2JHSTFQZ0I?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
