@@ -2354,43 +2354,5 @@
     "extra": "Bulgaria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://seenews.com/news/bulgarian-stocks-close-higher-turnover-soars-1297670",
-    "title": "Bulgarian stocks close higher, turnover soars",
-    "description": "Bulgarian stocks close higher, turnover soars  SeeNews",
-    "url": "https://seenews.com/news/bulgarian-stocks-close-higher-turnover-soars-1297670",
-    "image": "https://cdn.seenews.com/images/t780x490/bulgarian-stocks-close-higher-turnover-soars-1297670-1783435685.webp",
-    "timestamp": 1783435679000,
-    "source": "SeeNews",
-    "publisher_id": "seenews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbnh0U1F3VE5weEwtZ25zbENPcTM2M3FrTnNxdGJ1ZFQ1Z2U2dXFTVGc3empKYnF5ejV3T1RLc0xmS083SVRjTzRrcUNQMEN3ZUxzcENadlNlYUhMdFFrOVZsa3ZwOGx0WHNrdFRFZVpuTi14b1dqay1DRlBSdVg4R1R0UQ?oc=5",
-    "rssid": "laN026",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bulgaria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://bnrnews.bg/en/post/499939/mystical-bulgarian-tv-series-mamnik-earns-three-international-awards",
-    "title": "Mystical Bulgarian TV series \"Mamnik\" earns three international awards",
-    "description": "Mystical Bulgarian TV series \"Mamnik\" earns three international awards  БНР Новините",
-    "url": "https://bnrnews.bg/en/post/499939/mystical-bulgarian-tv-series-mamnik-earns-three-international-awards",
-    "image": "https://bnrnews.bg/api/media/d6ba97e6-e0f5-4624-b8cd-9b8a7bb2fdf8?Size=large",
-    "timestamp": 1783433631000,
-    "source": "БНР Новините",
-    "publisher_id": "bnrnews.bg",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzdFRjlZME0zQVNHczVBdWRSMEM2T1dSUWtkSU5YTjNoeFJ4cnVadUhoa1Q3aWZCeXJndjJ6S3QzZmlvNGEyVHVFaDV6eHYzNW0wWUZLc0hmVzNrWUJ6VnNLd2tjQkhyQ0tBOW9HRW4tZU02d2lVTVBROGxyZU5OeU9hc3Y5NWtnRWJfR1N3VHpfdDFfS0NMVmpIUUFCNkFMUGdWbA?oc=5",
-    "rssid": "laN026",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bulgaria",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -796,43 +796,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1341834",
-    "title": "אש, עשן והבטחות: הדרמה מאחורי ביקורו ההיסטורי של מקרון בסוריה",
-    "description": "אש, עשן והבטחות: הדרמה מאחורי ביקורו ההיסטורי של מקרון בסוריה  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1341834",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1114413",
-    "timestamp": 1783435089000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAweERXa3lkdGVzVWk0ZVRVWHRxd2d1NHF1bDlzY1JHaXJJcTJtN0tkczU2ZFVsSXMwSGJyUFQ0MGVEQldxVGhiWkxrTkh4MFlnLWRxYzZka2dtNHVoTlhjRQ?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/sjtocd9mfg",
-    "title": "א-שרע לצד מקרון: \"על ישראל לסגת מהשטחים שכבשה בדרום סוריה\"",
-    "description": "א-שרע לצד מקרון: \"על ישראל לסגת מהשטחים שכבשה בדרום סוריה\"  ynet",
-    "url": "https://www.ynet.co.il/news/article/sjtocd9mfg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/07/H1xRcbHqXMe/H1xRcbHqXMe_0_126_3000_1693_0_large.jpg",
-    "timestamp": 1783432501000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SQTM1X2ZEZ1dRNkVUZHlYX1p1bjBYbElWTjdjemJwX0o0clBGdXJLblhlaWRPdHNkekVYaFduTXZDenZfVmpoOFplWlplSl9Xb2E3X0w4WlRWUQ?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
