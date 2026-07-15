@@ -207,43 +207,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/001-D-520874-00.html",
-    "title": "הממשל האמריקני מעניק לאוקראינה רישיון לייצור מערכות פטריוט",
-    "description": "הממשל האמריקני מעניק לאוקראינה רישיון לייצור מערכות פטריוט  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/001-D-520874-00.html",
-    "image": "https://media.news1.co.il/thumbs/480/NEWSY2011aa3e1b9bb04c9e918857ef6ab37fae.jpg",
-    "timestamp": 1783544493000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EUnY0Y0Q2U0tyQnZDYkVKODhxQnotSUtTaUxuVXdvUUpDUGdVU1hlYWo2V3AyT3FJYmpUVktWNUJqMWZ3RFotcFR0RzJlUmgyMWtBUFRLb3B4MjVnemkxd1Bn?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3dlJIMk1FNnpUT3RvRnM3YmNvcDZTUEI3T3dNcUgxdWNNUkt2Rk9peGxORTRsZmNIdTJpT1BxMWxWcDh2T0stU1F6dw?oc=5",
-    "title": "צבא ארה\"ב מאשר: חידשנו התקיפות כדי לפגוע ביכולת איראן לאיים על חופש השיט",
-    "description": "צבא ארה\"ב מאשר: חידשנו התקיפות כדי לפגוע ביכולת איראן לאיים על חופש השיט  חרדים10",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3dlJIMk1FNnpUT3RvRnM3YmNvcDZTUEI3T3dNcUgxdWNNUkt2Rk9peGxORTRsZmNIdTJpT1BxMWxWcDh2T0stU1F6dw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1783543922000,
-    "source": "חרדים10",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3dlJIMk1FNnpUT3RvRnM3YmNvcDZTUEI3T3dNcUgxdWNNUkt2Rk9peGxORTRsZmNIdTJpT1BxMWxWcDh2T0stU1F6dw?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
