@@ -264,43 +264,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/0043-D-184719-00.html",
-    "title": "האיום הסיני החדש על ענקיות הבינה המלאכותית המערביות",
-    "description": "האיום הסיני החדש על ענקיות הבינה המלאכותית המערביות  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/0043-D-184719-00.html",
-    "image": "https://media.news1.co.il/UploadImages/NEWSY207ce43605d0aa454491abc781e9b6db97.jpg",
-    "timestamp": 1783494035000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QallmTVp6TU84YmZ2dm9kakdWc18ybGVBOVY3T0dpRHVueHZWNjY5U1pjU0pia2xFOElhb29ibE9vZG5HS3VsaHV2cWpXeF8zc2NHczRiTmNza3hnLUotcEVScw?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.emess.co.il/radio/1897587",
-    "title": "1.4 טריליון דולר: חברת הטכנולוגיה נתבעת בענק",
-    "description": "1.4 טריליון דולר: חברת הטכנולוגיה נתבעת בענק  אמס",
-    "url": "https://www.emess.co.il/radio/1897587",
-    "image": "https://www.emess.co.il/resize/?width=800&height=450&url=/uploads/2026/07/mark_zuckerberg_f8_2019_keynote_-32830578717-0857-ea9a1a4c.jpg",
-    "timestamp": 1783492428000,
-    "source": "אמס",
-    "publisher_id": "www.emess.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LNVF2eWh4ZGI0N1JXM1ZfeUVERTBsck9ZTGVncVM1eHY3TXZhZ2J6UWhaUnRubjlPbUVBZkNrNjd3RkdRcHhZbW5tRnZhQQ?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
