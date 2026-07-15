@@ -1841,43 +1841,5 @@
     "extra": "Belgium",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/lo-dien-hlv-moi-cua-bo-dao-nha",
-    "title": "נחשף המאמן החדש של פורטוגל.",
-    "description": "נחשף המאמן החדש של פורטוגל.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/lo-dien-hlv-moi-cua-bo-dao-nha",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/08/1783517556596_screenshot_3.jpeg",
-    "timestamp": 1783517727000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWeXBDOVdkaEZDUHFWdldmVWlqOUZ0bzBxZkI0b2tQT0J5UEtJX0NnUmhLOVBTWExCU05MQ3d0MWR3RlZlTm9GUzV5YjhScFVNeVNlS0RpdVhrVGZieVRNcjc2ckdfUUk?oc=5",
-    "rssid": "laN210",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Belgium",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/khoanh-khac-bi-truyen-hinh-bo-lo-hlv-ai-cap-gay-chien-voi-scaloni",
-    "title": "רגע שהטלוויזיה החמיצה: מאמן מצרים מתעמת עם סקאלוני.",
-    "description": "רגע שהטלוויזיה החמיצה: מאמן מצרים מתעמת עם סקאלוני.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/khoanh-khac-bi-truyen-hinh-bo-lo-hlv-ai-cap-gay-chien-voi-scaloni",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/08/1783514266810_2_1.jpeg",
-    "timestamp": 1783514676000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM1JxNzVtRVBuY3pQeE9Hcjh5TGFiamZlOU8yRVc3RWFZQVFlM19rMmRwWFEtd3NBalU2cFBoa2R4LXQ2RlV5NHdmcXV5b18yRV81OW1yZnRpVndUT3RRa1hCUWhMYS1pTlhxSlVSZlRMVkFnVXN6ZVh4cXZDblNXMjl3eklrMDVTS0NQNi1jS3h5RmE5RUE?oc=5",
-    "rssid": "laN210",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Belgium",
-    "likes": 0,
-    "comments": 0
   }
 ]
