@@ -587,43 +587,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150hkiq-wildfire-kills-at-least-12-in-southern-spain?language=lv",
-    "title": "Wildfire kills at least 12 in southern Spain",
-    "description": "Wildfire kills at least 12 in southern Spain  Inbox.lv",
-    "url": "https://news.inbox.lv/150hkiq-wildfire-kills-at-least-12-in-southern-spain?language=lv",
-    "image": "https://news.inbox.eu/w/img/78/29/7829ec767fdcd1e0df.png",
-    "timestamp": 1783654200000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHhHMUxmRTBTYVNldHpHOThDR2p2aGhZakg5YURyX2VVUjJTNlpXYVM2N0lYN3Q5MldrU05lcU9EWXBqLVZORDZuTldBdDhsUjZkY0dkZ2MxZS1ONUVSbzQ1TVJGa3BRUWFqek5NMHpVbFNNQ3YtalYwdEctVXpBVjBVLVYwdGVZbDhiTXlyUQ?oc=5",
-    "rssid": "laN741",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150hlx2-britons-feared-to-be-among-11-killed-in-spain-wildfire?language=lv",
-    "title": "Britons feared to be among 11 killed in Spain wildfire",
-    "description": "Britons feared to be among 11 killed in Spain wildfire  Inbox.lv",
-    "url": "https://news.inbox.lv/150hlx2-britons-feared-to-be-among-11-killed-in-spain-wildfire?language=lv",
-    "image": "https://news.inbox.eu/w/img/e6/97/e69705ec261fb5f18a.jpg",
-    "timestamp": 1783654200000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUlfbEpUblU5aXBob1NfcWVuX25VeXREejRGQWNtNmZHRXVmUEZwQThyX25LWjVWZWp1SF8weG5uUHdMNEZQRWxaUU11XzlkeHpZeW1CVjVUWHpiLU1CWHl6WWxYa0pBYWdhVzVuWWU3SjBkUnZMWi01RkVYV3I2NnJuTl9SWk1SVWtNOUNpMVVRSFhqMG96WVBlLXY?oc=5",
-    "rssid": "laN741",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
