@@ -2126,43 +2126,5 @@
     "extra": "Egypt",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/science/articles/two-major-archaeological-sites-uncovered-002755340.html",
-    "title": "Two major archaeological sites uncovered in Egypt",
-    "description": "Two major archaeological sites uncovered in Egypt  Yahoo",
-    "url": "https://www.yahoo.com/news/science/articles/two-major-archaeological-sites-uncovered-002755340.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/9e36ddc869a614146937d971331971e7ae5d2d776731d9937b7c25f61804c7be/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_week_574%2Fcd006179bdf0a8c473051ffa84392375",
-    "timestamp": 1783643220000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSFNDZ0hiQ0ZBbnd4OUhPLTQydVVVMEg5YTlpdENaZU1KdzJrNElZNHhIWFVodUp5a21RYmZJdkRaXzVhbFBQTjdlMVNycW9RYkZUQ2JHQlhHb1ZMZlVXTFQzNFVnMmtwV1JXRGxkRUVfZUNkS3hOOUUwS2labDVfb3Bwa1BDNkMtQ3lfWk1qemdPYzQtYWdzVUVseVVEdEZw?oc=5",
-    "rssid": "laN052",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.usatoday.com/story/travel/cruises/2026/07/09/lgbtq-cruise-denied-entry-egypt/90869719007/",
-    "title": "LGBTQ cruise denied entry to Egypt after being barred from Turkey",
-    "description": "LGBTQ cruise denied entry to Egypt after being barred from Turkey  USA Today",
-    "url": "https://www.usatoday.com/story/travel/cruises/2026/07/09/lgbtq-cruise-denied-entry-egypt/90869719007/",
-    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90869742007-1208617501.jpg?crop=4994,2811,x0,y258&width=3200&height=1802&format=pjpg&auto=webp",
-    "timestamp": 1783640640000,
-    "source": "USA Today",
-    "publisher_id": "www.usatoday.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnFOblNZT1pIVnd4TWJDeGxWVTVWTEhFUm9pdURWRlh0YV9Ld2dBbWtNV09ockNOOXNyT1VnS2hBaF9zWHU4c3V2RV96UG5nOXZnQnpVVXlYRG80T3VMTG5TVkVodEpZUDdCaC03UkFrNGtZb1pqYzFFMjg5emZLLWYyM1dHc3JLeFNlU2FoeG5zOS0walB4TEFpNWNyS1JLSGhz?oc=5",
-    "rssid": "laN052",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
   }
 ]
