@@ -435,43 +435,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=551763",
-    "title": "התנאי של נוייר לשוב לנבחרת: לנפות שחקן",
-    "description": "התנאי של נוייר לשוב לנבחרת: לנפות שחקן  Sport5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=551763",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/4/size944x700/1745654.jpg",
-    "timestamp": 1783693560000,
-    "source": "Sport5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XcEdrZWxJSGNyRW9DeXdUcWpnMDg4dFVOdXY2U3A4Y2FtazYxV01fSVZyUDI2eF9maFlGS3BSbm80aTRySlAzelBEYk93WWpKZ2JPdlhHYWZRS0d0NjJ1TERQbjd6N19tV3lEcm9YUW9Gakk?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/ryivl000xml",
-    "title": "\"הכחשת ישראל - אינה חוקית\": החקיקה התקדימית בגרמניה, והעונש למי שיעבור עליה",
-    "description": "\"הכחשת ישראל - אינה חוקית\": החקיקה התקדימית בגרמניה, והעונש למי שיעבור עליה  ynet",
-    "url": "https://www.ynet.co.il/news/article/ryivl000xml",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/05/19/BJgx9o6GK00/BJgx9o6GK00_0_0_3000_1995_0_large.jpg",
-    "timestamp": 1783692073000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15UGlHZHJ6a3JiYURFZS1xam1EUWJoT0xUWUZUbUkxRlN0bGE0ZjFmVzJ2OWUwNWx4ajM0bmk4QnpkVjFka0pTTkw1djlaSTgtZ2NBQnJDVmN2N2M?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]

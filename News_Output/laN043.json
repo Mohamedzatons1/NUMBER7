@@ -2544,43 +2544,5 @@
     "extra": "Cuba",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.foxnews.com/video/6400799086112",
-    "title": "We have to keep a very close eye on Cuba, Victoria Coates warns",
-    "description": "We have to keep a very close eye on Cuba, Victoria Coates warns  Fox News",
-    "url": "https://www.foxnews.com/video/6400799086112",
-    "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/812b6ec6-6fa1-4234-8936-3ce5a24e8119/7e604c9b-0714-403e-8e99-94513c5eacce/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-    "timestamp": 1783692972000,
-    "source": "Fox News",
-    "publisher_id": "www.foxnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yOElfRGNRRTVvOU8yc1ZJV2pELTZWUFBxRDlTX0hscGhqZm9mSGtDaWV6RHY1ZHQyMU5NQkN5T2ZDUlBTWVdLc1BvRjM2eDVibzNmWER3?oc=5",
-    "rssid": "laN043",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Cuba",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.fiu.edu/2026/cubas-economic-future-may-depend-on-rebuilding-trust",
-    "title": "Cuba’s economic future may depend on rebuilding trust",
-    "description": "Cuba’s economic future may depend on rebuilding trust  Florida International University",
-    "url": "https://news.fiu.edu/2026/cubas-economic-future-may-depend-on-rebuilding-trust",
-    "image": "https://res.cloudinary.com/digicomm/image/upload/t_metadata/news-magazine/2026/_assets/cuba-economic-future.jpg",
-    "timestamp": 1783691299000,
-    "source": "Florida International University",
-    "publisher_id": "news.fiu.edu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYU5ONVdWR0NSUEtPdUkybGhYUTFiOU1HTkhfaTlZT0Y3czBMU0lzb1RTOHVhbTNsSzRUZ1N0ZnEwSnJwZzBTVWwxeWpaaWFMVlRIOVpoMlFlMnU0YS1vSmVMdUFsWG5DZFk1MXE2ZGhvalljUDhBZGlkbDJBVVM4eW9wa2Q?oc=5",
-    "rssid": "laN043",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Cuba",
-    "likes": 0,
-    "comments": 0
   }
 ]
