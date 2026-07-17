@@ -55,43 +55,5 @@
     "extra": "Morocco",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/londone-neramumai-120274552",
-    "title": "Londone – neramumai",
-    "description": "Londone – neramumai  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/londone-neramumai-120274552",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/95beeefa-d6d2-4a10-af6c-abca99cafd77.jpg?w=1200&h=800",
-    "timestamp": 1783676193000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pQVRTeE9GVklVcG14SnZTZ3hmX0ktZnlLN1ZsazN3dHpQMVdXQVk2LWxCbGExSUIzWUhrVnB4UU1wY2syQVFGUjBKYU5FUGNhZFhQN0w4aVVNYV9OZHR4ZTdIUlZac2pCYzRhNVJrNlhJRS1FWUdV?oc=5",
-    "rssid": "laN501",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Morocco",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.15min.lt/sportas/naujiena/futbolas/kyliano-mbappe-keitimas-sukele-nerima-pats-paaiskino-kas-nutiko-24-2721626",
-    "title": "Kyliano Mbappe keitimas sukėlė nerimą: pats paaiškino, kas nutiko",
-    "description": "Kyliano Mbappe keitimas sukėlė nerimą: pats paaiškino, kas nutiko  15min.lt",
-    "url": "https://www.15min.lt/sportas/naujiena/futbolas/kyliano-mbappe-keitimas-sukele-nerima-pats-paaiskino-kas-nutiko-24-2721626",
-    "image": "https://s1.15min.lt/static/cache/MTIwMHg2MjgsOTcweDYzMiw2MTYxNjUsb3JpZ2luYWwsLGlkPTEwNzY4MzY0JmRhdGU9MjAyNiUyRjA3JTJGMTAsOTY2ODE2MzY1/kylianas-mbappe-6a50aadbdc1aa.jpg",
-    "timestamp": 1783671748000,
-    "source": "15min.lt",
-    "publisher_id": "www.15min.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUprSXNHQmVzd1N3SjM4MjN0VXlDblRaT1I5ZTV0YVF5TWJQZGhvdVVkLVhWX3VhbnJSTHNsU253T2hscjIyUDhudE8zSXg1S3B2UnhMRk9YYmVaR041NExaNzJKUTJ3QTlrckY5bkdxemg0ako2TnRmMDIxU2hkX0M3V0ltbTdLVk5jZ0lLVVNENmZyanJidk85cWU1bUdxX2lFaElodlFHLUNwOFJZYzk0TTg0Uy16ckUtd09n?oc=5",
-    "rssid": "laN501",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Morocco",
-    "likes": 0,
-    "comments": 0
   }
 ]
