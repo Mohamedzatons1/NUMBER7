@@ -3760,43 +3760,5 @@
     "extra": "Thailand",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crely7g8xepo",
-    "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-    "description": "New dinosaur species with neck as long as cricket pitch discovered in Thailand  BBC",
-    "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
-    "timestamp": 1783719057000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GX2YyY19CaUxhT054clNCX0tsczBnRWJhM2VVeXg4LTFKMi1NTk9yR3A3eFdCTnJFSjVsTXIxTDFQaEU2TDlyZzRjT01vcXMwUmt3c1QtWkZCTVFl?oc=5",
-    "rssid": "laN171",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Thailand",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/crely7g8xepo",
-    "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-    "description": "New dinosaur species with neck as long as cricket pitch discovered in Thailand  BBC",
-    "url": "https://www.bbc.com/news/articles/crely7g8xepo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
-    "timestamp": 1783719057000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBibEdjMWJzSXVSUWVVTHVpYnVtMGRSd29TSzZxeDg0WkJGdFd6Mk1BQWV3aFFCVWxqSmFMQy1zcHcydWd5YnMzWC1CekhaSkZmQlBpdmJVSVV0Zw?oc=5",
-    "rssid": "laN171",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Thailand",
-    "likes": 0,
-    "comments": 0
   }
 ]

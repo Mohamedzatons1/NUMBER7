@@ -1233,24 +1233,5 @@
     "extra": "El Salvador",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/match/2699925",
-    "title": "Tijuana vs El Salvador | Hybrid Friendlies | “Results”",
-    "description": "Tijuana vs El Salvador | Hybrid Friendlies | “Results”  OneFootball",
-    "url": "https://onefootball.com/en/match/2699925",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fv2%2Fen%2Fmatch%2F2699925%2F2805%3Fvariable=0&utcOffset=-0700",
-    "timestamp": 1783721297000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IX2J6alB1c0pGdm1lakR5NW5TOGFqWEQ2UTZDcFFFQkY4MkUtUENDVEFRM0ZROHNfbUo0dmo3OU0tVWxzNjlUS3NqSlpmRkVWaVE?oc=5",
-    "rssid": "laN053",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "El Salvador",
-    "likes": 0,
-    "comments": 0
   }
 ]
