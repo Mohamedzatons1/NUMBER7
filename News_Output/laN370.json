@@ -777,43 +777,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bizportal.co.il/globalmarkets/news/article/20035583",
-    "title": "ביד אחת טראמפ \"מציל\" את ישראל מטורקיה וביד השנייה רוצה לתת לארדואן מטוסי F-35",
-    "description": "ביד אחת טראמפ \"מציל\" את ישראל מטורקיה וביד השנייה רוצה לתת לארדואן מטוסי F-35  ביזפורטל",
-    "url": "https://www.bizportal.co.il/globalmarkets/news/article/20035583",
-    "image": "https://res.cloudinary.com/bizportal/image/upload/f_auto,q_auto/giflib/news/rsPhoto/sz_333/rsz_870_420_טורקיה3.jpg",
-    "timestamp": 1783747140000,
-    "source": "ביזפורטל",
-    "publisher_id": "www.bizportal.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSVNwQjA2WTFlVEVyZTUyYjF4YkJfQlplRWw0akVBSnB0dmItMG5aZ1V1NTkyMS1XR3NJMnB0UHpKbG0xR2tNZFhQalNwU05mVEstOWlmSVJpS0FQTjZITUplZXBYSTdLU1Fzc1hDMTI?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3852543",
-    "title": "מאחורי ההצגה של ארדואן: מה באמת השיגה טורקיה בפסגת נאט\"ו?",
-    "description": "מאחורי ההצגה של ארדואן: מה באמת השיגה טורקיה בפסגת נאט\"ו?  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3852543",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/7/4/4074063-46.jpg",
-    "timestamp": 1783743300000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWTGxVRHlFakJOcUdySFJ4TjRINEg3UW5Wc1B2NVpiT1dFd19JN0VaUGo3Q2xQV2FpR3BVdXJzRWQyemJPaFNyOHlnVi1SUQ?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
