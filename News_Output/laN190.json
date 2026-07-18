@@ -2145,43 +2145,5 @@
     "extra": "Yemen",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen",
-    "title": "What is going on in Yemen?",
-    "description": "What is going on in Yemen?  Al Jazeera",
-    "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4a3f03d3f3-1783250691.jpg?resize=1920%2C1440",
-    "timestamp": 1783774575000,
-    "source": "Al Jazeera",
-    "publisher_id": "www.aljazeera.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ySUdqMmJiLVgtZGZlYkFzV0xUYWp4RHhoVFp3TzNCaENNN1BpTnY5UGNpUDNCTE1qaGRQSUNJbjdmQ2JpOFFkQ3YwVHlfaXBKYjM1LW1UdHVjbkk3VW9QVVBKeFBlV241UHp6VHhWQVZwazFzd0E3VlRR0gF_QVVfeXFMTmx0ZnhSekl0eFhuWEtIbFFqOHN4cVI0eThxay1TWllaSkh5WmJob3V0OUN1aEFsM2lsWW16T0plWXppMFZjS3lXX0loajlTQ0VBVEkxOHNXdy1IbUU2MXpmczVJQVhPOFFjUzFFRUJtcjZBMXc4bHd4MUtSTG1qNA?oc=5",
-    "rssid": "laN190",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Yemen",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kurdistan24.net/en/story/925072/yemen-prisoner-exchange-postponed-indefinitely-as-government-houthis-trade-blame",
-    "title": "Yemen Prisoner Exchange Postponed Indefinitely as Government, Houthis Trade Blame",
-    "description": "Yemen Prisoner Exchange Postponed Indefinitely as Government, Houthis Trade Blame  Kurdistan24",
-    "url": "https://www.kurdistan24.net/en/story/925072/yemen-prisoner-exchange-postponed-indefinitely-as-government-houthis-trade-blame",
-    "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1783774905_kurdistan24.jpg",
-    "timestamp": 1783772205000,
-    "source": "Kurdistan24",
-    "publisher_id": "www.kurdistan24.net",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3l1dkU1X0dzUzNaZUVxR19hZklNMzR2Z0FtaUdTWjFLRUM0aTVoalBqUE9WZzJ2OVdWRm14SUp6LUhKbzZIb1Y0T2V6bHNrbnlLNE5CRGdUVGVseXg0Wlhha09raXJsTHVlS016T0hRM3FXbmZUWVNvX3dqVGlVZXBic3pWbDFINkk5bkhGVF9pT2RXSl9BLWZSSjU4WXkzbDdGWkVENmdDWFNZQUJOVk1zZkY3UFlCbTM4ZFR3b09SQQ?oc=5",
-    "rssid": "laN190",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Yemen",
-    "likes": 0,
-    "comments": 0
   }
 ]
