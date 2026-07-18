@@ -1290,43 +1290,5 @@
     "extra": "Bahamas",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.local10.com/news/world/2026/07/11/10-dead-after-plane-crash-in-the-bahamas/",
-    "title": "10 dead after plane crash in the Bahamas",
-    "description": "10 dead after plane crash in the Bahamas  WPLG Local 10",
-    "url": "https://www.local10.com/news/world/2026/07/11/10-dead-after-plane-crash-in-the-bahamas/",
-    "image": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F07-11-2026%2Ft_2452e4e0cc3b4d51a80fe45c4f4df265_name_47103899582_hdtv.jpg?auth=8cf10bcc581c1a159fbc355ca1ca144cda84f7ddfcbacb5a84fd8718361083c0&width=700",
-    "timestamp": 1783810358000,
-    "source": "WPLG Local 10",
-    "publisher_id": "www.local10.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZXpxd3JXbjA4enZRdXRoWDJVaFRzOUw3cEJ1MXMyX0lVZHAySllhdU41TG56WHNEME5IcDBOcVdBRHBKb3NEQ25MRGRPM0hpTzZTTG5zODVTelI3c0Nyc2gxek9wa3lxcU9FenlBQXFESkEwMDVKd0lNMG9zcGJZVDd4QmtwaTdDaktKQk9hMVE?oc=5",
-    "rssid": "laN012",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahamas",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.local10.com/video/news/2026/07/11/10-dead-after-cessa-crashes-in-the-bahamas/",
-    "title": "10 dead after Cessa crashes in the Bahamas",
-    "description": "10 dead after Cessa crashes in the Bahamas  WPLG Local 10",
-    "url": "https://www.local10.com/video/news/2026/07/11/10-dead-after-cessa-crashes-in-the-bahamas/",
-    "image": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F07-11-2026%2Ft_2452e4e0cc3b4d51a80fe45c4f4df265_name_47103899582_hdtv.jpg?auth=8cf10bcc581c1a159fbc355ca1ca144cda84f7ddfcbacb5a84fd8718361083c0&width=700",
-    "timestamp": 1783809669000,
-    "source": "WPLG Local 10",
-    "publisher_id": "www.local10.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSy1zeWMwWXR5Wm10TEEzLTRtTE5BOEI2WkN3ZndKUGc1NGQ4eEZaa3d5dW9qT244ZUgtRHYtOFhsTXlfTjlnaFZ2b2RaQ3czS3J2WWExRnoxSFpkejBIUVR6cEl5bHB4SHNjaVQyQWRvRWZXTEt4UktzTk1VNzh4V2s0Rlh1TTR6Ym5JZXVCMzZHVHM?oc=5",
-    "rssid": "laN012",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahamas",
-    "likes": 0,
-    "comments": 0
   }
 ]
