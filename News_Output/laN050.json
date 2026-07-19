@@ -1176,24 +1176,5 @@
     "extra": "Dominican Republic",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cbc.ca/player/play/video/9.7267365",
-    "title": "Canada advances to Volleyball Nations League Finals after win over Dominican Republic",
-    "description": "Canada advances to Volleyball Nations League Finals after win over Dominican Republic  CBC",
-    "url": "https://www.cbc.ca/player/play/video/9.7267365",
-    "image": "https://i.cbc.ca/ais/4e9e075e-32d3-4803-822b-19399a34c1b9,1783867962163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1680%2C945%29%3B",
-    "timestamp": 1783871112000,
-    "source": "CBC",
-    "publisher_id": "www.cbc.ca",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Y1NIbGhSY2h4VGhJYnZFWnAxNkkza0Y5cGxzZUlrSmtCZ2YtXzdNNXk4WlVLcV84UVNaSGR6dE5uZWV1NkFuMTF2U3JIODVZeU9KZTMyNW1KQQ?oc=5",
-    "rssid": "laN050",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Dominican Republic",
-    "likes": 0,
-    "comments": 0
   }
 ]

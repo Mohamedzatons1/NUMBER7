@@ -150,43 +150,5 @@
     "extra": "Switzerland",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/huan-luyen-vien-murat-yakin-khong-the-chap-nhan-duoc",
-    "title": "המאמן מוראט יאקין: \"זה בלתי מתקבל על הדעת!\"",
-    "description": "המאמן מוראט יאקין: \"זה בלתי מתקבל על הדעת!\"  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/huan-luyen-vien-murat-yakin-khong-the-chap-nhan-duoc",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/12/1783870318029_yakin.jpeg",
-    "timestamp": 1783872411000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclRZNXMyZ2FrUzBOTnl1cEd6UzFocjFNVlQ5QTQ1cjJEcWxfZGlHeF90TFRXNXh5eFdQZHFya1hMRXV3djdoM3MzbzFZalJBTVdiOENmTmE4b25JbDRBT0R0MERmRHVsY2F1VzhyeFFqU0JKZ0dsU1MyRTMyN3FYY0NOSlc?oc=5",
-    "rssid": "laN360",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Switzerland",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/vuot-ai-thuy-sy-argentina-dai-chien-anh-o-ban-ket-world-cup-2026",
-    "title": "לאחר ניצחון על שוויץ, ארגנטינה תפגוש את אנגליה בחצי גמר מונדיאל 2026.",
-    "description": "לאחר ניצחון על שוויץ, ארגנטינה תפגוש את אנגליה בחצי גמר מונדיאל 2026.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/vuot-ai-thuy-sy-argentina-dai-chien-anh-o-ban-ket-world-cup-2026",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/12/1783832563554_12-argentina-3.jpeg",
-    "timestamp": 1783869600000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUlNMlJDNFFYZHFKS1JHNGRVNG1OVWpWREZzOXp0R2pTaWhETGEteTFkZGV5OWNBM21GRk5zbmFOVlRyODB3Z2dHYkw1dUNxczVCOFZhWHVaU0dVSHlMMWp3WHRqMFh5VDNvSG8xTldIbHB2UHRVOFBuSnB0YkpLSUgxTlFrNUVzYXI5UUxNVjIyYWhY?oc=5",
-    "rssid": "laN360",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Switzerland",
-    "likes": 0,
-    "comments": 0
   }
 ]
