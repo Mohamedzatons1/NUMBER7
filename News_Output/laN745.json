@@ -74,5 +74,24 @@
     "extra": "Sweden",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/150iduw-zviedrija-ezus-ieklauj-sarkanaja-gramata?language=lv",
+    "title": "Zviedrijā ežus iekļauj Sarkanajā grāmatā",
+    "description": "Zviedrijā ežus iekļauj Sarkanajā grāmatā  Inbox.lv",
+    "url": "https://news.inbox.lv/150iduw-zviedrija-ezus-ieklauj-sarkanaja-gramata?language=lv",
+    "image": "https://news.inbox.eu/w/img/e6/49/e64966e598db45898a.webp",
+    "timestamp": 1784141057000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3hkM2dYQk10b3UweVMzT01ROWVMMm1LY09KZmdNQkp0VjR6bnktUGdFMGx1a01zTjd1TGROeWNPTF8zM3pER3B2Q2lPNE45bFFJVEU5VktxVi1WOEpvNkk2Q1EwSE54Mi1URU1HbUptdGs1Wm1nSmg4ZVFnQ0xwaXRQN0Jsd0oxbFE?oc=5",
+    "rssid": "laN745",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Sweden",
+    "likes": 0,
+    "comments": 0
   }
 ]
