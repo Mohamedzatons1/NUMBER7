@@ -302,43 +302,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150i1cc-marianne-the-allegory-that-defines-france?language=lv",
-    "title": "Marianne: The allegory that defines France",
-    "description": "Marianne: The allegory that defines France  Inbox.lv",
-    "url": "https://news.inbox.lv/150i1cc-marianne-the-allegory-that-defines-france?language=lv",
-    "image": "https://news.inbox.eu/w/img/13/a8/13a82dae53cf4e8251.png",
-    "timestamp": 1783955774000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0FveTV3QnBrZG9PNnZTWGdiYTVId3pobVU3QmJWT19ZMW43VjFZdWFJUDhlSmFvLThEeWhlSXVWQTlEanFVWDM1Q1FnSkEtcndVMWNfblQzZ1hQRW9SeEJzNURtVnZMTzNlNnk0REQzb0lwWDZXRGh6b2lRNDdmRTdqLWJKQ1RidXVJ?oc=5",
-    "rssid": "laN833",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.sortiraparis.com/lv/jaunums/parize/articles/349171-vai-fontainebleau-meza-ugunsgreks-ir-visnopietnakais-kads-registrets-ile-de-france-regiona",
-    "title": "Vai Fontainebleau meža ugunsgrēks ir lielākais, kāds līdz šim reģistrēts Île-de-France reģionā?",
-    "description": "Vai Fontainebleau meža ugunsgrēks ir lielākais, kāds līdz šim reģistrēts Île-de-France reģionā?  Sortir à Paris",
-    "url": "https://www.sortiraparis.com/lv/jaunums/parize/articles/349171-vai-fontainebleau-meza-ugunsgreks-ir-visnopietnakais-kads-registrets-ile-de-france-regiona",
-    "image": "https://cdn.sortiraparis.com/images/80/114318/1295547-liaisons-douces-a-fontainebleau-la-foret-a-velo-les-photos.jpg",
-    "timestamp": 1783952881000,
-    "source": "Sortir à Paris",
-    "publisher_id": "www.sortiraparis.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSk9mUk9EYkxkQ0pHeXZEaGJKd3U3YUIwSzVJMms4bDZMTG1YNDRjQVFCSXo2ekFRXy1TdGIxeHhNMW53VjEwMmxNV3FSdUEyaVJTUzVVWlRUTWJKNEEyTzF5cEYyRXcyaXRJN0JqZzdaOXVPRWpHZGY1UWNYVldvblQwNDFCY1IzR0cxMHVCWWJuT21odTRXOHAwYmFzaXhLekNTZy02NG90dy10SFZsSV8zREJzVThycWw5djVwY0diYm9tcUV6eTZPNjlqNDdKVVcxZXByNzk0X0ZXQ0MyLXBlTnB6MFhW?oc=5",
-    "rssid": "laN833",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
