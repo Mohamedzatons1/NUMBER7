@@ -3893,43 +3893,5 @@
     "extra": "Ireland",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cg539rdgm23o",
-    "title": "Twelfth of July celebrations begin across Northern Ireland",
-    "description": "Twelfth of July celebrations begin across Northern Ireland  BBC",
-    "url": "https://www.bbc.com/news/articles/cg539rdgm23o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/516e/live/116f10a0-7e9e-11f1-b62f-ff1d7cedfbfe.png",
-    "timestamp": 1783932380000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IOThFeE52d2lreXBoam8xSmU5OEdPVVFkdDRoM1hxd2VTR0I4dEFzUGpjQ3JKdTMzaVdCM2JKT0lYQjdrVXh4VnU3bFk1RjlRWDhrTmNqeDAzUQ?oc=5",
-    "rssid": "laN081",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ireland",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.rte.ie/entertainment/2026/0713/1583037-matt-damon-says-ireland-was-a-fairytale-for-his-family/",
-    "title": "Matt Damon says Ireland was a 'fairytale' for his family",
-    "description": "Matt Damon says Ireland was a 'fairytale' for his family  RTE.ie",
-    "url": "https://www.rte.ie/entertainment/2026/0713/1583037-matt-damon-says-ireland-was-a-fairytale-for-his-family/",
-    "image": "https://www.rte.ie/images/0024afaf-1600.jpg",
-    "timestamp": 1783926000000,
-    "source": "RTE.ie",
-    "publisher_id": "www.rte.ie",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzcyR2Jldnk0cXpiLU5LRDlYc0xfTXJud0luWkstOW9wVWtERFNMcXpWLWJZMTdRenB6ZmdVc2FBclF4dl9SN1RYdXE1dDVHRG1teTBZOER1aURqZWlPbzRLWmtaVjBQLTMtek9oeWtDczRwMnlvdXNQdlBWZXBtb3hVcW81cWx0MmFpcDJpX2Ntd2kwTWRwN05LYWZKU01iRURXU05aZ3RIUQ?oc=5",
-    "rssid": "laN081",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ireland",
-    "likes": 0,
-    "comments": 0
   }
 ]
