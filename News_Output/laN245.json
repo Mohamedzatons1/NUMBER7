@@ -36,43 +36,5 @@
     "extra": "Egypt",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/lo-dien-nguoi-tang-o-to-cho-toan-bo-tuyen-ai-cap",
-    "title": "נחשף מי העניק מכוניות במתנה לכל נבחרת מצרים.",
-    "description": "נחשף מי העניק מכוניות במתנה לכל נבחרת מצרים.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/lo-dien-nguoi-tang-o-to-cho-toan-bo-tuyen-ai-cap",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/13/1783943986055_image-22-jpg.webp",
-    "timestamp": 1783945101000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05YzVIUGh1RmR2aHFUcUhJUXM3b3libWNSNjhLTWI4aklaWTVyVUJPbmRZWXJWa081a2R0YTNWQTdod1dpUUNBVmxSbUdpTDFJc3llelhZbHR2dDN2WUk0aV9ZTHJSXzdLMjhrblk1TTJkeDk0NmxQVkRLS01nQjQ?oc=5",
-    "rssid": "laN245",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/lethal-turkish-weapons-egypt-drones",
-    "title": "נשק קטלני מטורקיה: מצרים מציפה את הגבול בנחילי כטב\"מים",
-    "description": "נשק קטלני מטורקיה: מצרים מציפה את הגבול בנחילי כטב\"מים  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/lethal-turkish-weapons-egypt-drones",
-    "image": "https://a.kikar.co.il/v2/articles/lethal-turkish-weapons-egypt-drones/og-image.jpeg",
-    "timestamp": 1783940357000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0Q1dfdEliemJKTDVqcnNqYWg0dUowdHEtWGQ4TWJaZ1pXQi1MYkNOc3lpeTRqQkh0WENTQXd5WEZGSTFURXZyeG40ZUNqb2ZwNGFQQXUwbGNIT3VfanBGc0RvXzN1Qy05cjF3aHl4WXltVlFhakhDVDV3?oc=5",
-    "rssid": "laN245",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
   }
 ]
