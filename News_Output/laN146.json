@@ -1556,43 +1556,5 @@
     "extra": "Samoa",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/samoa/120927",
-    "title": "Samoan farmers learn Climate-Resilient farming practices",
-    "description": "Samoan farmers learn Climate-Resilient farming practices  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/samoa/120927",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/b930dc4e8192e96a4cbf5e664be3f32e.jpg",
-    "timestamp": 1783992843000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CZ1BRWWoydnZEU1piMkVOZXVPcnNUOWwyOGF1T09pcVAtdWVvcjRtMjZMOFQzeHg1VW8tcEZWcFA3VzM0b21TNTd4a2hpaG1Kak9pTkN5bUNzdDlOVThZ?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.samoaobserver.ws/category/sport/120949",
-    "title": "Young Samoa side eyes improvement after opening defeat",
-    "description": "Young Samoa side eyes improvement after opening defeat  Samoa Observer",
-    "url": "https://www.samoaobserver.ws/category/sport/120949",
-    "image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/90fcf857ed51f1e7f121304ae38bdbc1.jpg",
-    "timestamp": 1783989209000,
-    "source": "Samoa Observer",
-    "publisher_id": "www.samoaobserver.ws",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94QTMtdFM4VWtzWVlrYlJGZ2dxSG8wNTFrSDExTXVrb2JMeFhwakNteVExamREQWVGMDBnWnJvRDdnb1JqTEFtSlo0Q2dKWktGR3BTVDR3UWx5RjhKNXQ4?oc=5",
-    "rssid": "laN146",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Samoa",
-    "likes": 0,
-    "comments": 0
   }
 ]
