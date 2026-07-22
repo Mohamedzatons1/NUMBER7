@@ -207,43 +207,5 @@
     "extra": "Switzerland",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/rooney-noi-gian-voi-chien-thuat-cua-tuyen-anh",
-    "title": "רוני זעם על הטקטיקה של אנגליה.",
-    "description": "רוני זעם על הטקטיקה של אנגליה.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/rooney-noi-gian-voi-chien-thuat-cua-tuyen-anh",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/16/1784151426343_2026_07_15t213108z_668776151_up1em7f1mzkl1_rtrmadp_3_soccer_worldcup_eng_arg.jpeg",
-    "timestamp": 1784151709000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Lb1dOZ05EWjJoeGNVM1BCcXhPSTJjaDM3WS1zYXBjbGpKcU43bFFyNXRfVkx1OC0zcXV5dUlKZUJtODk0Wk9iWWczX25WQk1MaDMwQTM5eWxWdklnR2x0NDJQVUpDVmNHUnljODVHci1adU01SmJUTkZmUQ?oc=5",
-    "rssid": "laN360",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Switzerland",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/buc-anh-hon-nghin-loi-noi-ve-messi",
-    "title": "תמונה אחת שווה אלף מילים על מסי.",
-    "description": "תמונה אחת שווה אלף מילים על מסי.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/buc-anh-hon-nghin-loi-noi-ve-messi",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/16/1784150264628_messi.jpeg",
-    "timestamp": 1784151236000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUXZQdFlXSzc1RFYyMk16VFpXOG1xcUZwMmZpY0VVZ3RjUWk1QnpmMHgyYXphb1ZDWDZYWE1aWlJnYlBYN0FnNWFiRUs5QmhGTVBoa2RNWW80Y2dNMWtGX28wa0Zkc1N6cTgyZQ?oc=5",
-    "rssid": "laN360",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Switzerland",
-    "likes": 0,
-    "comments": 0
   }
 ]

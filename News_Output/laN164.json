@@ -948,24 +948,5 @@
     "extra": "Sudan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onu.delegfrance.org/the-situation-in-darfur",
-    "title": "The situation in Darfur",
-    "description": "The situation in Darfur  France ONU",
-    "url": "https://onu.delegfrance.org/the-situation-in-darfur",
-    "image": "https://onu.delegfrance.org/IMG/arton16436.jpg?1784151302",
-    "timestamp": 1784151547000,
-    "source": "France ONU",
-    "publisher_id": "onu.delegfrance.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9raFRPMUM3azQ4UzhUQ09ObV9Fb0hVT3Zqa2NkUlZmLUstNlNPRVc5RjQ1bXFBTkdHWFZkUU15cndLenlsSmJMUXRvVnBYcUJENXA0bWF4UWFJOFRjWjFmYg?oc=5",
-    "rssid": "laN164",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Sudan",
-    "likes": 0,
-    "comments": 0
   }
 ]
