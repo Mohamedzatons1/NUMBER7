@@ -3741,43 +3741,5 @@
     "extra": "United Kingdom",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2026/jul/15/uk-climate-extreme-weather-2025-hottest-year-on-record",
-    "title": "‘Unprecedented’ changes in UK climate are normalising extremes, report says",
-    "description": "‘Unprecedented’ changes in UK climate are normalising extremes, report says  The Guardian",
-    "url": "https://www.theguardian.com/environment/2026/jul/15/uk-climate-extreme-weather-2025-hottest-year-on-record",
-    "image": "https://i.guim.co.uk/img/media/2fcd0b734f4dd806a7750dbfed6fa63cc790573f/129_0_3210_2568/master/3210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c74f96441cad3cdd2d89802f5c808db",
-    "timestamp": 1784079060000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFJfb3pjd2NQRmhBYUl5dWpQaGh0dFBTaURpSG5nRXROZzBLMGZyQ0hrZHVxSHlKX3VWODBoWVp3bjdRTjdpak1pQUNORXB3TFhRSnlqN2JpZlNsMW9wY2tWT2hocWNreUhqUmNJNnlMb2pTeDBhcW92Q2VQZDZxaFNRdTdsNmh3X3RQTGpnSFp0V29YY2VsWGtpV1ZUZ0J4T0Q2dWxHaUdzZw?oc=5",
-    "rssid": "laN183",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "United Kingdom",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp8l87784ngo",
-    "title": "Seven Britons among those killed in Spain wildfires",
-    "description": "Seven Britons among those killed in Spain wildfires  BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfc7/live/8d789890-8017-11f1-bee8-53ce494e1abc.jpg",
-    "timestamp": 1784071980000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LWXlTQ1g1d2xweV8wZzFZWWR3QTNDY1hFOUJXVFlwVTNLeUZWMTN1SnVVWHJZWFBlRTVGOGlaRU9CVjRURlFwNnBqUjRRNjFJek1oaWJHNk9DYmhs?oc=5",
-    "rssid": "laN183",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "United Kingdom",
-    "likes": 0,
-    "comments": 0
   }
 ]
