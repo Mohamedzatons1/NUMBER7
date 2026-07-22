@@ -739,43 +739,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.jdn.co.il/news/2693171/",
-    "title": "איראן שיגרה טילים לעבר בחריין וירדן; צבא ירדן: יירטנו 3 טילים איראניים",
-    "description": "איראן שיגרה טילים לעבר בחריין וירדן; צבא ירדן: יירטנו 3 טילים איראניים  JDN",
-    "url": "https://www.jdn.co.il/news/2693171/",
-    "image": "https://www.jdn.co.il/wp-content/uploads/2026/07/צילום-מסך-2026-07-15-084145.jpg",
-    "timestamp": 1784094221000,
-    "source": "JDN",
-    "publisher_id": "www.jdn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmQmhBVEsta1FOVllWOW5IR1NabmFnYXk4T2dCOWtPZkZpeTRKOS1lc0VLUGV3X2R2UEFtWFd1cGtfNXluZUxNVnQ4QQ?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/israelnow/article/20983888",
-    "title": "צבא ירדן: יירטנו שלושה טילים בליסטיים מאיראן",
-    "description": "צבא ירדן: יירטנו שלושה טילים בליסטיים מאיראן  היום",
-    "url": "https://www.israelhayom.co.il/israelnow/article/20983888",
-    "image": "https://www.israelhayom.co.il/general_image.jpg",
-    "timestamp": 1784085924000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rRlpIWHA1VEp4akNyckc1b0h0REo5eFl6NUxkSjU0SHhxNm5lMDAtVWRaSUtZNDFSQktCOG5MeTd6Z0V6U28wRmlKNkZnSEc1aXlFVDZUWkx1YzlyQmZBNm5va3ZWRFnSAW9BVV95cUxQSWJUNXVoS01xMXplb3BlaVp5MUZwZUFxcWp4M1FqRDFvVTdXS29CZl9BbktwcDUtWnI1Q0V2eVZ2TXpwbXNvSHg2VnRCdnFySkJvdktzdEpqMlAyRVRlRjlLRmEwUGNqalU1N2FqelE?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
