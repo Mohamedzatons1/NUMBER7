@@ -321,43 +321,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150if9k-one-of-russia-s-largest-refineries-shut-down-after-ukrainian-drone-attack?language=lv",
-    "title": "One of Russia's Largest Refineries Shut Down After Ukrainian Drone Attack",
-    "description": "One of Russia's Largest Refineries Shut Down After Ukrainian Drone Attack  Inbox.lv",
-    "url": "https://news.inbox.lv/150if9k-one-of-russia-s-largest-refineries-shut-down-after-ukrainian-drone-attack?language=lv",
-    "image": "https://news.inbox.eu/w/img/d8/a7/d8a717e33f204444e5.webp",
-    "timestamp": 1784180691000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUprcDEtdzJJM1hWbFB4cEs3TFNFeXRjUHVNQ1poTTZoT0dOVlE1SUpwdWR3VjBiRGdUVE1zZ0JjMkRzMGhPSGVWSTJsUFctSmdVdzY5cHFzREZ1ejh0eFJEUUlRbVl4bU9sbG1BbXBjcnJXcnRWYUVycEU3THVHYUpKSWxWSnFRN245VzBmajlXblRJdWFvQm0yR29acE5jNFdfbE0zQ0lac1VpMHY2c010ZXhRZw?oc=5",
-    "rssid": "laN720",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://diena.lv/raksts/pasaule/asv/asv-senata-iesniedz-likumprojektu-par-butiskam-sankcijam-pret-krieviju",
-    "title": "ASV Senātā iesniedz likumprojektu par būtiskām sankcijām pret Krieviju",
-    "description": "ASV Senātā iesniedz likumprojektu par būtiskām sankcijām pret Krieviju  Diena",
-    "url": "https://diena.lv/raksts/pasaule/asv/asv-senata-iesniedz-likumprojektu-par-butiskam-sankcijam-pret-krieviju",
-    "image": "https://diena.lv/imgproxy/0Kr4ueNWiDEitrSWEN2En5DC6fj3Sd5sIivULYyX9hU/rt:fill/s:1200:750/g:fp:0.41:0.26/plain/s3://diena-1/media/arz_2_afp_b9vq4g3.jpg",
-    "timestamp": 1784177339000,
-    "source": "Diena",
-    "publisher_id": "diena.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb19YNFhMNW84aEhhcmtxMHlWYU5Bc3VGMEw3WV92TmVueHd0dEp4TWVpNjNvbkt1a2NXLVN4NC1pZGJZOHk5QzJXTnpPXzlyLUtoczMzVHNQNi1aZW1weC1XUHVuSGRrLUlpaTF0aUttdGdsTDBuVktvQTVJSVBFR25KTEQyeEp0Yi1fTVRYajBaclhQYXp0SnBZTS15MDF3d1RfZmNWOWFFQQ?oc=5",
-    "rssid": "laN720",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]

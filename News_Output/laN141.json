@@ -3133,43 +3133,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/jul/16/ukraine-40-day-campaign-against-russia-has-it-worked",
-    "title": "What is Ukraine’s 40-day campaign against Russia and has it worked?",
-    "description": "What is Ukraine’s 40-day campaign against Russia and has it worked?  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/jul/16/ukraine-40-day-campaign-against-russia-has-it-worked",
-    "image": "https://i.guim.co.uk/img/media/e4dd3c9547a64ac8b4eac3b5ef8a131c60519c67/233_0_3341_2674/master/3341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d57fe60d0668953c744f43e48d76491",
-    "timestamp": 1784174520000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRW1EODNiZ1JsTFZxbk51WGpPSmxNQnJkeU1wVWhDbUxjODVGWnB5RmVicVFFUGNiRWJlc3BjYzN2bG44MW1iM3hVMkppdGdVaTlmTTNDQWJOa1MwNkRHWUxVcGJOQ0tfQUFWeHNnZWIyUktQMFF1ZllZdVdCT01oY1ZGOS0xR242Tm1jZ2RqdzJINDRrNWFEb19IMlBselU?oc=5",
-    "rssid": "laN141",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kyivpost.com/post/80351",
-    "title": "Fire Erupts at Russia’s Strategic Engels Air Base After Large-Scale Drone Strike",
-    "description": "Fire Erupts at Russia’s Strategic Engels Air Base After Large-Scale Drone Strike  Kyiv Post",
-    "url": "https://www.kyivpost.com/post/80351",
-    "image": "https://static.kyivpost.com/storage/2025/08/10/e9b9128f2e3d40585167781c6e2fe91a.png?w=1200&q=90&f=jpg",
-    "timestamp": 1784173782000,
-    "source": "Kyiv Post",
-    "publisher_id": "www.kyivpost.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12b0prSnJBMTQtdkNTdlZFSTRYMVdHdEZMeUktcEEtRDhTaS1OZkpMcnoxQ3hhdlR1UEc0Y1hueVFBa2E5Y0E3dXV3Yw?oc=5",
-    "rssid": "laN141",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]

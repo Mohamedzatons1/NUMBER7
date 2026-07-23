@@ -1024,43 +1024,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/yokra14834318",
-    "title": "הירדנים מחכים למהפך",
-    "description": "הירדנים מחכים למהפך  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/yokra14834318",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/09/Byg5lQba7Gx/Byg5lQba7Gx_1_639_720_406_0_large.jpg",
-    "timestamp": 1784178732000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sYUxTVzBlcjBYZzVSYnBkYlMxZUtrOHRUU0xZT1NCV19EaEVYTjM1d2M3ZThnSm1wTGo0Tm1LVkYzY1FCZ2NfcHY4VTNqS1BwdzJ2bjViQkpOanRPM1E?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/r1r0mrs4me",
-    "title": "לראשונה בהסלמה: ארה\"ב תקפה באזור טהרן. איראן שיגרה לירדן - ושחררה אמריקנית",
-    "description": "לראשונה בהסלמה: ארה\"ב תקפה באזור טהרן. איראן שיגרה לירדן - ושחררה אמריקנית  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/r1r0mrs4me",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/Hyem5U1I4Mx/Hyem5U1I4Mx_0_0_1280_720_0_large.jpg",
-    "timestamp": 1784175392000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PUVZuQ0NiR3ZqanpzaGc2cWJZT1NwS3lfZ3pDeldVQXNJVlR0SFpQOEZlZ2ZYNExuUU9Rd3Z1T0twWTljNVFqUkZNQl9LZWhMSW1rMnhNUG01QQ?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
