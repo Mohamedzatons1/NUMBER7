@@ -2601,43 +2601,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/h1x47jovge",
-    "title": "צבא לבנון נפרס באזור הפיילוט הראשון - בצה\"ל נערכים לנסיגה מהשני",
-    "description": "צבא לבנון נפרס באזור הפיילוט הראשון - בצה\"ל נערכים לנסיגה מהשני  ynet",
-    "url": "https://www.ynet.co.il/news/article/h1x47jovge",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/ryZ5aXvSNzx/ryZ5aXvSNzx_0_191_2400_1352_0_large.jpg",
-    "timestamp": 1784309823000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GLTlpRUNfYWpydTBZUFpYQ01XeF9LY1ZvMkdwdDRrSzhCTTNZR21qVVlNTjFpTEZwMGlndE13dUZvQWJFcC1nYm1jZUQ1cUlldG1qbnItR2ZGQQ?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.zman.co.il/live/705152/",
-    "title": "צבא לבנון נפרס בעיירות בדרום לבנון במסגרת ההסכם עם ישראל, צה\"ל לא נאלץ לסגת",
-    "description": "צבא לבנון נפרס בעיירות בדרום לבנון במסגרת ההסכם עם ישראל, צה\"ל לא נאלץ לסגת  זמן ישראל",
-    "url": "https://www.zman.co.il/live/705152/",
-    "image": "https://static.zman.co.il/www/uploads/2026/07/DSC07049-1200x630.jpg",
-    "timestamp": 1784308685000,
-    "source": "זמן ישראל",
-    "publisher_id": "www.zman.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xcDJNUjNOSUJPLWdCTU9qSWdWejRfWFVFcE5SZzB6T1JjaDN2TjhVbXhFSVpUVW5SOU92U2NxQjhMTG5vZmJZbVUzMA?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
