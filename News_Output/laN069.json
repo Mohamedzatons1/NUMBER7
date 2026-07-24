@@ -1556,43 +1556,5 @@
     "extra": "Guatemala",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N42A010:0-earthquake-shakes-buildings-in-guatemala-witness-says/",
-    "title": "Earthquake shakes buildings in Guatemala, witness says",
-    "description": "Earthquake shakes buildings in Guatemala, witness says  TradingView",
-    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N42A010:0-earthquake-shakes-buildings-in-guatemala-witness-says/",
-    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-    "timestamp": 1784299885000,
-    "source": "TradingView",
-    "publisher_id": "www.tradingview.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXVmTGdXY2hLcC1xdExic3JfdjVCU3VSX01nUTJBcko0TllCS1RPLTExeGwxeE5yVjVCSlY1VDZ0WnF0U0NYMHVtdjJyc3JFaTgtdFd1cjRFdE0ta2VjQlBEWGNjbExpTS1MRi1DSU51LWd0dVRwaU5KeWs2T0VjUTRtaURMaUl5MzFSOTR2blJGS0JFX1VYdmRER3F4aWY3ZTBoZEY2NVZJYldYWFpFWUtmLVJrMEEyS0x2R05SYWg?oc=5",
-    "rssid": "laN069",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Guatemala",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/weather-news/articles/major-earthquake-strikes-off-mexico-141958203.html",
-    "title": "Major earthquake strikes off Mexico, Guatemala coast",
-    "description": "Major earthquake strikes off Mexico, Guatemala coast  Yahoo",
-    "url": "https://www.yahoo.com/news/weather-news/articles/major-earthquake-strikes-off-mexico-141958203.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/1ae40339813c76aacc7b0c239be9344d9fd069851a169c56c4890d8d12148582/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_weather_channel_articles_180%2F6ad1b5c9f2fa67279b0992350193645b",
-    "timestamp": 1784297998000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0I4c1VnbzBaRDI1Yy1tSmNaQ1RFb0pPLVB1elJXajJocTZrcjFVSktMNzg2eTctaEFNWWhjMUF4UGFxeWhNNFMzakMzRlJva21xNzdvSWZWbk1Wc0NnM3Q4QmplRHFsUzhxX2J2cG55ZHg1RXdseGgwMkN3ZWY4MW8wZ3RNczdDcFN1QmR2WVl4U2xiSGdHOFhJbWJDZ3lk?oc=5",
-    "rssid": "laN069",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Guatemala",
-    "likes": 0,
-    "comments": 0
   }
 ]
