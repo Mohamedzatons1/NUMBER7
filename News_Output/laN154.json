@@ -2715,43 +2715,5 @@
     "extra": "Singapore",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://qz.com/most-essential-foods-drinks-singapore",
-    "title": "The most essential foods and drinks to try in Singapore",
-    "description": "The most essential foods and drinks to try in Singapore  qz.com",
-    "url": "https://qz.com/most-essential-foods-drinks-singapore",
-    "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/ethan-hu-NRTptNBkLLw-unsplash-300x128.jpg",
-    "timestamp": 1784366613000,
-    "source": "qz.com",
-    "publisher_id": "qz.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GWE4ycW5yMl93YnhhTVVnakhYSm1SM3FnNDZJY09FaEVmQVNtdWJHeXdRdUQ5WURsRjZNQm45aGR2aFlCZmFtS3p6VjFqdDFqQ1puV3lwS3J3NWZoUTRKelNB?oc=5",
-    "rssid": "laN154",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Singapore",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://focustaiwan.tw/sci-tech/202607180003",
-    "title": "Powertech plans joint venture with Broadcom in Singapore",
-    "description": "Powertech plans joint venture with Broadcom in Singapore  Focus Taiwan",
-    "url": "https://focustaiwan.tw/sci-tech/202607180003",
-    "image": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/WebOg/600/2026/20260718/800x420_526057085895.jpg",
-    "timestamp": 1784358840000,
-    "source": "Focus Taiwan",
-    "publisher_id": "focustaiwan.tw",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCZnF3bWhhdUhYM29ncWFXSGRWWFVhU0lTajBCWmY2LUt4S3FBc3MweEt6VkRSZEJOYXB1WFZBZ1pKY0I4bjBSdHJNRDNvX3RIS04zTHFCYw?oc=5",
-    "rssid": "laN154",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Singapore",
-    "likes": 0,
-    "comments": 0
   }
 ]
