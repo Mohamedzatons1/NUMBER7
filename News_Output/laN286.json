@@ -2449,43 +2449,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.kan.org.il/content/kan-news/defense/1078106/",
-    "title": "דיון על הנסיגה מלבנון היה אמור להתקיים אתמול ונדחה",
-    "description": "דיון על הנסיגה מלבנון היה אמור להתקיים אתמול ונדחה  כאן 11",
-    "url": "https://www.kan.org.il/content/kan-news/defense/1078106/",
-    "image": "https://www.kan.org.il/media/elfh1cuo/whatsapp-image-2026-06-30-at-173007.jpeg?rmode=pad&width=1200&height=630",
-    "timestamp": 1784391325000,
-    "source": "כאן 11",
-    "publisher_id": "www.kan.org.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJUVdMekdEaDM2RTZ3QVd1NjczRURBclFmV3dEN1dmZGJEQnpEbUl6ajUwYkdvX190eXp6XzdiQ016MnllLUppUk5XamY1QnpmUEJyUTZkcEIzNVpGclI5VzBwajlwbmc?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://epoch.org.il/news/628621/",
-    "title": "דיווח לבנוני: בשבוע הבא יוכרז על תחילת שלב הפיילוט כחלק מההסכם עם ישראל",
-    "description": "דיווח לבנוני: בשבוע הבא יוכרז על תחילת שלב הפיילוט כחלק מההסכם עם ישראל  אפוק",
-    "url": "https://epoch.org.il/news/628621/",
-    "image": "https://storage.epoch.org.il/epoch/2026/07/GettyImages-2281140810.webp",
-    "timestamp": 1784390411000,
-    "source": "אפוק",
-    "publisher_id": "epoch.org.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UE1yYk5RODRRSjdCd3FWT0hPUWw4eTRYUS11TDNEeVJLVWFfN3pfM0MtTU03UTdEc0xiN1E1YlI5YnJERUozeQ?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
