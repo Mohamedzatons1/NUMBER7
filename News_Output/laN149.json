@@ -2012,43 +2012,5 @@
     "extra": "Saudi Arabia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment",
-    "title": "Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign off",
-    "description": "Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign off  CNN",
-    "url": "https://www.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214255622.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1784370626000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSEUyUDBEWlZYZEFTSERsQ1NkSjF4LUpIbjRRSk9xbFlHTlMwSGwzZUhTTlBUanRhUEV5TThaSnNEbGRZVjhlOVlPWVU4d0VIbGoyN1V4dlhyQlJfMUxUWlJsdEctMjRkUXdqYkdETnh4dFFtXzh6MWlWaEkyQmdLMjFSaw?oc=5",
-    "rssid": "laN149",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Saudi Arabia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://edition.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment",
-    "title": "Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign-off",
-    "description": "Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign-off  CNN",
-    "url": "https://edition.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214255622.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1784370626000,
-    "source": "CNN",
-    "publisher_id": "edition.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWJwOE8wVWVqSmRGYU5zbjUyaFNwMUNPVUdac2ZSdzZrV2pQb2lXMGZZTmxfLXhIdUhDclFUUHRhbVR2YmYwYUlJQ185TzBLSVVwN1ZaRWdpbzlLZ1J5eGE1bnBzWkhjYWZBVE1xc1pGaldlUTVwS3RrVkJBcEVKdENKLUpjSXN6?oc=5",
-    "rssid": "laN149",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Saudi Arabia",
-    "likes": 0,
-    "comments": 0
   }
 ]
