@@ -2088,43 +2088,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/opinions/article-1346328",
-    "title": "נשיא לבנון יגיע לוושינגטון - אך המבחן האמיתי שלו הוא מול ביירות | סא\"ל במיל' עמית יגור",
-    "description": "נשיא לבנון יגיע לוושינגטון - אך המבחן האמיתי שלו הוא מול ביירות | סא\"ל במיל' עמית יגור  מעריב",
-    "url": "https://www.maariv.co.il/news/opinions/article-1346328",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/955511",
-    "timestamp": 1784472424000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YRkpwQ0hUSmd2RjF1NlRYX0c4N01MZDQ4YWNuZW5qLUFnU29QOEkxbWJaQkRkUXJVLW44bUotVlpORGtvMDc3M19aU0dDSzcyeUNlSmY3cmRvblhOeDg2dGt6cnE?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.zman.co.il/live/705585/",
-    "title": "נשיא לבנון נפגש עם שר החוץ האמריקאי בוושינגטון",
-    "description": "נשיא לבנון נפגש עם שר החוץ האמריקאי בוושינגטון  זמן ישראל",
-    "url": "https://www.zman.co.il/live/705585/",
-    "image": "https://static.zman.co.il/www/uploads/2026/06/AP26114485260260-1200x630.jpg",
-    "timestamp": 1784468608000,
-    "source": "זמן ישראל",
-    "publisher_id": "www.zman.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRzhFWEp1Um1EbmVBOUpOYUVwS1lUcHNhdE5BUUdWemx5WElHMlRmakFzYjV5WDdEMnhXN1d1YnZNM1BmU2ZxbjFxaw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
