@@ -834,43 +834,5 @@
     "extra": "Bolivia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.volcanodiscovery.com/earthquakes/quake-info/23200137/mag3quake-Jul-20-2026-Potosi-Bolivia.html",
-    "title": "Light Mag. 3.2 Earthquake - Potosi, Bolivia, on Monday, Jul 20, 2026, at 01:51 am (GMT -4)",
-    "description": "Light Mag. 3.2 Earthquake - Potosi, Bolivia, on Monday, Jul 20, 2026, at 01:51 am (GMT -4)  Volcano Discovery",
-    "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23200137/mag3quake-Jul-20-2026-Potosi-Bolivia.html",
-    "image": "https://volcanodiscovery.de/maps/quakemap-20k_s-23200137.jpg?t=1784582162",
-    "timestamp": 1784529580000,
-    "source": "Volcano Discovery",
-    "publisher_id": "www.volcanodiscovery.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanc5eDZTbzIzTURPU0p1dzJlOEtheEdWMzlmaUNWNnRuSUtFWUhzQVQ3RzhjTE1IOUVReWhyaFFhLXRhMXpWQXF5ZVNiNDU0SHg5SVFzaV9fNEdzV21qOHY5UWN6U0pfQUZzbHMzR1hKWEFNV2pSQUg4TWEyNGZTdG5ndm4wbV81UmFRZzhZQTFfa2dTRkFyaVljam5KTGlqNGFkeE9ram02dw?oc=5",
-    "rssid": "laN021",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bolivia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://responsiblestatecraft.org/bolivia-protests/",
-    "title": "State violence in Bolivia is ramping up. The US is helping.",
-    "description": "State violence in Bolivia is ramping up. The US is helping.  Responsible Statecraft",
-    "url": "https://responsiblestatecraft.org/bolivia-protests/",
-    "image": "https://responsiblestatecraft.org/media-library/image.jpg?id=67501253&width=1200&height=600&coordinates=0%2C0%2C0%2C333",
-    "timestamp": 1784520613000,
-    "source": "Responsible Statecraft",
-    "publisher_id": "responsiblestatecraft.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iQjdhSFoyQllCV3lrOGtzQTBPWktRellHZ00yZ0EyTjRRQldmbl9IQUdDdHVDRUhDRDJrT2d5YTVjODdLSXhsLTlnNElDbnFLdm92aFZ1RDVfQk5oZzlxMQ?oc=5",
-    "rssid": "laN021",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bolivia",
-    "likes": 0,
-    "comments": 0
   }
 ]
