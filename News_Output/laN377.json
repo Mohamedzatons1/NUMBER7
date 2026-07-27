@@ -150,24 +150,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001549857",
-    "title": "Elbit Systems wins US orders worth $370m",
-    "description": "Elbit Systems wins US orders worth $370m  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001549857",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1721726864/direct/WhatsApp_Image_2024-07-23_at_12.25.22_rhjzal.jpg",
-    "timestamp": 1784574809000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wekNtbmVCdHZCSkJwUXBYUzVTZm1ManhlaTE0dVV4MW5mTDhxbUpFZmdHRV9BN2N6OC1RWnd0djRhWmhHMHpRNmdhSVBENFBVbTI3eGR5YzVyV3NfTHR6UGpydWlFQVZj?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
