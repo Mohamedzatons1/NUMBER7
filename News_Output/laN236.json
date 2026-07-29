@@ -359,43 +359,5 @@
     "extra": "Cuba",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/my-trien-khai-dot-vien-tro-nhan-dao-dau-tien-toi-cuba",
-    "title": "ארה\"ב העבירה את סיוע ההומניטרי הראשון שלה לקובה.",
-    "description": "ארה\"ב העבירה את סיוע ההומניטרי הראשון שלה לקובה.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/my-trien-khai-dot-vien-tro-nhan-dao-dau-tien-toi-cuba",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/22/1784710101033_my-trien-khai-d-w1200t0-di2629d366d3151542t11763l1-11117.webp",
-    "timestamp": 1784711787000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2FrZjFQM2NLVXprdWhMd2FnaURJVFY3Y05yQTN1WGRZOGM2S1pDQ3BTWU1ib2NyMWpITUxnLTVmX0l0QUc5cEpRQTBEbmY0MlpHV1p3Z19YZ3NCaTl5cXVwWTdHTzdOa1Rfdkg1SGh0OTVFTG5DdXk2dlJocXhCVW9ZbHE3Zw?oc=5",
-    "rssid": "laN236",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Cuba",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/cuba-tiep-nhan-hang-vien-tro-nhan-dao-tu-my",
-    "title": "קובה מקבלת סיוע הומניטרי מארצות הברית.",
-    "description": "קובה מקבלת סיוע הומניטרי מארצות הברית.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/cuba-tiep-nhan-hang-vien-tro-nhan-dao-tu-my",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/22/1784709757476_ap26202679771048-46122528220167476448506-53731762463901920421591.webp",
-    "timestamp": 1784711398000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UeFlueWFxNlFaQXVJUmVsbWJ6bUJjYzN1QzFGQ0o5SE92UXhWek5FQzZibk9kSkxWeEdRblZSSXc1Y0NQN3FXQ3dfY0hnNVVESUxyNnA3YlN1SV9SWDJsYTdhbHE1d2M0ZkNjMjZobVJQSWVzY2VUYw?oc=5",
-    "rssid": "laN236",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Cuba",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -74,5 +74,24 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vOHBDSTJtQkVQWmtVWTB0SVpsU0xVNlNHUFJRVWx5VGNERWZCaVhSOXoxeEtTV2ZKUXNwbTVPTHh5Zjh3bkVMS1Q1bTduZmF6M3p1c0lsUXZCOTI1STZRcjZIcUFmRkdGMGx5clNOUmRrbEt1VWRCcnVPV2I?oc=5",
+    "title": "Former Syrian President Bashar al-Assad",
+    "description": "Former Syrian President Bashar al-Assad  News On AIR",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vOHBDSTJtQkVQWmtVWTB0SVpsU0xVNlNHUFJRVWx5VGNERWZCaVhSOXoxeEtTV2ZKUXNwbTVPTHh5Zjh3bkVMS1Q1bTduZmF6M3p1c0lsUXZCOTI1STZRcjZIcUFmRkdGMGx5clNOUmRrbEt1VWRCcnVPV2I?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "timestamp": 1784904230000,
+    "source": "News On AIR",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vOHBDSTJtQkVQWmtVWTB0SVpsU0xVNlNHUFJRVWx5VGNERWZCaVhSOXoxeEtTV2ZKUXNwbTVPTHh5Zjh3bkVMS1Q1bTduZmF6M3p1c0lsUXZCOTI1STZRcjZIcUFmRkdGMGx5clNOUmRrbEt1VWRCcnVPV2I?oc=5",
+    "rssid": "laN1133",
+    "topic": "news",
+    "lang": "general",
+    "category": "الماراثية",
+    "extra": "Syria",
+    "likes": 0,
+    "comments": 0
   }
 ]
