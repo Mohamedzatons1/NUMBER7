@@ -872,43 +872,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21038538",
-    "title": "הצמרת הטורקית מתייצבת לצד מנהיג חמאס החדש",
-    "description": "הצמרת הטורקית מתייצבת לצד מנהיג חמאס החדש  היום",
-    "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21038538",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2025/08/03/03/AP-גלריה-1280x853.jpg",
-    "timestamp": 1784728214000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWEtHR2F5TGFoZXZjZTJtWE5nWHVfZkNqR0RWTENZUkl3c3llSWViblBxMFZBdVpMNUNnWXcweEgyYXE1Mk9WOTdWTHlWNTZveDFuaDhySEJaMnlCTnBoZFpCeUNMa1FYV2Npb0VWd2F0d1hnQWpuWWlVTjZySW_SAYcBQVVfeXFMUDNIeFM2UkNYanBvOHEtYzFDV3dDUzZaeDA2TkU2aGtlWmVZUkc2NmdJdURaMVhNUFo0UFZFQmlhVWFCSmFjYU9hS2t1c2FjTWlqbVVIT0oya2tMRUhkQXRfb3p4MGE1YnI1ZTNWblpfQVJKSlZGQU9Jb1NsdXMyUnVaVm54Ul93?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/shikli-erdogan-hitler-sinwar-turkey-consulate",
-    "title": "\"ארדואן שילוב של היטלר וסינוואר\": מתקפה חסרת תקדים של השר וחשש ממלחמה שבפתח",
-    "description": "\"ארדואן שילוב של היטלר וסינוואר\": מתקפה חסרת תקדים של השר וחשש ממלחמה שבפתח  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/shikli-erdogan-hitler-sinwar-turkey-consulate",
-    "image": "https://a.kikar.co.il/v2/articles/shikli-erdogan-hitler-sinwar-turkey-consulate/og-image.jpeg",
-    "timestamp": 1784726967000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3ZhZzhnd0cyamFGQnVCTExPVFV3TnNPZWtkcGwzdG5keEsxbUFmZjhyNXdQcG9xXzZtUHNUNFQ2bDhvMjJwSlk3c3FOYnIwMlQ5aHVhMFNCQkFkQXpCR2lDYkhwenpmeXItYnhDa0twX2ctZ2tSenZrQmxQQUVYMFVSTmdHYjg?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
