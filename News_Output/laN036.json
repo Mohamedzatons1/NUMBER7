@@ -4558,43 +4558,5 @@
     "extra": "China",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.nbcnews.com/tech/tech-news/chinas-ai-chip-industry-races-catch-nvidia-restrictions-trump-rcna588341",
-    "title": "Trump restricted China’s access to AI chips. The country is racing to build its own.",
-    "description": "Trump restricted China’s access to AI chips. The country is racing to build its own.  NBC News",
-    "url": "https://www.nbcnews.com/tech/tech-news/chinas-ai-chip-industry-races-catch-nvidia-restrictions-trump-rcna588341",
-    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260720-world-ai-conference-mn-1050-5679f6.jpg",
-    "timestamp": 1784753864000,
-    "source": "NBC News",
-    "publisher_id": "www.nbcnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3hHOU1vSUJZLXdQcll6Wkd4b1RWRi1BT2VySW1kc25wZXp2cWg0QW44d3ZlbFZRSHF2cUhDNU9BMkpTSTZRS3JUNGxSUUtKQm1Cb09xaFpQLVR3WnhKYlNUTnV2MU5XQ3h3NzJtdHBLR1h2MjFsRVJLTjl0ZkVaWWxVNU9wTHFUbEdEUlR4Y3FwYk5yQk84ZzVzd25SSWNoNjBmMm5qZUYwQ3lGTVBMVg?oc=5",
-    "rssid": "laN036",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "China",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.scmp.com/news/us/diplomacy/article/3361510/trump-tech-official-accuses-chinas-moonshot-ai-stealing-anthropic",
-    "title": "Trump tech official accuses China’s Moonshot AI of stealing from Anthropic",
-    "description": "Trump tech official accuses China’s Moonshot AI of stealing from Anthropic  South China Morning Post",
-    "url": "https://www.scmp.com/news/us/diplomacy/article/3361510/trump-tech-official-accuses-chinas-moonshot-ai-stealing-anthropic",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/23/bdb8bd29-04c0-4d2c-8bfd-5d2b13ce136c_9cc33cea.jpg?itok=rcpH1EYa&v=1784748738",
-    "timestamp": 1784748745000,
-    "source": "South China Morning Post",
-    "publisher_id": "www.scmp.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2E3ejc4ekprbERoNmJhLWlURDNxeDBMSjgwdFlhNkhoUmhxN2RmMklsMm5EaDFFMmJNbHpiYjdtWGhXNGZacEZWVmFSX2NhLUVzWkpsa091eHBhQWg0YVpvTGFHWGJaMHNPZVpwOXFLVEVIUnl0VndyckliTE9IUGdYdTl6bGQwbG9kcnlsWW9fbC0yRFh5U0pWMW5sYmpJdHJndlVHTmMtZDhwTU94dzRnMFdjZzRBZFdZYtIBvAFBVV95cUxONkt3clRyNTA5ajNydjRzbjdmUU5DbFZMY0dQaF9xWnlrRjdkWDJjOENJM3JEZHZMQVdmd0Q0RVJvOWZYU1Bwa29rU0RGdC1IWXc5bmFiMmtmSlBoS1hVQ01pd0xEbWVLcTBxZVM5bjBNWGlTTTl6eHNmYlllUXBGSVkyYWNMVlRRbTl1ZnpWVkFLQ1JxUC1UMmp6TjJTU285UFpLa1BpYW8tZjhLYTZfekN5R2M5bVlFVUZneg?oc=5",
-    "rssid": "laN036",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "China",
-    "likes": 0,
-    "comments": 0
   }
 ]
