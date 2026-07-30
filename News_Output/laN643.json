@@ -36,43 +36,5 @@
     "extra": "Georgia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jeto-openai-mi-infrastrukturai-lidz-2030-gadam-teres-iespaidigus-750-miljardus-dolaru?language=lv",
-    "title": "“OpenAI” MI infrastruktūrai līdz 2030. gadam tērēs iespaidīgus 750 miljardus dolāru",
-    "description": "“OpenAI” MI infrastruktūrai līdz 2030. gadam tērēs iespaidīgus 750 miljardus dolāru  Inbox.lv",
-    "url": "https://news.inbox.lv/150jeto-openai-mi-infrastrukturai-lidz-2030-gadam-teres-iespaidigus-750-miljardus-dolaru?language=lv",
-    "image": "https://news.inbox.eu/w/img/9b/4c/9b4c12169ab9156854.jpg",
-    "timestamp": 1784785523000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPel9xeTB2ZzVwZXk2RFZZZGg2M2JfUzRIVjlTaG1OemFEeVdnZzg4VmJwR2IzYTNqYk1LMHJBUjVHbU1Fc0lXX3p0NWtSZHdhbWtEcFZSb0dvWmJmUGpBcnRTVGpNdWZWam5ZV2syY3pLU1IxOF9aVzBmQTZfZVZqREd5TXdBNVJ2czNpTm5nODJWcXd3dS1vTklQRGZtTEFDYlVERklUcFg5cTMwd2tLTHV5UTlBVVhCVUZrLTNwYw?oc=5",
-    "rssid": "laN643",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Georgia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jeto-openai-mi-infrastrukturai-lidz-2030-gadam-teres-iespaidigus-750-miljardus-dolaru?language=es",
-    "title": "“OpenAI” MI infrastruktūrai līdz 2030. gadam tērēs iespaidīgus 750 miljardus dolāru",
-    "description": "“OpenAI” MI infrastruktūrai līdz 2030. gadam tērēs iespaidīgus 750 miljardus dolāru  Inbox.lv",
-    "url": "https://news.inbox.lv/150jeto-openai-mi-infrastrukturai-lidz-2030-gadam-teres-iespaidigus-750-miljardus-dolaru?language=es",
-    "image": "https://news.inbox.eu/w/img/9b/4c/9b4c12169ab9156854.jpg",
-    "timestamp": 1784785523000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3g4NThaSmh0eWZYZno4Z2ZZWWkyVEMyUW1CR3NTeHVRblZaZnVLTTB0N2VKUjJONmh1R2NEZEpVVHRzcS1YQnZ6VlI0aXY5WS1Da0xkWXZrRlhrdGF0cVJST3d3WER5VFJ1OUpWSnJiLUJYN01ZVjc2a1ItQ1hPd3o1Z2tBZmRfLVhaRTY4R0ZmN2tCa1hqR3JMcjNiZHRSUjYzNXpTaDJvVWt2MXVkVGVUallzUGRzcDBLcDBLUQ?oc=5",
-    "rssid": "laN643",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Georgia",
-    "likes": 0,
-    "comments": 0
   }
 ]
