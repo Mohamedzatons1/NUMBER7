@@ -3722,43 +3722,5 @@
     "extra": "Iran",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cpw9xzx9r4ko",
-    "title": "Houthis claim attack on Saudi tankers in Red Sea",
-    "description": "Houthis claim attack on Saudi tankers in Red Sea  BBC",
-    "url": "https://www.bbc.com/news/articles/cpw9xzx9r4ko",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
-    "timestamp": 1784773984000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYkF5b3JJS0stVWZxYS05X2tzQm8yNDFIUnktWjlmYUg2MFVfT3dlZEVhX2t1YkpGQTNEVUQ0OU9vUXRsc2k0eENXUUJuOFU0Z1pQUEhWenlwZw?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-    "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live",
-    "description": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live  The Guardian",
-    "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-    "image": "https://i.guim.co.uk/img/media/89fe7852334d9f325ff3da6fcf578b1d08a4dcf6/921_0_2077_1662/master/2077.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e218950be5e914ef5c820266f867da29",
-    "timestamp": 1784772253000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZF8wUE0tWmJWbUZETktxaXZTbjVDWU1YODRlQ1kwN0JIMk1Lcjd6NHBHZlBpUGhELW9vZS1laWdVTzgtOGttaXg2MHo5SVg0S0cweElyMXBEUEc4ZFJDRVdNODJjTUctc1VLcGZ0RFh0TmxBRjlSbmx2Q2ZnaDRTcjF6VkcxTnpqZjFEOF9SU0Y4WktZdkVxZ1YzcmVLem1GejB4LTlodV95V3ZQTjhaa01YQVlJbnZGaUNMM0hIaGZ2dEJDaU0wSUdhOE10R20yLXdXYmk5Mkh2cE1wcVhnRDh4MA?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
   }
 ]
