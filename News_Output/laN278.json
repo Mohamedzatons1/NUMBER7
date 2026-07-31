@@ -796,43 +796,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQY281U1dQSk1TV1RxeVRDY24wYmp0c293QmhBeDdNRzRiR0czRzBMc3RZYllNNkxSWWp2VmxDa0NYdlhmVC1IYnJVMA?oc=5",
-    "title": "איראן תוקפת, ירדן משלמת: המלכוד האמריקאי של עמאן",
-    "description": "איראן תוקפת, ירדן משלמת: המלכוד האמריקאי של עמאן  בחדרי חרדים",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQY281U1dQSk1TV1RxeVRDY24wYmp0c293QmhBeDdNRzRiR0czRzBMc3RZYllNNkxSWWp2VmxDa0NYdlhmVC1IYnJVMA?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1784871300000,
-    "source": "בחדרי חרדים",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQY281U1dQSk1TV1RxeVRDY24wYmp0c293QmhBeDdNRzRiR0czRzBMc3RZYllNNkxSWWp2VmxDa0NYdlhmVC1IYnJVMA?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.zman.co.il/live/706682/",
-    "title": "צבא ירדן: יירטנו ארבעה טילים בליסטיים ושישה כטב״מים ששוגרו מאיראן",
-    "description": "צבא ירדן: יירטנו ארבעה טילים בליסטיים ושישה כטב״מים ששוגרו מאיראן  זמן ישראל",
-    "url": "https://www.zman.co.il/live/706682/",
-    "image": "https://static.zman.co.il/www/uploads/2026/07/eilat-e1784464778466-1200x630.jpg",
-    "timestamp": 1784870899000,
-    "source": "זמן ישראל",
-    "publisher_id": "www.zman.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mdUdwSzhUY0E5QVpzdF8ycTVqUUpzVVA5UkxaelFYbHlzZHpIRnZwbExFeWNwV0JJRGZzM1RWWENDU0RHSmUyLWt0bw?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
