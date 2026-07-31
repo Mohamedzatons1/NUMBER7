@@ -1176,43 +1176,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jo8i-pogacars-svin-uzvaru-tour-de-france-19-posma?language=en",
-    "title": "Pogačars svin uzvaru \"Tour de France\" 19. posmā",
-    "description": "Pogačars svin uzvaru \"Tour de France\" 19. posmā  Inbox.lv",
-    "url": "https://news.inbox.lv/150jo8i-pogacars-svin-uzvaru-tour-de-france-19-posma?language=en",
-    "image": "https://news.inbox.eu/w/img/d4/f0/d4f0d19deba7470e25.jpg",
-    "timestamp": 1784921485000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHo1bXRZWWlSWEtxV0E4VDBjMzJ2eVVtSHptYWx1Mk0zMXBPeDhwSXE5aHpYVXEtaEJtdnAtVmNIS2RuRXdNRXZ5bmpOZzhaRjBTblBIRmdXbXBLbktpQV90eEwxajRaLVVEbTRqbTRQeGlsZXhWSF9MdTM0bHM3WWtuelU2cTVNSlpNU2NCQQ?oc=5",
-    "rssid": "laN640",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.sortiraparis.com/lv/hobiji/sports-un-labklajiba/articles/214866-tour-de-france-2026-19-posma-rezultati-lielaja-loka-pogacars-vadiba",
-    "title": "Tour de France 2026: 19. posma rezultāti Lielajā aplī, Pogačars vadībā",
-    "description": "Tour de France 2026: 19. posma rezultāti Lielajā aplī, Pogačars vadībā  Sortir à Paris",
-    "url": "https://www.sortiraparis.com/lv/hobiji/sports-un-labklajiba/articles/214866-tour-de-france-2026-19-posma-rezultati-lielaja-loka-pogacars-vadiba",
-    "image": "https://cdn.sortiraparis.com/images/80/74061/552098-coronavirus-le-tour-de-france-2020-reporte-au-29-aout.jpg",
-    "timestamp": 1784916055000,
-    "source": "Sortir à Paris",
-    "publisher_id": "www.sortiraparis.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN0YxSXQ2QkY1eWpoU2JhNDVEV2E0NkptaDV4ZTdBU2paV2pKQkc5U3U1dWo0dWdXZWdzdERsMktDRzRWOXM0UllLcVpvaTNFdlNDdDFFal9kWGhaQXdLNndzLUdhaHRsSk12SDl1YS1paUxvUXhqbzhjTy1WdzVSUkMzWnNTWERvVlhQOThYdHU4ZjdxOUg1UnNjQk1pV0FiWGlDbzQtdUV1dHJHSFRwWnUwRGVXRFh2Wk01TWY5eDlVbUp5MkhDTmFVRl8tV2pvY1czbmJES21TRnM?oc=5",
-    "rssid": "laN640",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
