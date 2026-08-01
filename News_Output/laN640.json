@@ -1138,43 +1138,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jo8i-pogacars-svin-uzvaru-tour-de-france-19-posma?language=fr",
-    "title": "Pogačars svin uzvaru \"Tour de France\" 19. posmā",
-    "description": "Pogačars svin uzvaru \"Tour de France\" 19. posmā  Inbox.lv",
-    "url": "https://news.inbox.lv/150jo8i-pogacars-svin-uzvaru-tour-de-france-19-posma?language=fr",
-    "image": "https://news.inbox.eu/w/img/d4/f0/d4f0d19deba7470e25.jpg",
-    "timestamp": 1784946651000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUJlVEI1ZHhYa2tIT1FkaUlEYmprdUZDcWhYS3RKSjJncmJ2Q0NyYW94ODlxMnVWNnBlZDkyc2VlclM2Sy1BVE9mQ2pWM0ZJNGNKcEtqUG9zTHZTSkh6ZnlBR0toVkJHLVpsUllWUVRFcEY1dWo5Tkt5YUk1YVpET3hLNGw3ZVZpTFJ3X1oyUQ?oc=5",
-    "rssid": "laN640",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jo8i-pogacars-svin-uzvaru-tour-de-france-19-posma?language=ee",
-    "title": "Pogačars svin uzvaru \"Tour de France\" 19. posmā",
-    "description": "Pogačars svin uzvaru \"Tour de France\" 19. posmā  Inbox.lv",
-    "url": "https://news.inbox.lv/150jo8i-pogacars-svin-uzvaru-tour-de-france-19-posma?language=ee",
-    "image": "https://news.inbox.eu/w/img/d4/f0/d4f0d19deba7470e25.jpg",
-    "timestamp": 1784940813000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHk5LXFRNEE4RE1uWGJvMDVVY1htUl9ITjd6RzhsSExuZUpOcDN4aW9NS082dG9MYlVsc2RhVXZvaURIZHpWcFJfeGtMRUtZYkhrQVd2ck9aRS1VVzlQRkFSWlhnb3o0Wi1MZDJueVZXTGFZbmN0MGFfMnJuZVBaUGtNVUtQc0pPWFBIWnJwSQ?oc=5",
-    "rssid": "laN640",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
