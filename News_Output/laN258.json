@@ -758,43 +758,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/sj111tofhzg",
-    "title": "הרוגה ו-17 פצועים בפיגוע דריסה במצעד הגאווה בברלין, מצוד אחר חשוד מוסלמי",
-    "description": "הרוגה ו-17 פצועים בפיגוע דריסה במצעד הגאווה בברלין, מצוד אחר חשוד מוסלמי  ynet",
-    "url": "https://www.ynet.co.il/news/article/sj111tofhzg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/SJvLJEQBze/SJvLJEQBze_0_0_850_479_0_large.jpg",
-    "timestamp": 1785016183000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85WU1ISkNFZ0p1S3FBeENPaDlQVks1Q1Y3WkJpcW5XYzRmMlRsbU1tRjBOTXJHMVBlNDhuQ2lDUFJ1QXJjQW5DTnk0MU5iYm5CRWhwV0JyN0xUeTA?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1348633",
-    "title": "טרור בלב ברלין: הרוגה ו-16 פצועים בדריסה במצעד הגאווה",
-    "description": "טרור בלב ברלין: הרוגה ו-16 פצועים בדריסה במצעד הגאווה  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1348633",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1120977",
-    "timestamp": 1785015546000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WdDZxSW9XZ1VHMlFqRjd0VWZDS2U1SWhkYzNPV2ZNQ3JONEtqeVFsQktBclBJb2lNWHFMTFk1NlpMV3BNa1g0bnFWZjU4dktPb2VJVkFta0VROGdVZF9SYw?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
