@@ -834,43 +834,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=394&docID=554399",
-    "title": "סערה באיטליה: הוקפא מינוי פירלו למאמן",
-    "description": "סערה באיטליה: הוקפא מינוי פירלו למאמן  Sport5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=394&docID=554399",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/8/size944x700/1752428.jpg",
-    "timestamp": 1785060636000,
-    "source": "Sport5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxUnlNMHdVN01aeU03UW9kekUwcmo0Q1h4c1NsQzRlMFhmOFZwSUk3VkpSbUpRTEpMd3pBQnJ6Q0lSQjZ0c0phaVR6MWpEbE80b3FwSWxRb09qRGZNenFJYzF3UnVja29XOUFSR2Y3LTFLQQ?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-7bbb18b72dd9f91026.htm",
-    "title": "בגלל קשרים לחברה רוסית: המינוי של אנדראה פירלו למאמן איטליה בספק",
-    "description": "בגלל קשרים לחברה רוסית: המינוי של אנדראה פירלו למאמן איטליה בספק  mako",
-    "url": "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-7bbb18b72dd9f91026.htm",
-    "image": "https://img.mako.co.il/2020/10/20/GettyImages-1229169656_autoOrient_w.jpg",
-    "timestamp": 1785060180000,
-    "source": "mako",
-    "publisher_id": "www.mako.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0IxelpRaWhsN0p1b1FQUVhaYjZHWkZZbnFFWWR0NWwzTlYtS243ZlJIS01Zc1VtTk9yZXowU040X2UxdnE4SndNXzdZNE5QQjB0YlRfZXdZTFZCWEtGWkFBWmppYmp0SV9hQklQUmpfUTZ2LXhTMXFzU0ZsOUlBYmlvWXJGR1lpcVFncVJR?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]

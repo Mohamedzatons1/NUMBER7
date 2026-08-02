@@ -986,5 +986,24 @@
     "extra": "El Salvador",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
+    "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
+    "description": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail  The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
+    "image": "https://i.guim.co.uk/img/media/3e9e1459fc9e2f91af28faefff090d2f3466847f/493_0_4906_3927/master/4906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3b82951d90db76987339109d327c686",
+    "timestamp": 1785069240000,
+    "source": "The Guardian",
+    "publisher_id": "www.theguardian.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTAzTW9Vd0dqQlE3VVlPVG53bm80eVBEc0lvYV9GZnVUR211djN3NUJWa2lXbnk0NlBnd0hPWEFrUEw0WnUwYUgyTDg1Rmc3NTlNcnRaaW9ueW1TdjRMNi1VYWRvQ1NLQWhvNHh5LXVyUG4tbWRKWC0zNHJTeHh4V0lQYUNibmhKbDRYY0dyV3plX0FhUzB4TG1n?oc=5",
+    "rssid": "laN053",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "El Salvador",
+    "likes": 0,
+    "comments": 0
   }
 ]
