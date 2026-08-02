@@ -1670,43 +1670,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001550411",
-    "title": "התרגיל שארדואן מכין להשתלטות על לבנון",
-    "description": "התרגיל שארדואן מכין להשתלטות על לבנון  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001550411",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1741702510/direct/AP25035656930836_cisxrj.jpg",
-    "timestamp": 1785047733000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuaXk1ZGVaOXR3V3VTeEpWM0NDd1AyV1FiVVNBcG1xX1QwcG5RcHNUYmswdWw4ci1KU3oxOExyVW01cDVCdE5oVlE3MFc5eko1N194NVJDblZBMDhTc0EyQU9BZzdScm9o?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.i24news.tv/he/news/international/middle-east/artc-02d75406",
-    "title": "עיתונאית לבנונית בריאיון בלעדי ל-i24NEWS: \"הטעות היא לחשוב שחיזבאללה הובס\"",
-    "description": "עיתונאית לבנונית בריאיון בלעדי ל-i24NEWS: \"הטעות היא לחשוב שחיזבאללה הובס\"  i24NEWS",
-    "url": "https://www.i24news.tv/he/news/international/middle-east/artc-02d75406",
-    "image": "https://cdn.i24news.tv/uploads/c0/99/f8/06/0f/01/e2/2b/7f/b6/26/33/5b/8f/8f/7a/c099f8060f01e22b7fb626335b8f8f7a.jpeg",
-    "timestamp": 1785042470000,
-    "source": "i24NEWS",
-    "publisher_id": "www.i24news.tv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kbUVhc1VWdWhnaFdLaFZjZnZrOW5kV3p3ZkNuZmIyWjBHOTN0TTFjWHVuRkZxTUFfVUg5d0YzXzUxNW5hRGxNQlY3NWdWZ2xpZVQzYTExYm1OQjE1ZV9ScXJVM1JYSEp4VTRQTHprbi00LWU0YTd3X3Zn?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
