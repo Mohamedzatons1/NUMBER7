@@ -967,43 +967,5 @@
     "extra": "Luxembourg",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://today.rtl.lu/sport/local/volleyball-fun-launches-at-the-luxembourg-beach-open-346094797",
-    "title": "60 teams participating: Volleyball fun launches at the Luxembourg Beach Open",
-    "description": "60 teams participating: Volleyball fun launches at the Luxembourg Beach Open  RTL Today",
-    "url": "https://today.rtl.lu/sport/local/volleyball-fun-launches-at-the-luxembourg-beach-open-346094797",
-    "image": "https://static-prod.rtl.lu/65/3b/9f10b1218faa981185e7722fe9a2/beachvolleyball1-301.jpg",
-    "timestamp": 1785055610000,
-    "source": "RTL Today",
-    "publisher_id": "today.rtl.lu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzR4TFhob2diQ1IxbWVuVndOUkp4b3BNeVZ4NHh6QUFScmw2ZXAzTDNVdXk5S0wwM0FCdW5iWVZIZVFZMU9LcWVvSG4tR1BOR3d0OHJfbzJRdUFLU0hUdWQ2Sk9Kb2lMSjBXYlRLQnZRRFNyR0VESGpDX0FFVUQ2TjJON0djaUZsZ1BLMjFaOFRvWDluUlBXOEE2VQ?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://today.rtl.lu/news/luxembourg/multiple-fires-reported-across-luxembourg-900333018",
-    "title": "Emergency services: Multiple fires reported across Luxembourg",
-    "description": "Emergency services: Multiple fires reported across Luxembourg  RTL Today",
-    "url": "https://today.rtl.lu/news/luxembourg/multiple-fires-reported-across-luxembourg-900333018",
-    "image": "https://static-prod.rtl.lu/f6/6a/bf0aadca4059bf849fe313f45496/88ea7a0c1603858de6b2aa5339107893.jpg",
-    "timestamp": 1785052349000,
-    "source": "RTL Today",
-    "publisher_id": "today.rtl.lu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa00zVzhqSDhOeGFoWDBXRmswN25WQ2g4VUI4NlRTblU5Nng0Yk85QUFaMGhYdm5LbHhFc3AwMXk1QXdJbEpSRjdFdUYtbmZ3VW5VblNpR2NQWVZpdDRVTGt3eE1lNmdvd2tVRHBmYTRoWnI0emxaTGczZzZ5T2xYLXZEc0FWaC1HY1pwRkktOWcyQQ?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
   }
 ]
