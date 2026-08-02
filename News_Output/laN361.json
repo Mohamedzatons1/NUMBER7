@@ -1119,43 +1119,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001550406",
-    "title": "דיווח על פיצוצים בהורמוז, בארה\"ב מכחישים: \"לא מכירים תקרית כזו\"",
-    "description": "דיווח על פיצוצים בהורמוז, בארה\"ב מכחישים: \"לא מכירים תקרית כזו\"  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001550406",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1779178411/direct/AP26070525672326_xdxqr8.jpg",
-    "timestamp": 1785032661000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Xb19oVEpHd1I5VktFS1A3ZmYtSWhwckswckhNUXJ0ZU93dWRzRElSRUlIb0lOaldONGw4T0sxVWVWNjFJX003OTRGbUVIcmZLSzRJc092RUxZMFdPUDRyX0ZOUEpMUmJ0?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/lien-hop-quoc-cam-ket-ho-tro-tien-trinh-tai-thiet-syria",
-    "title": "האומות המאוחדות מחויבות לתמוך בתהליך השיקום בסוריה.",
-    "description": "האומות המאוחדות מחויבות לתמוך בתהליך השיקום בסוריה.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/lien-hop-quoc-cam-ket-ho-tro-tien-trinh-tai-thiet-syria",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/26/1785029369915_lhq.jpeg",
-    "timestamp": 1785030210000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMldUd1RMZFhDTC1zNWtpREQyd0hzQXZWdGdyb3cxbFlMVlhCVERTcmlXakh6YkNTY05odGRleHUwdkdxRDFUVV9IRzAwN2kzdXh5eC14R2owekdkYnRRUHZUeGViWk5DWmxBaVV1RlBlSHdrb1g4b1c0WDViTjJTZmJMUXdvZF9O?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]

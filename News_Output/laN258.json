@@ -720,43 +720,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/duc-may-bay-hang-nhe-lao-xuong-nha-dan-hai-nguoi-thiet-mang",
-    "title": "גרמניה: מטוס קל התרסק באזור מגורים, שני נהרגו.",
-    "description": "גרמניה: מטוס קל התרסק באזור מגורים, שני נהרגו.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/duc-may-bay-hang-nhe-lao-xuong-nha-dan-hai-nguoi-thiet-mang",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/26/1785031219097_screenshot-2026-07-26-at-083132-png.webp",
-    "timestamp": 1785035065000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0V2OFRaT3R3V0d1WHVWVEsxbkF4NlZaUC1hY0p2alByWnZoOFl0SGRfUmVBa3NDUTB2RWNVU2ltLTA2LUpSZ2lPbW9yRmpFc2FWMkxPcUVIWGd1SkRxZHF6VmctVWFkUjVFQTZQX0F4c0NJUWJNM1FhTkFRUjFsZXYyS2VuVGxWTk9sTS13?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/duc-xe-tai-lao-vao-dam-dong-o-berlin-1-nguoi-thiet-mang",
-    "title": "גרמניה: משאית התנגשה בקהל בברלין, אדם אחד נהרג.",
-    "description": "גרמניה: משאית התנגשה בקהל בברלין, אדם אחד נהרג.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/duc-xe-tai-lao-vao-dam-dong-o-berlin-1-nguoi-thiet-mang",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/26/1785020780972_ttxvn-canh-sat-duc-jpg.webp",
-    "timestamp": 1785032740000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm94eHJsX1M4ei11SWlPUWxOeF93blJKM3dTd1RHRGFJY0d0QmtQUGluUFVlSlY4c2UxZGFoVWt0eWJRem9hZi1SNGNiYW8xcllCQmtDYl81RG1xb0lXWmpuWFlnU29ocVNsaTVCdUhWWG5FRmNuYUVqNTkza2laLXJwSWJkRTJm?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
