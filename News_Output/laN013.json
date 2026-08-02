@@ -1119,43 +1119,5 @@
     "extra": "Bahrain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynetnews.com/article/rj09gjqhml",
-    "title": "Bahrain king speaks with Herzog, asks call be made public",
-    "description": "Bahrain king speaks with Herzog, asks call be made public  Ynetnews",
-    "url": "https://www.ynetnews.com/article/rj09gjqhml",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/12/04/S1ggev11cvj/S1ggev11cvj_0_0_1280_720_0_large.jpg",
-    "timestamp": 1785078025000,
-    "source": "Ynetnews",
-    "publisher_id": "www.ynetnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yMV8zMy1rcHUwYmhYTXFXXzlGUDE5NHk0YmNKTnpBTUpCUTJxZWpfTXlDdFgyeHJUVzlZQTNOYXhmMG54dm5pdzBaWURObWtPc2NCZFNn?oc=5",
-    "rssid": "laN013",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahrain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.jpost.com/israel-news/article-903702",
-    "title": "Herzog calls Bahrain 'important partner in shaping Middle East future' during phone call with king",
-    "description": "Herzog calls Bahrain 'important partner in shaping Middle East future' during phone call with king  The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/article-903702",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731516",
-    "timestamp": 1785076616000,
-    "source": "The Jerusalem Post",
-    "publisher_id": "www.jpost.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ZWo2N1Q4RzRHb1lJU0d4RjF2NFNLSS1BaVVnWERKWnJuUTdxOEd1ZWNlM05RRWUtMlZnMDdWaEs4TFY1UERlTVI4TXc5dnZ5aGpfb1J1b1JiNFll?oc=5",
-    "rssid": "laN013",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahrain",
-    "likes": 0,
-    "comments": 0
   }
 ]
