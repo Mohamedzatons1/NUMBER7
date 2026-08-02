@@ -359,43 +359,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://m.sport5.co.il/articles.aspx?FolderID=416&docID=554423&showHeader=false",
-    "title": "צפו. לא מפחדים: 77:91 ענק לנבחרת הנוער של ישראל מול צרפת",
-    "description": "צפו. לא מפחדים: 77:91 ענק לנבחרת הנוער של ישראל מול צרפת  Sport5",
-    "url": "https://m.sport5.co.il/articles.aspx?FolderID=416&docID=554423&showHeader=false",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/6/size475x318/1752646.jpg",
-    "timestamp": 1785091270000,
-    "source": "Sport5",
-    "publisher_id": "m.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHl1eXViWE1XYWdkSk54RjctWVVKZ3Z0MkJDYnFBTkdTVzZzMGpyakRPWmFDTTF3VEJ1NDNPdlRwZzByN1dyQ0pRSHdRN0l4NTF0Q2pBWFBEblpDTl8wckxXdkFMa21MSzNIRmRmWHdnTmV2Ni15bkI3QTAtUUJRM0xBd0ZyZw?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=416&docID=554423",
-    "title": "צפו. לא מפחדים: 77:91 ענק לנבחרת הנוער של ישראל על צרפת",
-    "description": "צפו. לא מפחדים: 77:91 ענק לנבחרת הנוער של ישראל על צרפת  Sport5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=416&docID=554423",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/6/size944x700/1752646.jpg",
-    "timestamp": 1785088680000,
-    "source": "Sport5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrUkJyYXlKYTBoMmt0bDBfNVJGdFY4WjgzbTdVc0xja0ZPbFQ4TW9HajZrT1lVSE1ubFZXUUU4Mm1HOF9nU09WenBUaXprUnd2TWttNUN1cEFYM3FxOF91TFNVV3QzUFpsSlY4b1J5VU5MZw?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
