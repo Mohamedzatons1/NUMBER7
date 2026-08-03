@@ -777,43 +777,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase",
-    "title": "Why Mali’s northern conflict has entered a dangerous new phase",
-    "description": "Why Mali’s northern conflict has entered a dangerous new phase  Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/FLA1-1785041286.png?resize=1254%2C1080",
-    "timestamp": 1785121483000,
-    "source": "Al Jazeera",
-    "publisher_id": "www.aljazeera.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMDJ3N0dzakd0NDFGVXVYc0JJSXItMkQ2bUhSZlFFUmRoWm9VMW9JcVkxcFhuUTBRSXNnMktsMVk5eTRoOU1ZVktoZVhmOWdVOVJqSGl6QS1ZeXdtOHJRcUdEaUNCWE1yYWt1cDVDdGp5S3NNMVdqRHhSYm5PdVVaZnRzQ0ozVFM1T1pIdXcwYnZKbmsxQ2RJSHhQa1R4Z21ERU1SddIBqgFBVV95cUxQTUx2UEM3UlhpbnY2NkoyR3pjOUFaWllCcG5FZy1uZEFOLVViQVozUjRuZDBqWm5IYURGVVh6cXE2OHlxSVlrOFgxQ0NVc1RNSDlrZzZEb1YyejR0ZG9kTm5iZm9pTEFSY1VzMm81MUJvblhfcWM4VHVxMnRuUjNXbUVwbE9WUjNHQk5fVnFzU3JBNHZsVDFHb1RhcFFDeFlSSjQtMVN5Tjh4UQ?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/world/articles/why-mali-northern-conflict-entered-024945701.html",
-    "title": "Why Mali’s northern conflict has entered a dangerous new phase",
-    "description": "Why Mali’s northern conflict has entered a dangerous new phase  Yahoo",
-    "url": "https://www.yahoo.com/news/world/articles/why-mali-northern-conflict-entered-024945701.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/dbe70aa48e3e4d60727c937412ee9557be44d690ff54eb40ece491dda0f88183/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd3aea08525476ecdfc756749567bcfb4",
-    "timestamp": 1785120540000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnY2NEJhVTVnRTZfY2V0YWMxVUFJeW9uUy1NVVJJakd5YkVxdTh5QmE5dmx5YURPZFNvZ0NmYjZpNVlHNHZCdkwyRFlOYkNpZDh0bTBGRWFxbUtZNnJIUjdFNWpOZEZBZEkyYVR3QmpqTHNjZS1jcWFnNGRNeGZoazFJZTJNTXBZWTdWeEZmc014bXhYS2c?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -891,43 +891,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jvnm-pogacars-klust-par-pieckarteju-tour-de-france-cempionu?language=fr",
-    "title": "Pogačars kļūst par pieckārtēju \"Tour de France\" čempionu",
-    "description": "Pogačars kļūst par pieckārtēju \"Tour de France\" čempionu  Inbox.lv",
-    "url": "https://news.inbox.lv/150jvnm-pogacars-klust-par-pieckarteju-tour-de-france-cempionu?language=fr",
-    "image": "https://news.inbox.eu/w/img/fe/69/fe69bf7a5fde21abf1.jpg",
-    "timestamp": 1785121259000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXR5NHJYUEgzUUpNc2NqV2Z6NUJhTWRmeXNpM0JTZmhxekFyYndMR01OdW93V3Z4YlZ0OUJRbC1qdU5FeWZRR3lIa1dZVVZNNGNfYXo1V20wTV9ldlV4SjVuejRxN3ByNGZfeXJZLXBDUFVFR05kVEdISkVJRXU0X3IzZjNxT0l4V2RVTzZNRE5naENlWkJoT3l5V0c?oc=5",
-    "rssid": "laN640",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jvnm-pogacars-klust-par-pieckarteju-tour-de-france-cempionu?language=ee",
-    "title": "Pogačars kļūst par pieckārtēju \"Tour de France\" čempionu",
-    "description": "Pogačars kļūst par pieckārtēju \"Tour de France\" čempionu  Inbox.lv",
-    "url": "https://news.inbox.lv/150jvnm-pogacars-klust-par-pieckarteju-tour-de-france-cempionu?language=ee",
-    "image": "https://news.inbox.eu/w/img/fe/69/fe69bf7a5fde21abf1.jpg",
-    "timestamp": 1785118501000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0NkczhIVXREc0FCSlpyV2Y5c2xqV282RWd1LW03dDVMek9UQ3dRMEQ0TjFCZUZYeEtMbkREMUhzU1RTNzVzT0FUVWRPbkFURWdJNGI5ckloa2NXOEdhZXdPUUt1YVNMRURfR0ltZFBzSEFRRVpxVk5WS3RPamxPdkhfc3p2UnQ4bXlQd0hiZjJtUW11aUdPd0lULTU?oc=5",
-    "rssid": "laN640",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]

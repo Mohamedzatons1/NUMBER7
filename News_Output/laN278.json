@@ -777,24 +777,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001550506",
-    "title": "יורטו שני כטב\"מים ששוגרו לעבר ישראל וזוהו בגבול ירדן",
-    "description": "יורטו שני כטב\"מים ששוגרו לעבר ישראל וזוהו בגבול ירדן  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001550506",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1767069094/direct/AP25363679563725_kh5377.jpg",
-    "timestamp": 1785119747000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xdDJwdXdXa2lzWmtnRjRQU2U1R0sxUTVIUGZQaktySkhUT1htMk9zOHVkamtDbXhVTVJUVjNfVk8zNnlvWm8xQ05YVGtpamI0UlZ2LTlxSVVhWlFSRG9QUUlQNXhBd1RC?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
