@@ -74,43 +74,5 @@
     "extra": "Argentina",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/nera-buve-precedento-tarp-pietu-amerikos-saliu-konfliktas-120281813",
-    "title": "„Nėra buvę precedento“: tarp Pietų Amerikos šalių – kivirčas",
-    "description": "„Nėra buvę precedento“: tarp Pietų Amerikos šalių – kivirčas  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/nera-buve-precedento-tarp-pietu-amerikos-saliu-konfliktas-120281813",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/14ef5a8f-9e26-4d6f-9b4b-fb6dddfcd7d9.jpg?w=1200&h=800&ch=0.8438&cw=1&cx=0&cy=0.0126",
-    "timestamp": 1785129654000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUtzZ2YtSDk4RFB0Y2FCbE5rY0QyakR1T1B5YnNDWW9IVUFLWU90aHJjUWVrYllvLUJ1c1h5NnhyMXhUVmFUbDlRZUY0ci1DWXl2enlZUkFKSkE3dk1pWjBxOXV2LTZaQlk3cW4tVHJodWJySmIwZF9FcWJMTzlXVXVUWHBfTXZDRjRyR0o2Uzd3NE96VnoyaHcyQzBjYUhXdF92TWNGOVQ2bVVI?oc=5",
-    "rssid": "laN393",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Argentina",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.lrt.lt/naujienos/pasaulyje/6/3003028/brazilija-atsauke-ambasadoriu-argentinoje-del-milei-pareiskimu",
-    "title": "Brazilija atšaukė ambasadorių Argentinoje dėl Milei pareiškimų",
-    "description": "Brazilija atšaukė ambasadorių Argentinoje dėl Milei pareiškimų  LRT",
-    "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3003028/brazilija-atsauke-ambasadoriu-argentinoje-del-milei-pareiskimu",
-    "image": "https://www.lrt.lt/img/2026/07/27/2448571-180108-1287x836.jpg",
-    "timestamp": 1785129480000,
-    "source": "LRT",
-    "publisher_id": "www.lrt.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3IzR0xCeFp1dGNkWVotbXkzNWNsUzVueW9Cck1PdW5iYWpNbUtxLWhSUFEtYjluSHFnQXVtWm81ejRPSmdkN0lSX01TOThFckxpT25Kc3pkcUQ2YUt2eXQwZDdFVTFGcHdFb3VHcEVUWnB4cTY0SlctMmNydWVDLTNFRTdCdXRpdGQ5cXA4cVlvRUxWa0RKaTNCY2MtMkFqU2ZXaHB6bjBnWHV6OEx0eA?oc=5",
-    "rssid": "laN393",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Argentina",
-    "likes": 0,
-    "comments": 0
   }
 ]

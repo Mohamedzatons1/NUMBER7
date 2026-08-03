@@ -853,43 +853,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jvb2-pogacars-piekto-reizi-klust-par-tour-de-france-cempionu?language=fr",
-    "title": "Pogačars piekto reizi kļūst par \"Tour de France\" čempionu",
-    "description": "Pogačars piekto reizi kļūst par \"Tour de France\" čempionu  Inbox.lv",
-    "url": "https://news.inbox.lv/150jvb2-pogacars-piekto-reizi-klust-par-tour-de-france-cempionu?language=fr",
-    "image": "https://news.inbox.eu/w/img/c6/fe/c6fe40f2c5dda829c2.jpg",
-    "timestamp": 1785133931000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTgyTEN4VFJrbnNXTW9uamJ5ZWZfVUFPZzFfR01SVWNCa2JhSUs1SUxiVEZqazQ5bzFHZlhzNDVCbGxsNk0zN0V4Zjg5R2JScEd4NUVFbVFBcl9uWnItTnBDUzlPSjFObHplTHlJcXFsMTZfQnFINlFfN010REJpVUJMcXdGZnRVQ3pkMEZUeEtqb0xTNVdWRUhfcTlfZw?oc=5",
-    "rssid": "laN640",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150jwl4-tour-de-france-mathieu-van-der-poel-wins-legendary-final-stage?language=lv",
-    "title": "Tour de France: Mathieu van der Poel wins legendary final stage",
-    "description": "Tour de France: Mathieu van der Poel wins legendary final stage  Inbox.lv",
-    "url": "https://news.inbox.lv/150jwl4-tour-de-france-mathieu-van-der-poel-wins-legendary-final-stage?language=lv",
-    "image": "https://news.inbox.eu/w/img/48/20/4820ac97800b9d941b.jpg",
-    "timestamp": 1785131857000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEJyUWItOGhtTk83M0Fkd3hUcUtPdEdOelUxNDZzcmNOU3FPd09MSWhWTUZPejF2TW9qUTlmQkEyT0ZnRVFCRGtYblNUMG5pSl9seEpRa1ZUeFZ1ZFl5ZURXcDJlRGQxeWNlM1l1bHBDTVVMeU94V2MtYnZWRWdIX2tmRVI3ZHg2S0ZNZG9UZXJuOXFVRllTb0w5amU1a1dRd2Q3WEY2bw?oc=5",
-    "rssid": "laN640",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]

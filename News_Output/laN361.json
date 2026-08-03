@@ -606,43 +606,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1349090",
-    "title": "א-שרע הטיל את הפצצה: סוריה פועלת להסכם שלום עם ישראל",
-    "description": "א-שרע הטיל את הפצצה: סוריה פועלת להסכם שלום עם ישראל  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1349090",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1121520",
-    "timestamp": 1785131492000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzWGhRaFYwZWpsZ3hSY3ZKZDFIRGw3Y3pGeGROQlhkUk95QjRhaVF0dnIydTh6N3oxY1hDaWpiZkVJTFZYaXgwcEFMc1ZHLXdNNEQzQVNXRklQVFZyLURneQ?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/tong-thong-syria-tiet-lo-no-luc-dat-thoa-thuan-an-ninh-voi-israel",
-    "title": "נשיא סוריה חושף מאמצים להגיע להסכם ביטחוני עם ישראל",
-    "description": "נשיא סוריה חושף מאמצים להגיע להסכם ביטחוני עם ישראל  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/tong-thong-syria-tiet-lo-no-luc-dat-thoa-thuan-an-ninh-voi-israel",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/27/1785118889904_gemini-generated-image-4r5bgt4r5bgt4r5b-png.webp",
-    "timestamp": 1785128255000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0haZktHZHdxREFFdk5LNGhFZU1Nc1Fic2pvZlBWNHdfcnAzZmdLQmprX19abW51R2tZZFVLZktSRC1mVjgtSkllUDQtTzhaQnoyOXAwcUhYamRDNWkwZjRSTkNfOEJvdzNTZlE5SkFUZE5RNEJwZXNvbTFPVWZITkItaHJZc2dtaF9aZ1g0YU1PM3FwY1E?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
