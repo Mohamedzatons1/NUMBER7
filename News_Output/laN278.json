@@ -226,43 +226,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.jdn.co.il/news/2701027/",
-    "title": "יממה שנייה ברציפות: כטב\"ם יורט בגבול ירדן; ההערכה – השיגורים מעיראק",
-    "description": "יממה שנייה ברציפות: כטב\"ם יורט בגבול ירדן; ההערכה – השיגורים מעיראק  JDN",
-    "url": "https://www.jdn.co.il/news/2701027/",
-    "image": "https://www.jdn.co.il/wp-content/uploads/2026/07/צילום-מסך-2024-11-17-092257-1.jpg",
-    "timestamp": 1785227272000,
-    "source": "JDN",
-    "publisher_id": "www.jdn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yVGUzd3NpaWJSMUx4bE52RlNLc0JrY1h5RVhkZnF4ZVc2NWRHLXRwajgxdnA2X2VhcmR5NUFKc2pCOW5tVTlFSHJqSQ?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03eGZuMUNPZnEzMXA1WjM5aTdsOGxrLVg1MmNaSzhMbHJFT0dFV0YxT0dlT2ZLYVo3MWwxdU00ZUdJbERmTHlIb3JQaHJ4OGFrcU5kZGRjX0wyc1U?oc=5",
-    "title": "בנק ירדן משיק את העונה החדשה של תוכנית \"מקצועי\" 2026 להכשרת סטודנטים فلسطינים",
-    "description": "בנק ירדן משיק את העונה החדשה של תוכנית \"מקצועי\" 2026 להכשרת סטודנטים فلسطינים  وكالة صدى نيوز",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03eGZuMUNPZnEzMXA1WjM5aTdsOGxrLVg1MmNaSzhMbHJFT0dFV0YxT0dlT2ZLYVo3MWwxdU00ZUdJbERmTHlIb3JQaHJ4OGFrcU5kZGRjX0wyc1U?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1785225845000,
-    "source": "وكالة صدى نيوز",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03eGZuMUNPZnEzMXA1WjM5aTdsOGxrLVg1MmNaSzhMbHJFT0dFV0YxT0dlT2ZLYVo3MWwxdU00ZUdJbERmTHlIb3JQaHJ4OGFrcU5kZGRjX0wyc1U?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]

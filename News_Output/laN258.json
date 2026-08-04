@@ -416,24 +416,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3856706",
-    "title": "רודי פלר נגד ארגנטינה: \"לא רוצה שנבחרת גרמניה תשחק ככה\"",
-    "description": "רודי פלר נגד ארגנטינה: \"לא רוצה שנבחרת גרמניה תשחק ככה\"  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3856706",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/7/8/4078837-46.jpg",
-    "timestamp": 1785221940000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44REJ3NHpYNG9rbkMzeGN3c1U1SzczbjhCSmtrbmF1T1hCbDNDbGNmXzZ3bUdkSkcyd0x2RDVJVmhjRXNiN3d2V0dzVzJObU9H?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
