@@ -17,5 +17,24 @@
     "extra": "Estonia",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=555352",
+    "title": "הפלופ מהפועל ת\"א שחתם בליגה הדנית",
+    "description": "הפלופ מהפועל ת\"א שחתם בליגה הדנית  Sport5",
+    "url": "https://www.sport5.co.il/articles.aspx?FolderID=64&docID=555352",
+    "image": "https://www.sport5.co.il/Sip_Storage/FILES/5/size944x700/1756845.jpg",
+    "timestamp": 1785829706000,
+    "source": "Sport5",
+    "publisher_id": "www.sport5.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzckp0Mmt4UUZPbEpnSUY4TUJpcjZtNUNnTWpnZDZCd25xZENwNDJIc0xqNW5YZDBmeHFqWVJXcEtYQmtFMkdGM1o0c2RpSHYyak5WaXhWeTdNWHNGeXAyam45LVR5dTY1a25pbHZtZHE?oc=5",
+    "rssid": "laN249",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Estonia",
+    "likes": 0,
+    "comments": 0
   }
 ]
