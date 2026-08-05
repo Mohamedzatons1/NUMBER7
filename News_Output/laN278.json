@@ -112,43 +112,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.mako.co.il/pzm-soldiers/Article-b1b91950f1daf91026.htm",
-    "title": "השיגורים לבסיסי ארה\"ב בירדן: זעם במדינה וקריאה לפעולה",
-    "description": "השיגורים לבסיסי ארה\"ב בירדן: זעם במדינה וקריאה לפעולה  mako",
-    "url": "https://www.mako.co.il/pzm-soldiers/Article-b1b91950f1daf91026.htm",
-    "image": "https://img.mako.co.il/2026/07/29/JORDIRANI26_autoOrient_w.jpg",
-    "timestamp": 1785316080000,
-    "source": "mako",
-    "publisher_id": "www.mako.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43UWp3S21PX3M0dGJ1bmJ3UTVFb1Qtd0RWczVKR2tBLVdUVTE2eFR0Q0E2aDdLSWZGczA0djIxR0xEX2dKNC10Z0dGVFJTWVRtaVVQLUpZRlgtTGRKaTJOQzE1TEE1WmxIOUFsSUhXZU1zUVhW?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.davar1.co.il/690815/",
-    "title": "ירדן יירטה טילים מאיראן; ארה\"ב וערב הסעודית תקפו מטרות של מיליציות בעיראק",
-    "description": "ירדן יירטה טילים מאיראן; ארה\"ב וערב הסעודית תקפו מטרות של מיליציות בעיראק  davar1.co.il",
-    "url": "https://www.davar1.co.il/690815/",
-    "image": "https://static.davar1.co.il/www/uploads/2026/07/AP26208466949396.jpg",
-    "timestamp": 1785306960000,
-    "source": "davar1.co.il",
-    "publisher_id": "www.davar1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuODVFYzNwSl9DbmVPU2djNEo4UjNmTVhjWEhtLTNReXcwMDdyaTcxMGV0bVRtSXUtRlFmNThBNTY3aE9wRURZ?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
