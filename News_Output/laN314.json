@@ -150,24 +150,5 @@
     "extra": "Netherlands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001550683",
-    "title": "הולנד העבירה חוק נגד סחר עם ישראל, והחריגה חברת ענק",
-    "description": "הולנד העבירה חוק נגד סחר עם ישראל, והחריגה חברת ענק  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001550683",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785237006/8AF630_RTRMADP_3_NETHERLANDS-PORT_eawufr.jpg",
-    "timestamp": 1785294121000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nVjJUbVQwY0xpWDlHNmJpTDNiblE5dXNyTUdXQk9JRmtxMklRREZEcDRhckJ1UVRjU1hHUl8xTzcwaHpVSktvVG5mLXFhU01qcEF6M1VmMG80ajZ5VzdYTktaMTMzY2pi?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
   }
 ]
