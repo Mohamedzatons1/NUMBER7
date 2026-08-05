@@ -93,24 +93,5 @@
     "extra": "Netherlands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001550768",
-    "title": "Netherlands imposes far-reaching ban on goods from territories",
-    "description": "Netherlands imposes far-reaching ban on goods from territories  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001550768",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785237006/8AF630_RTRMADP_3_NETHERLANDS-PORT_eawufr.jpg",
-    "timestamp": 1785326320000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PQU01VTl2Y1dyU2p1d2daYXlRYmFZUEFiRjBqbWFDTHpEOEZJd3VVeWV4S0Z1NUxQUVppUDJMTGVNdmczQksxSFdyblRJR2RDNUFWdkNLQ2pYaG9DRVZZRWN2SFZSZWlw?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
   }
 ]

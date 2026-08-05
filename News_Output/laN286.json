@@ -1632,43 +1632,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/001-D-521575-00.html",
-    "title": "צה\"ל מציג: אותרו עשרות רקטות ומטעני חבלה בדרום לבנון",
-    "description": "צה\"ל מציג: אותרו עשרות רקטות ומטעני חבלה בדרום לבנון  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/001-D-521575-00.html",
-    "image": "https://media.news1.co.il/UploadImages/NEWSY206374648c85424bb49e23c83dc472fc1b.jpg",
-    "timestamp": 1785332728000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RUFzMUpIOXlXWkZuQUs3Z2JzaGFGUVpyVU5kOEpHbEpVUDdWYnIyc1hpRW1nSFZ2NDc0YzZ0ZzlkVE9rMUJZSTMxM2lubW1oQk1jbEN1T01YQWQ3SDhvWmRn?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.davar1.co.il/690869/",
-    "title": "חיזבאללה שיגר רחפן נפץ אל הכוחות, אין נפגעים; הרמטכ\"ל בדרום לבנון: \"המערכה טרם הסתיימה\"",
-    "description": "חיזבאללה שיגר רחפן נפץ אל הכוחות, אין נפגעים; הרמטכ\"ל בדרום לבנון: \"המערכה טרם הסתיימה\"  davar1.co.il",
-    "url": "https://www.davar1.co.il/690869/",
-    "image": "https://static.davar1.co.il/www/uploads/2026/06/F260519AMA12.jpg",
-    "timestamp": 1785324300000,
-    "source": "davar1.co.il",
-    "publisher_id": "www.davar1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLWmF0RWR5SFpQbVpSTVZXSVlaOHpxV2VGMVU1T0RuWDVtNDQ0Uk0zUTNnTjdMSlVPR3ZWVl9yQkhDS3F2eUhz?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
