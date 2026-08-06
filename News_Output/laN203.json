@@ -359,43 +359,5 @@
     "extra": "Austria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.inn.co.il/news/702821",
-    "title": "מרד חמור בצה\"ל: כ-100 לוחמי גבעתי נטשו את שדה תימן; רוב החיילים חזרו",
-    "description": "מרד חמור בצה\"ל: כ-100 לוחמי גבעתי נטשו את שדה תימן; רוב החיילים חזרו  ערוץ 7",
-    "url": "https://www.inn.co.il/news/702821",
-    "image": "https://2.a7.org/files/pictures/000/1222836.jpg",
-    "timestamp": 1785410160000,
-    "source": "ערוץ 7",
-    "publisher_id": "www.inn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sOTJXWlc0Q1VXMDdPSHRHckZBaDFCUUdKSjVEQmk5WUJjdlctdER4dHZhWjZTUFdJV3pqNEZueHd3My1Wam5ITA?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/ao-siet-chat-quan-ly-mang-xa-hoi-de-bao-ve-tre-em",
-    "title": "אוסטריה מחמירה את הפיקוח על רשתות חברתיות כדי להגן על ילדים.",
-    "description": "אוסטריה מחמירה את הפיקוח על רשתות חברתיות כדי להגן על ילדים.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/ao-siet-chat-quan-ly-mang-xa-hoi-de-bao-ve-tre-em",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/30/1785405408562_cdnmedia-baotintuc-vn-upload-3qvxwvtnepp6wp9kkf77g-files-2025-11-23-_mxh.jpeg",
-    "timestamp": 1785408260000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGZ6UmtiS0hua04taTh3MTRYYlUydDgxb2FfMVhicDQzX0ZWMFEtNkhSaHd5NWdOdGU2cWY4bGY1c2h0RFQtajFFR0hJQ1NTRklHTkpJc3hfWUduOUZucFA3b0k1eXVQZlVvcV83OUtfbHkwbFlMLUx4dldTTkN4dA?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
   }
 ]
