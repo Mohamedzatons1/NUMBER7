@@ -150,43 +150,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/russia-ukraine-missile-attack-family-killed",
-    "title": "טילים רוסיים הורגים 6 בני משפחה: הטבח שזעזע את אוקראינה",
-    "description": "טילים רוסיים הורגים 6 בני משפחה: הטבח שזעזע את אוקראינה  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/russia-ukraine-missile-attack-family-killed",
-    "image": "https://a.kikar.co.il/v2/articles/russia-ukraine-missile-attack-family-killed/og-image.jpeg",
-    "timestamp": 1785384355000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObS1CWjJ0WnVvT3JoQjRjM29MQU51SmJHVEg1U3RtZTdJdmk1NUxhUGxuRHpQSFpFZUJHcTU2ZHdBVlEzYnRsdnRTdmpCMC1XaFdyYXZkNlEwRzJ2amZ4TUs4RkZycy0yWi1uQndzNGpLTEUtWXZIWFFkWWNNdkdEMXROdFQ?oc=5",
-    "rssid": "laN334",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "http://kikar.co.il/world-news/russia-ukraine-missile-attack-family-killed",
-    "title": "טילים רוסיים הורגים 6 בני משפחה: הטבח שזעזע את אוקראינה",
-    "description": "טילים רוסיים הורגים 6 בני משפחה: הטבח שזעזע את אוקראינה  כיכר השבת",
-    "url": "http://kikar.co.il/world-news/russia-ukraine-missile-attack-family-killed",
-    "image": "https://a.kikar.co.il/v2/articles/russia-ukraine-missile-attack-family-killed/og-image.jpeg",
-    "timestamp": 1785384355000,
-    "source": "כיכר השבת",
-    "publisher_id": "kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zWWp5X2syOGFDRk1ETTRVWW5sMVBvRzNNMk9WblNISTNMbHQ4cW1LT0phQmJPOTNPNzMtNGtQTk9tSEtfT3hVMkZnUVI0U0VpS21WSzkxQktTNTlxTWFINnpTSnBVSjJfYVBzRTZBNnFNMERQb0RpREZkWm5HZw?oc=5",
-    "rssid": "laN334",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]

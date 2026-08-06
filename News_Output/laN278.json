@@ -93,43 +93,5 @@
     "extra": "Jordan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.srugim.co.il/101007384-%D7%99%D7%A8%D7%93%D7%9F-%D7%99%D7%95%D7%A8%D7%98%D7%95-%D7%97%D7%9E%D7%99%D7%A9%D7%94-%D7%98%D7%99%D7%9C%D7%99%D7%9D-%D7%A9%D7%A9%D7%95%D7%92%D7%A8%D7%95-%D7%9E%D7%90%D7%99%D7%A8%D7%90%D7%9F",
-    "title": "ירדן: יורטו חמישה טילים ששוגרו מאיראן",
-    "description": "ירדן: יורטו חמישה טילים ששוגרו מאיראן  סרוגים",
-    "url": "https://www.srugim.co.il/101007384-%D7%99%D7%A8%D7%93%D7%9F-%D7%99%D7%95%D7%A8%D7%98%D7%95-%D7%97%D7%9E%D7%99%D7%A9%D7%94-%D7%98%D7%99%D7%9C%D7%99%D7%9D-%D7%A9%D7%A9%D7%95%D7%92%D7%A8%D7%95-%D7%9E%D7%90%D7%99%D7%A8%D7%90%D7%9F",
-    "image": "https://api.srugim.co.il/v2/articles/101007384-ירדן-יורטו-חמישה-טילים-ששוגרו-מאיראן/og-image.jpeg",
-    "timestamp": 1785388452000,
-    "source": "סרוגים",
-    "publisher_id": "www.srugim.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSEVxVG1MZ0lfTjBVRTVVRnp5bDZraXhteXVGQ3NDdVpVTXJSendZSTVZSG5VdTFDLXFDS0x3NDNXOU03Qmp0UFZkT3ZGME9adzhBMFMxN0x3R2hFM0pWYjBUSS1tdzg1VTJnMjYtaDNLbzYxTTRTQnlFV3NqVGxoMENUX2l6Z2FodUZ6b05TMENLVE1mMF9RaEdGQUtXMlVqeDd1VEI4RmMtQnpDREc4a1lFUHFtM1ZqNGtET3dYeVpFMWNYMmJRYmZlWXNyb0JGLS1ldktCV0lqcGdFM2dKSzFxM2haWVZWTzhjTDNFSFphRWhTbGt0bm9lZjl0QWR5aDc2ZEZPaTFJWDVsdkVUWHZzbDZXUmdOeUwwYUFkX2VQVGJTSmtsUTZxUFBXSXhoLVBiX3pTVEJGV0drOVhSeU1FdTlMMGNYTkE?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/jordan-intercepts-iranian-missiles-us-strikes",
-    "title": "השמיים בוערים: טילים איראניים יורטו בירדן ברגע האחרון",
-    "description": "השמיים בוערים: טילים איראניים יורטו בירדן ברגע האחרון  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/jordan-intercepts-iranian-missiles-us-strikes",
-    "image": "https://a.kikar.co.il/v2/articles/jordan-intercepts-iranian-missiles-us-strikes/og-image.jpeg",
-    "timestamp": 1785388403000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFFES19STkV6MURHd0E3VDN6VVJYSGxWdWpWR010YjRpWHg3ZWVoa3RaTG5Ub3NDcmI5M2ZEQm95MTFpOUxBQVNxV0M3ZHE1XzAtemhvS2FCaHRNSFVuQ2NWS2ptSWVEYVh5QTU3Q0NBMzk3cFBzTzQwcVlMdkE0RnItWU1zV1U?oc=5",
-    "rssid": "laN278",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Jordan",
-    "likes": 0,
-    "comments": 0
   }
 ]
