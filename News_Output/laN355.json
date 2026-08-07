@@ -1081,43 +1081,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1350892",
-    "title": "הפלישה לספרד: סאנצ'ס נותר לבדו תחת מתקפה - וטראמפ הצטרף לחגיגה",
-    "description": "הפלישה לספרד: סאנצ'ס נותר לבדו תחת מתקפה - וטראמפ הצטרף לחגיגה  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1350892",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/982217",
-    "timestamp": 1785516120000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LRV90bzhZOGlFUW83OEJFeDhDdFU2WnppZzFMNDVBaFMtN1BVSUw0YTQ3UUJqcjVDMlFSRU9HY2F2aGEtdDBxakE2bS1jZngyRG9sNjV5OU80aTUzVEd1aQ?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://epoch.org.il/news/629701/",
-    "title": "משבר בגבול מרוקו-ספרד; ספרד פורסת את הצבא באזור בעקבות כניסה המונית של מהגרים",
-    "description": "משבר בגבול מרוקו-ספרד; ספרד פורסת את הצבא באזור בעקבות כניסה המונית של מהגרים  אפוק",
-    "url": "https://epoch.org.il/news/629701/",
-    "image": "https://storage.epoch.org.il/epoch/2026/07/GettyImages-2287713328.webp",
-    "timestamp": 1785510624000,
-    "source": "אפוק",
-    "publisher_id": "epoch.org.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hR3JSV3N1QjJHNWhsTW5NbDdySFdkZEJEVjF2MFd1akJmcjVrek1nbW8xQWVFZ1ZscWNJdElBSGlWdVMyUnowQg?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
