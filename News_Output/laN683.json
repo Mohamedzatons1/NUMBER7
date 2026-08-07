@@ -131,43 +131,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150kjcw-riga-vienojas-ar-napoli-par-mali-izlases-pussarga-pareju?language=en",
-    "title": "\"Riga\" vienojas ar \"Napoli\" par Mali izlases pussarga pāreju",
-    "description": "\"Riga\" vienojas ar \"Napoli\" par Mali izlases pussarga pāreju  Inbox.lv",
-    "url": "https://news.inbox.lv/150kjcw-riga-vienojas-ar-napoli-par-mali-izlases-pussarga-pareju?language=en",
-    "image": "https://news.inbox.eu/w/img/2e/b6/2eb6e903a6a0d6819a.webp",
-    "timestamp": 1785481438000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGt0cEZGQ2FJckw1d2E4bDdEMjBWM2ktWWpkZ2dPYWl6cGhYOTc2RV9sN3A1SWNPMm96N1g5cTd3bTB3WTZtQ3VlNjhsRlBFQnZWeHN3cTBWLXlDTjQycXlIbDJ4Njh0U2pYQWlQMmJobDZiQ1Y0aFZGZDE3N0JMNm90eHYzRjNsN1Z5YlIyUU8zdjYzYUliMmJvaFVXejQ?oc=5",
-    "rssid": "laN683",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://jauns.lv/raksts/sports/721628-riga-vienojas-ar-napoli-par-mali-izlases-pussarga-pareju",
-    "title": "\"Riga\" vienojas ar \"Napoli\" par Mali izlases pussarga pāreju",
-    "description": "\"Riga\" vienojas ar \"Napoli\" par Mali izlases pussarga pāreju  Jauns.lv",
-    "url": "https://jauns.lv/raksts/sports/721628-riga-vienojas-ar-napoli-par-mali-izlases-pussarga-pareju",
-    "image": "https://i.jauns.lv/t/2026/07/31/3530296/1900x1000.webp?v=1785481523",
-    "timestamp": 1785481380000,
-    "source": "Jauns.lv",
-    "publisher_id": "jauns.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE5peGI4OVdGN3UxbVVBcm9OMmNjWEN5VmxUbjQ3XzNhdEpoeDJwUXhHazVuUjFRckJtdFdqMVhFUkhBOW9EYTJDTWp1ZFljcjJSYVpxam5nZUh0bG9iWTFYUUxoSDE3TVYtVHpXN3dzUjRCTUt2WWZFNnNZNVNmLUQwS3JVU09UNEV4YVNNYUo2MW9JSWkzc05R?oc=5",
-    "rssid": "laN683",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]

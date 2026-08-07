@@ -1043,43 +1043,5 @@
     "extra": "Bahrain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
-    "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
-    "description": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack  CNBC",
-    "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108337818-1784632484598-gettyimages-2286416828-AFP_C2QK7D3.jpeg?v=1784632625&w=1920&h=1080",
-    "timestamp": 1785480246000,
-    "source": "CNBC",
-    "publisher_id": "www.cnbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1X0hXbllmbC1VM0U3V05GQ2VfTW5qVHlVYnlGbFFnOVZHWnpaX2toX2k4WmkwRnpFUzRzSHBpMDloWVUtWEFnX05pY1cwMm9IREtHa1FqSGRlTy1vOHM3ZENnanV3dE80R01aNjRB0gFzQVVfeXFMTzVaTkpwZndUQ3pUc0EzVy1uemk4WklPbGdSS3FrZ2N3Y3ZGUlpLTmNXVVl0WjlyLWNTbXRyV25xZTM1LVZzT0ZQM3RRMUNxWU0ydEI2SGdyVmQ5N0M2eG5VaU40eDVqQTVXNldyWTV1Zjljdw?oc=5",
-    "rssid": "laN013",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahrain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.fiba.basketball/en/news/bahrain-qatar-complete-fiba-u18-asia-cup-2026-cast",
-    "title": "Bahrain, Qatar complete FIBA U18 Asia Cup 2026 cast",
-    "description": "Bahrain, Qatar complete FIBA U18 Asia Cup 2026 cast  FIBA",
-    "url": "https://www.fiba.basketball/en/news/bahrain-qatar-complete-fiba-u18-asia-cup-2026-cast",
-    "image": "http://assets.fiba.basketball/image/upload/w_2000/f_auto/q_auto/v1785472914/roywzyrokuu33vqsu8sn.jpg",
-    "timestamp": 1785476961000,
-    "source": "FIBA",
-    "publisher_id": "www.fiba.basketball",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzRTZk1rUm5aSjhFcHhmXzdpZXdpajdpNmE2U2dIMHlEMEF6Ujh4MTZDNXlSb3BSalp1NTRJTkVCa2lObVFiRi1SbGZoOHVfNEJWYWRyS3NwSEd2MXJuOXRMeFZHdzRoX09XdERDd3FJaENvVWhTeHFuVjRIMUxxNXVFNTlYTklJS1dKaG5law?oc=5",
-    "rssid": "laN013",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahrain",
-    "likes": 0,
-    "comments": 0
   }
 ]
