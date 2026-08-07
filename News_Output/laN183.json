@@ -2924,43 +2924,5 @@
     "extra": "United Kingdom",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/cn5nk90ndl0o",
-    "title": "UK weather: Drought may worsen before improving as little rain in sight",
-    "description": "UK weather: Drought may worsen before improving as little rain in sight  BBC",
-    "url": "https://www.bbc.com/weather/articles/cn5nk90ndl0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e32f/live/b83af330-8c41-11f1-89bb-9b3e3c6f25f4.png",
-    "timestamp": 1785461326000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlTElFWTU4c2V5YjN1clFBV28zdU1MUk1jOFp1ZzJGcGFIemlUV3BVUUhxWDJpV2RKVFpUN0QwUXQ3WEVxeFdEN1FHaDQyRHJkYm92T1lhZDhCY1NBY2c?oc=5",
-    "rssid": "laN183",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "United Kingdom",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o",
-    "title": "Drought conditions may worsen before improving as little rain in sight",
-    "description": "Drought conditions may worsen before improving as little rain in sight  BBC",
-    "url": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/ca1b/live/febc5280-8cb5-11f1-b2ab-0dd01740f9f6.jpg",
-    "timestamp": 1785461326000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWQldrdmRxTmc3djFEaU51TFA0WmppUUVMQWRRS1c4NUdELTFuRDFaanB6aTB6S091ZERMZmhFbFpkOEJzeWlzMkRrTXpjeU5zZzNwdXA3MHlJOS14MWtFNg?oc=5",
-    "rssid": "laN183",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "United Kingdom",
-    "likes": 0,
-    "comments": 0
   }
 ]
