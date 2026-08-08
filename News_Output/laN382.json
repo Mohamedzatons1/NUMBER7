@@ -1708,43 +1708,5 @@
     "extra": "Vietnam",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/doi-thoai-voi-nguoi-lao-dong-tai-noi-lam-viec",
-    "title": "דיאלוג עם עובדים במקום העבודה.",
-    "description": "דיאלוג עם עובדים במקום העבודה.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/doi-thoai-voi-nguoi-lao-dong-tai-noi-lam-viec",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/01/1785546203098_thoai.jpeg",
-    "timestamp": 1785554690000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YQ0s3b0RpRmJrNG84THdHNDdMa3l0OHBJeDNkdkdHd0RLTXk5R0l2WGpDM1plYVg1czRuWnZEdGNRTU12UzVQeWRTbXN1NDJYYS1YeU1LWkZqS2VCYWRPdE55TlR4OEp0UW1aNjB5UHNra2pSSEM5ZUJaUQ?oc=5",
-    "rssid": "laN382",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Vietnam",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/tiem-kich-my-roi-gan-can-cu-quan-su-o-california",
-    "title": "מטוס קרב אמריקאי התרסק ליד בסיס צבאי בקליפורניה.",
-    "description": "מטוס קרב אמריקאי התרסק ליד בסיס צבאי בקליפורניה.  vietnam.vn",
-    "url": "https://www.vietnam.vn/he/tiem-kich-my-roi-gan-can-cu-quan-su-o-california",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/01/1785544414002_afp__20260731__c3qb46a__v1__highres__f35bjetcrash.jpeg",
-    "timestamp": 1785549378000,
-    "source": "vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FZXRFa3pJUkRfMWI0MVZDOFkzeG9Qa192ckdFMFU5bi03WTFMX0g3Sm91eWd3VmxzQWtwNk5WLWVSSWp5Rk4taXhkOC1LSF9COE5VLUFGdEgtaVdpUFQ4NDBlckdsSW9TOEZ1b0RzaHNUdmJIZUlKXzB0dm1Za3M?oc=5",
-    "rssid": "laN382",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Vietnam",
-    "likes": 0,
-    "comments": 0
   }
 ]
