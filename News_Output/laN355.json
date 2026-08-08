@@ -929,43 +929,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.emess.co.il/radio/1909085",
-    "title": "אחרי הכאוס: ספרד בלמה את גל המסתננים לסאוטה",
-    "description": "אחרי הכאוס: ספרד בלמה את גל המסתננים לסאוטה  אמס",
-    "url": "https://www.emess.co.il/radio/1909085",
-    "image": "https://www.emess.co.il/resize/?width=800&height=450&url=/uploads/2026/08/image-2026-08-01t224140-211-2241-fab33a39.jpg",
-    "timestamp": 1785614620000,
-    "source": "אמס",
-    "publisher_id": "www.emess.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzclplZm1FVXQ1YVR2WDdvTXI2a21sYjF3aE12aGdmdkpMaWE5RWRCdUNHVU1GUVA5X1lyQ1E1QVJuNXM4YTFmYUsySHJldw?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bizportal.co.il/globalmarkets/news/article/20037547",
-    "title": "60 אלף מהגרים בשבוע: סנצ'ס מאשים את אירופה בתגובה אנוכית",
-    "description": "60 אלף מהגרים בשבוע: סנצ'ס מאשים את אירופה בתגובה אנוכית  ביזפורטל",
-    "url": "https://www.bizportal.co.il/globalmarkets/news/article/20037547",
-    "image": "https://res.cloudinary.com/bizportal/image/upload/f_auto,q_auto/giflib/news/rsPhoto/sz_307/rsz_870_420_sancc.jpg",
-    "timestamp": 1785610260000,
-    "source": "ביזפורטל",
-    "publisher_id": "www.bizportal.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lOU43aDZxREo1RzByeTEwUU90MUZyQUh0SlFLQ1k3ZzZEeWlzQVc5VjF5S1JfOVNNRVo0d3VIaTFrYTgwWUZpWkh3QjMxcENKYU9JRGNsME1iYW1xdXJtUzd5eFhSNjVGOEFjb1EwbE4?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
