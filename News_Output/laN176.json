@@ -359,43 +359,5 @@
     "extra": "Tunisia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers",
-    "title": "Beneath Tunisia’s silence, public anger simmers",
-    "description": "Beneath Tunisia’s silence, public anger simmers  Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-10T180220Z_2085653898_RC2FYIAMIEIK_RTRMADP_3_TUNISIA-POLITICS-PROTESTS-1769115923.jpg?resize=1920%2C1440",
-    "timestamp": 1785578052000,
-    "source": "Al Jazeera",
-    "publisher_id": "www.aljazeera.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDF6V3BzYmVuOXU5SFZXTC1hbGh2ZS0tS2taNldoWEhJOEhYZ3lTNTV2amlsREx0ZXRseUZYRC15UEs1ZjctVkgwUGhYQWhPVVgzLUJJeHZuNWwzNHdSc3Y3NW1taWdYc0JDaWV4bWhKd05oaWhfbTk0UW9Md3FCUTRxLXp2NWE0RC1Td1BB0gGTAUFVX3lxTFBJR19mRWhGQjRfMExuZHR3cHBsTkY0TVMwenBMNnhzM1JMSDFiLTFiYWRnZEF6dFZ0VTFJX2tKcmM1Tl9yUDN0MnU0b2UzS2tYRjVPZDkyMFphaDFjZnpSVWFDNXJ2eFBxT0tCYWh1OWpJS0djb3RxUHNNRW51ZWdfNFJPMHhQbEVGNGN1UHNENmpYUQ?oc=5",
-    "rssid": "laN176",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tunisia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://ca.news.yahoo.com/beneath-tunisia-silence-public-anger-094250052.html",
-    "title": "Beneath Tunisia’s silence, public anger simmers",
-    "description": "Beneath Tunisia’s silence, public anger simmers  Yahoo News Canada",
-    "url": "https://ca.news.yahoo.com/beneath-tunisia-silence-public-anger-094250052.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/6a44122ca81400fbd83bd71faa4f87d16725d3eb318722a386d658bbf98faa37/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F36a16bb64006abc71f254c9c126a13ea",
-    "timestamp": 1785577370000,
-    "source": "Yahoo News Canada",
-    "publisher_id": "ca.news.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWURuR0NGRjhWeUtWck5aNGpLVGxkaEI5Ums0VTJ1ZFpMQUdaN0VqdmUyVy1wU1AzbnBiRTFTaU5xRGNVVjlJOWs3ekFFRmpXUzV1dUh0MldfRHh4NGYwd2dQczFMWU1Mcmllbl9TSWx5b3JjcDdUemk0eVVBMzA0QWp0TQ?oc=5",
-    "rssid": "laN176",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tunisia",
-    "likes": 0,
-    "comments": 0
   }
 ]
