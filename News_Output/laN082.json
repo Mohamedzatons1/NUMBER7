@@ -2240,43 +2240,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
-    "title": "At least 21 injured as earthquake hits near Naples in seismic swarm",
-    "description": "At least 21 injured as earthquake hits near Naples in seismic swarm  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
-    "image": "https://i.guim.co.uk/img/media/9c236ad6dd6b0bb19d8ebfd868b4e035bf4755e0/256_0_2560_2048/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51dbe215db94a41c2479208e9832c5d0",
-    "timestamp": 1785590400000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQmJZQW51SnNLVEVRZ1NReUlPWjR1RHBLdlVzMHdSeXZpOWJLcDl3c3hmaTlSTzdvaUt5Y21qd1FwNGM2TEhNWEVjRzdyT2JHbGFib1YtWk9HdmQtMVprUXU5R2MwRW5yX0lNTWpKRHdaaTNpSDNzTks3OS1hT3BiOGVNMnYxQjdIbkctQkZBTU1uTEo1U01WTHlDdnBMS2V3X3A0R0dnejBtZmRV?oc=5",
-    "rssid": "laN082",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.foxweather.com/extreme-weather/magnitude-4-5-earthquake-italy-injuries-buildings-collapse",
-    "title": "Magnitude 4.5 earthquake injures at least 2 dozen people in Italy, causes buildings to collapse",
-    "description": "Magnitude 4.5 earthquake injures at least 2 dozen people in Italy, causes buildings to collapse  FOX Weather",
-    "url": "https://www.foxweather.com/extreme-weather/magnitude-4-5-earthquake-italy-injuries-buildings-collapse",
-    "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/08/1024/512/gettyimages-2287850385-scaled.jpg?ve=1&tl=1",
-    "timestamp": 1785589340000,
-    "source": "FOX Weather",
-    "publisher_id": "www.foxweather.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXVYVWFzSHlOUXVkdzMyOW5UZkM3MWxsMWQ3dVRrd2l6a2lkU3kxZDcxRU5aY0dQeFpEYTZKU1lWbnZRZWRvUVE2Y3RPWndfWVdWdEtzc0ItcVBKeS1YQndxTjNobFU4ZFp2U241VXM1V2dzdENPa2FtRGtxWjQtWHlKaExYLVZLS1dSeGZob1RFSGZDcEo5NjI5OWlWUWNsckI00gGoAUFVX3lxTE8xYjV0UFZ4cU1wS2FGeG5YRlEyaXdtOGJsWmIzeTlhWkc0bE5ZbWZtc3JwNVU0NHhMVUhaSzJJYWdkTW9vWlFNTnVIVk8xcVlobFlLYm9xaXpCZEtzaEtnTmVlNkZzYWNHVzR4Y3BBNkFFT09COE41LVRsTFZJRThPNHNKdkJRXzNUX0FWd0FOUmRObTlBMTc4TjNIVzhzOGFWSHhTc05JSg?oc=5",
-    "rssid": "laN082",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
