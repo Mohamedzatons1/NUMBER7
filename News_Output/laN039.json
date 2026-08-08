@@ -454,43 +454,5 @@
     "extra": "Congo (Republic of the Congo)",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy07qe0knvzo",
-    "title": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says",
-    "description": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says  BBC",
-    "url": "https://www.bbc.com/news/articles/cy07qe0knvzo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5fcf/live/7b087a70-8dbb-11f1-b8ee-9b3c26ad07bb.jpg",
-    "timestamp": 1785600976000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlRXMTFSYkpLaDdURzA5cnF3V2p3U2hkcVNvejdaMjlhZkszb3NHd3RlTXoxSlk1cDV3dGdaTE1FX2J6TmtrdlRVS0tWQnJ2d0thY21UdXV3UQ?oc=5",
-    "rssid": "laN039",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Congo (Republic of the Congo)",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614",
-    "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
-    "description": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo  World Health Organization (WHO)",
-    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614",
-    "image": "https://www.who.int/ResourcePackages/WHO/assets/whofallback.jpg",
-    "timestamp": 1785595277000,
-    "source": "World Health Organization (WHO)",
-    "publisher_id": "www.who.int",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42cEY2SzNPVkpaMDI3Y3dmWVMzbTlNTEcxQUdZM0JrT3BGR3pTNTI4OC1GMUhQOGFXc1VTNTVCdnFTR1g4RmsxVml3SndFUUNtd19ybUV2ekFOSDJlSnAwZHRCZzlyVE5ZLW1JYnRQWUE1QVlHYTdUemZR?oc=5",
-    "rssid": "laN039",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Congo (Republic of the Congo)",
-    "likes": 0,
-    "comments": 0
   }
 ]
