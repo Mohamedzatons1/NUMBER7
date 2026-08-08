@@ -169,43 +169,5 @@
     "extra": "Peru",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiVGREYlhRM2NXNGlHRTlhcE1yeEs5RlA0OUlRY0NRRDRmRDRYbFVJWk9ZVGNvR2x3blNsQ3FkR0FWazQzV3NUX2YzQ0RHeTM5ZEo0?oc=5",
-    "title": "אסון אווירי באחד מאתרי התיירות המפורסמים בעולם: 13 נהרגו בטיסה מעל קווי נסקה בפרו",
-    "description": "אסון אווירי באחד מאתרי התיירות המפורסמים בעולם: 13 נהרגו בטיסה מעל קווי נסקה בפרו  PassportNews",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiVGREYlhRM2NXNGlHRTlhcE1yeEs5RlA0OUlRY0NRRDRmRDRYbFVJWk9ZVGNvR2x3blNsQ3FkR0FWazQzV3NUX2YzQ0RHeTM5ZEo0?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1785621120000,
-    "source": "PassportNews",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiVGREYlhRM2NXNGlHRTlhcE1yeEs5RlA0OUlRY0NRRDRmRDRYbFVJWk9ZVGNvR2x3blNsQ3FkR0FWazQzV3NUX2YzQ0RHeTM5ZEo0?oc=5",
-    "rssid": "laN328",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Peru",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/s1bbh0ssgg",
-    "title": "אסון בפרו: 13 הרוגים בהתרסקות מטוס קל ליד אתר התיירות הפופולרי",
-    "description": "אסון בפרו: 13 הרוגים בהתרסקות מטוס קל ליד אתר התיירות הפופולרי  ynet",
-    "url": "https://www.ynet.co.il/news/article/s1bbh0ssgg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/01/BkraV0orMe/BkraV0orMe_0_0_1090_734_0_large.jpg",
-    "timestamp": 1785617243000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hQm51WGZkQmpvdDQwcWFGSW9YTVlIU283Z3pWUUo2LUJ6WWppdDlFYVgxbE9LSFlFYWdLcFRrR2VuV2VVeFJZbC1hWGpWTER0bEFkeGdPRUQtQQ?oc=5",
-    "rssid": "laN328",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Peru",
-    "likes": 0,
-    "comments": 0
   }
 ]
