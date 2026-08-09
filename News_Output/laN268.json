@@ -207,24 +207,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bizportal.co.il/globalmarkets/news/article/20037670",
-    "title": "מחסור במים השבית את הכור שמספק 40% מהחשמל בהונגריה",
-    "description": "מחסור במים השבית את הכור שמספק 40% מהחשמל בהונגריה  ביזפורטל",
-    "url": "https://www.bizportal.co.il/globalmarkets/news/article/20037670",
-    "image": "https://res.cloudinary.com/bizportal/image/upload/f_auto,q_auto/giflib/news/rsPhoto/sz_337/rsz_870_420_hungary_election.jpg",
-    "timestamp": 1785690780000,
-    "source": "ביזפורטל",
-    "publisher_id": "www.bizportal.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9naGJOQU1DYkNBdDk4a3dYQ0xqZHlUcDBfUDhaM0liMHN0MGFxUWhhS0J2QnJiMnpMZGduQ3BrS1VoWEdHc0ExLUx4czA0YmRSd09YWGNVYzdpak95TXNEX1J4R2xrYWV2NXNwX002OEc?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
