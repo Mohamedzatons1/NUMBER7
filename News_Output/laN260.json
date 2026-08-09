@@ -93,24 +93,5 @@
     "extra": "Greece",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.inn.co.il/news/703019",
-    "title": "תיעוד: שני מסוקי כיבוי התנגשו באוויר במהלך המאבק בשריפת הענק ביוון",
-    "description": "תיעוד: שני מסוקי כיבוי התנגשו באוויר במהלך המאבק בשריפת הענק ביוון  ערוץ 7",
-    "url": "https://www.inn.co.il/news/703019",
-    "image": "https://2.a7.org/files/pictures/000/1223000.jpg",
-    "timestamp": 1785687000000,
-    "source": "ערוץ 7",
-    "publisher_id": "www.inn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lRUxwZDlzSm1tZlp3Z0RwdFFHTmJHS0pxWG1VX1RmaGVCd2xWTk1ZMmhUaGNGUWl2eFpSMEw4NldHY2FiSzdlbQ?oc=5",
-    "rssid": "laN260",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Greece",
-    "likes": 0,
-    "comments": 0
   }
 ]

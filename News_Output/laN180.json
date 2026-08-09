@@ -1423,43 +1423,5 @@
     "extra": "Uganda",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c9v471x89m3o",
-    "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-    "description": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission  BBC",
-    "url": "https://www.bbc.com/news/articles/c9v471x89m3o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png",
-    "timestamp": 1785688622000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sMnNldXRldEtxTmlDdmlMdDVOWWVVdXJfeHBQVEF4cVB5TkRmeW1VeDU3eDdCTjRKSHo0OUg1X3FySlhSaFRwQ0VNVXZscWpGcDVRcXlTcHRPUQ?oc=5",
-    "rssid": "laN180",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uganda",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9v471x89m3o",
-    "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-    "description": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission  BBC",
-    "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png",
-    "timestamp": 1785688622000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zb0c4LXFJQ1cwVkpVQ3Bwdkt5WnhJY0Q2Rzd5U2U1cVZmTmxtRWt5MjRhSGgtT3g0TVNwZjZCZEhjY2VWYXlTUy1yaEFhRDJHRmFZZVpZWnFXQVFG?oc=5",
-    "rssid": "laN180",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uganda",
-    "likes": 0,
-    "comments": 0
   }
 ]
