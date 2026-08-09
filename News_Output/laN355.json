@@ -720,43 +720,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001551086",
-    "title": "משבר סאוטה חשף: אירופה כבר לא מוכנה להכיל הגירה בלתי־חוקית",
-    "description": "משבר סאוטה חשף: אירופה כבר לא מוכנה להכיל הגירה בלתי־חוקית  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001551086",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785675624/AP26212520258097_qw7dsu.jpg",
-    "timestamp": 1785680534000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5VTlWSzMzRFVLZmFFX09WNEtneUNNT3lHUk01clVibVUtZzkwUWVheDN4clZkQUFUMFV5Slh1TmhZSHRxTFFZeHJMTlZFb2VVSExnRkkwQVFEWlVkbUZwWXpCcXhjT09O?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/world-news/europe/article/21110708",
-    "title": "\"המוסד הציף את ספרד במהגרים\": כך הפך מצב החירום בספרד למתקפה אנטישמית",
-    "description": "\"המוסד הציף את ספרד במהגרים\": כך הפך מצב החירום בספרד למתקפה אנטישמית  היום",
-    "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21110708",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2026/08/02/02/צילום-מסך-2026-08-02-164418-1280x853.png",
-    "timestamp": 1785678079000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GRU5EUGFZcEgzenVtaGRWV3h5VG1qYjFGbHY5UUdXYUpJM0hXY0hsUWw4QTdkSGNGN2M5QWI3WTNIZE5uQUxnYUF0ZWZ6Vllra3NxaFRvUnVISGMwWkRhSnpBQkcwU01wU3AyV2kybURfUFBqWGt4VdIBgAFBVV95cUxPVDZxajBQVVphaW5xMF91cklKNTJfb2NsQnF1R0FUaU5SV0dOcGctYWJNUUlOSWVGaHEtZEpTS3psSVZFSDdNR1VERGVvcWRzZlVMLXI3RnlScGZLM1F1eVVySzIwZ054bUZCS2I2bDl5WVN6Zm5tNm1KZnd3cjFLLQ?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]
