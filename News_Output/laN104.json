@@ -644,43 +644,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgk4rdley0ko",
-    "title": "Russian ship defies sanctions to send military vehicles to Mali",
-    "description": "Russian ship defies sanctions to send military vehicles to Mali  BBC",
-    "url": "https://www.bbc.com/news/articles/cgk4rdley0ko",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f867/live/e4bf7ee0-8cf4-11f1-b8ee-9b3c26ad07bb.png",
-    "timestamp": 1785625403000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FbVI3cUZEUVZkWEpPVkJWd0lEMGRzUHZEU3hHT0hwMEJwWTJFenV5WGZKRWhuNlpfNkhBbVJxZFlyQlhnNE1oMUZ3akxISGhoVnJrSE5KVjNpQQ?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko",
-    "title": "Russian ship defies sanctions to send military vehicles to Mali",
-    "description": "Russian ship defies sanctions to send military vehicles to Mali  BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f867/live/e4bf7ee0-8cf4-11f1-b8ee-9b3c26ad07bb.png",
-    "timestamp": 1785625403000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdUFrTlZMY21ub0VuVzlrMHBlejl0cDdtMENaN21Ic2J5ZGdtaDBKcVZEMjd1bzdUUjY0T2cwUWtaSjdtMlNiMndRQ0hVMzRzQXhobzhsYW5FZ3hN?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]
