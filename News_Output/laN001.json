@@ -1822,43 +1822,5 @@
     "extra": "Afghanistan",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.lowyinstitute.org/the-interpreter/kabul-s-classrooms-rebuilt-in-the-taliban-s-own-image",
-    "title": "Kabul’s classrooms, rebuilt in the Taliban’s own image",
-    "description": "Kabul’s classrooms, rebuilt in the Taliban’s own image  Lowy Institute",
-    "url": "https://www.lowyinstitute.org/the-interpreter/kabul-s-classrooms-rebuilt-in-the-taliban-s-own-image",
-    "image": "https://cdn.sanity.io/images/5dcouzig/production/e1b67e55e838bdd2846ea8dc1aadeee6d8879290-6353x4235.jpg?rect=0,181,6353,3335&w=1200&h=630&fm=webp&q=85&fit=crop",
-    "timestamp": 1785717483000,
-    "source": "Lowy Institute",
-    "publisher_id": "www.lowyinstitute.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0ZvLWFhUHZMcU8tR1ZLM3VQN1FEZi1WLWJuY2RRS1c3QlVWWmFDS1V4UThIcGp6VHZEdng3TTFTekhGOWFKOW9OVTZHem9HMG41eFY0Z01Gdy1IVUFiY3dZclNhb0loOXE2anFOMEZ5ckEwYzNWN2tGZ1kzekl1dG04SS1jRTNVZ21HdEpMR1lvSUVuZFB0dl81MnBkRU9v?oc=5",
-    "rssid": "laN001",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Afghanistan",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.foxnews.com/video/6402658755112",
-    "title": "This is Fox's way of memorializing those lost in the downing of Extortion 17 helicopter in Afghanistan: Mike Sarraille",
-    "description": "This is Fox's way of memorializing those lost in the downing of Extortion 17 helicopter in Afghanistan: Mike Sarraille  Fox News",
-    "url": "https://www.foxnews.com/video/6402658755112",
-    "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/221bcad6-5920-40c4-bd2b-7ad428a48bea/42a1b38c-0ca3-4cb7-9ad4-dd379e390b44/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-    "timestamp": 1785712785000,
-    "source": "Fox News",
-    "publisher_id": "www.foxnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kRElhdEVTSWtkcHFCel9TbkFCV3N0dEFXQnNyR3lEUlgyc3RfMGctNDhRamdSSjc4N2JJem9lUGZUdjVnN0VYeXV5bWxmc3dIY0dnMFRB?oc=5",
-    "rssid": "laN001",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Afghanistan",
-    "likes": 0,
-    "comments": 0
   }
 ]
