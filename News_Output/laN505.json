@@ -207,24 +207,5 @@
     "extra": "Nauru",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/viena-maziausiu-pasaulio-valstybiu-pakeite-pavadinima-120285130",
-    "title": "Viena mažiausių pasaulio valstybių pakeitė pavadinimą",
-    "description": "Viena mažiausių pasaulio valstybių pakeitė pavadinimą  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/viena-maziausiu-pasaulio-valstybiu-pakeite-pavadinima-120285130",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/40833a55-80f6-46ef-b866-e69528fc1f77.jpg?w=1200&h=800&ch=0.8438&cw=1&cx=0&cy=0.1379",
-    "timestamp": 1785781340000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUNndEUyYmJDMHQzRWxsUkVUejdic0RkNVY4cmVSZDBJWHQ0WmlxVXpfM084LWQzOThDOGprQ1lQa2pQLW5uRjVOeG5tMkhHQ2x0cTZJN19xQ09FZU81dGMxUGtGdDJXc2k4THFkVkhNR0treDFjSmR5eE0wbHRrOFl3V0EzTlY5VlhrSmdyazRrSUsxVVdrQUFIeXRjNUtYaHZyY2J3QQ?oc=5",
-    "rssid": "laN505",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Nauru",
-    "likes": 0,
-    "comments": 0
   }
 ]
