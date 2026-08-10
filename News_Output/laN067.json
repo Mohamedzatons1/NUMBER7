@@ -2107,43 +2107,5 @@
     "extra": "Greece",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
-    "title": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds",
-    "description": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds  CNBC",
-    "url": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108343674-1785754942406-gettyimages-2288012251-npb01698.jpeg?v=1785754947&w=1920&h=1080",
-    "timestamp": 1785759065000,
-    "source": "CNBC",
-    "publisher_id": "www.cnbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMWp0RFdPaFVvWmRYbjQ1WWN3N3VZWnNyQXJ5OFMxcTFvWkh3dnIxWWdJNHMxclJvTUg1YUpRYV8zcUZBYkxYVWtzSHZrMmlmMXhXdk1GMUI3STVJMmVoZlJIbEdxZG5kN01EaW5sR1FINy1NbmhhS2xkcG14am85eEFn0gGHAUFVX3lxTE9oQ0t3b045T2dncjhCSWJjVkQ5OVotUzRia1drZ01oZndreHgwVjJVbW1BQTZaMTc1bzlRWndBSEQ5aGRNc0ZfYnNDZHFkMjJqWkNXbVpSOGZHNC10WUx5ZEZzbDh5U1NzRU13a0RSanFZUUhxMFNCblpla3huWmR0TGI0cnZCOA?oc=5",
-    "rssid": "laN067",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Greece",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://apnews.com/article/greece-france-wildfires-helicopter-crash-evacuations-65e96b9346f28b32ac00cb7c27129bb4",
-    "title": "Greek wildfires halted after deadly helicopter crash; French evacuees returning home",
-    "description": "Greek wildfires halted after deadly helicopter crash; French evacuees returning home  AP News",
-    "url": "https://apnews.com/article/greece-france-wildfires-helicopter-crash-evacuations-65e96b9346f28b32ac00cb7c27129bb4",
-    "image": "https://dims.apnews.com/dims4/default/a534138/2147483647/strip/true/crop/8256x5501+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2Fda%2F76ae4f1142f37f6d70deac490506%2F155aee7b3c644ee587c36ba5d90d491e",
-    "timestamp": 1785756120000,
-    "source": "AP News",
-    "publisher_id": "apnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVJ3YktkdzVuTjE5NnBtRXhReVlTNDdxZUpfOHZGTmhfVjRtd0pka2J4Nk5kR3FwNHFTWGc1aVIzX0ZteWF5dGRfdW1fdl9BVF9uRmctOGxnd1QxbzlicEpzaWlwYXVrRWFzLWFTM3VhT1AzV3llelkyUEhCWnRhblRCRHkwdW45aFA4SjZNdEkweExfNU4wMzcxWUFjcnNENm5lV2d2UFZKdFdmZ1NuNnZn?oc=5",
-    "rssid": "laN067",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Greece",
-    "likes": 0,
-    "comments": 0
   }
 ]
