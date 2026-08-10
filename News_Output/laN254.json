@@ -264,24 +264,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1351839",
-    "title": "פריז סוערת: חקירה פלילית בעקבות שרשרת התאבדויות בלשכת ראש ממשלת צרפת",
-    "description": "פריז סוערת: חקירה פלילית בעקבות שרשרת התאבדויות בלשכת ראש ממשלת צרפת  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1351839",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1006245",
-    "timestamp": 1785770959000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80YzJLQXgwUEE4eGhsYm5SNjd0dXh5bnFIa1VTT20zV2E1OGM2cTdldzN2ZVB1dTM4VF9tc29yT09wVHdaNmEwWnI3MWdZQkZYMDVTODM4LUpJVW9ZTXRBYg?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -1214,24 +1214,5 @@
     "extra": "Zambia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/aug/03/guy-scott-obituary",
-    "title": "Guy Scott obituary",
-    "description": "Guy Scott obituary  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/aug/03/guy-scott-obituary",
-    "image": "https://i.guim.co.uk/img/media/1b94968f20cf41d378fb783fd840900adf87565a/434_0_4099_3280/master/4099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0833c28aefc6e871969b6d7edcd23d59",
-    "timestamp": 1785773220000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOcWRwWTB0N1NCOGJQS1RiRTBYTUE4RkJJRU9yMVRDS2xpT1lnV2J3NUc5eGMxLTlqWkJTNDduSkhrNWFQcjNoQTRjSjdVZEF5M2dEUHZtek51b1RrM1phTl9tZXpjTlBBZW9oWGIweHpWdw?oc=5",
-    "rssid": "laN191",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Zambia",
-    "likes": 0,
-    "comments": 0
   }
 ]
