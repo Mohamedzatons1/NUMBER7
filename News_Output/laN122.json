@@ -1993,43 +1993,5 @@
     "extra": "New Zealand",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://edition.cnn.com/2026/08/04/world/video/hunt-for-new-zealands-deadliest-cat-is-over-digvid-vrtc",
-    "title": "The hunt for New Zealand’s deadliest cat is finally over",
-    "description": "The hunt for New Zealand’s deadliest cat is finally over  CNN",
-    "url": "https://edition.cnn.com/2026/08/04/world/video/hunt-for-new-zealands-deadliest-cat-is-over-digvid-vrtc",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/22865748-nine-lives-cat-thumb.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1785870540000,
-    "source": "CNN",
-    "publisher_id": "edition.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDNvY01wYkVudE5tS2VLdVBLQTZoSmdCNWZLZF9CakhEZ2VQME5xNk5rUXpsaVRrZ1NGQ21ZbkZaYUQ4U2IxeUNSczAtMC1YWXNnWTAtNk1zRDZuUTEwQkhjd1FpYkVYWVhnV3UzZU1BbXk2LTRWYU1XRHBxVkNHcExzNzZRd2wzLUpKU241eXY1UGMxOUlQdUtyQnczbVg1akpNYw?oc=5",
-    "rssid": "laN122",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "New Zealand",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/08/04/world/video/hunt-for-new-zealands-deadliest-cat-is-over-digvid-vrtc",
-    "title": "The hunt for New Zealand’s deadliest cat is finally over",
-    "description": "The hunt for New Zealand’s deadliest cat is finally over  CNN",
-    "url": "https://www.cnn.com/2026/08/04/world/video/hunt-for-new-zealands-deadliest-cat-is-over-digvid-vrtc",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/22865748-nine-lives-cat-thumb.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1785870540000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmJORUJfSmY2bmxUTkgzNW50d1lHLTJGNDkxUGlRMm5iXy1KQmxhLVN0cEgtZkVrVzkwUHM3M0xDWFZvU3NBUTQ0bmwwLVNBWUhYckVPSlVkcDJvNUhqSVQ0UE11MkpmSDdrNDVkQ1plT0tIVDFjVFI3U0lZMUhrOU42Z0x4NlRJc1Z1M24tYTFhaS1VWWZ6aF90RmRKS0E?oc=5",
-    "rssid": "laN122",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "New Zealand",
-    "likes": 0,
-    "comments": 0
   }
 ]
