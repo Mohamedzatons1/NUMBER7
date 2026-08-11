@@ -321,24 +321,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/plinta-vaizdai-is-juodojoje-juroje-atakuoto-turkijos-laivo-120285559",
-    "title": "Plinta vaizdai iš Juodojoje jūroje atakuoto Turkijos laivo",
-    "description": "Plinta vaizdai iš Juodojoje jūroje atakuoto Turkijos laivo  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/plinta-vaizdai-is-juodojoje-juroje-atakuoto-turkijos-laivo-120285559",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/cdd29973-b03e-4483-962b-a8404535f381.jpg?w=1200&h=800&fx=0.048485&fy=0.373437",
-    "timestamp": 1785841891000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHlSUS1jS3dtbGRYM293aXNzLXRRSTVOb1p3b0NBdFU0Yml0eERNampXcmxQdXY1RU13VklrOG1MZzI2MmVReTIwd0czdWJRMjJKRlUyclBab3VCWmhGQUNJRGIyUlBEc2Etck1HWmY0X25Va1NDTU8tQVdseU5OQl94SmJtTXZUVlVGbGxxbUhKeEJ2MEpVVGFNM0FabF9mcUdRRGJfZEdfTDFjOUE?oc=5",
-    "rssid": "laN527",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
