@@ -207,24 +207,5 @@
     "extra": "France",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3858266",
-    "title": "בסרט על זידאן התגלה: \"ממשלת צרפת הורתה לבטל בדיקות סמים\"",
-    "description": "בסרט על זידאן התגלה: \"ממשלת צרפת הורתה לבטל בדיקות סמים\"  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3858266",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/8/4/4084256-46.jpg",
-    "timestamp": 1785819000000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NndpVk44eGFlbElLMmtPVlViVWFxODlsY25iTzBaRnBtWERUZFFtTnlhSThiUlZyVzhfRzdaYXJzbjVmdlg5d2dDdEttS3lv?oc=5",
-    "rssid": "laN254",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "France",
-    "likes": 0,
-    "comments": 0
   }
 ]
