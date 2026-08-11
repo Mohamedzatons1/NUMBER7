@@ -2335,43 +2335,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/politics/2026-08-04/ty-article/.premium/0000019f-c923-db33-a5ff-fb77e1630000",
-    "title": "סבב שיחות שביעי עם לבנון יחל היום, ובמרכזו דיון במצב הפיילוט והרחבתו",
-    "description": "סבב שיחות שביעי עם לבנון יחל היום, ובמרכזו דיון במצב הפיילוט והרחבתו  הארץ",
-    "url": "https://www.haaretz.co.il/news/politics/2026-08-04/ty-article/.premium/0000019f-c923-db33-a5ff-fb77e1630000",
-    "image": "https://img.haarets.co.il/bs/0000019f-c923-db33-a5ff-fb77e1630000/f5/6c/c9bed6344b22841e0757d73b952d/66434258.JPG?precrop=2400,1395,x0,y187&width=1200&height=630&cmsprod",
-    "timestamp": 1785812460000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT00wNG5SbnhyNS03YzU2aGxaQjU4eDEwclJMcnN5YnlxMWhsdlJxcTllRkJSVW1JRnVZb2tSRlhuZVAtMnk3VWRGMEFpZVh4djZnR1JBckNZUGRBeE1RcHJJOHdXOWJQdWJkbnhRam5pUkFIMS0yaDNVeFZUeTlZZTg0ODJXazdsY3pFZ0VKSmpvYTAtbkVoSGl0TTJLZXNsNnRLNThUZENTTFE?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/military/article-1351911",
-    "title": "לא רק פירוק חיזבאללה: הדרישה הדרמטית של ארה\"ב לפתוח מחדש את הסכם הגז",
-    "description": "לא רק פירוק חיזבאללה: הדרישה הדרמטית של ארה\"ב לפתוח מחדש את הסכם הגז  maariv.co.il",
-    "url": "https://www.maariv.co.il/news/military/article-1351911",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1124853",
-    "timestamp": 1785812400000,
-    "source": "maariv.co.il",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13SHRxZkJOX2VGX2dKRHdrdVFsSUU2ZXBnenl6aFJjT0lsOV9ZLU1FZHlqUktNRFJnT1dsV3lhRW1jWHpGQkxTMWdrVDREa2JyQ1FWWllWTXNSOFhaemtpSUpTWmw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
