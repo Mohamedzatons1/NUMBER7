@@ -17,43 +17,5 @@
     "extra": "Romania",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/romania-danube-nuclear-reactor-crisis",
-    "title": "פיצוץ בדנובה: כך רומניה מנעה אסון גרעיני",
-    "description": "פיצוץ בדנובה: כך רומניה מנעה אסון גרעיני  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/romania-danube-nuclear-reactor-crisis",
-    "image": "https://a.kikar.co.il/v2/articles/romania-danube-nuclear-reactor-crisis/og-image.jpeg",
-    "timestamp": 1785829440000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBManZJUGZnZHQtY1pxZHZrZnM4UGc2c0s2Q2FqY2RuV0M4bFh4VXlKVXR2UFh2SmFWaXNJTjdvUTJMbXd5UGZOVlo5MmNEVlNDdEw3QXVKUWQ2Sl80V01ydU8wUkRtVHNCM0M3akpaQkRpYnItcURYckNmTlg?oc=5",
-    "rssid": "laN333",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Romania",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "http://kikar.co.il/world-news/romania-danube-nuclear-reactor-crisis",
-    "title": "פיצוץ בדנובה: כך רומניה מנעה אסון גרעיני",
-    "description": "פיצוץ בדנובה: כך רומניה מנעה אסון גרעיני  כיכר השבת",
-    "url": "http://kikar.co.il/world-news/romania-danube-nuclear-reactor-crisis",
-    "image": "https://a.kikar.co.il/v2/articles/romania-danube-nuclear-reactor-crisis/og-image.jpeg",
-    "timestamp": 1785829440000,
-    "source": "כיכר השבת",
-    "publisher_id": "kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVNkhCczcxTEdZaXpnOEdMWmVYMl93ZUVQaDdfZS1QY09HU0ZDd2h0S3JXcUdWaFY0TS1BWmhabmx3Mjk0dWsyMmkxbExzYWJhVms2X1BsRG5oa2dacHFpOWxoRmdZaUNaUzNvZURpeXVMeS1kYXc?oc=5",
-    "rssid": "laN333",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Romania",
-    "likes": 0,
-    "comments": 0
   }
 ]
