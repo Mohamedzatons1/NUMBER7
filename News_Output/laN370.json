@@ -1594,24 +1594,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001551284",
-    "title": "מדינה אחרי מדינה: התוכנית של ארדואן להשתלט על המזרח התיכון",
-    "description": "מדינה אחרי מדינה: התוכנית של ארדואן להשתלט על המזרח התיכון  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001551284",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1785841593/2026-07-30T160054Z_712100363_MT1ANADL0008N78ZA_RTRMADP_3_ANADOLU_o09web.jpg",
-    "timestamp": 1785866607000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42ZDBLUGdQTlZaQ242U2wtNFBvS0kwczROWnE4QVliQXBSVzBhOWx6VXJSWDJSTXI3aEJTaVFCRWFTdWJuSXZ0MS1SS1B6d0FNN01nSENBbU1IM0NTSXR5N011QmNpdldY?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
