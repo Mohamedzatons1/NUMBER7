@@ -93,24 +93,5 @@
     "extra": "Cyprus",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vZFdTY25pVmx3RXhHZzA0SlVsQmNtbVJOdEZlMU9WdDU5QXVZWXJLelBQU3gxWmJvdUk4VzhsYXBYQ0JrRnpHUGxpVQ?oc=5",
-    "title": "טרגדיה: תושב ירושלים בן 34 טבע למוות בחוף בלימסול שבקפריסין לעיני משפחתו",
-    "description": "טרגדיה: תושב ירושלים בן 34 טבע למוות בחוף בלימסול שבקפריסין לעיני משפחתו  חרדים10",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vZFdTY25pVmx3RXhHZzA0SlVsQmNtbVJOdEZlMU9WdDU5QXVZWXJLelBQU3gxWmJvdUk4VzhsYXBYQ0JrRnpHUGxpVQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1785880046000,
-    "source": "חרדים10",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vZFdTY25pVmx3RXhHZzA0SlVsQmNtbVJOdEZlMU9WdDU5QXVZWXJLelBQU3gxWmJvdUk4VzhsYXBYQ0JrRnpHUGxpVQ?oc=5",
-    "rssid": "laN237",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Cyprus",
-    "likes": 0,
-    "comments": 0
   }
 ]
