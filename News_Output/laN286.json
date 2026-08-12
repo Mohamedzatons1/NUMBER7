@@ -2316,43 +2316,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/military/article-1352495",
-    "title": "אחרי הפעילות המבצעית בדרום לבנון: לוחמי הקומנדו לקחו \"מזכרות\" ממלון הפאר",
-    "description": "אחרי הפעילות המבצעית בדרום לבנון: לוחמי הקומנדו לקחו \"מזכרות\" ממלון הפאר  maariv.co.il",
-    "url": "https://www.maariv.co.il/news/military/article-1352495",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1099018",
-    "timestamp": 1785921289000,
-    "source": "maariv.co.il",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzMDV5emlLX0FfVUVRN1YtREZvTlNwS0NYTVpQbmxQdEh3WXlTVGNvYVE3WjNWZzZZWkVUOEltYVFXMkVMNkIwYVk1Q3ZhY1BBWE02VUlucmtzbWdxNEhRTmJuVVM?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dWw5aVoyei1pZjNxSHI0QWxoYUc2LTFDaURJblNldWVrWXBYLU4teDBvZ09ZY1RUOUxTSy1XbWh0N2hwYTlqMUR4WGdXX1JuR3UzZ3lLV0gzSXF4RGtHb3JVU0xlTEJV?oc=5",
-    "title": "האו\"ם: מאות אלפי לבנונים חוזרים לביתם בדרום המדינה",
-    "description": "האו\"ם: מאות אלפי לבנונים חוזרים לביתם בדרום המדינה  מקור ראשון",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dWw5aVoyei1pZjNxSHI0QWxoYUc2LTFDaURJblNldWVrWXBYLU4teDBvZ09ZY1RUOUxTSy1XbWh0N2hwYTlqMUR4WGdXX1JuR3UzZ3lLV0gzSXF4RGtHb3JVU0xlTEJV?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1785919137000,
-    "source": "מקור ראשון",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dWw5aVoyei1pZjNxSHI0QWxoYUc2LTFDaURJblNldWVrWXBYLU4teDBvZ09ZY1RUOUxTSy1XbWh0N2hwYTlqMUR4WGdXX1JuR3UzZ3lLV0gzSXF4RGtHb3JVU0xlTEJV?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
