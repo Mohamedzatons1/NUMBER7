@@ -625,24 +625,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001551470",
-    "title": "Germany delivers Israel’s biggest-ever submarine",
-    "description": "Germany delivers Israel’s biggest-ever submarine  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001551470",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1758032428/direct/INS_Drakon__Name_awarding_ceremony__November_2024._IV_r3j714.jpg",
-    "timestamp": 1785941666000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrU2k3SmV2MUQ2R1FhaS1yVTVhWnlQNG5DN0ZJdnB3UVZzd195bS1oLXZjLXZERVBXUV8yS1IxUHBzM21LWGs4akk0bjFYMGI3TkxfTXBnMGNGNmdiUlBTUjFHUllWQ1hK?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
