@@ -3171,43 +3171,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c330pxyvzzyo",
-    "title": "Russia launches ballistic missile and drone strike on Kyiv",
-    "description": "Russia launches ballistic missile and drone strike on Kyiv  BBC",
-    "url": "https://www.bbc.com/news/articles/c330pxyvzzyo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d257/live/37db70d0-9069-11f1-8039-f181d4773c62.jpg",
-    "timestamp": 1785893729000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90dnd6Z0NpTWFCbzRGLXBEVXh1bUpXcnREWU8xWjBnc1hDWEFpWlhRU2loem5xYS16eUIyeGViSEc4c0U5STBJdk5qX0VqeS0yX1dVakFxbkZ5dw?oc=5",
-    "rssid": "laN141",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians",
-    "title": "Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians",
-    "description": "Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians",
-    "image": "https://i.guim.co.uk/img/media/aeafab5b2b59cba8c67eb849c5a7d50f75ec5966/0_722_1166_932/master/1166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb48654af9dbb9ccd7d08d4a39990757",
-    "timestamp": 1785893280000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1hQeE1OOXZiZlRISDd1RHpGRkpVMzIwVTg4V2V0b1FLREJad0JTcm5rLWhUQTcwTjhvNmVFcDVkaWxuTWtrTENJNldmZ0lPT0ZtT3ZBeThkQ3I5V3FBdGlUXzNVX1ZjeGlaQzBSQlRMVlV1Y0F5alV1OEdnbEdKUUxVVk1nX2xnMUtvcEFBcFU1ZThHR24zSUVnWnhSTHBxMnU5dlk1WTFYYUlfZzdwR19FSV9jdw?oc=5",
-    "rssid": "laN141",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
