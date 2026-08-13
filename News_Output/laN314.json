@@ -207,43 +207,5 @@
     "extra": "Netherlands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://tmi.maariv.co.il/world-celebs/article-1353221",
-    "title": "בחצי מיליון פאונד: טום הולנד וזנדאיה חגגו חתונה סודית",
-    "description": "בחצי מיליון פאונד: טום הולנד וזנדאיה חגגו חתונה סודית  TMI",
-    "url": "https://tmi.maariv.co.il/world-celebs/article-1353221",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/955000",
-    "timestamp": 1786048623000,
-    "source": "TMI",
-    "publisher_id": "tmi.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kQV9TUWo1b0JQZDh6emRNblN0VUJjWk56TE0yMXVNbTJPeVdhX2wzV19zWVBVamhNMHdhV1EyRTJEZ3VZQUNWcHBaS2FVN01QOTdRbUN2ZW5OUGlUVjhpVlYxaw?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3844240",
-    "title": "אוליסה כבש שלושער בניצחון של צרפת, הולנד ממשיכה לגמגם",
-    "description": "אוליסה כבש שלושער בניצחון של צרפת, הולנד ממשיכה לגמגם  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3844240",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/6/1/4061862-46.jpg",
-    "timestamp": 1786047159000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzWGNXU3FVZGZxNnhNcU9jUzVhVWhMWEJpdTZ2QkEwNEFhWkhudTFqNjB6akN4anozbVV1TWhuY0llcmV6Y0NHYlpESWdSdy1E?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
   }
 ]
