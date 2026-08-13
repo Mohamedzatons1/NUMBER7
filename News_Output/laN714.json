@@ -207,43 +207,5 @@
     "extra": "Peru",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150lcsi-saimnieciba-rankas-pagasta-konstateta-bisu-saslimsana-ar-amerikas-peru-puvi?language=es",
-    "title": "Saimniecībā Rankas pagastā konstatēta bišu saslimšana ar Amerikas peru puvi",
-    "description": "Saimniecībā Rankas pagastā konstatēta bišu saslimšana ar Amerikas peru puvi  Inbox.lv",
-    "url": "https://news.inbox.lv/150lcsi-saimnieciba-rankas-pagasta-konstateta-bisu-saslimsana-ar-amerikas-peru-puvi?language=es",
-    "image": "https://news.inbox.eu/w/img/d1/91/d19141bceb025e1ffc.jpg",
-    "timestamp": 1786022378000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0JqbnE0eXhmRmhlUWl2WHdfUUZmVlo3bDRFWlRiekE1NlBRLXNWSHVkZjl5enpaeURUNFJPaDgtRzN4dDctZHh4N0hTc1VnOFZBNTBwT2VoM2tZMF9GblVEQzhpdlIyME0teE0xQ1VJZ3NpSmYxZEJUem5pbUxFcVBydEhJN183RjBYVzR0NDB5ZXJUVW8wVnplUlRiMHNNNnBkTFA1VWJ5RXFfVDRWcWlSNGFyRFcz?oc=5",
-    "rssid": "laN714",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Peru",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.inbox.eu/150lcsi-saimnieciba-rankas-pagasta-konstateta-bisu-saslimsana-ar-amerikas-peru-puvi?language=pa",
-    "title": "Saimniecībā Rankas pagastā konstatēta bišu saslimšana ar Amerikas peru puvi",
-    "description": "Saimniecībā Rankas pagastā konstatēta bišu saslimšana ar Amerikas peru puvi  news.inbox.eu",
-    "url": "https://news.inbox.eu/150lcsi-saimnieciba-rankas-pagasta-konstateta-bisu-saslimsana-ar-amerikas-peru-puvi?language=pa",
-    "image": "https://news.inbox.eu/w/img/d1/91/d19141bceb025e1ffc.jpg",
-    "timestamp": 1786017177000,
-    "source": "news.inbox.eu",
-    "publisher_id": "news.inbox.eu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnprbWZiMEtVLXg1d054ZWVEYnFTaFozMXcwMExQYmRCWmhMTTVKOUZVVGtaNlZHSW5OZmgyQWRFV3NndWRZck90SmJQaEhIY0tOdVZLbnN0U05LUk9PMWVyMTFiU0J5MmZnajNKYW81cjdwZmJ1QjZ4eXh3QjlKQWExWkdlZVhoMTlLUDdvWG5heDduazEtMzhWMUpaeVRZZUZoaEwxREZCM0lNQ3lVNjZKb29DVUgt?oc=5",
-    "rssid": "laN714",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Peru",
-    "likes": 0,
-    "comments": 0
   }
 ]

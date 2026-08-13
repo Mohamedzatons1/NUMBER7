@@ -2487,43 +2487,5 @@
     "extra": "Mexico",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://abcnews.com/alerts/Mexico",
-    "title": "Mexico - ABC News",
-    "description": "Mexico  ABC News - Breaking News, Latest News and Videos",
-    "url": "https://abcnews.com/alerts/Mexico",
-    "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-    "timestamp": 1786015896000,
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "publisher_id": "abcnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xUjFpc05HM1dWRFFxTzZRUmFhSklLcnBURmdMVlIxNEUyUGMxWnhZdmhZOHg4ZnZmR2ZFdk1EM1R0ZHk0UVFsVg?oc=5",
-    "rssid": "laN109",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.foxnews.com/politics/us-pauses-government-operations-cartel-ridden-mexican-state",
-    "title": "US pauses government operations in cartel-ridden Mexican state",
-    "description": "US pauses government operations in cartel-ridden Mexican state  Fox News",
-    "url": "https://www.foxnews.com/politics/us-pauses-government-operations-cartel-ridden-mexican-state",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/michoacan-civil-guard-patrol-highway.jpg",
-    "timestamp": 1786015206000,
-    "source": "Fox News",
-    "publisher_id": "www.foxnews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnRERGpNbUduMGZwSFVRZGpydG5abFNURVFEYUxyZExlZDd0VHNhTU1KWjh2bml5VlNaM1FKTDFXbkY5X2JWdzZzNnplUUZqQ3lXSjhXcUc3NnRXMVBLNXR3TVlDeEhzMzZYdEQ1M2ZEMHM5eTI4Ry1OWDNJZ2FkWklzbFFQR2dxREtXZkJjTE5FWTU2ZWlN0gGcAUFVX3lxTE5uVkhTV3FRdUxaNHI3R1BBZTNwNkR1SUZNTGRpMmJtblozVmtRTWNSQmRTWWM3RUlIck9LNHFOc0E3c2hid1E5SXh2NFNMYkVyNWVoUGxCWHE4TFp5MmJUWnYweWRIQjdjRGk1RnBNaktHSDgzdGNSSDFLcWZHN1RBOTY1M0NTb0NUa1lXdnNqY3BHa2NqakU4bE1VSA?oc=5",
-    "rssid": "laN109",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mexico",
-    "likes": 0,
-    "comments": 0
   }
 ]
