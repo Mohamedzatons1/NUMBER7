@@ -1594,43 +1594,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1353302",
-    "title": "ברית גרעינית חדשה? ההסכם ההיסטורי של ארדואן ובן סלמאן",
-    "description": "ברית גרעינית חדשה? ההסכם ההיסטורי של ארדואן ובן סלמאן  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1353302",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1125951",
-    "timestamp": 1786084583000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11WlUwdWVySFVrWm5VYTR6bnNUS3g3Rk5OOVBoSDNjd1JVYjE5UlhsN3ZtSXd5RlNQS2F5SVA1NjR3ZUlSQWZNN2xZa1VrcWE0MS1VMHYzTmU0Nmk3bTJ6aw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=KGLHLD&c41t4nzVQ=EL",
-    "title": "רון קופמן ואריה אלדד - ברית חדשה בין סעודיה, טורקיה ופקיסטן?",
-    "description": "רון קופמן ואריה אלדד - ברית חדשה בין סעודיה, טורקיה ופקיסטן?  103FM",
-    "url": "https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=KGLHLD&c41t4nzVQ=EL",
-    "image": "https://103fm.maariv.co.il/download/highlight/SegmentImgNew_738480_4_56_.jpg",
-    "timestamp": 1786082570000,
-    "source": "103FM",
-    "publisher_id": "103fm.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMW5VZGMwdmZwTU15dXZjb0U2SmdhOFBVeUlCckhVek43MG1MZUczYmpIRWNwNGJad3dfOE9NSW5vNnAxS1JTbzllX3BxYmh5SmtuejkwTURwSUNaSVRmYVRybEl5MkNEOEgtRkJUbHA3Ukc4YTNKVjBBM3ZNdXM?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
