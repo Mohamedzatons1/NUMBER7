@@ -3000,43 +3000,5 @@
     "extra": "Egypt",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.egyptindependent.com/al-teatro/",
-    "title": "Al-Teatro",
-    "description": "Al-Teatro  Egypt Independent",
-    "url": "https://www.egyptindependent.com/al-teatro/",
-    "image": "https://amayei.nyc3.digitaloceanspaces.com/2026/08/770266e3-c3c4-43fd-bc3a-1b3ace98463a.jpeg",
-    "timestamp": 1786093852000,
-    "source": "Egypt Independent",
-    "publisher_id": "www.egyptindependent.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BYTItQ3dRdkZHV3AzY0kyQ01feFJod1MxOTBtNEw2c3h6UkNzSTBmR3g5dEViQ3pXTFkyWmt6ZTRUYkZycS1VWUt0UzJJUjBHM3ZZZ1dB?oc=5",
-    "rssid": "laN052",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.egyptindependent.com/mohamed-salah-offered-unusual-gift-in-turkey/",
-    "title": "Mohamed Salah offered unusual gift in Turkey",
-    "description": "Mohamed Salah offered unusual gift in Turkey  Egypt Independent",
-    "url": "https://www.egyptindependent.com/mohamed-salah-offered-unusual-gift-in-turkey/",
-    "image": "https://amayei.nyc3.digitaloceanspaces.com/2026/08/1786088598-a24cce6a-98de-4fc0-b7ab-a0bc4529716a.jpeg",
-    "timestamp": 1786092495000,
-    "source": "Egypt Independent",
-    "publisher_id": "www.egyptindependent.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFY0VkVHZUE1YktTWU16T2VoZUdsUDJQc3dWTnhlb243NjBYNjhtQWpKYTN2MUpTSU9WbW5PNDRENnpEUXBybFNPNkowT3lxWjlxc2s2ajNqeGsyRFhjeGZadjhWX3Vvb25QMXBYZnQ2V1plenpGdy1kM2s5Mjg5MXlsODQ?oc=5",
-    "rssid": "laN052",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
   }
 ]
