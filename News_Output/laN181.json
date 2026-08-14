@@ -3133,43 +3133,5 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.pravda.com.ua/eng/news/2026/08/07/8047678/",
-    "title": "Russia attacks Ukraine with 147 drones, air defences down 114",
-    "description": "Russia attacks Ukraine with 147 drones, air defences down 114  Українська правда",
-    "url": "https://www.pravda.com.ua/eng/news/2026/08/07/8047678/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/2/887824/1276c2b92aa3dadcd34c6f67aee10b6a.jpeg?w=1200&q=85&stamp=1786084085",
-    "timestamp": 1786081020000,
-    "source": "Українська правда",
-    "publisher_id": "www.pravda.com.ua",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01MEFzTEpIcXgzQktBQWpDLUZsRUg3Um9RUVlCVnZSOXZ2YVNxcjZLTnN0Mk9tNjcyR2NVd0FaN0xXOGxOdmxOaVY4aWtZZVBVYzlERXlGZkVqMENNWUxZZkwyTE7SAXBBVV95cUxPXzlfMG9oTnZKX0VZb1FuOVdvR1IwWktRSzlUWHJSeXZrNzN1V3lOQm1tTTh1ZkJNUnAzemJQRjVaN2lIR1I3UHozSVE2dmJoTm5XaTM2Qkg4VnlDTVRybFRQeTFQdWJpcmJGa2h6Nl9n?oc=5",
-    "rssid": "laN181",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy",
-    "title": "Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy",
-    "description": "Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy",
-    "image": "https://i.guim.co.uk/img/media/d31dc96c26a09196c768e7a4af4931b3d880ef5c/0_0_4879_3905/master/4879.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2ea9986f4341250d118bb3e8104df3d",
-    "timestamp": 1786072800000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmxfUGpqSGNDWHYxbmFGdnRzTEJrN2FqV3hFN045bGZsQ2N6aVA1ZXJfY1lHN0tIaW4wUzE3d2Fua2JiTnU1NFZwU19PbTJyUXpEcmZHaWVYZmZnNWozVUx4Y2Z3U0MzS2liR3laMFNhX1VnemY5d2RlMzAzMi1wRXVnQjhBOHF1S3laUTZVMjYyR0xKZ2lnTnozSWJla2d4Zkp4bF9xZlRDOURU?oc=5",
-    "rssid": "laN181",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
   }
 ]
