@@ -1043,43 +1043,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1paDNHYzhwLUhRMVU4VjhvbEFtcVFPblFJTmtzU0R2SkpWblFHUEhHYlZ6US1NbHk3UGR3dW5UZWZoMWRXX3hKajAxY0dSbDJNN1RUT1pmaVF1ajBMekxqNG9R?oc=5",
-    "title": "\"זה מגרש המשחקים של ארגוני הטרור\"",
-    "description": "\"זה מגרש המשחקים של ארגוני הטרור\"  ynet",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1paDNHYzhwLUhRMVU4VjhvbEFtcVFPblFJTmtzU0R2SkpWblFHUEhHYlZ6US1NbHk3UGR3dW5UZWZoMWRXX3hKajAxY0dSbDJNN1RUT1pmaVF1ajBMekxqNG9R?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1786222800000,
-    "source": "ynet",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1paDNHYzhwLUhRMVU4VjhvbEFtcVFPblFJTmtzU0R2SkpWblFHUEhHYlZ6US1NbHk3UGR3dW5UZWZoMWRXX3hKajAxY0dSbDJNN1RUT1pmaVF1ajBMekxqNG9R?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/yokra14857930",
-    "title": "\"מגרש המשחקים של ארגוני הטרור\": מסע מיוחד לאורך הגזרה המתוחה של הגולן הסורי",
-    "description": "\"מגרש המשחקים של ארגוני הטרור\": מסע מיוחד לאורך הגזרה המתוחה של הגולן הסורי  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/yokra14857930",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/rJHWRwsmfUzl/rJHWRwsmfUzl_0_0_3000_1689_0_large.jpg",
-    "timestamp": 1786222800000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05MWN0T2czX3BoRGpNRFExMGVaV0JlbkIzeUJHSmV2ODNMVFFfaU5PZ1J0eUszT0ZWWXdINDFMUEUyWVFTbTVsSGd6eGxpaFI0c0V2Zk9QMXNtQkRlY0E?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
