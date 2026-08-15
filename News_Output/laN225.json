@@ -359,5 +359,24 @@
     "extra": "Canada",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.inn.co.il/news/703477",
+    "title": "חמוש בסכין הסתער על האוהל הישראלי בפסטיבל בקנדה ונעצר",
+    "description": "חמוש בסכין הסתער על האוהל הישראלי בפסטיבל בקנדה ונעצר  ערוץ 7",
+    "url": "https://www.inn.co.il/news/703477",
+    "image": "https://2.a7.org/files/pictures/000/1223387.jpg",
+    "timestamp": 1786211820000,
+    "source": "ערוץ 7",
+    "publisher_id": "www.inn.co.il",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NOG9ZZW4zWWZlZFJSbE42MENnR3pEdFhXZmo3U05lZ0NwQUw5UDVVcURNRHJNb3YzaFNfcE5hV0l2clY0X2ZrVg?oc=5",
+    "rssid": "laN225",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Canada",
+    "likes": 0,
+    "comments": 0
   }
 ]

@@ -2544,43 +2544,5 @@
     "extra": "Romania",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "http://www.jpost.com/international/article-904894",
-    "title": "Bulgaria reports drone explosion near Romania border",
-    "description": "Bulgaria reports drone explosion near Romania border  The Jerusalem Post",
-    "url": "http://www.jpost.com/international/article-904894",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721361",
-    "timestamp": 1786193425000,
-    "source": "The Jerusalem Post",
-    "publisher_id": "www.jpost.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10a1J5cmZkT1A5R1IwaUdFZ1ZCRVZfNDZWRDF1bFo3d3VORUdwVmZXdnVFckFxMTQ4dF9PUW4tRkNnTTQzbFRWempndGFyb19nUDZfekhHbHM0dnVhLUE?oc=5",
-    "rssid": "laN140",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Romania",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.jpost.com/international/article-904894",
-    "title": "Bulgaria reports drone explosion near Romania border",
-    "description": "Bulgaria reports drone explosion near Romania border  The Jerusalem Post",
-    "url": "https://www.jpost.com/international/article-904894",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721361",
-    "timestamp": 1786193425000,
-    "source": "The Jerusalem Post",
-    "publisher_id": "www.jpost.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TUmxYRDFncDZicnpNSHNDaDhKYzkxQ1pYb05fakVzZDA5RzNieTUwVlBBbDgtbF9TQ05rLW55Vks0ZmFONlB1SnY2amhXUUdnT0JyMjA3N3pzMmplT0l3?oc=5",
-    "rssid": "laN140",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Romania",
-    "likes": 0,
-    "comments": 0
   }
 ]
