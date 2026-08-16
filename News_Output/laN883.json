@@ -93,43 +93,5 @@
     "extra": "Moldova",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.eu/150ls42-moldova-pie-ukrainas-robezas-nogazies-drons-atrastas-kaujas-drona-atluzas?language=lv",
-    "title": "Moldovā pie Ukrainas robežas nogāzies drons; atrastas kaujas drona atlūzas",
-    "description": "Moldovā pie Ukrainas robežas nogāzies drons; atrastas kaujas drona atlūzas  Inbox.eu",
-    "url": "https://news.inbox.eu/150ls42-moldova-pie-ukrainas-robezas-nogazies-drons-atrastas-kaujas-drona-atluzas?language=lv",
-    "image": "https://news.inbox.eu/w/img/af/10/af10dd9f07d0ba722a.webp",
-    "timestamp": 1786296156000,
-    "source": "Inbox.eu",
-    "publisher_id": "news.inbox.eu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0lpZ1NwemQ1Z0dWSXZURXJLQ0ZpczhGY0w5U0FtaG40UVNzV3JIRUVkcjV4d0ZfbF9YOElFWnQ5RE44TUNQc0xpd3FRd1Z0VUJOSFhXVm9kZFpfNDZFdDBzYjRwRG53MXlmc0pHM0RyVjZBekZlelBEOE9vMzRJTFlyejBVVnAydG54ZjIxbEd5Vkh4NVRPVlktOGMtRWNRX19ZVjZPN0xJUWFSeWtLcEMtVTROUQ?oc=5",
-    "rssid": "laN883",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lv/46713439/arzemes/120129710/moldova-atskanejis-specigs-spradziens-atrastas-drona-atluzas",
-    "title": "Moldovā atskanējis spēcīgs sprādziens, atrastas drona atlūzas",
-    "description": "Moldovā atskanējis spēcīgs sprādziens, atrastas drona atlūzas  Delfi",
-    "url": "https://www.delfi.lv/46713439/arzemes/120129710/moldova-atskanejis-specigs-spradziens-atrastas-drona-atluzas",
-    "image": "https://images.delfi.lv/media-api-image-cropper/v1/f08bf816-7f5e-418d-a2b4-70bac1334bd3.jpg?w=1200&h=675",
-    "timestamp": 1786294639000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVlQZkV3elBSalROUmU4ZHo0VElJRUNHb3UzcExYOWpkR3lGeVBGZFFOMTB1X2ZQbi1HaDc5dnB3R1RIcGczZ0lZTnRVQk5qZmlUNTR4WWlveEdGd19tWEp5emJYLXJCeFpLWWpENUZpbEpPQnVrTWVERW8tdGRtNkZhNS1zd0R5alBJYWZseFJKMUdGVE04R1BTREFlTUpUQy1LdjQxTDlPV0Vn?oc=5",
-    "rssid": "laN883",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
   }
 ]
