@@ -948,43 +948,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/opinions/article-1353693",
-    "title": "המזרח התיכון משתנה - וסעודיה עברה לשחק משחק אחר | ד\"ר איתן לסרי",
-    "description": "המזרח התיכון משתנה - וסעודיה עברה לשחק משחק אחר | ד\"ר איתן לסרי  מעריב",
-    "url": "https://www.maariv.co.il/news/opinions/article-1353693",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1125919",
-    "timestamp": 1786244460000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RLXA1dXE4V3Z5ZmtHSmg1UkZZc2ZKX0JiQm8wRlg1dzhNbG9Rd2J3VWF5Q2hWM3prMmJjaWZtWlR5M1Z1OERVZmE1QU9UZXphT0NranBjQ1FhRkR4cU5QSmZHMTU?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001551747",
-    "title": "בעקבות המלחמה עם איראן: הפנייה הבהולה של הפנטגון",
-    "description": "בעקבות המלחמה עם איראן: הפנייה הבהולה של הפנטגון  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001551747",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786242638/shutterstock_1210283029_muzl3d.jpg",
-    "timestamp": 1786242808000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZcGNkQzUtS09KSVJBWG9wdDM4cDk1eHpsQ2ZsblBUVnZXZlhJaUlnNE1fcVUwSkd3WnRxbUhhNGF4UWJnd0oxdnZUWDdyVFlpZVMtbnpwUG85dVQzcEJuZ3lwNWtvRmJy?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
