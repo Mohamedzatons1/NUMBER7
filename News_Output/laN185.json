@@ -948,43 +948,5 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/ball-flies-out-of-stadium-causes-crash-in-uruguay-43249686",
-    "title": "🤣 Ball flies out of stadium, causes crash in Uruguay",
-    "description": "🤣 Ball flies out of stadium, causes crash in Uruguay  OneFootball",
-    "url": "https://onefootball.com/en/news/ball-flies-out-of-stadium-causes-crash-in-uruguay-43249686",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43249686%3Fdate=2026-08-09",
-    "timestamp": 1786233875000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPczhydGZvTThwQlVEbWxvMkJmbDlQQ1JpRFVQeHdPTFN3VGlMUHlaXzR3c1BWQXpSS0h6NVdzTHZaN00tMXV4UllDWnA2RWZUUDBqeG5pYWxyeFVyUU1QNlZHTV8wWmFiNTQyZjV3UmFzbHQyd0lQc0IzdmdKUTI1V2ZGeWxWRlhoQ2x6bktHeVJEZ1ps?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.yahoo.com/articles/ball-flies-stadium-causes-crash-000000714.html",
-    "title": "🤣 Ball flies out of stadium, causes crash in Uruguay",
-    "description": "🤣 Ball flies out of stadium, causes crash in Uruguay  Yahoo Sports",
-    "url": "https://sports.yahoo.com/articles/ball-flies-stadium-causes-crash-000000714.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/061467e85d83be916a395c435c300d397c19afc97db2b52888c5cd237b5006b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Ffd95d18b26fc0248b945c7ea6476cfa8",
-    "timestamp": 1786233600000,
-    "source": "Yahoo Sports",
-    "publisher_id": "sports.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkpqc1B5d2FqMUZsV2RsNEFsVzhoYjdQbWNQVHFhT1ZlblJibno1RURqdXZndWJPN052bzA2SlQwa3k0cVZRVHhWbWxDeFM2X0Jfb2pDMnBFcGZNbnRhb3VPenU3blZVaEpsVlA1LTI1YVVGc2tnTWQ3RC1KWjVPdFJrOUVTSms?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
   }
 ]
