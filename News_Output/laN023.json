@@ -625,43 +625,5 @@
     "extra": "Botswana",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/08/09/world/video/hippo-chases-tour-boat-botswana-digvid-vrtc",
-    "title": "‘Absolutely terrifying’ hippo chases tour boat in Botswana",
-    "description": "‘Absolutely terrifying’ hippo chases tour boat in Botswana  CNN",
-    "url": "https://www.cnn.com/2026/08/09/world/video/hippo-chases-tour-boat-botswana-digvid-vrtc",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/hippo-chases-boat-thumb.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1786259460000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2ZKSGdaSHBxODgtcjhEenNQLWRabk84c0U5NXlDcjJ5d09ndy1PNGhhaWd1a1ZKYS1wVFRUbzJpRF84QTI1ZzQ4VGk1Qjc0YXgxOGl4eHdrWG1uRXNZQmJiUC1YczFHd3lYeTV4TzRKYk1RWVRQd3NXTnJTeHJFVnUwSE9QZVZEUjhhTWZjSQ?oc=5",
-    "rssid": "laN023",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Botswana",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://edition.cnn.com/2026/08/09/world/video/hippo-chases-tour-boat-botswana-digvid-vrtc",
-    "title": "‘Absolutely terrifying’ hippo chases tour boat in Botswana",
-    "description": "‘Absolutely terrifying’ hippo chases tour boat in Botswana  CNN",
-    "url": "https://edition.cnn.com/2026/08/09/world/video/hippo-chases-tour-boat-botswana-digvid-vrtc",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/hippo-chases-boat-thumb.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1786259460000,
-    "source": "CNN",
-    "publisher_id": "edition.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGdOa2FtSE1kZ2FIZDlsQlVwUGsyek5SZ18tRW5sZ2IyQ21BM2p4NDVjak43YUNycGJPdDR2MG9CLXlyUmNfNG5kZmJZYWhzTmw2d09kQ1JyS0x4bFJkQzBKdWdTcjJBRXBaR0JSZnFmR1JnUGx5bGVhaTVJVFZXMm9nTGtGQkNVX3I0WHBvSW9RWG9L?oc=5",
-    "rssid": "laN023",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Botswana",
-    "likes": 0,
-    "comments": 0
   }
 ]
