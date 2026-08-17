@@ -4159,43 +4159,5 @@
     "extra": "Iran",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-    "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
-    "description": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall  CNBC",
-    "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108347073-1786328555818-gettyimages-2285299107-AFP_C22T44G.jpeg?v=1786328579&w=1920&h=1080",
-    "timestamp": 1786335885000,
-    "source": "CNBC",
-    "publisher_id": "www.cnbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORnZkQ2Y1clBwaWMwOFZYa1BHb1pwOWxYNWhwbFJIc3BtR05fR2ozSkZfWkhld2huZktkWmFFaEJkSFVrZ1k5RE1kU1REWEFwTi1lMEoyeE4xQ1ItTmJVMzlqVU1SMGNhMWR2Q0tkOVh4ZVExdWpXTS1lRWR2TFdpWEk1bDNTaVBaMWc0LUJ1SDN1OUIy0gGaAUFVX3lxTE5PUWVhLWtoMEVPcmx0SE1aSEs3VjBUSGZCWEdWanNWOUFZNDZKLXF2TmN5Ty1lc0w2dnFvWTNDYTVJQ1E2UmFkWlduMFZnY0I4cnF0YXlGNDRhUXdFYkJ6WDZYWWJoc2gzNng0M3YtYnVsWFkzZmF6QjlycHcyb3VyeGxiVHhKWXFXd2RGVnRFQkVGa0RRdWRuN0E?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/08/10/politics/trump-iran-economy-strait-of-hormuz-analysis",
-    "title": "Trump has a Carter-style Iran problem as the economy drags before the midterms",
-    "description": "Trump has a Carter-style Iran problem as the economy drags before the midterms  CNN",
-    "url": "https://www.cnn.com/2026/08/10/politics/trump-iran-economy-strait-of-hormuz-analysis",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-07t201757z-834845540-rc2wtmanb6fp-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1786334429000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXRBbHNDbllGSkFuRFcwalo4TEl5UUhMQVgtQ3dtRkJvbTVmS0RMZHFNeGpzQnFQVHVNSUt0YjdLdXBhLVhfakY4dzlRNlR4MDkwVmR1OGJxYWlLUEVuckR4eXhZUjhob2ZJckUxNl9qSEZXaDc3eHFmOEdQR0oxTjZPNkoyNnBZc2JseA?oc=5",
-    "rssid": "laN079",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Iran",
-    "likes": 0,
-    "comments": 0
   }
 ]
