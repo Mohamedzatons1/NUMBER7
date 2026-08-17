@@ -1309,43 +1309,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://ua.news/en/world/u-mali-zaiavili-pro-vidbittia-ataki-islamistiv-na-bazu-v-misti-san",
-    "title": "Mali announced that it had repelled an Islamist attack on a base in the city of San",
-    "description": "Mali announced that it had repelled an Islamist attack on a base in the city of San  UA.NEWS",
-    "url": "https://ua.news/en/world/u-mali-zaiavili-pro-vidbittia-ataki-islamistiv-na-bazu-v-misti-san",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/mali_armiya_zayavila_pro_vidbittya_ataki_u_misti_san_1786365886746.webp",
-    "timestamp": 1786366652000,
-    "source": "UA.NEWS",
-    "publisher_id": "ua.news",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb1MzR2hBN3p3c2hIZHdVbTdXbWN6UGZ4YzVkQS1va095dEFvcmVHa0ltWUJJaTdxd3N1VUNlNVVRbU16RlhOMFYwazlIbDB0SDB6QVJWMUJSLVcxa3B1cmxsT0tNOUdUajZlRS1OZWpCd1oxZzRyUXNsVHRZX19YQU1OQ2x3UzNCT1M2YXFlY2otX0hyWFE?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo",
-    "title": "Battle for Mali base has killed dozens of militants, army says",
-    "description": "Battle for Mali base has killed dozens of militants, army says  BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e48c/live/bb9b7b40-94b0-11f1-afe9-fb1a837ec5d9.jpg",
-    "timestamp": 1786366363000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jbEpJbUFhUXdHcFY5UUZDRmlnN0Q3VXFTMlViaTVKT0x1eHFQXy1WUnNLVEpyNERYMUZ5ek9XRWJpWFdUb2Y2N1VfbkJudi1wNFdGZElUSFhBYW1E?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]
