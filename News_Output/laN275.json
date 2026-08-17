@@ -796,43 +796,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/vacation/flights/article/sjz5vrgv8zg",
-    "title": "100 אלף אירו לשבוע: רשת המלונות הישראלית שחונכת יאכטת פאר חדשה",
-    "description": "100 אלף אירו לשבוע: רשת המלונות הישראלית שחונכת יאכטת פאר חדשה  ynet",
-    "url": "https://www.ynet.co.il/vacation/flights/article/sjz5vrgv8zg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/S1BpbbwIfx/S1BpbbwIfx_400_279_1043_587_0_large.jpg",
-    "timestamp": 1786348891000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEUnVaQTlGWV8zREdBeTZZYWFWWk84NnNNaDZ4MlFHc0hLS3doX2IwS2JBTlh2Y05xODRlcndQOGRaRXl4N1ZIR2M3ZXhXNkxGMkxETElBcVFJS204T1NJdElrRnNibDY3SHhz?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBma2NRZHoxUDF5YWdWNDZkbnhXX1JsQWo1WVJ6UVhLVzdLWlhScWoxcWw0bDNTVnZ2R2R0eUNfS1ljODdTMU9VMmN1clhsc0NhbDAw?oc=5",
-    "title": "קו חדש בדרך: טיסות ישירות ליעד האיטלקי החל מ-299 דולר הלוך ושוב",
-    "description": "קו חדש בדרך: טיסות ישירות ליעד האיטלקי החל מ-299 דולר הלוך ושוב  PassportNews",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBma2NRZHoxUDF5YWdWNDZkbnhXX1JsQWo1WVJ6UVhLVzdLWlhScWoxcWw0bDNTVnZ2R2R0eUNfS1ljODdTMU9VMmN1clhsc0NhbDAw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1786347900000,
-    "source": "PassportNews",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBma2NRZHoxUDF5YWdWNDZkbnhXX1JsQWo1WVJ6UVhLVzdLWlhScWoxcWw0bDNTVnZ2R2R0eUNfS1ljODdTMU9VMmN1clhsc0NhbDAw?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
