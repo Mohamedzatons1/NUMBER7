@@ -2107,43 +2107,5 @@
     "extra": "Bulgaria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://bnrnews.bg/en/post/513932/atanasovsko-lake-celebrates-its-46th-birthday-with-a-bike-tour",
-    "title": "Atanasovsko Lake celebrates its 46th birthday with a bike tour",
-    "description": "Atanasovsko Lake celebrates its 46th birthday with a bike tour  БНР Новини",
-    "url": "https://bnrnews.bg/en/post/513932/atanasovsko-lake-celebrates-its-46th-birthday-with-a-bike-tour",
-    "image": "https://bnrnews.bg/api/media/4c447308-8879-43a5-846f-f55d5f65010e?Size=large",
-    "timestamp": 1786422232000,
-    "source": "БНР Новини",
-    "publisher_id": "bnrnews.bg",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmEzY3FNbFBKYjJ5NjZoVFdSRElpNF8wc2Jna2R3ZmFLQ2pSclQxSHFHd2JObXdfUEYwdm14RURqeEdGNGtQOEhRTW5sVUlLSGxBMDI3cUpDbDhxeGl0WXd1ZnR5R3o1ejNNeWUzMnhfbFRKZXJudFp3ak10QjdxdnQxVEpTNTd0TzVPMlNOblQ3YXZZUWk2N0JPeFA?oc=5",
-    "rssid": "laN026",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bulgaria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://bnrnews.bg/en/post/513825/turkish-minister-of-interior-visits-bulgaria",
-    "title": "Turkish Minister of Interior visits Bulgaria",
-    "description": "Turkish Minister of Interior visits Bulgaria  БНР Новини",
-    "url": "https://bnrnews.bg/en/post/513825/turkish-minister-of-interior-visits-bulgaria",
-    "image": "https://bnrnews.bg/api/media/6eb49cdb-ce4e-4658-95c7-b1ae6e81720a?Size=large",
-    "timestamp": 1786420362000,
-    "source": "БНР Новини",
-    "publisher_id": "bnrnews.bg",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3k4VjJfYTVQSzdYYkdPSEp2a3loVzRIaWFMYWR2cUdKUGY3VGZuenZfdFJQcTJCZFZabnJ0Vl9HdDRBekRHUFpjbnQ5SDRYYVJMU040ZXBQa2pYbGVQTFZScjRScUJKci0zUzFqaUdGajFXLWxlNFU0NTUyb3hCT1dFS0o?oc=5",
-    "rssid": "laN026",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bulgaria",
-    "likes": 0,
-    "comments": 0
   }
 ]
