@@ -682,43 +682,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.jdn.co.il/news/2708088/",
-    "title": "איטליה: סערה אנטישמית בעקבות יוזמה להענקת פרס נובל לשלום לילדי עזה",
-    "description": "איטליה: סערה אנטישמית בעקבות יוזמה להענקת פרס נובל לשלום לילדי עזה  JDN",
-    "url": "https://www.jdn.co.il/news/2708088/",
-    "image": "https://www.jdn.co.il/wp-content/uploads/2026/08/F180413ARK08.jpg",
-    "timestamp": 1786459005000,
-    "source": "JDN",
-    "publisher_id": "www.jdn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XZFVKMFNLUjA5MGlkMzVsRGlxVDRMLVJXaHA1cmRDcHZ3dmZGelhKT3JIbVhTazVJMzcyZnVEQ2tXZHJ3VFZHakRUTQ?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50enVuX2Rwd25RWm1aaDZjOFhfRzQ0SDBpbURBeGhjQWczTXhENTZtY1Jyc3g5SWJHR1NTWExJTGR2R3VnSzQ4Yld3N1I1UQ?oc=5",
-    "title": "איטליה משיקה עלילת דם חדשה נגד ישראל - ומשתמשת בילדי עזה",
-    "description": "איטליה משיקה עלילת דם חדשה נגד ישראל - ומשתמשת בילדי עזה  C14",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50enVuX2Rwd25RWm1aaDZjOFhfRzQ0SDBpbURBeGhjQWczTXhENTZtY1Jyc3g5SWJHR1NTWExJTGR2R3VnSzQ4Yld3N1I1UQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1786455123000,
-    "source": "C14",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50enVuX2Rwd25RWm1aaDZjOFhfRzQ0SDBpbURBeGhjQWczTXhENTZtY1Jyc3g5SWJHR1NTWExJTGR2R3VnSzQ4Yld3N1I1UQ?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]

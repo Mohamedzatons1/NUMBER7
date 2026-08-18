@@ -815,43 +815,5 @@
     "extra": "Austria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/israel/article-1354867",
-    "title": "קרובת הנעדרות באוסטריה נשברת: \"עולות לי כל מיני מחשבות, זה לא אופייני להן\"",
-    "description": "קרובת הנעדרות באוסטריה נשברת: \"עולות לי כל מיני מחשבות, זה לא אופייני להן\"  מעריב",
-    "url": "https://www.maariv.co.il/news/israel/article-1354867",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1126908",
-    "timestamp": 1786457909000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQb01XQUVBMTMxZUh3TUc5bkNWQTcxQndzTXBsODNvNVRqN1Q1Y1l1a054c09zTTg5b0hNOER5Ni1uMkYtUFJTWFUzdDltNTFqYkJoMnZJbHRxaV9takZjWFBn?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.mako.co.il/news-world/2026_q3/Article-4fc00216dc0ff91026.htm",
-    "title": "מלי וליאל יהלומי נעלמו: שגרירות ישראל בווינה בחיפושים",
-    "description": "מלי וליאל יהלומי נעלמו: שגרירות ישראל בווינה בחיפושים  mako",
-    "url": "https://www.mako.co.il/news-world/2026_q3/Article-4fc00216dc0ff91026.htm",
-    "image": "https://img.mako.co.il/2026/08/11/amliliel11080111_autoOrient_w.jpg",
-    "timestamp": 1786454400000,
-    "source": "mako",
-    "publisher_id": "www.mako.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0YXgySDZYZHBzaWpac1dNMmUxR0ZVRG1OaXFGYU5fS09uRHhLVTBTOUxzRXdXSnNCcGhaUTRsZ3VaUDMwVGd6R3dEV1VzRnJFSzVrMWV6LXc1a2p5MjdjNWVUMS00c09mWVpyY1VDWWFtWm5oc1dqQVlFb2Y?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
   }
 ]
