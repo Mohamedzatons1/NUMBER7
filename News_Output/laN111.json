@@ -1271,43 +1271,5 @@
     "extra": "Moldova",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/world/articles/moldova-gives-ukraine-discount-rail-122400844.html",
-    "title": "Moldova gives Ukraine discount on rail freight transit",
-    "description": "Moldova gives Ukraine discount on rail freight transit  Yahoo",
-    "url": "https://www.yahoo.com/news/world/articles/moldova-gives-ukraine-discount-rail-122400844.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/cadae0d6a7b6b9052e78a0ed03f47131e8597a06381c1a9d44a182549718eae7/lightyear_networkapi/resizefill_w768_h430%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fukrayinska_pravda_articles_451%2F133e62633f7889098b1e4266579929cd.jpg",
-    "timestamp": 1786537440000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY01kUnZSZEtzdEl5dDJMN1lGQU1hR0Q1bGVnSU1tV1lmZjFuMTFRX0FBbkxBdHFBVkNvUGNDTjZpX3dCSDVkVlM1cXZWbzdHVnlvMjFIWTZDck1pOXVBWXFDTC00bHYzcmM4a0JXMDdBRHdCYTFCVDB1NFdRY25ydlNVaE5JQXZRYThPRDZZakpKbjVuTV9n?oc=5",
-    "rssid": "laN111",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.pravda.com.ua/eng/news/2026/08/12/8048383/",
-    "title": "Drone that exploded in Moldova on 9 August was Russian, early reports indicate",
-    "description": "Drone that exploded in Moldova on 9 August was Russian, early reports indicate  Українська правда",
-    "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048383/",
-    "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/890708/6922e0dafdf1b61dc3c4d25ec07987a4.jpeg?w=1200&q=85&stamp=1786531599",
-    "timestamp": 1786531560000,
-    "source": "Українська правда",
-    "publisher_id": "www.pravda.com.ua",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpZUx2Zlh1TnlzZ1BLQ214YWU0YmthclE0aU1waHlKZUxha1NzYVNQUFhoQmt2Mk4zOEgzMUFsNk12SU9GODQ5SWFDN1k1V1Fid0pnZXB6bTRMYm52MTVXc3pCV2vSAXBBVV95cUxNWDU4VlVDQkJEUWRfV2gxLUpQYlRSSzh4bmRKbDZYLVFLRWRNU18xbmM0eTgxSEtuVk9sb2xFRGNQSzZmN0Zhb3VEQnh0OHduV1VkUVZIemR5bUNPTDAzRmNINS1yYXRfQ2IxLXdMeVdI?oc=5",
-    "rssid": "laN111",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
   }
 ]

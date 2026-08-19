@@ -644,43 +644,5 @@
     "extra": "Austria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/opinions/article-1355181",
-    "title": "\"מה שמגיע לתקשורת הוא רק החלק הקטן\": היעלמותן המסתורית של מלי וליאל באוסטריה",
-    "description": "\"מה שמגיע לתקשורת הוא רק החלק הקטן\": היעלמותן המסתורית של מלי וליאל באוסטריה  מעריב",
-    "url": "https://www.maariv.co.il/news/opinions/article-1355181",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1127208",
-    "timestamp": 1786536684000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vMmE1MEVDaUlrMDRUUWpPWDREYU5ITDNraWkwbUJ5ZEpKSmxYYjNkaHZwdU9xOVYyOEpTRFlBRTZrREE1OWtvcFlia2tuNFozQXVKcVItOExxM2w0bWdsaDZnQnE?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.i24news.tv/he/news/international/europe/artc-65776782",
-    "title": "\"תראו איזה מקום נהדר\": הדירה הריקה מחפצים - וההודעה האחרונה של הישראליות שנעדרות בווינה",
-    "description": "\"תראו איזה מקום נהדר\": הדירה הריקה מחפצים - וההודעה האחרונה של הישראליות שנעדרות בווינה  i24NEWS",
-    "url": "https://www.i24news.tv/he/news/international/europe/artc-65776782",
-    "image": "https://cdn.i24news.tv/uploads/1a/a8/13/5e/e1/08/c2/b5/26/27/32/64/63/e2/b9/27/1aa8135ee108c2b52627326463e2b927.jpeg",
-    "timestamp": 1786534541000,
-    "source": "i24NEWS",
-    "publisher_id": "www.i24news.tv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zdTlTLWt3NGNqUWotbWVEWVkzNnB4N3VUY3NNeWxNY09DdFFEOC1xckRHY3hpbk41U0d1RlVqbWNiVVZGMHBsZlpwTjdFajBmYWVrU2dhQzV1UG81bXJmS0w2LWY5TDBzNVJJMngta040RU0?oc=5",
-    "rssid": "laN203",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Austria",
-    "likes": 0,
-    "comments": 0
   }
 ]
