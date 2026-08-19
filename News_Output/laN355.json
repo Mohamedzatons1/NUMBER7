@@ -492,43 +492,5 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=556213",
-    "title": "גלגל מסתובב: צ`אבי יאמן את נבחרת הולנד?",
-    "description": "גלגל מסתובב: צ`אבי יאמן את נבחרת הולנד?  Sport5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=5166&docID=556213",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/3/size944x700/1760893.jpg",
-    "timestamp": 1786549009000,
-    "source": "Sport5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yTkY1SFVHQWpEVEtLcU9VM3p6Zms0ekdoYm9qTFhZdDFQVWthUERrS3p1NXAtOUxKdkVnZEZvNmdWM3NLMExRLTgwYmpocVBHa2NCVWtPRWNtc3Z6RE1QWV8xRWlodmZ3ZmJjV0hzbWFHaWc?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/ryutdwcuzg",
-    "title": "מרוקו רוצה ריבונות על סאוטה ומלייה, ספרד: \"הן ספרדיות, ולא יימסרו לעולם\"",
-    "description": "מרוקו רוצה ריבונות על סאוטה ומלייה, ספרד: \"הן ספרדיות, ולא יימסרו לעולם\"  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/ryutdwcuzg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/BylaHdAOHzx/BylaHdAOHzx_0_0_1164_655_0_large.jpg",
-    "timestamp": 1786547131000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93ZURFaXcyMlg5SmpZZk9GMzNOU2xHblpjSXl5b01GNUQ0QjVjX0ZjTU1iQnRSRmhUWld3aFVOZTBod29qRU15ODZVVi0xdmhqQWM0b2FEcm1TUQ?oc=5",
-    "rssid": "laN355",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Spain",
-    "likes": 0,
-    "comments": 0
   }
 ]

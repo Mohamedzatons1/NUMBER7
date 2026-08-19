@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://news.inbox.lv/150n27i-trump-pauses-tariffs-on-canada-after-last-minute-deal?language=lv",
+    "title": "Trump pauses tariffs on Canada after last-minute deal",
+    "description": "Trump pauses tariffs on Canada after last-minute deal  Inbox.lv",
+    "url": "https://news.inbox.lv/150n27i-trump-pauses-tariffs-on-canada-after-last-minute-deal?language=lv",
+    "image": "https://news.inbox.eu/w/img/6e/7a/6e7ac14e92a3f9cf52.jpg",
+    "timestamp": 1787112984000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcmtSSG01ZUNPQlQtUENtNnNTZzVTXzZOeXJnYllRQ0J5U3JYMHNhZmFDRHFRXzlOWGtzS1hlN1dwNUFxNmc4SHZFWGx5M1FMRWttRERDdWp2eUQ0UFFWRERJUlY5SWdrU3A1VXpmU3Zmc1lpQXNVRmc2YXVZMFRkd0c2NkM5TWRCb3hhSXdlbUxVVWp4bktKX3o2aw?oc=5",
+    "rssid": "laN747",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Syria",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/150n0u6-tons-of-nuclear-materials-found-at-undisclosed-syrian-site-iaea-chief-says?language=lv",
+    "title": "'Tons' of nuclear materials found at undisclosed Syrian site, IAEA chief says",
+    "description": "'Tons' of nuclear materials found at undisclosed Syrian site, IAEA chief says  Inbox.lv",
+    "url": "https://news.inbox.lv/150n0u6-tons-of-nuclear-materials-found-at-undisclosed-syrian-site-iaea-chief-says?language=lv",
+    "image": "https://news.inbox.eu/w/img/6b/63/6b638c5dbd26f26944.jpg",
+    "timestamp": 1787068202000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFZvM0ZCMWhzQXc1c283M1NqbWxoMW1ka2YtbjA2Q1l2M21fZndfOWNqN0xSM3gyRGktU2FlSndYMV9tdEdoNmliVFJFYjFMT3duTUk0cS1pc3VLN1NKS1FxM045aWJud2NKZnlvdnBPQ1E1UHpMbFZIUFRpYnh1bi0wX0RIQURTVm9QM3FxbER5bFY4NG5WbGhRREl2bkhoSnpaVldianpLNjBZMFRWRC1jV2U1b1k?oc=5",
+    "rssid": "laN747",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Syria",
+    "likes": 0,
+    "comments": 0
+  }
+]
