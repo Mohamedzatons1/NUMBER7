@@ -2810,43 +2810,5 @@
     "extra": "Brazil",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgewpqxyrddo",
-    "title": "Discord ordered to suspend livestreams in Brazil following teen suicide",
-    "description": "Discord ordered to suspend livestreams in Brazil following teen suicide  BBC",
-    "url": "https://www.bbc.com/news/articles/cgewpqxyrddo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/da43/live/d62cadd0-966d-11f1-a6eb-474cf36e6c34.jpg",
-    "timestamp": 1786554631000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91SWFfeVEzZmxvRTRLT2RMSllFVmFidWdQSVVsUG1PSjYxSUZLQVQ3TGM3NGFvZTQ0NXhSQTBQbGFONlhHSERaT3M1OTVoTjBmbnpZZ09oeXFBUQ?oc=5",
-    "rssid": "laN024",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Brazil",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.yahoo.com/articles/brazil-under-20s-beat-bolivia-164000177.html",
-    "title": "Brazil Under-20s beat Bolivia 2-0 again",
-    "description": "Brazil Under-20s beat Bolivia 2-0 again  Yahoo Sports",
-    "url": "https://sports.yahoo.com/articles/brazil-under-20s-beat-bolivia-164000177.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/caddeb33407824f1ab5264888782cf421b25217a441a881e72a692bd01d6b434/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F9d271ef303571394d3eaedfbf5560035.jpg",
-    "timestamp": 1786552800000,
-    "source": "Yahoo Sports",
-    "publisher_id": "sports.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzZrVk1XUXVEbXViTDlpSWYzSkRYdUw5WWw4VUNVd09EX0J4VVlmVWYweDZnRFZOalY2YkZsMnRJLThiaHdPOThab1MwVG1jdjJta2tSREVrcERMMTVuWVJoWF9udldtYndJOTB6S3hvemphNGJMTHpJWm03TXZxemRGam0?oc=5",
-    "rssid": "laN024",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Brazil",
-    "likes": 0,
-    "comments": 0
   }
 ]
