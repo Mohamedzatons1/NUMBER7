@@ -1632,43 +1632,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://hm-news.co.il/649165/",
-    "title": "איראן באיום דרמטי על סוריה: \"נתקוף אתרים אסטרטגיים\"",
-    "description": "איראן באיום דרמטי על סוריה: \"נתקוף אתרים אסטרטגיים\"  המחדש",
-    "url": "https://hm-news.co.il/649165/",
-    "image": "https://hm-news.co.il/wp-content/uploads/2025/07/צילום-מסך-2025-07-17-093856.png",
-    "timestamp": 1786636871000,
-    "source": "המחדש",
-    "publisher_id": "hm-news.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5vRjlpTDBYdmh3WlNJcVBKNnNsYlR4Y05lTzMxYmJ6bU5fZmVSbVdiS3JxaHFtMjNtZU44MEs2akwwRjA?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3860578",
-    "title": "איראן באיום חריג על סוריה: \"נפגע ביותר מ-100 יעדים, כולל ארמון הנשיאות\"",
-    "description": "איראן באיום חריג על סוריה: \"נפגע ביותר מ-100 יעדים, כולל ארמון הנשיאות\"  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3860578",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/8/3/4083019-46.jpg",
-    "timestamp": 1786633560000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SejJ6R3BySkdHTmE4Q2dXaTN6Rm5Hd3M2VjNIc1lhZHZJRTNpX25XME9rVWVZWXlhWElNbnJBSHBlQ0ZWakpTZVcwa0Z1dw?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
