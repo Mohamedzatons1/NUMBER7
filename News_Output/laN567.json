@@ -891,43 +891,5 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/karo-ekspertai-po-ukrainieciu-atakos-tai-ne-sutapimas-120289305",
-    "title": "Karo ekspertai po ukrainiečių atakos: tai – ne sutapimas",
-    "description": "Karo ekspertai po ukrainiečių atakos: tai – ne sutapimas  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/karo-ekspertai-po-ukrainieciu-atakos-tai-ne-sutapimas-120289305",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/d303058e-afcd-4492-a3b2-5a262def04ca.jpg?w=1200&h=800",
-    "timestamp": 1786645939000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelMwV0ZHUWZCeU5GdWZobk4zVkxGZTdzRlpJekttcWJpVVM0bmw5NjNCRncxYUtwRk8wR2tlZFN4TWdUdlE5dEdpRGFucHJxYlR5dHBSVHFWYmpQZUhjMGVhdHFRRzFUR1R4V2pFaEVMSU1EQ1VDeGlvczA3V2VLV0stS1YzbTNFOG52NHVndS1vT1hCaG9lMUNsSFFmbllNcG42ZUFfOA?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/ziniasklaida-kyjivas-perdave-maskvai-nauja-pasiulyma-120289738",
-    "title": "Žiniasklaida: Kyjivas perdavė Maskvai naują pasiūlymą",
-    "description": "Žiniasklaida: Kyjivas perdavė Maskvai naują pasiūlymą  delfi.lt",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/ziniasklaida-kyjivas-perdave-maskvai-nauja-pasiulyma-120289738",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/692347a7-bd34-417c-b48b-01a16f730a84.jpg?w=1200&h=800&ch=0.7504&cw=1&cx=0&cy=0",
-    "timestamp": 1786642405000,
-    "source": "delfi.lt",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2RCaHh4MENLVkdWc1gwdkhiSjVpWnJSS3VTdG1MRGE0ZjlUNXBYWnY3dHhpcnh2c2ZSSDFaaGxCRG9KTWNLeXotUzlnWlZIclNWZkpaVDRjeFYyazh5RmxYT3BCSDVobnhlY3RzSjFPT0w3b2pGam15aU15UUZaTXAtNEVxOEphVy1tYlhMaXNPbTNrdVNCMjZGZklKYkUyWVhXM3Zn?oc=5",
-    "rssid": "laN567",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
   }
 ]
