@@ -511,24 +511,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001552236",
-    "title": "\"מצר הורמוז של גרמניה\": בצורת משתקת את עורק הסחר של אירופה",
-    "description": "\"מצר הורמוז של גרמניה\": בצורת משתקת את עורק הסחר של אירופה  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001552236",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1786619184/2026-08-12T062512Z_445202451_MT1ANADL0000K189D_RTRMADP_3_ANADOLU_b18qk4.jpg",
-    "timestamp": 1786620187000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12VWF4VWM5c3RxSDlPaF8xU21OZTNmbmVfWEF2N0dOT2pOam80eGlSelJMNUw3RmZEaUVPcXJXczluU1ZlVVVDOXB4dDRkaVRJbjdhWWRONEdYaEhub3dhRkloVU5TXzVt?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]

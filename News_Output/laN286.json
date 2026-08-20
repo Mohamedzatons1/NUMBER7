@@ -1461,43 +1461,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1355629",
-    "title": "חשבון ה-X של ראש ממשלת לבנון נפרץ - והפוסט נגד ישראל נעלם",
-    "description": "חשבון ה-X של ראש ממשלת לבנון נפרץ - והפוסט נגד ישראל נעלם  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1355629",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/984736",
-    "timestamp": 1786624740000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuNnR3elVjVGctZDhqNDh3R3FBdHB4eGZ3R3JBU0NhM1N0VS1PNzgwVEtKYVN1X1IzT1JNVmZ2SEprQVM4R1JOSjdoMG9VSVpfMXFkVGRYNlZFSmRlS1Zjdg?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1355622",
-    "title": "אל חדת': ראש ממשלת לבנון נוואף סאלם מכריז שחשבון ה-X שלו נפרץ",
-    "description": "אל חדת': ראש ממשלת לבנון נוואף סאלם מכריז שחשבון ה-X שלו נפרץ  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1355622",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/984736",
-    "timestamp": 1786623611000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xdGhmUDJ2X2l0N2RZQWp0SjdhVGt3dGtQTHc1Y2ZzVFE0dUVVWmkxdzdzUjhMVUlOc1JiVVpVT2s5TnNvdkl5ZEczRjlyREMtMjI4TmFDN0FjdHh3R1ZoY2t5ZVM?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
