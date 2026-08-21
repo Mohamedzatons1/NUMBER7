@@ -4121,24 +4121,5 @@
     "extra": "United Kingdom",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/weather/articles/cgjepxqn0lvo",
-    "title": "UK weather: Final day of heatwave for many before weekend cooldown",
-    "description": "UK weather: Final day of heatwave for many before weekend cooldown  BBC",
-    "url": "https://www.bbc.com/weather/articles/cgjepxqn0lvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/3bcf/live/40d40690-9724-11f1-808c-532494fd22c7.jpg",
-    "timestamp": 1786666766000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ucnhUTnk1T2hyeDAxMExraWtic0ZrZ3FkeHUxWTkwUEN0Z0c0cFdYU3NmQlhfTzczZDIwVlJ2OGpMUGgzRk9oMGVVeXA1V3M3OVNCWTJ2TThmVk15RUE?oc=5",
-    "rssid": "laN183",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "United Kingdom",
-    "likes": 0,
-    "comments": 0
   }
 ]
