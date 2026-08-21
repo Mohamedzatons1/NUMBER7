@@ -1423,43 +1423,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=KGMEHE&c41t4nzVQ=EL",
-    "title": "\"ארה\"ב עם חגורת חנק על מקבלי ההחלטות בישראל\"",
-    "description": "\"ארה\"ב עם חגורת חנק על מקבלי ההחלטות בישראל\"  103FM",
-    "url": "https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=KGMEHE&c41t4nzVQ=EL",
-    "image": "https://103fm.maariv.co.il/download/highlight/SegmentImgNew_739141_51_38_.jpg",
-    "timestamp": 1786687409000,
-    "source": "103FM",
-    "publisher_id": "103fm.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14ZlJvb0lGb19OWDlWd2pMZ2hnYXdQYlZkN1JJczF6NWdrMWdlV1NpeTE4dzJ6MUdxZHk1TVRQT2ZhYU11N3V0VVVodVlkMWRlQnhncWVNZUpEbXM1enFwNXpMMFlmQTNDYlRoeGstX1lWRVRtTFVFcmxLMkJzbEE?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/hyw0lq2uze",
-    "title": "חשש בלבנון: ישראל נערכת לכיבוש הרכס האסטרטגי וממתינה לאור ירוק מוושינגטון",
-    "description": "חשש בלבנון: ישראל נערכת לכיבוש הרכס האסטרטגי וממתינה לאור ירוק מוושינגטון  ynet",
-    "url": "https://www.ynet.co.il/news/article/hyw0lq2uze",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/SyfvjxBNGg/SyfvjxBNGg_0_0_1601_901_0_large.jpg",
-    "timestamp": 1786686614000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pOFRzMVNHME5JQnhreHBhaWxFU3g2M1lmVVF3UDZCV0tXTlA0d1lPc0VtS09uRUFxdjhuMzVhbHZ1VWNQdDZfTHpNVVJsTFhOdlJESGlXcmFuZw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
