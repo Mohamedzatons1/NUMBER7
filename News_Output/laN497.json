@@ -397,43 +397,5 @@
     "extra": "Moldova",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/nyt-putinas-turi-aisku-plana-moldovoje-120290256",
-    "title": "NYT: Putinas turi aiškų planą Moldovoje",
-    "description": "NYT: Putinas turi aiškų planą Moldovoje  Delfi",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/nyt-putinas-turi-aisku-plana-moldovoje-120290256",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/0d5d85cf-331d-4a2c-87fd-8bbd0f60f43b.jpg?w=1200&h=800&ch=0.8449&cw=1&cx=0&cy=0.049",
-    "timestamp": 1786730765000,
-    "source": "Delfi",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPblp4RDBzaWduMmVWVDBzVUJ3TDFPNFJNMHVnRFFYd1A4RXFJRW1GQ1FHUTlwcWhIX3BfNFJaOU1McEdHaG9ZODM1SF9OVWJtQ0tIQVFlUWp3dm1ncUFQV2hWd3RBM1B5SW9xOFFEMV9YeVZVSXJraERsRF9oU3VkZldydlF1TGd2Q1laY3RBV3luZ0U?oc=5",
-    "rssid": "laN497",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.15min.lt/naujiena/aktualu/pasaulis/putinas-iskele-1-tiksla-rusijos-specialiosioms-tarnyboms-57-2743518",
-    "title": "Putinas iškėlė 1 tikslą Rusijos specialiosioms tarnyboms",
-    "description": "Putinas iškėlė 1 tikslą Rusijos specialiosioms tarnyboms  15min.lt",
-    "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/putinas-iskele-1-tiksla-rusijos-specialiosioms-tarnyboms-57-2743518",
-    "image": "https://s1.15min.lt/static/cache/MTIwMHg2MjgsNzkyeDU1NSwxMTA4Mzg0LG9yaWdpbmFsLCxpZD0xMDgxNjU1MCZkYXRlPTIwMjYlMkYwOCUyRjE0LDEwODE0ODM2MDQ=/vladimiras-putinas-6a7f031c74b22.jpg",
-    "timestamp": 1786726821000,
-    "source": "15min.lt",
-    "publisher_id": "www.15min.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVpBNnNrb25xZ1pqVE80UlJVa3J1enVpNGZuUEhWR2hxc0R0X0NCb1hEVENidjg0bi1RNTAzSDlaVmtlTE9aZnN5VUxGMm9HR2JhdFhZVThwSWFfSEZLdzlwVHR0NUxDQUhIcmNKVnhiX24tTkg2Ml9DU3ZpUnJzM091bTZfZjVwUWxIWjI0NUJfeFV2REV2U0J1QnFtNjVfRVVvdjVTbFNKSXIxdExQcmpGNVI?oc=5",
-    "rssid": "laN497",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Moldova",
-    "likes": 0,
-    "comments": 0
   }
 ]
