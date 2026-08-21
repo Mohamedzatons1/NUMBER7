@@ -1746,43 +1746,5 @@
     "extra": "Latvia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.lrt.lt/en/news-in-english/19/3021016/nato-fighter-jets-shoot-down-drone-over-eastern-latvia",
-    "title": "NATO fighter jets shoot down drone over eastern Latvia",
-    "description": "NATO fighter jets shoot down drone over eastern Latvia  LRT",
-    "url": "https://www.lrt.lt/en/news-in-english/19/3021016/nato-fighter-jets-shoot-down-drone-over-eastern-latvia",
-    "image": "https://www.lrt.lt/img/2020/09/01/712986-638929-1287x836.jpg",
-    "timestamp": 1786681140000,
-    "source": "LRT",
-    "publisher_id": "www.lrt.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUU1ObTRmd1NleWxLYUdWN3IwcHl4Ty1UUS1JYkpIZ3d4eTNzeFZyZUFlQ0g4aFZCZEJwc0ZraUFXNGNBRjBCYld0Mk1NcWNoTktEaGJFemJnM2I4NFh5MFZDNmNJaHBubnctTEotd1FCQUVNaWhLemlxdl9rZnVDbGJ0T0d6MFgtOUlqaklaUktkQ3lYXzNsUVhKZDZ5RnI0SXU4Z3pB?oc=5",
-    "rssid": "laN092",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.aa.com.tr/en/eurasia/allied-fighter-jets-shoot-down-drone-that-entered-latvian-airspace/4027010",
-    "title": "Allied fighter jets shoot down drone that entered Latvian airspace",
-    "description": "Allied fighter jets shoot down drone that entered Latvian airspace  Anadolu Ajansı",
-    "url": "https://www.aa.com.tr/en/eurasia/allied-fighter-jets-shoot-down-drone-that-entered-latvian-airspace/4027010",
-    "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/14/thumbs_b_c_7b0890dfa7404fe09aa18db1b75cf0c7.jpg",
-    "timestamp": 1786677675000,
-    "source": "Anadolu Ajansı",
-    "publisher_id": "www.aa.com.tr",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUl9YVk04aFFTYmExMHJpWUJrWFVGaGRiTUd4ZHhGckxNSkEtaWIyaDVtOVY0d2VPWVctV0pOTk9odGh6RmRvbkN0NmtBR0o3RnBTTkpuUTVUY09PZldqbjdldzR0ZXNsaE9FWmFzMHliZTV5OFRzYU5TLWVoRW5ZbUM4Vjh6aDYwVlQxU3hnZzVwcW1xRGlXcG84ZlhXdFFNcjRGLV9MdFBWREE?oc=5",
-    "rssid": "laN092",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
   }
 ]
