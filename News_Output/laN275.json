@@ -435,43 +435,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=416&docID=556395",
-    "title": "פתחו חזק: הקדטיות הביסו 37:68 את איטליה",
-    "description": "פתחו חזק: הקדטיות הביסו 37:68 את איטליה  Sport5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=416&docID=556395",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/1/size944x700/1761631.jpg",
-    "timestamp": 1786709656000,
-    "source": "Sport5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SLXh6WnMtQ1FoeEppZHBoMWR6OWFnOGhrTFhadGg5Y0ZWb1JrdGQzaUdGWTlHdEVwaXo5ZGhldGJvVmpyTUhRRVZ3XzZzWEFvUUxPSGhFZlc1SFB3WmF1a0UtLWRsck9RdEZqOU04Mjd4dw?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3860709",
-    "title": "התחלה מושלמת: הקדטיות הביסו את איטליה בפתיחת אליפות אירופה",
-    "description": "התחלה מושלמת: הקדטיות הביסו את איטליה בפתיחת אליפות אירופה  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3860709",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/8/8/4088189-46.jpg",
-    "timestamp": 1786709520000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92N2RDMjJfRTd2bDRRVnRMOEprN3hHSUdaTERwLTl5SkZhcXZULTU4VjM4aWFLQ0NfT2VtbTNuM0xadjBBa21rbE84b2RMVERC?oc=5",
-    "rssid": "laN275",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
