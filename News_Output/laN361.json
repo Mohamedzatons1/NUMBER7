@@ -1803,43 +1803,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/ong-trump-ngan-chan-israel-tan-cong-vao-syria",
-    "title": "טראמפ מנע מישראל לתקוף בסוריה.",
-    "description": "טראמפ מנע מישראל לתקוף בסוריה.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/ong-trump-ngan-chan-israel-tan-cong-vao-syria",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/15/1786793650028_f16-israel-jpg.webp",
-    "timestamp": 1786794771000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nNEhjckpWZFJhcHVHRHdhejgycUVYSjc2bC1GaVFDYnUxQThXUjVXcWxweDJ1SE9fSWQ5SjZVVG1xS1hVNXp1amUyRl94ckFqT3ZremhJZUdjZGpMYnNENW1aTlpzYklQc0tscWZLZEhrTzg2eWdzVzlQYw?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1356071",
-    "title": "\"סכנת זליגה מיידית לישראל\": האזהרה הדרמטית של חוקרי המודיעין נחשפת",
-    "description": "\"סכנת זליגה מיידית לישראל\": האזהרה הדרמטית של חוקרי המודיעין נחשפת  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1356071",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/943694",
-    "timestamp": 1786792091000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ja3hRV2JlOENWRzBMcXhYdGJIOENnbWZRbU5xYlJyb2E2a0ZPbEJZRWdYN0tZSkQ3OUxlYko5czlpei1ZaEE3TFJkdDR3RHVvcGVOUDVxdExLRVc0STlHQ3ZUd3c?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]

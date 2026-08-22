@@ -3589,43 +3589,5 @@
     "extra": "Ireland",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.rte.ie/news/2026/0815/1588013-arrest-inmate-death/",
-    "title": "Man arrested after inmate death in Wheatfield prison",
-    "description": "Man arrested after inmate death in Wheatfield prison  RTE.ie",
-    "url": "https://www.rte.ie/news/2026/0815/1588013-arrest-inmate-death/",
-    "image": "https://www.rte.ie/images/0024d800-1600.jpg",
-    "timestamp": 1786797351000,
-    "source": "RTE.ie",
-    "publisher_id": "www.rte.ie",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ca1psSlBiRmE4LVJ0aEZidGpYaVBxZUtkSlE4WlVOQzROTTNNamdDWlZ2bTcwYXZKX3JFbnRobkhFTnFkN3VOZ0lmMW9ia3pPTVB3TzQzcGI3bGc4bXJBSzNvd1R6V1RpUElRMHp2WQ?oc=5",
-    "rssid": "laN081",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ireland",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.wgbh.org/foundation/digital-mural/2026-08-15/saturday-august-15",
-    "title": "Saturday, August 15",
-    "description": "Saturday, August 15  WGBH",
-    "url": "https://www.wgbh.org/foundation/digital-mural/2026-08-15/saturday-august-15",
-    "image": "https://cdn.grove.wgbh.org/dims4/default/e046a36/2147483647/strip/true/crop/1500x788+0+0/resize/1200x630!/quality/70/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fbe%2Fa1%2Ffb83c04841d0b46256b8dd7f99c5%2Fmu-8-12-24-irelands-wild-coast.png",
-    "timestamp": 1786796528000,
-    "source": "WGBH",
-    "publisher_id": "www.wgbh.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOXB4MW5XNzVoQ1NRckNCMzE5c2NTVW1GNkhqcVpWZEhIbnA4VDFxWmZxajM4aHE0OGRSS0NJczF3RUhVSjNPbmhnVFRuUjl1dHBTQkRPSXBDN1UxeVkxTkdzQzNTdE5uNC1WdDd5WUFURE1MMU9TeFU2MjlXOTcyRA?oc=5",
-    "rssid": "laN081",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Ireland",
-    "likes": 0,
-    "comments": 0
   }
 ]
