@@ -1214,43 +1214,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/sydxgy0lmg",
-    "title": "\"שימסור את הנשק, והכול ייפסק\": הבהרת ארה\"ב אחרי התקיפות - ותגובת חיזבאללה",
-    "description": "\"שימסור את הנשק, והכול ייפסק\": הבהרת ארה\"ב אחרי התקיפות - ותגובת חיזבאללה  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/sydxgy0lmg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/15/SyrQLi68fg/SyrQLi68fg_0_360_721_406_0_large.jpg",
-    "timestamp": 1786801956000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VUExsZWs1ZklwMldScVpNNDBYVFYwT2tDQ0IxNlpoZl9CVmdOQUlMbFllZGphWHRBbUsyZEFKTHJzOEdqSXhPaldVQjgybmF1eTlyTVhPaUo3dw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.zman.co.il/live/713179/",
-    "title": "בלבנון מדווחים על תשעה הרוגים בתקיפות ישראליות – בהם ילדים ונשים",
-    "description": "בלבנון מדווחים על תשעה הרוגים בתקיפות ישראליות – בהם ילדים ונשים  זמן ישראל",
-    "url": "https://www.zman.co.il/live/713179/",
-    "image": "https://static.zman.co.il/www/uploads/2026/08/AP26217485394907-1200x630.jpg",
-    "timestamp": 1786801299000,
-    "source": "זמן ישראל",
-    "publisher_id": "www.zman.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UbVZ6bGJLeXpqX01LVUFLdnRFYlM3TEtNY1AtTlZmRE5PVEpGUllTdEdPcFRtcTc3QUF5QXNMTUhDRTZlV0ZVeG81Yw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
