@@ -1100,43 +1100,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3860933",
-    "title": "גל תקיפות חדש של צה\"ל בדרום לבנון: דיווח על תקיפה ברכס עלי טאהר",
-    "description": "גל תקיפות חדש של צה\"ל בדרום לבנון: דיווח על תקיפה ברכס עלי טאהר  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3860933",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/8/3/4083304-46.jpg",
-    "timestamp": 1786832040000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RYkhmRVhydXVXQk1jeUc1b1RGdm1obkpjQzUwM2I3ZU85Q3JLYnpqS3Uyc2c2alRDdnVJTmN5UTBoc2FoTmRwelpBRDREZw?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/yokra14865753",
-    "title": "מה ששלו שלו",
-    "description": "מה ששלו שלו  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/yokra14865753",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/15/HJK11tmAIGl/HJK11tmAIGl_0_0_1080_822_0_large.jpg",
-    "timestamp": 1786829790000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iUW5BLU9MazdtZEJMX0I2a1ZoNXIxUldqM3Z6c29MYl9DdUwzREI1ekQ4U3gxMlFXc0FRUnlySmFIUTRDOG44M2VheGVHV20wM3ZJOGVON19hRkN6REE?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
