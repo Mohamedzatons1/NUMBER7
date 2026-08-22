@@ -1100,43 +1100,5 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/brazil-under-15s-dalla-dea-highlights-uruguay-friendlies-43282264",
-    "title": "Brazil under-15s: Dalla Déa highlights Uruguay friendlies",
-    "description": "Brazil under-15s: Dalla Déa highlights Uruguay friendlies  OneFootball",
-    "url": "https://onefootball.com/en/news/brazil-under-15s-dalla-dea-highlights-uruguay-friendlies-43282264",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43282264%3Fdate=2026-08-15",
-    "timestamp": 1786815529000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnRBTnN4RmFFVDdwS3g0VS1qWWNJbkhnNTRYMzZnazV5ejZHOTFKQWVBTDBmUy1yMEdNd3BXaVpmV1dWdWxUdVdEQmZTNWFiTHlKTy1OX2w1Qmp2QlVJVGNOR0pfYTB5NjE0aHVOYlhPQUk0Ri12TFNKNE1NNnp4Y0ZrQTIzQ1plQkN1Zk43V1pJV1Nmc3pBamlnZHAzdw?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.yahoo.com/articles/brazil-under-15s-dalla-d-173600272.html",
-    "title": "Brazil under-15s: Dalla Déa highlights Uruguay friendlies",
-    "description": "Brazil under-15s: Dalla Déa highlights Uruguay friendlies  Yahoo Sports",
-    "url": "https://sports.yahoo.com/articles/brazil-under-15s-dalla-d-173600272.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/f2869d5147ec3610190a8431e31821d78c5db0b4373ac0be7ee3bf9fa483b76a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2Fee2c6d8ed83cc949108b7526df39a99d.jpg",
-    "timestamp": 1786815360000,
-    "source": "Yahoo Sports",
-    "publisher_id": "sports.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a0U2VEdMUG1KOXFSdHRZclRFUzJPcHJpNEZrSnBVYlZLazVaN1ZRUmhYUTFCQWFFU2piS3QxcEE2QlQzVU1DWGc0MFllWmluLTZ3d2RGcWowZmN5M05IXzY0ejRyc0pnOFFXeUJMYjYyYlFUaFh3SnZ5aEhVZw?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
   }
 ]
