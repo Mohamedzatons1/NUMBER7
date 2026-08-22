@@ -1138,43 +1138,5 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/brazil-under-15s-continue-preparations-for-friendlies-against-uruguay-43281934",
-    "title": "Brazil Under-15s continue preparations for friendlies against Uruguay",
-    "description": "Brazil Under-15s continue preparations for friendlies against Uruguay  OneFootball",
-    "url": "https://onefootball.com/en/news/brazil-under-15s-continue-preparations-for-friendlies-against-uruguay-43281934",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43281934%3Fdate=2026-08-15",
-    "timestamp": 1786811256000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmJEcE0yd0hMVXllZmp0N3BWbW9SSGxQYy1OZWZCVmt3OS1wbmx1QXdubDJLcU1qSTl5UXJWclRuSWhUYnZreVZleGZPNTM2QVVjTTRCVjA2dEFmSkFabnVnY0dSQ3dGeUxOZUs5Vi1RX2NBeXRPNGxGNXFiT1VnNlo1NFFoeTZyR2h6ZExILXpXa05IeG91OFBQVGtvVEM0U1diTndtYWt2SnNrX2FN?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://sports.yahoo.com/articles/brazil-under-15s-continue-preparations-162400073.html",
-    "title": "Brazil Under-15s continue preparations for friendlies against Uruguay",
-    "description": "Brazil Under-15s continue preparations for friendlies against Uruguay  Yahoo Sports",
-    "url": "https://sports.yahoo.com/articles/brazil-under-15s-continue-preparations-162400073.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/9d404ec2239fee2b8d24cd2229798a4d6719413e695023d843f87ccb344650db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2Fc6d4f19798a2cc12e6caa07aae15ce60.jpg",
-    "timestamp": 1786811040000,
-    "source": "Yahoo Sports",
-    "publisher_id": "sports.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnU1aFRvNEMyV2RHUGs5TFVKNTBNWm94bXZEbGs4cWk3WWxucHBWMnhfdU5fWXV3Tnhfb3BoQ2NqN1hvNHFGRXRlN0VmTVJOcGhpNExWendjX1Bsai1CWlljd0RkRWFaY2xJd3Q2RXhSaXM0VnJwU083Q3dZQl9MTl9pVXc0dVV3R2FtOXB5MUo?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
   }
 ]
