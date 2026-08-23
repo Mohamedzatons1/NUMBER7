@@ -131,24 +131,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/0026-D-185171-00.html",
-    "title": "מתנחלים שמאמצים את דרכו של החמאס",
-    "description": "מתנחלים שמאמצים את דרכו של החמאס  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/0026-D-185171-00.html",
-    "image": "https://media.news1.co.il/thumbs/480/NEWSY206b53027c26724ee690038ffe321d93c8.jpg",
-    "timestamp": 1786864939000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NVmx1cFgyQ0dfbHdfTmRxUThGVng2d0ZYZTFLSzJuX0pDVGVKdTBKcG15dzVaaTNZc0pNLXMzbzlDNVRIem41ckdQT1N0NlNIMmxGMjNtS3hBdk9LQm1YZ3RZVQ?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
