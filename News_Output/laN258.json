@@ -549,43 +549,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/sjqlilywgg",
-    "title": "לא הצליחו לגייס כספים - והתנגשו במזח בגרמניה: \"חנדלה II\" לא תגיע לעזה",
-    "description": "לא הצליחו לגייס כספים - והתנגשו במזח בגרמניה: \"חנדלה II\" לא תגיע לעזה  ynet",
-    "url": "https://www.ynet.co.il/news/article/sjqlilywgg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/13/ryPTj5WIgl/ryPTj5WIgl_0_221_3000_1689_0_large.jpg",
-    "timestamp": 1786873139000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HckQ0Y0U1QTk4MHcwNUJRZThoUXVmWGN2UHlCVUJtN213b19zSG9LVUNMQmNybVA4R2g5YnBJakZvbmNMNi1EaTVuZVc4UWhBNGcyMXFBVVpBdw?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1356374",
-    "title": "פרויקט נדל\"ן או אתר הנצחה? מצוקת הדיור בברלין מתנגשת עם שרידי הרייך השלישי",
-    "description": "פרויקט נדל\"ן או אתר הנצחה? מצוקת הדיור בברלין מתנגשת עם שרידי הרייך השלישי  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1356374",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/844305",
-    "timestamp": 1786870516000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fT0kzMnZfN2JvWHd3aV91VW83dkJ1S3Y2dGtRU04yZ01vSjdIcVNvcllLSzhMcEV2Q1puT0lObkw3bXNNZUF5Z2xsYnhpazZWM3BVT1lhZUZkRUVEbFlMWg?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
