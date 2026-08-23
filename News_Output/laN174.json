@@ -416,43 +416,5 @@
     "extra": "Tonga",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/107023480",
-    "title": "Tonga PM welcomes youngest minister in cabinet reshuffle",
-    "description": "Tonga PM welcomes youngest minister in cabinet reshuffle  ABC News & Headlines – Australian Broadcasting Corporation",
-    "url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/107023480",
-    "image": "https://live-production.wcms.abc-cdn.net.au/8816c9d004a39d72055000edb47e68cc?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "timestamp": 1786910400000,
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-    "publisher_id": "www.abc.net.au",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZW56YW1va0J4VFotNE1hZ0x4QXhFVldIOUF4RnFmN09IZjdYVkdZR1ZlaXNobHNOOEdxZWJyWkJjOHVKdGVRQlU0aTBESnhpM0NUbE82REdnWGR0VUVEQWdwVDlDREd4TEt5YndncFp5QS03SUxuTk83QmkxUEE?oc=5",
-    "rssid": "laN174",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tonga",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.abc.net.au/pacific/programs/pacificbeat/tonga-pm/107044950",
-    "title": "Tonga PM welcomes youngest female minister in cabinet reshuffle",
-    "description": "Tonga PM welcomes youngest female minister in cabinet reshuffle  ABC News & Headlines – Australian Broadcasting Corporation",
-    "url": "https://www.abc.net.au/pacific/programs/pacificbeat/tonga-pm/107044950",
-    "image": "https://live-production.wcms.abc-cdn.net.au/26effaf57e4e0cfbf646e85235dff531?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "timestamp": 1786910400000,
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-    "publisher_id": "www.abc.net.au",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV2ZKUG93dGptci1IRXRZZ283TWJ2RDVwekxuWk1SMnNHdFB4T0k2ekE5UXRRTjVkaEI1WDZUbHJfYUZUWWxRbXhBT05lNG9IR3loVHVzaVdmSVY0UmdTZXJsNmpKYUM4anpKZUZhR3hJVG9OVFZEMjdR?oc=5",
-    "rssid": "laN174",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Tonga",
-    "likes": 0,
-    "comments": 0
   }
 ]
