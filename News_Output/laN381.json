@@ -131,43 +131,5 @@
     "extra": "Venezuela",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/maduro-son-synagogue-venezuela",
-    "title": "\"אני יהודי\" | ונצואלה סוערת: בנו של מדורו ביקר בבית הכנסת",
-    "description": "\"אני יהודי\" | ונצואלה סוערת: בנו של מדורו ביקר בבית הכנסת  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/maduro-son-synagogue-venezuela",
-    "image": "https://a.kikar.co.il/v2/articles/maduro-son-synagogue-venezuela/og-image.jpeg",
-    "timestamp": 1786856700000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96cmpma09lQjJWMlZxMzBYa0VKQWpyeVBLWU0xSDBiQWptcVhXZlJOOTRCUW9EUU5wcF9Mdmt2Q0ZlU0JUMEtmclB1aEExRFhPdUNHbl9EclZ2WDJiNnhSRDhZNVNSc2JpcG9tZWdXekRDSkk?oc=5",
-    "rssid": "laN381",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Venezuela",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "http://kikar.co.il/world-news/maduro-son-synagogue-venezuela",
-    "title": "\"אני יהודי\" | ונצואלה סוערת: בנו של מדורו ביקר בבית הכנסת",
-    "description": "\"אני יהודי\" | ונצואלה סוערת: בנו של מדורו ביקר בבית הכנסת  כיכר השבת",
-    "url": "http://kikar.co.il/world-news/maduro-son-synagogue-venezuela",
-    "image": "https://a.kikar.co.il/v2/articles/maduro-son-synagogue-venezuela/og-image.jpeg",
-    "timestamp": 1786856700000,
-    "source": "כיכר השבת",
-    "publisher_id": "kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xTE5oUTU3RFlFUlhQOE5wVE50NEwtMVhmaWZZdm16emdZZjRzVk94UmNOclp5TThsWWV0MnVXRTVUTk82Um5Db2hnWDNLMXZrSzJoNkVhSkdZSzZoTFBMSUtjT3FQdElubGZieA?oc=5",
-    "rssid": "laN381",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Venezuela",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -188,43 +188,5 @@
     "extra": "Argentina",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3860957",
-    "title": "עד ארגנטינה הגענו לחפש נעדרות, רק כדי למצוא שם את עצמנו",
-    "description": "עד ארגנטינה הגענו לחפש נעדרות, רק כדי למצוא שם את עצמנו  news.walla.co.il",
-    "url": "https://news.walla.co.il/item/3860957",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/8/8/4088260-46.jpg",
-    "timestamp": 1786856760000,
-    "source": "news.walla.co.il",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NZWlRZVdvOWkycTRRcFdvNXpHY1IzbmoxcWxFSmlRbklXWnR4eS1pbGd2c2dhcFoyMEVXZVpaZENxT3BuUHRSSFNhUm1xZw?oc=5",
-    "rssid": "laN200",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Argentina",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/news/yahalomi-argentina-interrogation-transcripts-full",
-    "title": "\"אף אחד לא מאיים עלינו, רוצות לעזוב את המדינה\"; התמלול מתוך חקירת מלי וליאל יהלומי בארגנטינה",
-    "description": "\"אף אחד לא מאיים עלינו, רוצות לעזוב את המדינה\"; התמלול מתוך חקירת מלי וליאל יהלומי בארגנטינה  כיכר השבת",
-    "url": "https://www.kikar.co.il/news/yahalomi-argentina-interrogation-transcripts-full",
-    "image": "https://a.kikar.co.il/v2/articles/yahalomi-argentina-interrogation-transcripts-full/og-image.jpeg",
-    "timestamp": 1786854432000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkcydjBCOVktZG1MQURYUmFicmRTSFNTZjFKOG5oWXgwYlA0bzktR3poUUNqdVlOSlQ1SXlqeURuYmYyVmtETzBZVDR0dFFYUzBrYnBCeEo2Umk0RFM0NFh1U21nTlJZX3Uzb1IwZmlfQUc4QVZFUHBvYmxiTy1lQWpRRGw?oc=5",
-    "rssid": "laN200",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Argentina",
-    "likes": 0,
-    "comments": 0
   }
 ]
