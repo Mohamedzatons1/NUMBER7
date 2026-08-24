@@ -2126,43 +2126,5 @@
     "extra": "Belgium",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/weather-news/articles/rainfall-offers-hope-fight-against-072426827.html",
-    "title": "Rainfall offers new hope in fight against Belgium's biggest wildfire",
-    "description": "Rainfall offers new hope in fight against Belgium's biggest wildfire  Yahoo",
-    "url": "https://www.yahoo.com/news/weather-news/articles/rainfall-offers-hope-fight-against-072426827.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/8c7e3d2f402aa4fd89f04bff2b36832df3a7094f1ec12ae66f18282a5a6ca051/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4a585c27ff58c534bb493a7516b5c982.jpg",
-    "timestamp": 1786955638000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXpFZXRRNWNOV294dkxzM0JOZUIzWWp0Ym5EN0hwWGh1d1ZvbWhmVXVRRF9OalYwNGNnQ0dZb3ZRZ2ZHUHBQSW53cVE1eVViZVhDaFhSdlllMEVWUk5yV3pXNXBkb2s0NFFqeG9jdkhyZTlUV2dNdHdqSzhuek82NW0td1RWZkVjOUo4dGRMRnQ4Tld2UXhOQ2s1cEs3MW8?oc=5",
-    "rssid": "laN017",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Belgium",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.independent.co.uk/news/world/europe/belgium-wildfires-latest-germany-weather-evacuations-b3034045.html",
-    "title": "Hundreds evacuated as fire in Belgium’s biggest nature reserve doubles in size",
-    "description": "Hundreds evacuated as fire in Belgium’s biggest nature reserve doubles in size  The Independent",
-    "url": "https://www.independent.co.uk/news/world/europe/belgium-wildfires-latest-germany-weather-evacuations-b3034045.html",
-    "image": "https://static.independent.co.uk/2026/08/17/08/download.-4.?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-    "timestamp": 1786953840000,
-    "source": "The Independent",
-    "publisher_id": "www.independent.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0VhLVdLY1BXT0dlbnlzTERrY1p6TmxrdHhfdlp6TXVtWVdfRzlVaFg5bFh1RllKSkNUeV9YdklndVVCdzlMblRvLTN4Y0V6VFo0RlZnT1ZpOXdOU2NIdUtiUkNHekdOLTlkbGJWS05xQTl2WnI1dm1NS1UxQmhhOEd0dmhQN1hhc2x5MFMxLWpUYmhTa3FfME82cFZ6NXVpRlJnSU1jRTAxbTdnSElqaGhWWjY?oc=5",
-    "rssid": "laN017",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Belgium",
-    "likes": 0,
-    "comments": 0
   }
 ]
