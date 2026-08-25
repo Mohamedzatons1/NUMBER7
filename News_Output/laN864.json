@@ -644,43 +644,5 @@
     "extra": "Latvia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.inbox.lv/150n0yk-krizes-gadijuma-nbs-vares-parnemt-iedzivotaju-nekustamos-ipasumus?language=lv&source=portal",
-    "title": "Krīzes gadījumā NBS varēs pārņemt iedzīvotāju nekustamos īpašumus",
-    "description": "Krīzes gadījumā NBS varēs pārņemt iedzīvotāju nekustamos īpašumus  Inbox.lv",
-    "url": "https://news.inbox.lv/150n0yk-krizes-gadijuma-nbs-vares-parnemt-iedzivotaju-nekustamos-ipasumus?language=lv&source=portal",
-    "image": "https://news.inbox.eu/w/img/5c/95/5c95fd9f8ca43f2b60.webp",
-    "timestamp": 1787069092000,
-    "source": "Inbox.lv",
-    "publisher_id": "news.inbox.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONEhoUzh2LWh2TXozVmFCMThzSmNFeF9CRzktTkpORjhFaGIyZC04akJTQnpxWTVEdjRRMGxqd3ZaMUVjYk9wS0d2a0lSa19yX0dCY1RuWmUxMmZ0ZE1BRVpfWkVKcGxianFVcEFWVi02dUdFb2JSVEFHQV9rbmpNY0I3WkdkSXMxenVmYUlHaXBLbWVJdmM2T09lb1VfdHlielBlNy1jbEcyd1JPbnNBaW4xOTc2bGYzY3dFQkhR?oc=5",
-    "rssid": "laN864",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://diena.lv/raksts/uznemeja-diena/zinas-42/itera-latvija-valdes-priekssedetaja-amatu-atstajis-savickis",
-    "title": "Itera Latvija valdes priekšsēdētāja amatu atstājis Savickis",
-    "description": "Itera Latvija valdes priekšsēdētāja amatu atstājis Savickis  Diena",
-    "url": "https://diena.lv/raksts/uznemeja-diena/zinas-42/itera-latvija-valdes-priekssedetaja-amatu-atstajis-savickis",
-    "image": "https://diena.lv/imgproxy/a-vOiT_KWufXpJ2P7sk6uP3hbV9fj4mU-Zv16vOPXtU/rt:fill/s:1200:750/g:fp:0.55:0.36/plain/s3://diena-1/media/let_24619115.jpg",
-    "timestamp": 1787064690000,
-    "source": "Diena",
-    "publisher_id": "diena.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlVuTDZoTDk5dmNXdEY5S3NUbE9teC1MT21UZHhPcm5qaUZUaTlnZG1OM0pydXZLSjg1YlA3NFpfeE93Z2YwNENPU1h5Zjdsb2Yxa0lmSFd6eWhGRWVBclFkLUYzNWd0am41Q0hMTmI1UGNwVEpOTEJFeGhTajMyeTEzcEYzQWVDM05CUjJuMjM5Qi1IZTJ5dUl6aEhiNHl4S3Q0My04YlRRS3c?oc=5",
-    "rssid": "laN864",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
   }
 ]
