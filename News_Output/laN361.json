@@ -2658,43 +2658,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/israel/article-1357068",
-    "title": "לא רחוק מגבול טורקיה: תקיפות אוויריות חריגות הרעידו את סוריה",
-    "description": "לא רחוק מגבול טורקיה: תקיפות אוויריות חריגות הרעידו את סוריה  מעריב",
-    "url": "https://www.maariv.co.il/news/israel/article-1357068",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/265604",
-    "timestamp": 1787027040000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoV0JPUE1aUkFoQ3Jfa2FfU29nQmRhczZYTHpkb2ZGS0N5VmRYa2FIcUdfNzNSbVVmT3dxbEY2bzBBVmxEbmZNLWRhY0JYaXVSLXI2ajMwaU1DdjQ5ZWZ3VFJn?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001552597",
-    "title": "ישראל שותקת, ארה\"ב מאשימה פומבית: \"הסלמה מיותרת\"",
-    "description": "ישראל שותקת, ארה\"ב מאשימה פומבית: \"הסלמה מיותרת\"  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001552597",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1787057014/AP26089468050658_nwxwtd.jpg",
-    "timestamp": 1787023165000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Fdk92TE1JUXU4UWFBRkIzQ2pDeG9tUDFkT1pkcXF0UHk0cFdqMVZrMTYyZlMzR19LMnA2VDJFTnlRWmtNUnNWcHpUc2xIRTdRajBNT05TdXN4azdDUjJITHpQeHBuOG9v?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
