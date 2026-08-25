@@ -2829,43 +2829,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.inn.co.il/news/704243",
-    "title": "ד\"ר איתן חי ינרוג'ק לערוץ 7: הציר הסוני החדש שצריך להדאיג את ישראל",
-    "description": "ד\"ר איתן חי ינרוג'ק לערוץ 7: הציר הסוני החדש שצריך להדאיג את ישראל  ערוץ 7",
-    "url": "https://www.inn.co.il/news/704243",
-    "image": "https://2.a7.org/files/pictures/000/1152089.jpg",
-    "timestamp": 1787049120000,
-    "source": "ערוץ 7",
-    "publisher_id": "www.inn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sbjJwNzNfN3RuTHAxdmFmY29lZlNjZXpzLTVxaVVjdmxuel9LaXFWUXc4UTJLVGtocGh1dmRqckpZdXllYzlfTw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1357183",
-    "title": "בריטניה, ואפילו טורקיה מעורבת: צפון קפריסין סוערת",
-    "description": "בריטניה, ואפילו טורקיה מעורבת: צפון קפריסין סוערת  מעריב",
-    "url": "https://www.maariv.co.il/news/world/article-1357183",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/991407",
-    "timestamp": 1787045398000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BOFpYckZrR2tldWJTaG51VDVNeTNvS19SeTdveDdQajZNMG5aNXBfQThuUDIybVhwY2lGTGZZeTQ1b0tsRkJ5S0t5WnZIUW9mbW1sRzdNQ0V4dS01eUV2NQ?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
