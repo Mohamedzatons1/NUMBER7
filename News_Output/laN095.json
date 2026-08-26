@@ -1195,43 +1195,5 @@
     "extra": "Liberia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cbc.ca/news/world/us-liberia-deportations-9.7312094",
-    "title": "Liberia to begin accepting up to 1,200 deportees from the U.S.",
-    "description": "Liberia to begin accepting up to 1,200 deportees from the U.S.  CBC",
-    "url": "https://www.cbc.ca/news/world/us-liberia-deportations-9.7312094",
-    "image": "https://i.cbc.ca/ais/ab9f3cae-5604-42df-b13d-caec8fbbf1c6,1787140118371/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7619%2C4285%29%3BResize%3D620",
-    "timestamp": 1787141337000,
-    "source": "CBC",
-    "publisher_id": "www.cbc.ca",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zalB1a2FxbS1QbTV3dDFJcjJiYW5zZHFrdWNLTTRWbTFELUZpYVU1MjdHSVZZdDU1Z2VPZVg2ZTRCSFNEekk4a3cycG9QSW9TcHU2NWoxaFp0YWZoN0tyakIwekVCX29INXY5MVZjZEQ?oc=5",
-    "rssid": "laN095",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Liberia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpq8g22715vo",
-    "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-    "description": "Liberia agrees to accept 1,200 foreign deportees from the US  BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cpq8g22715vo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a86/live/9dc56780-9bb2-11f1-a291-b542ee92de7c.jpg",
-    "timestamp": 1787136353000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.co.uk",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtRGwyZWZpd0poVTJUSnN4dFllUktmSEV5ODFMSnl0Q3k3alZPeVZCVG8tc3R2bHlaMkp6N2RSanJaaUZua2hzV01fVzhsbGlzeTJHOTdxM3hxS25y?oc=5",
-    "rssid": "laN095",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Liberia",
-    "likes": 0,
-    "comments": 0
   }
 ]

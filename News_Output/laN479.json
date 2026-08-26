@@ -17,5 +17,24 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.lrt.lt/naujienos/pasaulyje/6/3028339/izraelis-tesia-atakas-libane",
+    "title": "Izraelis tęsia atakas Libane",
+    "description": "Izraelis tęsia atakas Libane  LRT",
+    "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3028339/izraelis-tesia-atakas-libane",
+    "image": "https://www.lrt.lt/img/2026/08/21/2469297-712897-1287x836.jpg",
+    "timestamp": 1787321100000,
+    "source": "LRT",
+    "publisher_id": "www.lrt.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbS1KbWktamxJRC1MWHFyejRDZFY1UmFwdVB5aVhhR1NSQTZYZloyX09ZakFkc3dhR0hIcURUWUhoUnNEOG1DT0NlRDkyb2U2bWNyVHl6NjFhc283YzY1eTI2UktVMjVucTNhUEVNbFdUZk5NYkFoQjJJdkNMcDk3aXh0QQ?oc=5",
+    "rssid": "laN479",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Lebanon",
+    "likes": 0,
+    "comments": 0
   }
 ]
