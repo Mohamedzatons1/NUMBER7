@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://tucsonfoodie.com/events/24th-annual-roasted-chile-festival",
+    "title": "24th Annual Roasted Chile Festival",
+    "description": "24th Annual Roasted Chile Festival  Tucson Foodie",
+    "url": "https://tucsonfoodie.com/events/24th-annual-roasted-chile-festival",
+    "image": "https://wgwexrkqokkyffktcsqd.storage.supabase.co/storage/v1/render/image/public/media/media/events/24th-annual-roasted-chile-festival-15f3a0d80745.png?width=1200&height=630&resize=cover&quality=80",
+    "timestamp": 1787712685000,
+    "source": "Tucson Foodie",
+    "publisher_id": "tucsonfoodie.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qRFY3YmJfX3RBUkpBd0hicWcyMUQwTGVVdnhsRjZReEZGaWI2b1BRLWVBR1FvQVFPWHVZXzlHZkpUcDdwSERmVVJ2N3VhT0w2UjFvNkMzSkVCNTJZRDFyLWlFNGI0WW8zbXVRRFc0b2l2WXBX?oc=5",
+    "rssid": "laN035",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "Chile",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://blackchronicle.com/southwest/new-mexico/green-chile-gas-pipeline-to-project-jupiter-delayed-to-2027/",
     "title": "Green Chile gas pipeline to Project Jupiter delayed to 2027",
     "description": "Green Chile gas pipeline to Project Jupiter delayed to 2027  The Black Chronicle",
