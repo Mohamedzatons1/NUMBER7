@@ -93,43 +93,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ice.co.il/crypto/news/article/1126208",
-    "title": "מסחיטת ביטקוין ועד מתקפה על ישראל: ההאקרים האיראנים שהדליקו את ארצות הברית",
-    "description": "מסחיטת ביטקוין ועד מתקפה על ישראל: ההאקרים האיראנים שהדליקו את ארצות הברית  ice (אייס)",
-    "url": "https://www.ice.co.il/crypto/news/article/1126208",
-    "image": "https://img.ice.co.il/giflib/news/121323052026.jpg",
-    "timestamp": 1787125980000,
-    "source": "ice (אייס)",
-    "publisher_id": "www.ice.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MQlBtelRMRnlpSlpHSFlKeUkyMEdVQXJzWkJsbGgwd2N3NEVtUmV0SzYtbHFzZy0zdjdsMG9hYk9YbUlkQWN2dzIwZzFSS0lQcXF0cDhfQXZRTzZaVmc?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.pc.co.il/news/security/456937/",
-    "title": "10 מיליון דולר על ראשם: המצוד האמריקני אחר ההאקרים האיראנים -",
-    "description": "10 מיליון דולר על ראשם: המצוד האמריקני אחר ההאקרים האיראנים -  pc.co.il",
-    "url": "https://www.pc.co.il/news/security/456937/",
-    "image": "https://www.pc.co.il/wp-content/uploads/2026/08/%D7%94%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%A0%D7%99%D7%9D-%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D-%D7%9C%D7%A9%D7%9C%D7%9D-10-%D7%9E%D7%99%D7%9C%D7%99%D7%95%D7%9F-%D7%93%D7%95%D7%9C%D7%A8-%D7%A2%D7%9C-%D7%A8%D7%90%D7%A9%D7%9D.-%D7%94%D7%90%D7%A7%D7%A8%D7%99%D7%9D-%D7%90%D7%99%D7%A8%D7%90%D7%A0%D7%99%D7%9D.jpg",
-    "timestamp": 1787122800000,
-    "source": "pc.co.il",
-    "publisher_id": "www.pc.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81SkNWX1hfVFZLWWR2MHRCNExpYzZDUzBzVUhKZ0huNXJraXRRdUliMHUwRHBQUEwwck9ZUDZYLUN4amp6bmh3VS1XSmxNRkJmZUhzMQ?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
