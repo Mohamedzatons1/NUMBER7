@@ -36,43 +36,5 @@
     "extra": "San Marino",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vaticannews.va/lv/pavests/news/2026-08/libanas-prezidenta-vizite-vatikana.html",
-    "title": "Libānas prezidenta vizīte Vatikānā",
-    "description": "Libānas prezidenta vizīte Vatikānā  Vatican News",
-    "url": "https://www.vaticannews.va/lv/pavests/news/2026-08/libanas-prezidenta-vizite-vatikana.html",
-    "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/08/20/2026-08-20-s-e--il-signor-joseph-aoun--presidente-della-repubbli/1787213402420.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-    "timestamp": 1787236804000,
-    "source": "Vatican News",
-    "publisher_id": "www.vaticannews.va",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczZHUy1tdVJocHRxNHIwSm5sUEFKbGVyVXkyS25lZmdodVdKU3VYY215ZnZwQktJaG84R1p1YkN1SkNtSG9ZRmJ5UHI1WVdhSjliQU9hWmJndG1Pc1AwSF8tdldkbHdTb2h0b2tncWNmdmhGNmZsUXRtN2ljczU2S2FUVzNINmRKRElFT3lpc2dkVXE3?oc=5",
-    "rssid": "laN726",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "San Marino",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vaticannews.va/lv/baznica/news/2026-08/ticigie-lavangas-svetnica-atceras-katolu-vajasanas-vjetnama.html",
-    "title": "Ticīgie Lavangas svētnīcā atceras katoļu vajāšanas Vjetnamā",
-    "description": "Ticīgie Lavangas svētnīcā atceras katoļu vajāšanas Vjetnamā  Vatican News",
-    "url": "https://www.vaticannews.va/lv/baznica/news/2026-08/ticigie-lavangas-svetnica-atceras-katolu-vajasanas-vjetnama.html",
-    "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/19/shrine-of-our-lady-of-la-vang.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
-    "timestamp": 1787219502000,
-    "source": "Vatican News",
-    "publisher_id": "www.vaticannews.va",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbDRFT241NFZOSV9Wc3RzbHNJaDdNQjhpOWZOai1pdE03OWNscmVwZXpuOVVDeTc0bnNZVml3OTN5bFBXRVhuUHR3VWR2RVN2MjkzZzQzSGlXSUowNl9ZWW1XUzd5bzFZaVdiR19DRFpCZWF3U3V4YmxfRk52bGtlYnBNWWQ2QkNReERsWWRWWFNJTlNwam1YOW5tQzFPaXc1cDgxa0RMb3FsZVlScGpQblpwbDhEUQ?oc=5",
-    "rssid": "laN726",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "San Marino",
-    "likes": 0,
-    "comments": 0
   }
 ]
