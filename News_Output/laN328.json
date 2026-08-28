@@ -131,43 +131,5 @@
     "extra": "Peru",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/dong-dat-lon-tai-mien-nam-peru",
-    "title": "רעידת אדמה גדולה בדרום פרו.",
-    "description": "רעידת אדמה גדולה בדרום פרו.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/dong-dat-lon-tai-mien-nam-peru",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/21/1787275468862_dongdat1-17872651547451345259696-0-0-629-1200-crop-17872651669511963788353.jpeg",
-    "timestamp": 1787289655000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVaFl0elpUTTJwbktVdjVTSm13QktaNkpfN09PV0o4Yjhsa1BTNk1EcW1tbnlKbW93Si15d2l2V3k0Q0drWE9MdFNSdGw3QWRBUnBMZ1RrTHRaSnlxLXV4TmxWYXVIRk0?oc=5",
-    "rssid": "laN328",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Peru",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/dong-dat-6-7-do-richter-rung-chuyen-mien-nam-peru",
-    "title": "רעידת אדמה בעוצמה 6.7 בסולם ריכטר פקדה את דרום פרו.",
-    "description": "רעידת אדמה בעוצמה 6.7 בסולם ריכטר פקדה את דרום פרו.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/dong-dat-6-7-do-richter-rung-chuyen-mien-nam-peru",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/21/1787274266604_dong-dat-peru-8630-3688-jpg.webp",
-    "timestamp": 1787275079000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUpOQzdCREM2UGVRUFdvMDNVM2RFNEFhRmNrdkJDZ04xVHAzZ1lpLTl1SHRpOHVQRzVqV2ZYMkJ4WVFLQkhDMHlHVmpRSy16UFE0Q2k4LWZhQU1OT20xMHVlUThaeEZmNWFBeW5rN3Y4NTk3VHFZcE9IbXgwanRiLQ?oc=5",
-    "rssid": "laN328",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Peru",
-    "likes": 0,
-    "comments": 0
   }
 ]
