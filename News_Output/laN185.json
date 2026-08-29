@@ -1347,24 +1347,5 @@
     "extra": "Uruguay",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://onefootball.com/en/news/brazil-under-15s-thrash-uruguay-7-0-43320023",
-    "title": "Brazil under-15s thrash Uruguay 7-0",
-    "description": "Brazil under-15s thrash Uruguay 7-0  OneFootball",
-    "url": "https://onefootball.com/en/news/brazil-under-15s-thrash-uruguay-7-0-43320023",
-    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43320023%3Fdate=2026-08-22",
-    "timestamp": 1787414521000,
-    "source": "OneFootball",
-    "publisher_id": "onefootball.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0s1WU84Q2hGOFFMVVJEOC01aTVFWm1WOWdtRWVhVnUtVlF1SE1ROGFfSVpQb3BKRDBnazNjUjZVTVQxLUJLYVA5amwwN2taVG1jLUtpdnNiMHh3SVhPU2xhSXUtcmJibjZJTUtIYS0zRVlFY2c5ZjBoU1ZsQlJYZTJ3?oc=5",
-    "rssid": "laN185",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Uruguay",
-    "likes": 0,
-    "comments": 0
   }
 ]
