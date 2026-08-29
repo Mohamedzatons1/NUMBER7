@@ -1214,43 +1214,5 @@
     "extra": "Latvia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://eng.lsm.lv/article/weather/weather/22.08.2026-severe-storm-warning-for-saturday-in-latvia.a659888/",
-    "title": "Severe storm warning for Saturday in Latvia / Article",
-    "description": "Severe storm warning for Saturday in Latvia / Article  LSM",
-    "url": "https://eng.lsm.lv/article/weather/weather/22.08.2026-severe-storm-warning-for-saturday-in-latvia.a659888/",
-    "image": "https://static.lsm.lv/media/2026/08/large/1/tzmx.jpg",
-    "timestamp": 1787387565000,
-    "source": "LSM",
-    "publisher_id": "eng.lsm.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTVuWDQ0S2E5RWs1THNwUTQxaFJpRUtwcklFYkZ6TmdxUEk5TXE1cktldkQwNXktdDNxSFhfNU9rNWQxY3Jvc0xLUnI4bWNHMWc5T01oTU9qdDJzUzRKcFlob1dXcDdNaTVFVktNWjFZOUFfVjF4Z05DX0JjdW9JczhaNU9pc0VZV2Rwb2k2c2hUTlc4YkF4ZlBoNVRyY0xsMThyWjVsQmhjQQ?oc=5",
-    "rssid": "laN092",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.azernews.az/region/262699.html",
-    "title": "Latvia detains 28 migrants who entered from Belarus through border tunnel",
-    "description": "Latvia detains 28 migrants who entered from Belarus through border tunnel  AzerNews",
-    "url": "https://www.azernews.az/region/262699.html",
-    "image": "https://www.azernews.az/media/2026/08/21/750x430_cmsv2_93eef830-37ae-50f7-b463-9402211d1ddb-9883813.png",
-    "timestamp": 1787374800000,
-    "source": "AzerNews",
-    "publisher_id": "www.azernews.az",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Qc3Z2M3ZfaXJsSDBwTHdxb0w0V3B2bURtRmhXaWduRExFYzVvZElyc1R2SGEybXZmYzc3aXBnd0p6YTNLSHpGNXo0TkM0RlEzMDk5cw?oc=5",
-    "rssid": "laN092",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
   }
 ]
