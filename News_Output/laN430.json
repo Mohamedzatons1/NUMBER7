@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://www.15min.lt/naujiena/aktualu/pasaulis/prie-siaures-kipro-krantu-apvirto-daugiau-kaip-260-keleiviu-plukdes-keltas-57-2753180",
+    "title": "Šiaurės Kipre apvirtus keltui žuvo mažiausiai šeši žmonės",
+    "description": "Šiaurės Kipre apvirtus keltui žuvo mažiausiai šeši žmonės  15min.lt",
+    "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/prie-siaures-kipro-krantu-apvirto-daugiau-kaip-260-keleiviu-plukdes-keltas-57-2753180",
+    "image": "https://s1.15min.lt/static/cache/MTIwMHg2MjgsNzI4eDYyNyw1OTcyNjEsb3JpZ2luYWwsLGlkPTEwODM4NjM2JmRhdGU9MjAyNiUyRjA4JTJGMzAsMzM2ODkwMzcz/gelbejimo-operacija-siaures-kipre-6a941aa3bd7d5.jpg",
+    "timestamp": 1788091061000,
+    "source": "15min.lt",
+    "publisher_id": "www.15min.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS3NIeEk3UzFvb2JWbENhZ3AzNk45VE50SUhoTURsUXFucHRGNnloemFjTVJJUVJwMTVZdGgtdjllVWY1ckFZeU5Qb3NXZ18zdkEzY0NRcjd5Wk1feDBNaWRDSGZNUG1sSDh2Q3VRY2N2Vk9mMzF3Wmo3b1lHeUZfRXI4SHY4cTQweEhRMUluenh5dWcyNkF4bEZxVExRSmFKd2lzOW45Ul9MUEJkUlZPdjlzdXRpZ3RsUlZMb2JTU0xfQTFSdjZjRC1NR1c?oc=5",
+    "rssid": "laN430",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Cyprus",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.lrt.lt/naujienos/pasaulyje/6/3037067/prie-siaures-kipro-apsiverte-keleivinis-keltas-su-270-zmoniu-7-zmones-nuskendo",
+    "title": "Prie Šiaurės Kipro apsivertė keleivinis keltas su 270 žmonių, 7 žmonės nuskendo",
+    "description": "Prie Šiaurės Kipro apsivertė keleivinis keltas su 270 žmonių, 7 žmonės nuskendo  LRT",
+    "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3037067/prie-siaures-kipro-apsiverte-keleivinis-keltas-su-270-zmoniu-7-zmones-nuskendo",
+    "image": "https://www.lrt.lt/img/2026/08/30/2474924-183357-1287x836.jpg",
+    "timestamp": 1788089940000,
+    "source": "LRT",
+    "publisher_id": "www.lrt.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWktpdGtIWEowQkJhS2dtQWgwUVEybVRKYi1oQnJUMVdmWVdfVVZvLWtLNm03akxBQlNiTW5Lc00tVDZnckpENWhQU3Zubi1HYkdjRmZnUkpJcmFxa2FCWFFFLVZOUGlwUktTemVyS0lFcks4QXJaTy1BVmp4QWVqSTFlTVl3Y1NFZGVqVzhNOTc4MW15X3dFRkFlQ05KWDVlZEE2TmpOd0Y4T3VzT2xTcGJVRzRHdm94alpRRU5rZE9iZk5TT3c?oc=5",
+    "rssid": "laN430",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Cyprus",
+    "likes": 0,
+    "comments": 0
+  }
+]
