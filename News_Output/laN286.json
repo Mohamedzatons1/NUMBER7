@@ -1404,43 +1404,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1358652",
-    "title": "צפו בתיעוד המקושר לתקיפה ישראלית עוצמתית בדרום לבנון",
-    "description": "צפו בתיעוד המקושר לתקיפה ישראלית עוצמתית בדרום לבנון  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1358652",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1113130",
-    "timestamp": 1787440139000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tcksycjdBNGp5OElvaldWRU45QTl6RHczX2hTN0dCa2g4LV9RQ3NQZ1c5SEF6TkZ6dFJ3aFV4b05jOVlneW9lREw4MUVsSkdKX3dRNVh6a2c4UTY2X244NEVkQ1o?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/breaking-news/article-1358649",
-    "title": "דיווח בלבנון: תקיפות צה\"ל בדרום לבנון",
-    "description": "דיווח בלבנון: תקיפות צה\"ל בדרום לבנון  מעריב",
-    "url": "https://www.maariv.co.il/breaking-news/article-1358649",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_438,w_778/1077313",
-    "timestamp": 1787438371000,
-    "source": "מעריב",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BWmxYQkJDTGdBWjNEZ1FwVU5EVGVRUDJMNFEySlc3dDI2Mml3WFVCNldyY2xUTlNvRHNETG5tdHRSbjdwUkZ3RUM0ZzlWNU5LODc3alVMcVN3ZnFpUWxEOVNEV1g?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
