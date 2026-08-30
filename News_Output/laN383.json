@@ -74,43 +74,5 @@
     "extra": "Yemen",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.kikar.co.il/world-news/yemen-sniper-unit-houthis",
-    "title": "מוג'תבא לא ישרוד: יחידת הצלפים 'המיוחדת' בתימן נחשפת",
-    "description": "מוג'תבא לא ישרוד: יחידת הצלפים 'המיוחדת' בתימן נחשפת  כיכר השבת",
-    "url": "https://www.kikar.co.il/world-news/yemen-sniper-unit-houthis",
-    "image": "https://a.kikar.co.il/v2/articles/yemen-sniper-unit-houthis/og-image.jpeg",
-    "timestamp": 1787471160000,
-    "source": "כיכר השבת",
-    "publisher_id": "www.kikar.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RRXpHYXlDeVdRTlRyT01FNExWOW0yWGMtSG44X1NiMlduYmNBbFNOZUlLc0lkYTctRUF6UEg0NjQ4WmE4aDYyYlNJR1JKV2dNUk5aSG04elJWZ1lDaEpzM1FtNzVMcjdkek5DYQ?oc=5",
-    "rssid": "laN383",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Yemen",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/quan-doi-yemen-ban-ha-uav-cua-houthi-pha-huy-thuyen-cho-bom",
-    "title": "צבא תימן הפיל רחפן חות'י והשמיד סירת נושאת פצצות.",
-    "description": "צבא תימן הפיל רחפן חות'י והשמיד סירת נושאת פצצות.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/quan-doi-yemen-ban-ha-uav-cua-houthi-pha-huy-thuyen-cho-bom",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/23/1787452584356_1787450737874-png.webp",
-    "timestamp": 1787465882000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONl9YQm53VFdKb2JPbVppVFJUZ0xxT1hRVGJvMzF5Z0VOYkk1NXJidGszWVVDQXNZTHFiUi03cWxfS1h0d1RiaXVTZHd1aTJSQ3pjRzFqRFlLaVM4U1Y1OEtKTW5JTVVtZnFzVWpmeXlic29PNjJZU1BHd3l5THBRbUI4SWFoaUFlYWJQeExR?oc=5",
-    "rssid": "laN383",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Yemen",
-    "likes": 0,
-    "comments": 0
   }
 ]
