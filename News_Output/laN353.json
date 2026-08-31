@@ -169,43 +169,5 @@
     "extra": "South Korea",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3862823",
-    "title": "עוד חיזור אחר קים? טראמפ מבטל תרגיל עם דרום קוריאה",
-    "description": "עוד חיזור אחר קים? טראמפ מבטל תרגיל עם דרום קוריאה  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3862823",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/2/7/7/3/2773840-46.jpg",
-    "timestamp": 1787564520000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zT2xsSzBzSl9MT1F0cWtHY0lyVTVXVTFxdkxvZE16T2dpOXFTVTB1eER5LXc4QUpJeDAybzg4Szd1SXVyaFIxYWZEdXhxdw?oc=5",
-    "rssid": "laN353",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "South Korea",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.srugim.co.il/101009311-%D7%93%D7%A8%D7%95%D7%9D-%D7%A7%D7%95%D7%A8%D7%99%D7%90%D7%94-%D7%9E%D7%A6%D7%99%D7%91%D7%94-%D7%A9%D7%95%D7%9E%D7%A8%D7%99%D7%9D-%D7%A8%D7%95%D7%91%D7%95%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%AA%D7%A8%D7%99",
-    "title": "דרום קוריאה מציבה שומרים רובוטים באתרי תיירות",
-    "description": "דרום קוריאה מציבה שומרים רובוטים באתרי תיירות  סרוגים",
-    "url": "https://www.srugim.co.il/101009311-%D7%93%D7%A8%D7%95%D7%9D-%D7%A7%D7%95%D7%A8%D7%99%D7%90%D7%94-%D7%9E%D7%A6%D7%99%D7%91%D7%94-%D7%A9%D7%95%D7%9E%D7%A8%D7%99%D7%9D-%D7%A8%D7%95%D7%91%D7%95%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%AA%D7%A8%D7%99",
-    "image": "https://api.srugim.co.il/v2/articles/101009311-דרום-קוריאה-מציבה-שומרים-רובוטים-באתרי/og-image.jpeg",
-    "timestamp": 1787562573000,
-    "source": "סרוגים",
-    "publisher_id": "www.srugim.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNMkhzektrbXhOOXQ5YmJHOUItcnptaHAzSTRhSEM0NUZ2VmJxT0JuSjdhSEVDaHVhYWlraDg5OHhuRkdlM0Nld01hNy1fVHJtTGVJTlhjcHppdl9HcndjVEJpZXBFRnZwWU1oX1NERkZfb2xyNVh4WkZhRnV3R0NfODROdlRmLU8zSF9BWHBUTkRDa1VYNUhVVHpxdXQ4NElXVk9kdXY4QVViM2hlaEhXSW1hSUVFQ3dkaHlmNGxNRE01UkdyTUJ2SlpXQWl4TXRFT2hCV0diQlh1Tm5SUUFfbHJGVlg5aDlwNGE2U2Q1UTk5dHo2V0NLYU5ybUNONjBiSC1lUElfQlFCTDdxRWhIc1U5cVNOY2dFZmdhUnJta0J4NFNNS2V5cGlLOURhTzFBVzJObmh6a0thcG8yZE1jRmRSZ0ZjUUtxUWNNWmVKYTd5RUMyS0ZnWlV3?oc=5",
-    "rssid": "laN353",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "South Korea",
-    "likes": 0,
-    "comments": 0
   }
 ]
