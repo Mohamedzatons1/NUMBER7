@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://www.dredgingtoday.com/2026/08/31/spotlight-on-tuvalu-coastal-adaptation-project-in-funafuti",
+    "title": "Spotlight on Tuvalu Coastal Adaptation Project in Funafuti",
+    "description": "Spotlight on Tuvalu Coastal Adaptation Project in Funafuti  DredgingToday",
+    "url": "https://www.dredgingtoday.com/2026/08/31/spotlight-on-tuvalu-coastal-adaptation-project-in-funafuti",
+    "image": "https://dredgingtoday.com/api/media/file/coastal%20protection%20Fiji.jpg?prefix=media",
+    "timestamp": 1788157473000,
+    "source": "DredgingToday",
+    "publisher_id": "www.dredgingtoday.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGR5NWw2WUhOT0Q5VllvQnpIUE9jd0ZjU3FXNmtPNEFJNFQzYk85RlFHLXRURmdOam85by1PUnFqZVJyekhRdVkyZDNfYUxkUE10TF9LTVN0QmkzRDBwbVc2b3pxS0FNQk15X3I2b2ZQODNvQnJfVy1RUV9DRmY1SXQ0X1FHbkg4ekx5Vmh5OXhMU1dQX25lNEppODdUOGRP?oc=5",
+    "rssid": "laN179",
+    "topic": "news",
+    "lang": "general",
+    "category": "الإنجليزية",
+    "extra": "Tuvalu",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.fbcnews.com.fj/news/tuvalu-pushes-climate-mobility-talks/",
     "title": "Tuvalu pushes climate mobility talks",
     "description": "Tuvalu pushes climate mobility talks  FBC News",
@@ -100,7 +119,7 @@
     "description": "After years of invasive rats threatening island wildlife, Tuvalu removed them from six islets; residents  The Times of India",
     "url": "https://timesofindia.indiatimes.com/science/after-years-of-invasive-rats-threatening-island-wildlife-tuvalu-removed-them-from-six-islets-residents-are-now-seeing-birds-and-coconut-crabs-return/articleshow/133451014.cms",
     "image": "https://static.toiimg.com/thumb/msid-133451245,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "timestamp": 1787547600000,
+    "timestamp": 1787627100000,
     "source": "The Times of India",
     "publisher_id": "timesofindia.indiatimes.com",
     "type": "article",
