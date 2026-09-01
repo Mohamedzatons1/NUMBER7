@@ -131,43 +131,5 @@
     "extra": "Netherlands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/hjqrhvowme",
-    "title": "הולנד סולקה מהמפקדה בקריית גת",
-    "description": "הולנד סולקה מהמפקדה בקריית גת  ynet",
-    "url": "https://www.ynet.co.il/news/article/hjqrhvowme",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/24/ry119m2TuAge/ry119m2TuAge_0_238_1280_721_0_large.jpg",
-    "timestamp": 1787681072000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QbEF0M1VkWGRsMHVweGlfNTNLSnRPWV8tazhLbXlxUDF4bWhKamFaM1V6ZTVCTTRka3JmS2tTdzZnUkNyZWJXR2lUYmZQS1pIWjIzUU9RM3JLZw?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/politics/2026-08-25/ty-article/.premium/000001a0-39a4-d274-a7f4-bda5018e0000",
-    "title": "סער: נציגי הולנד יסולקו ממרכז התיאום בקריית גת",
-    "description": "סער: נציגי הולנד יסולקו ממרכז התיאום בקריית גת  הארץ",
-    "url": "https://www.haaretz.co.il/news/politics/2026-08-25/ty-article/.premium/000001a0-39a4-d274-a7f4-bda5018e0000",
-    "image": "https://img.haarets.co.il/bs/000001a0-39a4-d274-a7f4-bda5018e0000/eb/5a/d660a1c44c77b06540a3b1b68d0c/818116.jpg?precrop=2400,1395,x0,y208&width=1200&height=630&cmsprod",
-    "timestamp": 1787677860000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFVrSzhISGFKRW9Ka3FUSHMzTGhLQnBveHZkQ1NJVkQyM1hTelhDQmFEOXVod01DM25IaGswbkdtWS1xQnllRm5ORWRIOXk4YWJWZTE0WUxZbEpDYUFfWkFmMTdDUjljU014UmRMWDFNbG1IaFZIR3NSem43SkQ2SHNYRDNZY3RvNVR6RDNpOHBTWTFMZUgzNGpYYThzY2VqOF9DM3NKYm1uWDQ?oc=5",
-    "rssid": "laN314",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Netherlands",
-    "likes": 0,
-    "comments": 0
   }
 ]
