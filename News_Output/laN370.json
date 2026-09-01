@@ -1100,43 +1100,5 @@
     "extra": "Turkey",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/elections2026/article/h1vbctcpgl",
-    "title": "בעולם מקשרים את \"האויבת החדשה\" והבחירות. נתניהו: \"הם תכננו לשבור סטטוס קוו\"",
-    "description": "בעולם מקשרים את \"האויבת החדשה\" והבחירות. נתניהו: \"הם תכננו לשבור סטטוס קוו\"  ynet",
-    "url": "https://www.ynet.co.il/news/elections2026/article/h1vbctcpgl",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/BkvDHRqwGg/BkvDHRqwGg_0_82_360_203_0_large.jpg",
-    "timestamp": 1787658703000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xRTl1TG52UVRQeVRjY3otczZFMFVLMElzVTdGb2ZXUy1tb01tc0FCSk0zQ0ZrTjloUjRUTDV2U2NBSTVHTlVuelJkQWlhRW03TlRGcmVwZ1pEdTI5NlhScE1BNV9NNkhDczYzNw?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.inss.org.il/he/publication/turkey-israel-syria/",
-    "title": "הקו האדום הישראלי בסוריה – והמחיר של העימות עם טורקיה",
-    "description": "הקו האדום הישראלי בסוריה – והמחיר של העימות עם טורקיה  inss.org.il",
-    "url": "https://www.inss.org.il/he/publication/turkey-israel-syria/",
-    "image": "https://www.inss.org.il/he/wp-content/uploads/sites/2/2026/08/Untitled-design-60-1.jpg",
-    "timestamp": 1787658525000,
-    "source": "inss.org.il",
-    "publisher_id": "www.inss.org.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sRU1uelhUUHlsZWtkeWVBUDZEM0pobFgyNlNzZ3gzanhUeDFsZVZvNVlqT1pFdUZYWWpJcDh6Qzc3bFN2OUxjOURnOVZRR2VDY1FhR19aQUozczFSSmlrT1kxUzNXU3ZLdFBB?oc=5",
-    "rssid": "laN370",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Turkey",
-    "likes": 0,
-    "comments": 0
   }
 ]
