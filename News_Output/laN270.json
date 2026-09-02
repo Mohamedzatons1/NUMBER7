@@ -511,43 +511,5 @@
     "extra": "India",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/hyhonvhdfg",
-    "title": "מניין ההרוגים בשיטפונות בנפאל עלה ל-22, הודו פינתה תושבים סמוך לגבול",
-    "description": "מניין ההרוגים בשיטפונות בנפאל עלה ל-22, הודו פינתה תושבים סמוך לגבול  ynet",
-    "url": "https://www.ynet.co.il/news/article/hyhonvhdfg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/ryMXMg8hDMl/ryMXMg8hDMl_0_70_1316_743_0_large.jpg",
-    "timestamp": 1787749877000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZFZJQlFFc2JaQl9rWXRoa2YxUU54Qkx1SzZiVThJNlFIS29hSnRhRUx4ajlMREc2V3VzZzVNVm9YN3lPZ3BlaWR3Y2pQREZtNFRSUXV5VEg5Zw?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/an-do-va-trung-quoc-thuc-day-binh-thuong-hoa-quan-he-qua-vong-dam-phan-bien-gioi-thu-25",
-    "title": "הודו וסין דוחפות לנורמליזציה של היחסים באמצעות סבב ה-25 של שיחות הגבול.",
-    "description": "הודו וסין דוחפות לנורמליזציה של היחסים באמצעות סבב ה-25 של שיחות הגבול.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/an-do-va-trung-quoc-thuc-day-binh-thuong-hoa-quan-he-qua-vong-dam-phan-bien-gioi-thu-25",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/26/1787733092038_an-do-va-trung-w1200t0-di2634d363d3151348t11672l1-vong-am-phan-th6.webp",
-    "timestamp": 1787738941000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFJ6RzFiWlBPeGtTQnY0NEVIalJlbWhlLW5SX0Nsc0oxWEFmMS14T0piWTZZdnNPMndxYzBoVDNXQy1zLW4yWXFTWlpQdUtfeG4yOUFUbi1LVk9JcVZUaXBMUjNyampGWFpxWHZORGk1ZVV6TjFLM1J2RVo2dDR3WTdpREFlUlU2bXVpSFRTejFhLVlXemxNY1FsTF9qY2JhN0dTOFpHTkh1Y0cxUTZXcDI0TQ?oc=5",
-    "rssid": "laN270",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
   }
 ]
