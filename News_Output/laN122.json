@@ -2031,43 +2031,5 @@
     "extra": "New Zealand",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://shots.net/news/view/new-zealands-prescription-for-change",
-    "title": "New Zealand's prescription for change",
-    "description": "New Zealand's prescription for change  shots.net",
-    "url": "https://shots.net/news/view/new-zealands-prescription-for-change",
-    "image": "https://images.slatecdn.net/1DIt0g9kye3fotkhzMa2-KuK_vLoF6PBoLnp-Fydwo4/rs:fill:1200:630:1/q:80/aHR0cHM6Ly9zMy11/cy13ZXN0LTEuYW1h/em9uYXdzLmNvbS9t/ZWRpYS11cy13ZXN0/c2xhdGVhcHBjb20v/c2hvdHNtYWcvcHJv/ZHVjdGlvbi9uZXdz/LzEwYjQ0Mzg4LTZh/YWEtNDY2Yy04NGMz/LWVmM2Y5ZWIyYTc1/Zi90aGUtZm9yYmlk/ZGVuLXBoYXJtYWN5/LmpwZWc?v=1&quality=70&format=jpeg",
-    "timestamp": 1787755675000,
-    "source": "shots.net",
-    "publisher_id": "shots.net",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45d3lONzgwcUNlNERheFhhX3E1MTRWcmNENzZVNjFtM2N6ajBzQkMwMzRlNDJ4TndHTjFsLXY0UmpGQ3FlMmUyemZnQzJQemU2bEQxbEQ5VldqRGctdEVUQXJidzFCcE8tWV9CcS0xTGN2QQ?oc=5",
-    "rssid": "laN122",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "New Zealand",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.npr.org/2026/08/26/nx-s1-5944487/dolly-parton-fresh-air",
-    "title": "Dolly Parton lived her motto: 'More is more'",
-    "description": "Dolly Parton lived her motto: 'More is more'  NPR",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5944487/dolly-parton-fresh-air",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1687+0+244/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F02%2Fda9c300b4465b27c92ac724657b1%2Fgettyimages-467487959.jpg",
-    "timestamp": 1787755413000,
-    "source": "NPR",
-    "publisher_id": "www.npr.org",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPUFpHdWRNR0c2OTFfSzdqS2tFQXd3VlVPbnVfZGthTWFuZnhaTXRhY2h1bTc2VlppWWp4MFVwMjBSSWJkUnJMeHR4Unp1alM3RUdsWENvTjVob2pyYjJMY05jRWwwQzB2VUpXSkMyNG9jRjFIenc?oc=5",
-    "rssid": "laN122",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "New Zealand",
-    "likes": 0,
-    "comments": 0
   }
 ]

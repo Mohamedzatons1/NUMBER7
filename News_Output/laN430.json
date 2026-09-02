@@ -74,5 +74,24 @@
     "extra": "Cyprus",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://www.lrt.lt/naujienos/pasaulyje/6/3037067/prie-siaures-kipro-apsiverte-keleivinis-keltas-su-270-zmoniu",
+    "title": "Prie Šiaurės Kipro apsivertė keleivinis keltas su 270 žmonių, 7 žmonės nuskendo",
+    "description": "Prie Šiaurės Kipro apsivertė keleivinis keltas su 270 žmonių, 7 žmonės nuskendo  LRT",
+    "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3037067/prie-siaures-kipro-apsiverte-keleivinis-keltas-su-270-zmoniu",
+    "image": "https://www.lrt.lt/img/2026/08/30/2474924-183357-1287x836.jpg",
+    "timestamp": 1788089940000,
+    "source": "LRT",
+    "publisher_id": "www.lrt.lt",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHlNeEZ6dTljdE9XTU9sbUNIaFZTRkVXRVJaaDdFTVJKdHZRZlFzUzlUVUFoRkJNSTBZM3BmSlB5a2N2a0FoWTJmNFotUjFBMGhOZlNJZ1pQTURkZVlPS1Y1MmZGNnNWb09CNHNRczVvODRBRlRmV2JNbDJBWkR3X3kzaGtzLUhhODJlWE1wMWJqNG9rMXA0UWlzQjFvbkhYNmxvRURsekRNLTZKU2c?oc=5",
+    "rssid": "laN430",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Cyprus",
+    "likes": 0,
+    "comments": 0
   }
 ]
