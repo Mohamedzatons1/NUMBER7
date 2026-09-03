@@ -17,5 +17,24 @@
     "extra": "Spain",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Vd1lybHZDdnIyR21qMl8wbUk4VXcwc2JVWmFFXzV2aXhKM1Nrd25LcmhWWmIwWGlYYzdTOFNkYUp4OXoxanYwLXRBcw?oc=5",
+    "title": "Latgales vēstniecībā GORS atklāta Egila Rozenberga izstāde",
+    "description": "Latgales vēstniecībā GORS atklāta Egila Rozenberga izstāde  travelnews.lv",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Vd1lybHZDdnIyR21qMl8wbUk4VXcwc2JVWmFFXzV2aXhKM1Nrd25LcmhWWmIwWGlYYzdTOFNkYUp4OXoxanYwLXRBcw?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1788090288000,
+    "source": "travelnews.lv",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Vd1lybHZDdnIyR21qMl8wbUk4VXcwc2JVWmFFXzV2aXhKM1Nrd25LcmhWWmIwWGlYYzdTOFNkYUp4OXoxanYwLXRBcw?oc=5",
+    "rssid": "laN934",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Spain",
+    "likes": 0,
+    "comments": 0
   }
 ]
