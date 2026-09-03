@@ -1841,43 +1841,5 @@
     "extra": "India",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
-    "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market",
-    "description": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market  CNBC",
-    "url": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
-    "image": "https://image.cnbcfm.com/api/v1/image/108354293-1787714621367-gettyimages-2266880684-2266880684.jpeg?v=1787714651&w=1920&h=1080",
-    "timestamp": 1787788980000,
-    "source": "CNBC",
-    "publisher_id": "www.cnbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1azhYYUV1S2M3dTRYZ0FzWldPVXJjdzRBME40QktGTUVITzhQRmttNW9uM2tJRlhfR25leU90WENSelc5M1dOb290d3cxMEtXdW9OZ3YwQzZUbjJSaFNtSVZoMlVsUy1VUHVFdXp6c3Bnb0puTEgzOE9B0gF_QVVfeXFMUE12NnhWNVllbHA3VVJPQTZPdFJSRTktelR2Vzh5V0kzdm5RQklGRVQzQzEzQ0ZUcG1PLWZFUENORnVSdHlKbXp3ZnVmMEdVcTFYa2JwM1F5TXRrWkViY3hTaVNDUFc0WG5SdGNzWnNTa0xLLTNTbVg3N2dHS1VJNA?oc=5",
-    "rssid": "laN077",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cy0zn6gy7zjo",
-    "title": "Rahul Gandhi questions India PM Narendra Modi's 'culture shock' comment over women swearing at CJP protest",
-    "description": "Rahul Gandhi questions India PM Narendra Modi's 'culture shock' comment over women swearing at CJP protest  BBC",
-    "url": "https://www.bbc.com/news/articles/cy0zn6gy7zjo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2126/live/4de286c0-a121-11f1-92eb-a9b3bbcf6f4a.jpg",
-    "timestamp": 1787785411000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JTHJ1TU05Y3FnYXVhbm9UblZzbWJRNi1OOVBaVVotUW9iUlFycFlWMHQ3S3Q3RTY0dm5QTl96a2RMWjNlV0hEZE1MT1pVdTV6aGFHSWVqMHE1dw?oc=5",
-    "rssid": "laN077",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
   }
 ]

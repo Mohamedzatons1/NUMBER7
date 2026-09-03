@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://news.inbox.lv/150p3wa-imf-reaches-historical-loan-agreement-with-senegal?language=lv",
+    "title": "IMF reaches historical loan agreement with Senegal",
+    "description": "IMF reaches historical loan agreement with Senegal  Inbox.lv",
+    "url": "https://news.inbox.lv/150p3wa-imf-reaches-historical-loan-agreement-with-senegal?language=lv",
+    "image": "https://news.inbox.eu/w/img/2b/8e/2b8e31122913a357fd.jpg",
+    "timestamp": 1788353487000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZV9CVkszMHA5WVloc0JEWGRhTlZfcGZsZnhpWHJ2NUM4STY1dDZsaFhwajAyanRKMVlmNS02UzBTS1dMckJDZ2xYbzk4MDExMXB0Vy1oYUhXVmZSMWRUaEVfWW5GZTE4WGFBekswUDc1N01fZXU3ci1sSWx4WndFM1dJQUFvQ0VxbkQ3SG43RjFOdmd6LXcw?oc=5",
+    "rssid": "laN729",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Senegal",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.inbox.eu/150p2oc-football-senegal-s-iliman-ndiaye-signs-with-manchester-city?language=lv",
+    "title": "Football: Senegal's Iliman Ndiaye signs with Manchester City",
+    "description": "Football: Senegal's Iliman Ndiaye signs with Manchester City  Inbox.eu",
+    "url": "https://news.inbox.eu/150p2oc-football-senegal-s-iliman-ndiaye-signs-with-manchester-city?language=lv",
+    "image": "https://news.inbox.eu/w/img/d1/87/d187c6fb462357bc1e.jpg",
+    "timestamp": 1788342684000,
+    "source": "Inbox.eu",
+    "publisher_id": "news.inbox.eu",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDVRS3lDY25yOXFaRW9kVXV1ZUw3WlpzejVTNkI0cGRBZ1dSVTlwZzZETkVKdU9sUFlqN05vUng1bjE3bi00Q09PQmEzSlRNa1A5SWphUDRJallQUkdSdVJET1ZzMG01VDNWOUhFeVk2aFhGamg4ZTRETEJONHhhamFKQmtuenNnNVhBOVNvX0x0QnlUSWZPNnNGWm05Z1ktUThv?oc=5",
+    "rssid": "laN729",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Senegal",
+    "likes": 0,
+    "comments": 0
+  }
+]
