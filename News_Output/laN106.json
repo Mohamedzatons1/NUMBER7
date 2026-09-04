@@ -226,43 +226,5 @@
     "extra": "Marshall Islands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/politics/articles/oops-trump-botches-list-u-165231228.html",
-    "title": "Oops! Trump Botches List of U.S. Territories.",
-    "description": "Oops! Trump Botches List of U.S. Territories.  Yahoo",
-    "url": "https://www.yahoo.com/news/politics/articles/oops-trump-botches-list-u-165231228.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/f5479012eeed7a11e19f57df2046c8300cd496a5f3b0c0dbfa9ffda3e73be19d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmeidastouch_articles_379%2Ff63e6a67187d2cdde076cecbcb8c3672.jpg",
-    "timestamp": 1787935951000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1k0Tk9xTkpyZ3FMb1BnNlFIS3g0b1pqd1VqaklrdUctcnNxbHBvUkNRWTZsdHRLSjNZSU1EVVIzUG9wTXQybmR5djdHeFVXMm4yTHF4MGtoNXBYWWpwYlJjZzViSWlkUXVUX2ZjZmtlWHNXbzBRYmFBMVhKdnFVV2VXSHhobDRSVEkwaTNn?oc=5",
-    "rssid": "laN106",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Marshall Islands",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://newrepublic.com/post/214900/trump-threatens-takeover-two-countries-micronesia-marshall-islands",
-    "title": "Trump Casually Threatens to Take Over Two More Countries",
-    "description": "Trump Casually Threatens to Take Over Two More Countries  The New Republic",
-    "url": "https://newrepublic.com/post/214900/trump-threatens-takeover-two-countries-micronesia-marshall-islands",
-    "image": "https://images.newrepublic.com/348985a1a6e6edbf1f8daf5262108a5ec3260a61.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "timestamp": 1787935382000,
-    "source": "The New Republic",
-    "publisher_id": "newrepublic.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHNmZjZ0eGk1QzZ0dmVnT1h0WV9IY0VDOWRrb0hPUkV4bWcyYy1wQjhaWlVYUG1CNjctUnJiZy1zOW4tWTV3TkNWekdxVWxHMUxCMXN5S3ZCeVVtSTdDNExCT0ZxYnJqb3NpendTY1BjR25sRktUeEd5dUk1encyajZxRTZfaUM1Um5OdWNRVVdLSkY2MXlWTFg3MzI2VmtGczR3NQ?oc=5",
-    "rssid": "laN106",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Marshall Islands",
-    "likes": 0,
-    "comments": 0
   }
 ]
