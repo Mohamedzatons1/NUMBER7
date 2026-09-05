@@ -1119,43 +1119,5 @@
     "extra": "Latvia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.eju.net/news/10406/latvian-coach-viktors-resko-on-walking-into-the-unknown",
-    "title": "Latvian Coach Viktors Resko on Walking Into the Unknown",
-    "description": "Latvian Coach Viktors Resko on Walking Into the Unknown  European Judo Union",
-    "url": "https://www.eju.net/news/10406/latvian-coach-viktors-resko-on-walking-into-the-unknown",
-    "image": "https://s3.eu-central-1.amazonaws.com/dev-eju-storage/media/system/others/day1-preliminaries-91_1788008501_kZPhJT.webp?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVQF5MH6URZZNF%2F20260829%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260829T163001Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=57cbcfd56f144902448d83f437349e7d126c4df56e787355231272058c6ec7e6",
-    "timestamp": 1788009351000,
-    "source": "European Judo Union",
-    "publisher_id": "www.eju.net",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmNHREtRYjY1UFMxMl82NHhaM1lzOTFGU0liQ05meE1mQVFZREh1d3VoWkJ2T18yZ2k0OUd1eDVxcnRTSEdLUlctSHpUUmRWUG5QV0k0QWpNNzhtUWhnTm1EenR3MGdtYW9TeWpwRTJKbU9SMmRFVmkzM1pPdF85YXBmMzhtQ1VIRXQ5MHlJQQ?oc=5",
-    "rssid": "laN092",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://defence-industry.eu/turkish-air-force-deploys-f-16-fighters-to-latvia-demonstrating-baltic-air-policing-readiness-across-natos-eastern-flank/",
-    "title": "Turkish Air Force deploys F-16 fighters to Latvia, demonstrating Baltic Air Policing readiness across NATO's eastern flank",
-    "description": "Turkish Air Force deploys F-16 fighters to Latvia, demonstrating Baltic Air Policing readiness across NATO's eastern flank  Defence Industry Europe",
-    "url": "https://defence-industry.eu/turkish-air-force-deploys-f-16-fighters-to-latvia-demonstrating-baltic-air-policing-readiness-across-natos-eastern-flank/",
-    "image": "https://defence-industry.eu/wp-content/uploads/2026/08/Turkish-Air-Force-deploys-F-16-fighters-to-Latvia-demonstrating-Baltic-Air-Policing-readiness-across-NATOs-eastern-flank.jpeg",
-    "timestamp": 1787994014000,
-    "source": "Defence Industry Europe",
-    "publisher_id": "defence-industry.eu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOamR6ZVk0TVpsQWVvU2xtM2lBWGdaOHZlWjBrUy1NRkZnUXFDSkdRWEpSaUhMRkZxWS03Rmt1b25OaXpBQUVQTE5hSFBMQjhKVW9hOVVTTHBFU3VkckhRZWFGaW9LZGpUT1R0WHN1NFF0a09rX1docGtES01TNEF1VTZoSUh5VU14SFpEZDdHemdjUlU0Z1pIdkRScXIyWjJLRE1UcXREQktZM0NwcnR1djFnUmJRUTlGU0xlTEdSVmtYREFQQWh5MnRaWDh1cVhQNzNDZEZja2VJLURWck40LUZKOA?oc=5",
-    "rssid": "laN092",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Latvia",
-    "likes": 0,
-    "comments": 0
   }
 ]

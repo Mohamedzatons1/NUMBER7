@@ -1233,43 +1233,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/economy/article/rkv0hxl00ml",
-    "title": "למדו מהישראלים? הקומבינה שתעקוף את קטאר כדי לייצר רכיבי כיפת ברזל בגרמניה",
-    "description": "למדו מהישראלים? הקומבינה שתעקוף את קטאר כדי לייצר רכיבי כיפת ברזל בגרמניה  ynet",
-    "url": "https://www.ynet.co.il/economy/article/rkv0hxl00ml",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/SJbZWEeuGl/SJbZWEeuGl_43_0_2900_1631_0_large.jpg",
-    "timestamp": 1787998943000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2aExodDZnM210dy1sNGswLVJOMVR4R1JMN3MtVGEwaFpOMk54SzB0c2lLd0M2XzZtUkNYODhjOExJeXdrWnl2MlpmNFhaYlBrNElUYVBWRl9EcDMtVTJV?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/world-news/europe/article/21304066",
-    "title": "כיפת ברזל בדרך לייצור בגרמניה - למרות הווטו הקטארי",
-    "description": "כיפת ברזל בדרך לייצור בגרמניה - למרות הווטו הקטארי  היום",
-    "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21304066",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2026/03/20/20/רגילה-אגף-דוברות-וקשרי-ציבור-במשרד-הביטחון-1280x853.jpg",
-    "timestamp": 1787995165000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvZy0yNDNwUGNmTTVtQ3I5elFIVU15VzQ1d3gyTmo1RzdHSkVBU3BnOVhieGNEd0VfYjljWFFqMUxHTW9iY0l2SjRIWUpDa1YyTGViSFh6YmZBeWFNQkI2UGxpTU5wSkZKLTdrRFFMQ0wyQVVMMFAwQdIBgAFBVV95cUxPQ2ppZmZwZUNwX3pmTGV3Vnp1QmZPTlNCMnpfaFdFQkRnM29wRnJ6bkxCRlVzeTJhQy1vNTdYN1NWdkUzRzRWUFY2TTFHcC1kbzllbFhtUDZ4LVgzYWZheHBOLWtzZVN6RzJ4N2RyQ0xZZGVfeGdXTUhoUXhURHREdQ?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -2734,43 +2734,5 @@
     "extra": "Italy",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cnn.com/2026/08/29/travel/travel-news-italian-pastry-frenzy",
-    "title": "The Italian pastry that’s caused a frenzy",
-    "description": "The Italian pastry that’s caused a frenzy  CNN",
-    "url": "https://www.cnn.com/2026/08/29/travel/travel-news-italian-pastry-frenzy",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/2hcegw5-20260828125404085.jpg?c=16x9&q=w_800,c_fill",
-    "timestamp": 1788001229000,
-    "source": "CNN",
-    "publisher_id": "www.cnn.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRzlINllkQms2UDNIYTlWR1IxWmJhLUtEU0FNN1dmTmdZcHRoUFYzQ25meHNsZElNc0J4OFBhazZ4WEJucmc2aGp1bTlGN1RYYThTMngtSVZrWGRwZUs0Y29BOTNnX3JRcXBmWUVUR01pWTh4S1pCS21BMA?oc=5",
-    "rssid": "laN082",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.nationalreview.com/2026/08/seeing-italy-for-the-first-time/",
-    "title": "Seeing Italy for the First Time",
-    "description": "Seeing Italy for the First Time  National Review",
-    "url": "https://www.nationalreview.com/2026/08/seeing-italy-for-the-first-time/",
-    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/pantheon.jpg?fit=2057%2C1200&ssl=1",
-    "timestamp": 1787999403000,
-    "source": "National Review",
-    "publisher_id": "www.nationalreview.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvamlqSHByb3dZa1FGNzhKZ2x5bDZBQ2FNcnlJb1FPNk4zNE9jWHNEYVg2ejFRY1V5NU5hRV9iVlhGSlJBYWRTZ1ZHeENvd3pGZUFGcmhGdkgwQjhiVGU1Q2hVNjBKVzZOSzF2VWhXV202cDdxYjBZQ3ZqY9IBgAFBVV95cUxPV3BSSG81SkhGYmRXblRVTjRYS2lBam1WSWdpN1huTS16Njc3SVBROFV5dmlyTlB3elBUcTlkWm1ud05QbjdlbEtZWEVvZWZZa1hqNVV6Vlp0UGNUT0ZDNUlzWHhhSGpSTXJ3Nll6Qkh3Y2s5cTBEVWhTU1hUcjZXUw?oc=5",
-    "rssid": "laN082",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Italy",
-    "likes": 0,
-    "comments": 0
   }
 ]
