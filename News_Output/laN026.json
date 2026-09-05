@@ -1442,24 +1442,5 @@
     "extra": "Bulgaria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://bnrnews.bg/en/post/521734/balkan-developments",
-    "title": "Balkan developments",
-    "description": "Balkan developments  БНР Новини",
-    "url": "https://bnrnews.bg/en/post/521734/balkan-developments",
-    "image": "https://bnrnews.bg/api/media/0e503bb3-0912-49ff-af4d-54b8408b1b9d?Size=large",
-    "timestamp": 1788031045000,
-    "source": "БНР Новини",
-    "publisher_id": "bnrnews.bg",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50bUFhTzU0N1Jod01iTVQ2TDFsazlOTUNKb3Y4UEdHZWNiRFMyZUg2Mkp1MVlGZTBTMjBtN3BGZ2VlSnN5RzEyamtMdlNWeUE4cXk0Zmh2UkNMbFdGSEd3WmN3dw?oc=5",
-    "rssid": "laN026",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bulgaria",
-    "likes": 0,
-    "comments": 0
   }
 ]
