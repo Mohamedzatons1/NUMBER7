@@ -720,24 +720,5 @@
     "extra": "Luxembourg",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://today.rtl.lu/news/science-and-environment/the-september-night-sky-in-luxembourg-1030634542",
-    "title": "Darkness returns: The September night sky in Luxembourg",
-    "description": "Darkness returns: The September night sky in Luxembourg  RTL Today",
-    "url": "https://today.rtl.lu/news/science-and-environment/the-september-night-sky-in-luxembourg-1030634542",
-    "image": "https://static-prod.rtl.lu/dims4/default/891751b/2147483647/strip/true/crop/1920x1081+0+100/resize/1224x689!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2Fb4%2F72%2F3be7cb654c07b0933b46d4f57193%2Fae039198-1d87-4c08-ae58-6797e096cf02.jpg",
-    "timestamp": 1788070132000,
-    "source": "RTL Today",
-    "publisher_id": "today.rtl.lu",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUFqR0s3UGo1QlYwZ1lMMl9aUzdSY2stbWJybXB5NV9MazRYa1o1dnoxcno5UjJQZE54aUkxOEd3aGw3c0ZCNDFidlhMeGd5RDVILXdCSEN2MGc1OFBHTk9LRDllQ3FMR25QcmU2RTREbHNhaHVyUHdVbk5XQjU1bWotRF9fTkl6QS1vNi1yMzB6ZHJNSE5BVmdyYWpTTm8?oc=5",
-    "rssid": "laN099",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Luxembourg",
-    "likes": 0,
-    "comments": 0
   }
 ]
