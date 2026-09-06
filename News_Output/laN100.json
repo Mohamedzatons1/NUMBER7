@@ -473,43 +473,5 @@
     "extra": "Madagascar",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "http://www.sciencedaily.com/releases/2026/08/260828082347.htm",
-    "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-    "description": "Seven new frog species were hiding beneath Madagascar’s forest floor  Science Daily",
-    "url": "http://www.sciencedaily.com/releases/2026/08/260828082347.htm",
-    "image": "https://www.sciencedaily.com/images/1920/diamond-frog-rhombophryne-mavokely.webp",
-    "timestamp": 1788085849000,
-    "source": "Science Daily",
-    "publisher_id": "www.sciencedaily.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EbDlTSFB6aFlEcjRDSDc4TTJFX2FoY1h2a1dZa0RuZjU3Zm9kMjhBVVFvM2pLaTVSMl96bGdoVFRHR3NHVnEyazVVY2k0ZG84c3FJTXRrT2FYZGZRQk56TlhLZ3lFTk5ObU1LbTdn?oc=5",
-    "rssid": "laN100",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Madagascar",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
-    "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-    "description": "Seven new frog species were hiding beneath Madagascar’s forest floor  Science Daily",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
-    "image": "https://www.sciencedaily.com/images/1920/diamond-frog-rhombophryne-mavokely.webp",
-    "timestamp": 1788085849000,
-    "source": "Science Daily",
-    "publisher_id": "www.sciencedaily.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XM0ZSMnFJeU54MDVjc1BDTE5TU2F2TWZzdjFCUHdrX3ZQSzdjenJwNEZacnhvMWlETWtmTldJSGxaenE2QUExc0tFdWdsYjNScno4cHYxclJqeUlYOUZJZTktUFdCSlJ5ODJ6anJpUQ?oc=5",
-    "rssid": "laN100",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Madagascar",
-    "likes": 0,
-    "comments": 0
   }
 ]
