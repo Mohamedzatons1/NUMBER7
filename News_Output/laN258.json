@@ -1233,43 +1233,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/byop711udzx",
-    "title": "בגרמניה היללו את הטיל הימי הישראלי ל-500 ק\"מ: \"להרתיע את מחרחר המלחמה פוטין\"",
-    "description": "בגרמניה היללו את הטיל הימי הישראלי ל-500 ק\"מ: \"להרתיע את מחרחר המלחמה פוטין\"  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/byop711udzx",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/06/02/10007551/10007551_0_0_640_360_0_large.jpg",
-    "timestamp": 1788385710000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoNkx1dVdMRS1zWUZpNlBiQ0dDZmxYMmJqY1J1TnZad3hCS0VfeGQyWmRJQTI5R1lrODNnVmV1YWl1NzF6RVJ0VFpUd1pISWxhUXNuaGEyRFZORWs?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/yedioth/article/yokra14886788",
-    "title": "גרמניה על הקצה",
-    "description": "גרמניה על הקצה  ynet",
-    "url": "https://www.ynet.co.il/yedioth/article/yokra14886788",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/yk14887618/yk14887618_0_0_933_563_0_large.jpg",
-    "timestamp": 1788382800000,
-    "source": "ynet",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVeW81Z0l6dTdQc0F4TjBpendnclVIOFB3blRNdW84OUVVZVVDM2RHR0lJeTlLYndwcVl2QnBDQllyNjIxQkQydXV5QXlBeFVqNWVqSlJJWi1ZRTl4a19JalZ3?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]

@@ -188,43 +188,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/001-D-523185-00.html",
-    "title": "הממשל בארה\"ב: שימוש בתכני עיתון לאימון בינה מלאכותית - אינטרס לאומי",
-    "description": "הממשל בארה\"ב: שימוש בתכני עיתון לאימון בינה מלאכותית - אינטרס לאומי  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/001-D-523185-00.html",
-    "image": "https://media.news1.co.il/thumbs/480/NEWSY20bcbc68e827e14d30bc9da4d6b7d2e473.jpg",
-    "timestamp": 1788379304000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWUGs1czFBeUxlaEx3N2c5SmRxMW5CZTh1OXV4aUZfUU1Bb3ZFMjB5SG5NWXhFdjJ4d1I5WktlU2NOZ3hNX0FKakpETzdDVEkyRkRXbzNHd3hLRlZRQnJlYkZB?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/world-news/usa/article/21342726",
-    "title": "\"אחד האנשים החכמים ביותר שפגשתי\": החיבוק הישראלי לסגן הנשיא וואנס",
-    "description": "\"אחד האנשים החכמים ביותר שפגשתי\": החיבוק הישראלי לסגן הנשיא וואנס  היום",
-    "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21342726",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2026/06/18/18/רגילה-REUTERS-1280x853.jpg",
-    "timestamp": 1788378051000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtZzF1eDBncEFtNnhYM3phVzdlZExMVTRtV09nU2RVS05MWkpkenQtcFRyUDJkQkxBRE9KREtiVG8tcDZLQ1RfamQ3aVp6ampCOGx0YW8wUFVCSEtVQWpsTDd1S3NQYkt4MWdPNHdSRTRzOGRM0gF8QVVfeXFMUGIzNmJOVHpYWVMwTmdHNEVmTk43d0N6RHdFb3VPMEFTMmdUQlRyenZRcWEyWExOSF85cEZjOFBzazhsRFExM0JEOTFrSDd2eGxlaFI0VnZobEdSRk9LbFZVQWxPNl9qR2VXUHBUWlM3dWNWT1pHTW51a3RfMA?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
