@@ -207,24 +207,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.news1.co.il/Archive/001-D-523276-00.html",
-    "title": "שליחי הנשיא טראמפ בדרך למוסקבה ולקייב להפסקת המלחמה",
-    "description": "שליחי הנשיא טראמפ בדרך למוסקבה ולקייב להפסקת המלחמה  News1 מחלקה ראשונה",
-    "url": "https://www.news1.co.il/Archive/001-D-523276-00.html",
-    "image": "https://media.news1.co.il/UploadImages/NEWSY20882bf10e0e68432b965c5d9e11d197d2.jpg",
-    "timestamp": 1788538031000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "www.news1.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zOWlDc3FMSjlRYkVvS2J0UjcxMlgycS1scXdrSWRGdU5ZLWxqXzQtcTgyRXRJZlBwRzJsNm9ienpHYzN3YVN1MDROTFJKaWFwWXd3ZlN5ZW9vRV8zVHVFcll3?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
