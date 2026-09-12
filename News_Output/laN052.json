@@ -2430,43 +2430,5 @@
     "extra": "Egypt",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5y7gk9knnlo",
-    "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-    "description": "TV presenter among 11 sentenced to death in Egypt drugs case  BBC",
-    "url": "https://www.bbc.com/news/articles/c5y7gk9knnlo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
-    "timestamp": 1788643778000,
-    "source": "BBC",
-    "publisher_id": "www.bbc.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01dmJFQXd1VFdYQmtvU2p0OGJmemowaUVHZTItYjlHN0xMU1E1TE0xc2J2WlJ0X1hHU0UzaTNkLVhMVnQ0SlpsLTkySnliNTg4Ym9HanNnenFvZw?oc=5",
-    "rssid": "laN052",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/entertainment/tv/articles/egyptian-tv-presenter-sentenced-death-203524921.html",
-    "title": "Egyptian TV Presenter Sentenced to Death in Massive Drug Case",
-    "description": "Egyptian TV Presenter Sentenced to Death in Massive Drug Case  Yahoo",
-    "url": "https://www.yahoo.com/entertainment/tv/articles/egyptian-tv-presenter-sentenced-death-203524921.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/a8a2368fef2736139387773f965e387142740e5cea4325ea5d0e00b03eac5fa0/lightyear_networkapi/resizefill_w666_h744%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhere_is_the_buzz_814%2F787dd121ddd321c190f92a3494052a6d.jpg",
-    "timestamp": 1788640524000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHg4TGs1YjZ6em1KcWl2bDNSTXRiQXlVTUVSTzV2Z2xYYzljekV5OVl6UFFMN1dqS1p6UnZxXy1FSngyRWQ0VEYyN1dFT3ZXbWppc3l1dkVIeHRZM0JoSlVJZzRxRG16MzlpRUlnM3VRRDF1MTBBUnJBMVpwZzhWTXFURTJuUngyOWVnLVdkcmxOSnF0dXB5bHh4UW5qLVJtTHc?oc=5",
-    "rssid": "laN052",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Egypt",
-    "likes": 0,
-    "comments": 0
   }
 ]
