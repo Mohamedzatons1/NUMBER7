@@ -55,43 +55,5 @@
     "extra": "Greece",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JSnZXUEwwc0x2alN5V3ZYRGNBVGRsLUpmREFBdkk4bWliNXZzWmZhNWZOOXdkN25ObVZUb3JtRHM5NFQ3RVNMa1RrYWZFWlFCRGs4SElQRl9BSHZGVU51NmtR?oc=5",
-    "title": "כדור אש לעיני אלפים: מטוס קרב התרסק ביוון, הטייסים נהרגו",
-    "description": "כדור אש לעיני אלפים: מטוס קרב התרסק ביוון, הטייסים נהרגו  רשת 13",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JSnZXUEwwc0x2alN5V3ZYRGNBVGRsLUpmREFBdkk4bWliNXZzWmZhNWZOOXdkN25ObVZUb3JtRHM5NFQ3RVNMa1RrYWZFWlFCRGs4SElQRl9BSHZGVU51NmtR?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1788620554000,
-    "source": "רשת 13",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JSnZXUEwwc0x2alN5V3ZYRGNBVGRsLUpmREFBdkk4bWliNXZzWmZhNWZOOXdkN25ObVZUb3JtRHM5NFQ3RVNMa1RrYWZFWlFCRGs4SElQRl9BSHZGVU51NmtR?oc=5",
-    "rssid": "laN260",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Greece",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.walla.co.il/item/3865720",
-    "title": "דרמה ביוון: מטוס פנטום התרסק לעיני אלפים במהלך מפגן אווירי",
-    "description": "דרמה ביוון: מטוס פנטום התרסק לעיני אלפים במהלך מפגן אווירי  וואלה חדשות",
-    "url": "https://news.walla.co.il/item/3865720",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/0/9/6/4096906-46.jpg",
-    "timestamp": 1788615180000,
-    "source": "וואלה חדשות",
-    "publisher_id": "news.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aMVYxVU5Jb0ExdmtnRDJiYmRpWHQ5RW9vMnNxUllhQ2h4TEY2ME1vNHpXdjVRbmloTHBDQ0lzbzBzNnZsdXgyQjdFaVFtdw?oc=5",
-    "rssid": "laN260",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Greece",
-    "likes": 0,
-    "comments": 0
   }
 ]
