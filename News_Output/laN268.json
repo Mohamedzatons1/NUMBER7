@@ -131,43 +131,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.israelhayom.co.il/news/world-news/europe/article/21374919",
-    "title": "התחרות המוזרה שהתקיימה בבית עלמין בהונגריה",
-    "description": "התחרות המוזרה שהתקיימה בבית עלמין בהונגריה  היום",
-    "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21374919",
-    "image": "https://www.israelhayom.co.il/wp-content/uploads/2026/09/07/wirestory_6e8dd952bec0d1a244eb0194a397d2bf_16x9-1280x853.jpeg",
-    "timestamp": 1788800541000,
-    "source": "היום",
-    "publisher_id": "www.israelhayom.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jUXZsaU94THVlZmJyZUhrOUdVbmpSZWtRblRBaWE3N0NOTkhrTVNldGtheGM4YmQ0N2czUGY3UGFVdXJ6SnVPQWFTdXc1RExiS2hQRUtWNTBpZEtfNVR0ZldjdnVXQXMtYU9ZRjg0bS1CR2NLdGJxRdIBgAFBVV95cUxQaWN6aUk3azhYSUhvcFh5UmN5MFVMUjRZbDUzV00wb05sUkg1VTlnSnhBSmVtUUlqSVZKMkRxVS1tLTVIWEpsd25qU3B4ZFQzNG5qMHhRZ3VvV25QWWVpbFZSWkxFbkZ6c083V0V6MmlobmpIOGMxanB2djA0WUFFSg?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.inn.co.il/news/705743",
-    "title": "אחרי חילופי השלטון בהונגריה: בחב\"ד אופטימיים לגבי היחסים עם הממשל החדש",
-    "description": "אחרי חילופי השלטון בהונגריה: בחב\"ד אופטימיים לגבי היחסים עם הממשל החדש  ערוץ 7",
-    "url": "https://www.inn.co.il/news/705743",
-    "image": "https://2.a7.org/files/pictures/000/1225354.jpg",
-    "timestamp": 1788796298000,
-    "source": "ערוץ 7",
-    "publisher_id": "www.inn.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uM0RIME1BZmprdDBlNUVPeXNSOWVBT1k0U1ZIazYtUF85cFhVdjQ3WVp0TUlFTFlCWDNDVlE3SFMxRnFqOEpNeA?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]
