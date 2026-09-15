@@ -131,43 +131,5 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/world/middle-east/2026-09-08/ty-article/.premium/000001a0-8297-de99-afab-af97e0510000",
-    "title": "איראן: תקפנו בסיס אמריקאי בירדן וספינות במפרץ בתגובה על תקיפת ארה\"ב",
-    "description": "איראן: תקפנו בסיס אמריקאי בירדן וספינות במפרץ בתגובה על תקיפת ארה\"ב  הארץ",
-    "url": "https://www.haaretz.co.il/news/world/middle-east/2026-09-08/ty-article/.premium/000001a0-8297-de99-afab-af97e0510000",
-    "image": "https://img.haarets.co.il/bs/000001a0-8297-de99-afab-af97e0510000/e0/b8/d1c55b6f4456a64d95147aca1189/320848.jpg?precrop=2324,1351,x64,y0&width=1200&height=630&cmsprod",
-    "timestamp": 1788898500000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHEtcm9EcG9XNkxtSU9aS2VVOC1HYzVBUTkyV0o0ZW92WnVtZEpWTXhpVWgwRWtKREZhNHJXU1J2aHpDbmtyajk4UUZCTi1adXdGNzJsalkyN2RJTlhnX3VfcDdQeFNRUzlrUEQtQ083ZHMyaEpLWjFJVGU5a3FETms5dU5YOHhDQksyT0tZUEItRktmVjhSRWQ0LWZrY1daTnp2UUpRR3RzRXpETENqLXlSRy1Pek0?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mdTRJOFc2ZHRkZkhJcDJ6WjB6a3dhTjVvRHM5SFRwWklsN1lyejJRQWx6N1EzcVBCT1lBMmpNSVA2aTNLanliRGxmbzJ4UVczM3lYX0JTaDJ2dm1xbUNMZ0VR?oc=5",
-    "title": "נשיא רוסיה שוחח עם נשיא ארצות הברית במשך שעה",
-    "description": "נשיא רוסיה שוחח עם נשיא ארצות הברית במשך שעה  News1 מחלקה ראשונה",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mdTRJOFc2ZHRkZkhJcDJ6WjB6a3dhTjVvRHM5SFRwWklsN1lyejJRQWx6N1EzcVBCT1lBMmpNSVA2aTNLanliRGxmbzJ4UVczM3lYX0JTaDJ2dm1xbUNMZ0VR?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1788887639000,
-    "source": "News1 מחלקה ראשונה",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mdTRJOFc2ZHRkZkhJcDJ6WjB6a3dhTjVvRHM5SFRwWklsN1lyejJRQWx6N1EzcVBCT1lBMmpNSVA2aTNLanliRGxmbzJ4UVczM3lYX0JTaDJ2dm1xbUNMZ0VR?oc=5",
-    "rssid": "laN377",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "United States",
-    "likes": 0,
-    "comments": 0
   }
 ]
