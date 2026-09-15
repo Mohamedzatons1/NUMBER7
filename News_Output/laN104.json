@@ -739,43 +739,5 @@
     "extra": "Mali",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "title": "Inside the Arm Mali G2-Ultra NX GPU: Delivering desktop-class mobile gameplay with AI-native graphics",
-    "description": "Inside the Arm Mali G2-Ultra NX GPU: Delivering desktop-class mobile gameplay with AI-native graphics  newsroom.arm.com",
-    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/Arm-Newsroom-AI-native-graphics-image-1600x900-1.jpg",
-    "timestamp": 1788832965000,
-    "source": "newsroom.arm.com",
-    "publisher_id": "newsroom.arm.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUUxqZS1wUTRCbW5sUUZZbnlFem90cWY1Ql9aZmU5bVlHWWdPczV5eXpzenlSMi1KdE1WbWFPR2hIbW5aSjNXRVQ4eHFCb3Zvb3MybGtUWDNEUjhseUFLQTd2QzEwc2FRRmRMWVJ0R21WdFVqMDJoNEpIZUVFTVRvckJ3?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.notebookcheck.net/Arm-C2-Ultra-and-Mali-G2-Ultra-NX-debut-with-major-CPU-GPU-and-ray-tracing-upgrades.1392411.0.html",
-    "title": "Arm C2-Ultra and Mali G2-Ultra NX debut with major CPU, GPU and ray tracing upgrades",
-    "description": "Arm C2-Ultra and Mali G2-Ultra NX debut with major CPU, GPU and ray tracing upgrades  Notebookcheck",
-    "url": "https://www.notebookcheck.net/Arm-C2-Ultra-and-Mali-G2-Ultra-NX-debut-with-major-CPU-GPU-and-ray-tracing-upgrades.1392411.0.html",
-    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Arm-C2-Ultra-and-Mali-G2-Ultra.png",
-    "timestamp": 1788832800000,
-    "source": "Notebookcheck",
-    "publisher_id": "www.notebookcheck.net",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFlPTVFDRHUzdkVZUUpaREVPV1VISVBaTUhJcXA2eVpVc3lsSWJ4YVZacnpRblFjVVhNTURyendNWGZWZkJyLUFVS0Q1bkFGWjl0QkFkR09iRTdvOVYyTktNQmpHa3JYWXhLUmZFc2M1TnQ3ekFGN2k3MThwV1VCQnVjNmpoSGNOR0pia1YzOENiN0NxWWdzQWdCWlVNcC1KWUxQb2hqYVc2RVVJbXN3NHhnekJJcTUzMjU4WXNiaW9uTDlCTnJn?oc=5",
-    "rssid": "laN104",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Mali",
-    "likes": 0,
-    "comments": 0
   }
 ]
