@@ -1898,43 +1898,5 @@
     "extra": "India",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://finance.yahoo.com/healthcare/articles/novartis-india-acquires-pfizer-brands-085150122.html",
-    "title": "Novartis India acquires Pfizer brands for $132m",
-    "description": "Novartis India acquires Pfizer brands for $132m  Yahoo Finance",
-    "url": "https://finance.yahoo.com/healthcare/articles/novartis-india-acquires-pfizer-brands-085150122.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/00302443274109ddc05917cb3bc54d3148091e6e81638d9806cf32c1d0fecdff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpharmaceutical_technology_376%2Ff90d5cf47b7336a026eeb8f41d08061c.jpg",
-    "timestamp": 1788857510000,
-    "source": "Yahoo Finance",
-    "publisher_id": "finance.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjVuOFNaOXpIdHZZdlA1Y25JVkxGeDJSZ0pOYzhJcVQ2NkpLR2pPUEpVbHVnRnRYR096aGhiOFh6RUtKc3hTYmpsS2hfZnFUSmZMd3VUUTRzSlpLV2NuMHJmWExpR1dDajQ0YlM1ZEtBXzM5UkpTbDRIVE5vbm9vTjdxel9XLTU3Rm5sX0Nhb1ZXdFFDVW5KOEFKZVozbm8?oc=5",
-    "rssid": "laN077",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/sep/07/why-indias-economic-data-faces-a-trust-deficit",
-    "title": "‘Trust deficit’: Why India’s economic data has sparked a furore",
-    "description": "‘Trust deficit’: Why India’s economic data has sparked a furore  The Guardian",
-    "url": "https://www.theguardian.com/world/2026/sep/07/why-indias-economic-data-faces-a-trust-deficit",
-    "image": "https://i.guim.co.uk/img/media/1dfd03951ba95abbf3282dfaa49ef905785af77a/473_0_4722_3779/master/4722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d14f8d1a10dbaedef6ef0501f5fe440",
-    "timestamp": 1788855120000,
-    "source": "The Guardian",
-    "publisher_id": "www.theguardian.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEpIeGdCRXNuS1ZUeDZIX2lYT3FMRE5WVVBNNXFLUGVWbFRLRzJZTURQejhqbXJmWjBnTG9XNzhWdGs4RXVrRmJZTW1CTUVqdWwteWg1U2ZaYUZEUWJIaVV2eWxIRlRmQkItbGRXNFpsTUxhdXlyVWtvQXZZcUk4WkhEdmVGcXRnR1VPRXRlTEtadkZxVmpv?oc=5",
-    "rssid": "laN077",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "India",
-    "likes": 0,
-    "comments": 0
   }
 ]
