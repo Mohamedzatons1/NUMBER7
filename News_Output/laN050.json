@@ -1005,24 +1005,5 @@
     "extra": "Dominican Republic",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.cbc.ca/player/play/video/9.7317590",
-    "title": "NORCECA Men's Continental Championship and Olympic Qualifier: USA vs Dominican Republic",
-    "description": "NORCECA Men's Continental Championship and Olympic Qualifier: USA vs Dominican Republic  CBC",
-    "url": "https://www.cbc.ca/player/play/video/9.7317590",
-    "image": "https://i.cbc.ca/ais/2371dec6-924f-4bc5-988f-339c4472a47b,1787843433386/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "timestamp": 1789084934000,
-    "source": "CBC",
-    "publisher_id": "www.cbc.ca",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiVDdNLThBUmtuX010Ym9ERXktSExPTktvTGlva3lJZjFsRms5UzlLdk9BWUNWRHptOThZV0lXNmNZVDA5R3RoWHcxejlsSzQ4cmM4cV83MWZNUQ?oc=5",
-    "rssid": "laN050",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Dominican Republic",
-    "likes": 0,
-    "comments": 0
   }
 ]
