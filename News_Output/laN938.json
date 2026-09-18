@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://www.tvnet.lv/8548837/zviedrija-komente-latvijas-lemumu-atteikties-no-archer-iegades",
+    "title": "Zviedrija komentē Latvijas lēmumu atteikties no \"Archer\" iegādes",
+    "description": "Zviedrija komentē Latvijas lēmumu atteikties no \"Archer\" iegādes  tvnet.lv",
+    "url": "https://www.tvnet.lv/8548837/zviedrija-komente-latvijas-lemumu-atteikties-no-archer-iegades",
+    "image": "https://f9.pmo.ee/1m6v_MoonKCw7jaWvNQ1FaW4ptg=/1200x630/filters:watermark(https://f.pmo.ee//logos/4133/bb989514d16b88b940b51f02e07642d0.png,-2p,-2p,0,18,none):format(webp)/nginx/o/2026/09/18/17926325t1h25dc.jpg",
+    "timestamp": 1789754533000,
+    "source": "tvnet.lv",
+    "publisher_id": "www.tvnet.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTmlGUV9qYWdUYnlaZ2xYR2V2RVdxMTFqRnotbGg1dWl3MkVGTFhURjlwbnhfY0hrbF9XVnFOTTYtZmtVVTBHTU5wU1k5TUxmcnNrNWNMaDZNaF91c1N6cE5qb1o2YWJoSEx3ekJjcW5RNGxHenl4Mjk3Sk5rcTF2SzZLd1hqb0N3aTFoTkNEYzZPajNwTFE?oc=5",
+    "rssid": "laN938",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Sweden",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.inbox.lv/150qpiu-sweden-tight-election-puts-all-eyes-on-the-far-right?language=lv",
+    "title": "Sweden: Tight election puts all eyes on the far right",
+    "description": "Sweden: Tight election puts all eyes on the far right  Inbox.lv",
+    "url": "https://news.inbox.lv/150qpiu-sweden-tight-election-puts-all-eyes-on-the-far-right?language=lv",
+    "image": "https://news.inbox.eu/w/img/fe/82/fe82bbc5aab24877a2.jpg",
+    "timestamp": 1789665226000,
+    "source": "Inbox.lv",
+    "publisher_id": "news.inbox.lv",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGpZZ0ZLWnFVZUdYRXd0MzRJY0YtRDViTnQtOURMNDBnc2hRUE8yRUZWTGF4SFRTcHhEX090SVBtd1M3cVhtN3lMTFAtd25wU2pqc3pwVm00cmZ4d25OQ1FNRE41Y1dsbnlLNGlDMFRFUC1hUGx3WElCUENKOFJmYkUwcWhzYTh5ZGFEaExfa1lLVUtnNTZFUkhR?oc=5",
+    "rssid": "laN938",
+    "topic": "news",
+    "lang": "general",
+    "category": "اللاتفية",
+    "extra": "Sweden",
+    "likes": 0,
+    "comments": 0
+  }
+]
