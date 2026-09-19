@@ -93,43 +93,5 @@
     "extra": "Hungary",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/world/europe/2026-09-12/ty-article/.premium/000001a0-967c-da24-a3f7-b77fbb160000",
-    "title": "הונגריה תבטל חוק מתקופת אורבן שמנע מזוגות להט\"ב לאמץ ילדים",
-    "description": "הונגריה תבטל חוק מתקופת אורבן שמנע מזוגות להט\"ב לאמץ ילדים  הארץ",
-    "url": "https://www.haaretz.co.il/news/world/europe/2026-09-12/ty-article/.premium/000001a0-967c-da24-a3f7-b77fbb160000",
-    "image": "https://img.haarets.co.il/bs/000001a0-967c-da24-a3f7-b77fbb160000/75/44/61abe1c64e30b24e4426e5051d26/886208-2.jpg?precrop=2400,1395,x0,y22&width=1200&height=630&cmsprod",
-    "timestamp": 1789235460000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGJjWkh1SGFpanlWWmxEY0NpcjhwV0Z5bXh6Wk4xcjY0ak5XbVplbmUwd0s3WFZPWDZLcm0zMHRsYnNrcmgyN0MyQ0NLVTF0SUVsNHNSWFlFX0lFMnc2d3NLZnI0RXpCd0M2WTRsRS11elp2RDJlWXhvSkw5eklPX2lLbmJET2tpbFVCUl9VN25pZWVFY09uUUlESjE0VjQ1ZWxzRWVhWkRtNmVFbFVCMQ?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/r1arlxqtzg",
-    "title": "ר\"מ הונגריה הצהיר: נשנה את החוק שאוסר על זוגות חד-מיניים לאמץ ילדים",
-    "description": "ר\"מ הונגריה הצהיר: נשנה את החוק שאוסר על זוגות חד-מיניים לאמץ ילדים  YNET",
-    "url": "https://www.ynet.co.il/news/article/r1arlxqtzg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/By2b7xQtfe/By2b7xQtfe_0_0_850_479_0_large.jpg",
-    "timestamp": 1789228306000,
-    "source": "YNET",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnVU1Qd3Y4NVQ0WjNIa2VKcFY5eldiRDcwNmloQVNTQjdBQks2NTBBRzBrU1VpOXdmV3E1WXZVUVljd2l4bGJ2SXB6aHJMaWZBRHFaV0sxQVlrQQ?oc=5",
-    "rssid": "laN268",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Hungary",
-    "likes": 0,
-    "comments": 0
   }
 ]

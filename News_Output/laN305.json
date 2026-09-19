@@ -74,43 +74,5 @@
     "extra": "Monaco",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://sports.walla.co.il/item/3867365",
-    "title": "למרות שער מרהיב של פריס ברונר: מונאקו כבר לא מושלמת",
-    "description": "למרות שער מרהיב של פריס ברונר: מונאקו כבר לא מושלמת  וואלה ספורט",
-    "url": "https://sports.walla.co.il/item/3867365",
-    "image": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/4/1/0/0/4100295-46.jpg",
-    "timestamp": 1789233420000,
-    "source": "וואלה ספורט",
-    "publisher_id": "sports.walla.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeG9rbmhoc0pyNm9kTFRGNTdXNWFyQUlyNkJTWHZKVG9VamxxUV83cnJWOEx3NG9tdHJXc2hFOUV6S0tnR0VmVEUyakRaaVpX?oc=5",
-    "rssid": "laN305",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Monaco",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.sport5.co.il/articles.aspx?FolderID=496&docID=560504",
-    "title": "צפו: שער ענק נוסף לברונר, מונאקו נעצרה",
-    "description": "צפו: שער ענק נוסף לברונר, מונאקו נעצרה  Sport5",
-    "url": "https://www.sport5.co.il/articles.aspx?FolderID=496&docID=560504",
-    "image": "https://www.sport5.co.il/Sip_Storage/FILES/0/size944x700/1774750.jpg",
-    "timestamp": 1789233180000,
-    "source": "Sport5",
-    "publisher_id": "www.sport5.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxTEljWkZGMk1ILXRlc1NzQm5mdWNkNkFmazN2cXhDWU91OXhxTHZXb2l6UE1RQXMwN2JUTWF3MHhUbnFxZEhyTHZ6NDRFTVpQOTlSTkpsV1RXWTA5Q0ljbGQ0MlNMWGsxNV9TRHl2SHV0UQ?oc=5",
-    "rssid": "laN305",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Monaco",
-    "likes": 0,
-    "comments": 0
   }
 ]
