@@ -1385,43 +1385,5 @@
     "extra": "Lebanon",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.haaretz.co.il/news/politics/2026-09-12/ty-article/.premium/000001a0-9392-d388-a7ec-d39a4c620000",
-    "title": "דיווח: נדחו השיחות בין ישראל ללבנון שתוכננו להתקיים בשבוע הבא ברומא",
-    "description": "דיווח: נדחו השיחות בין ישראל ללבנון שתוכננו להתקיים בשבוע הבא ברומא  הארץ",
-    "url": "https://www.haaretz.co.il/news/politics/2026-09-12/ty-article/.premium/000001a0-9392-d388-a7ec-d39a4c620000",
-    "image": "https://img.haarets.co.il/bs/000001a0-9392-d388-a7ec-d39a4c620000/22/21/14464fb14fff918d3d6c908365a1/387991.jpg?&width=1200&height=630&cmsprod",
-    "timestamp": 1789184940000,
-    "source": "הארץ",
-    "publisher_id": "www.haaretz.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV21zWTM2MUZuSE5lT25aVnZySU1iRFU0aXV2blp6QXlSbW05U0tGc0g1X3YtdEhWOGxBWEtBRzVDejJnMC1jSk54VXp5YTlZQ0tzc213RVNNVXItTDBmaFhqSERtWUJac3pjeEZESmNCS01QWjRZc2laLUZWZkg4RGlUeGoxRUZfUEttNHV2OWRGb0x0dkFjRzk3V2NxMVAyVGhlZDBEYnVwaFk?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/h188azmymg",
-    "title": "המו\"מ בין ישראל ללבנון ברומא נדחה לאוקטובר - זו הסיבה",
-    "description": "המו\"מ בין ישראל ללבנון ברומא נדחה לאוקטובר - זו הסיבה  YNET",
-    "url": "https://www.ynet.co.il/news/article/h188azmymg",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/14/HygvNyn2Wx/HygvNyn2Wx_0_148_3000_1688_0_large.jpg",
-    "timestamp": 1789171982000,
-    "source": "YNET",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwWnZRTGo5S1ZWcG1TbnBlQTB4RHRLRk9RLVlLQVo4TzlmenlGMWF4RTdWRGhBbWpUUjlIUHJoUkFtZHphRUk2ZjZZMmRrUFlNSWtBWkZPU1NSQQ?oc=5",
-    "rssid": "laN286",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Lebanon",
-    "likes": 0,
-    "comments": 0
   }
 ]
