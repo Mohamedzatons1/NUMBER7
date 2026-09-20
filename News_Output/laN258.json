@@ -929,43 +929,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.ynet.co.il/news/article/rycyqn4kml",
-    "title": "דיווח: בוריס ג'ונסון ויועצו של קנצלר גרמניה פונו מרכבת שנפגעה מכטב\"ם רוסי",
-    "description": "דיווח: בוריס ג'ונסון ויועצו של קנצלר גרמניה פונו מרכבת שנפגעה מכטב\"ם רוסי  ynet.co.il",
-    "url": "https://www.ynet.co.il/news/article/rycyqn4kml",
-    "image": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-    "timestamp": 1789310505000,
-    "source": "ynet.co.il",
-    "publisher_id": "www.ynet.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZ05LdGRsaDZndnJyMXBPWTV4LWxVVFVlSnFkS0VCdU1rMUlzY1BYMUNmMXZNZ29aS1BYOVhsYTNfLVJaSFpySUh6OE1GN2JOOWQyZEs5V19mZw?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://zoha.org.il/147980/",
-    "title": "מאות אלפים הפגינו נגד הפשיזם ברחבי גרמניה; איומים על מנהיגת הקהילה היהודית במינכן",
-    "description": "מאות אלפים הפגינו נגד הפשיזם ברחבי גרמניה; איומים על מנהיגת הקהילה היהודית במינכן  זו הדרך",
-    "url": "https://zoha.org.il/147980/",
-    "image": "https://zoha.org.il/wp-content/uploads/2026/09/WDOIUAS.png",
-    "timestamp": 1789297395000,
-    "source": "זו הדרך",
-    "publisher_id": "zoha.org.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1YcW5DUk1IbkNMWGx2QXhCc1Fkd1VCb2NhdXZvNnFuc1U4V0dXUGFJUkhWT2t3aHNBSDZaYmwzMEQ?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]

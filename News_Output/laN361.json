@@ -492,43 +492,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.maariv.co.il/news/world/article-1365885",
-    "title": "טורקיה מחריפה את הטון: \"ישראל תומכת בדאעש\"",
-    "description": "טורקיה מחריפה את הטון: \"ישראל תומכת בדאעש\"  maariv.co.il",
-    "url": "https://www.maariv.co.il/news/world/article-1365885",
-    "image": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,w_1200/1136075",
-    "timestamp": 1789309107000,
-    "source": "maariv.co.il",
-    "publisher_id": "www.maariv.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PemNHNVU3SEZEZG5NWUZQS19WV0dCN3NrMmd6cmZuVjQtcVhaZ3FmcHVsODB4N3lMeWVpVXpEb1JjRHc1ZGxGWlZhSHRIby1rblhveHIyNm9DSWpURDJkZQ?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.i24news.tv/he/news/news/defense-news/artc-f15811a3",
-    "title": "חדשות בזמן אמת, 13.09.2026 | עדכונים שוטפים",
-    "description": "חדשות בזמן אמת, 13.09.2026 | עדכונים שוטפים  i24NEWS",
-    "url": "https://www.i24news.tv/he/news/news/defense-news/artc-f15811a3",
-    "image": "https://cdn.i24news.tv/uploads/93/12/43/57/bf/2f/a1/11/2b/43/97/83/2d/95/ee/c0/93124357bf2fa1112b4397832d95eec0.jpg",
-    "timestamp": 1789305596000,
-    "source": "i24NEWS",
-    "publisher_id": "www.i24news.tv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01NE8zS2g3QzBkY1JaN3p2T1otMmlhNUdKYlAxNnNaMEV2bVpDa3VrMEh6d1k3aVBhcGladGotRVptcWVPei1mcXBGTU1JMWpwam43VFBJVlRMQ0x4UE12cEhsRkFYVFNMeEpyeFFYcw?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
