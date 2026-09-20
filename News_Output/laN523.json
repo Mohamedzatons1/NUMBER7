@@ -378,43 +378,5 @@
     "extra": "Poland",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.lrt.lt/naujienos/pasaulyje/6/3051045/rusu-dronas-atakavo-sunkvezimi-esanti-vos-uz-800-metru-nuo-lenkijos-sienos",
-    "title": "Rusų dronas atakavo sunkvežimį, esantį vos už 800 metrų nuo Lenkijos sienos",
-    "description": "Rusų dronas atakavo sunkvežimį, esantį vos už 800 metrų nuo Lenkijos sienos  LRT",
-    "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3051045/rusu-dronas-atakavo-sunkvezimi-esanti-vos-uz-800-metru-nuo-lenkijos-sienos",
-    "image": "https://www.lrt.lt/img/2026/09/13/2487503-301483-1287x836.jpg",
-    "timestamp": 1789293360000,
-    "source": "LRT",
-    "publisher_id": "www.lrt.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1k2VmU0TGx1a3UxcVZnbG4yMGdvcDJnWG5BdHBHX1djby0wMWxNNXRyVEl1T1BJRVRHWVZ3a3o2MVBkRDBaTkJhYXE4UVJkTXVHenRlaWp1RzFxNjFYLV9VUFhubHd6c1g1cmVGeXh6b19SV3lVanZ1dlpsS2FiczZMMWozNGFSU3hrelcwZml4RDhRdFB4b2NuTC02d1BJM2FlV2lvNmFlcGNHYm9sS3JtaUlQX1k1VjZxaV9NM0g?oc=5",
-    "rssid": "laN523",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Poland",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lt/naujienos/uzsienyje/rusu-dronas-smoge-visai-salia-lenkijos-sienos-120303584",
-    "title": "Rusų dronas smogė visai šalia Lenkijos sienos",
-    "description": "Rusų dronas smogė visai šalia Lenkijos sienos  delfi.lt",
-    "url": "https://www.delfi.lt/naujienos/uzsienyje/rusu-dronas-smoge-visai-salia-lenkijos-sienos-120303584",
-    "image": "https://images.delfi.lt/media-api-image-cropper/v1/92f54ef5-8663-4f0d-b28b-de92df1afd15.jpg?w=1200&h=800",
-    "timestamp": 1789290753000,
-    "source": "delfi.lt",
-    "publisher_id": "www.delfi.lt",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXpydVJwcHM2eUpsY3lzN0FfWDUyWkxzYkdJRDFhdEZEcGhjZzlweGhYd0FvS05oVXRIdnJmaGtqZHVsMzZERTdLT042ZC13a3dEalFxM0FRRndpX05UaUh3Z18ycWtUZVRqb2JMUGsxX3QzZlUyNVdzUzdtMUFITXdrdmRxVWJhbXdkSHZrVGJwVWgxUHhJbmEyUUw?oc=5",
-    "rssid": "laN523",
-    "topic": "news",
-    "lang": "general",
-    "category": "الليتوانية",
-    "extra": "Poland",
-    "likes": 0,
-    "comments": 0
   }
 ]
