@@ -131,43 +131,5 @@
     "extra": "Nauru",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://ua.news/en/world/nauru-vidkrilo-posolstvo-v-erusalimi-izrayil",
-    "title": "Nauru opens embassy in Jerusalem, Israel",
-    "description": "Nauru opens embassy in Jerusalem, Israel  UA.NEWS",
-    "url": "https://ua.news/en/world/nauru-vidkrilo-posolstvo-v-erusalimi-izrayil",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/nauru_vidkrilo_posolstvo_v_yerusalymi_1789344617476.webp",
-    "timestamp": 1789344912000,
-    "source": "UA.NEWS",
-    "publisher_id": "ua.news",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6TDNza0hib3BGRjV3TklmZkJTbXI3T3hXaVBKMmN2cGs3c3IxbGNQT3BXZXdSNHU4TzBzYzRCQnY5Y0txUnNXVUI3NERxa2NQRVNCY0EwODYzcFlRc0gxTVdNTHFVbHFVQkVYWU5KT0F0VFhlT1I0eA?oc=5",
-    "rssid": "laN119",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Nauru",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.jpost.com/opinion/article-908189",
-    "title": "Nauru opens embassy in Jerusalem, deepening ties with Israel",
-    "description": "Nauru opens embassy in Jerusalem, deepening ties with Israel  The Jerusalem Post",
-    "url": "https://www.jpost.com/opinion/article-908189",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731041",
-    "timestamp": 1789340762000,
-    "source": "The Jerusalem Post",
-    "publisher_id": "www.jpost.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGODFOdkctT1ZoVmZFSUVtVGVidFRfSlp3bnhvUnlVc2pfVWJOQ2VaeDRvR09GYW1oQndGYnJxY0ZvamR0WmFuN3V3ZjZmQ1NZWkdyeHlfTQ?oc=5",
-    "rssid": "laN119",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Nauru",
-    "likes": 0,
-    "comments": 0
   }
 ]
