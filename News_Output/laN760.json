@@ -245,43 +245,5 @@
     "extra": "Ukraine",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.delfi.lv/46713439/arzemes/120134357/nato-iznicinataji-virs-lietuvas-notriekusi-dronu",
-    "title": "NATO iznīcinātāji virs Lietuvas notriekuši dronu",
-    "description": "NATO iznīcinātāji virs Lietuvas notriekuši dronu  DELFI",
-    "url": "https://www.delfi.lv/46713439/arzemes/120134357/nato-iznicinataji-virs-lietuvas-notriekusi-dronu",
-    "image": "https://images.delfi.lv/media-api-image-cropper/v1/2af65ec8-e379-4327-a906-1970f8ac607a.jpg?w=1200&h=675",
-    "timestamp": 1789411067000,
-    "source": "DELFI",
-    "publisher_id": "www.delfi.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWhmRkhYTG8tNUxwVjV2UHp2M2Y2bmQwc2U5VzJTTk81U3hTdFM1UWF5cDNPS3FLY2ZtdEx5dEhLczFRODhqU0F1Y1RlbWkwc2ZnY0RMZzZjRHhrbDJ0c1hfZGpOTnZQUnNpeFVyWl9JYklQSzFtN1R3TjN1aGdTUlQ5TlRncjd3WFhXSTZCMGNnUDgzSFFwRHBVME8?oc=5",
-    "rssid": "laN760",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://nra.lv/pasaule/529884-putina-tuvakie-skelas-divas-nometnes-kremla-ieksiene.htm",
-    "title": "Putina iekšējās aprindas sāk šķelties – izveidojušās divas grupas",
-    "description": "Putina iekšējās aprindas sāk šķelties – izveidojušās divas grupas  NRA",
-    "url": "https://nra.lv/pasaule/529884-putina-tuvakie-skelas-divas-nometnes-kremla-ieksiene.htm",
-    "image": "https://zinas.nra.lv/_mm/photos/2026-09/1440px/817804_aaca2f2fd1.jpg",
-    "timestamp": 1789397100000,
-    "source": "NRA",
-    "publisher_id": "nra.lv",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDE5SmdkdEtRS1Izd1VFSTA3NE8wNnFoajRwalg3NXpjbk1jcks0RDBGb1o0aldTbk5ybjk4SjdpRkhUZ09VamNZZDJHVE0tNmtPMERRTWFTa0pTLTJrVzYyamJaOGdwYXZlVnF5Z0ZHTDJUNHA2aHJfMVpwY1MxdVI4a1BQeU9MZWtURWo3aw?oc=5",
-    "rssid": "laN760",
-    "topic": "news",
-    "lang": "general",
-    "category": "اللاتفية",
-    "extra": "Ukraine",
-    "likes": 0,
-    "comments": 0
   }
 ]
