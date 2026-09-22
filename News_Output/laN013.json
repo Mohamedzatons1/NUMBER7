@@ -1385,43 +1385,5 @@
     "extra": "Bahrain",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.navytimes.com/news/your-navy/2026/09/15/navy-families-evacuated-from-bahrain-are-still-trying-to-retrieve-their-belongings/",
-    "title": "Navy families evacuated from Bahrain are still trying to retrieve their belongings",
-    "description": "Navy families evacuated from Bahrain are still trying to retrieve their belongings  Navy Times",
-    "url": "https://www.navytimes.com/news/your-navy/2026/09/15/navy-families-evacuated-from-bahrain-are-still-trying-to-retrieve-their-belongings/",
-    "image": "https://www.armytimes.com/resizer/v2/YYAB74U6V5EUFDA56FN6TZYWKA.jpg?width=1200&auth=34feb21243d8443e2d23be3988d125d21c646865574fb99470f44caca009e25d",
-    "timestamp": 1789432340000,
-    "source": "Navy Times",
-    "publisher_id": "www.navytimes.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkxQb3ROWUVaQWlhR0htNGdOREN1dFFEQXFnaUFONUM5OHdweGI3Qng1b0hlaUZfeHRVcU1SaXU2c1dDcEprakV2a0I0YUVwdmFkdEhnQU44TE02ckRlOEMzSVNwSGZpbzEwX3BabGxHN3ZBaXFxeEpKTWhmdnZDSUl1bEdhNEE0RW44SE9KcFFvVVRnUjBkMTZGUlltOWszdVRWLXJGaTVXX19XTVU2RDJjYjdIMWZUZXRUZDE2enRzZ29UdkFXZkJHNE52eEt4?oc=5",
-    "rssid": "laN013",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahrain",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.yahoo.com/news/us/articles/navy-families-evacuated-bahrain-still-002638342.html",
-    "title": "Navy families evacuated from Bahrain are still trying to retrieve their belongings",
-    "description": "Navy families evacuated from Bahrain are still trying to retrieve their belongings  Yahoo",
-    "url": "https://www.yahoo.com/news/us/articles/navy-families-evacuated-bahrain-still-002638342.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/8ee02e635d73d1722cd0c43e13554b18599662b07861e2d3933a3635c6b298d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnavy_times_351%2Fd238e9c7e77cb3023af703129ef898bd.jpg",
-    "timestamp": 1789431960000,
-    "source": "Yahoo",
-    "publisher_id": "www.yahoo.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEhYTTA0aWx5cF9Yekk5VHc2Z3EzRTFnTmN1RHB3TDVVc2g0NWFOQkh4QW5VdnVtQjNSaHpIeW83eFF0YVBBUjJGUGI0ZlRtZ1pVdTQ5dWVPX2kwdTZkeTRmZUs5QnhRbkJyUUZlNlM1QjExVG9EMkFEckpjeVVNNTZNM1ZydkdqNDk4Slg4X0l6RW03ZWc?oc=5",
-    "rssid": "laN013",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Bahrain",
-    "likes": 0,
-    "comments": 0
   }
 ]
