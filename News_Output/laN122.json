@@ -1803,43 +1803,5 @@
     "extra": "New Zealand",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://shots.net/news/view/new-zealands-msd-spreads-the-love",
-    "title": "New Zealand's MSD spreads the love",
-    "description": "New Zealand's MSD spreads the love  shots.net",
-    "url": "https://shots.net/news/view/new-zealands-msd-spreads-the-love",
-    "image": "https://images.slatecdn.net/hLFqta0hCjdDzNzcWQ4DP-6KsiFaswWRa2ULG4PRqTI/rs:fill:1200:630:1/q:80/aHR0cHM6Ly9zMy11/cy13ZXN0LTEuYW1h/em9uYXdzLmNvbS9t/ZWRpYS11cy13ZXN0/c2xhdGVhcHBjb20v/c2hvdHNtYWcvcHJv/ZHVjdGlvbi9uZXdz/L2FjNmRlMDc1LTY0/ZTQtNGRjNC1iZGU2/LWFlNWVhMTI2Nzdh/Yi9sb3ZlLWZsZXgt/c3RpbGwtMS5qcGVn?v=1&quality=70&format=jpeg",
-    "timestamp": 1789476349000,
-    "source": "shots.net",
-    "publisher_id": "shots.net",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBaTdsTmRrc2oxUGhsRzI0eHIwZ01EaGI4WlZ6UnhmandyWGVXX016YzlEYkNjZDA4MVpYdWd0M0xUWlpZVUhsX3FRRW1kRGNEV1NrZDAxTUxHeDE2eF9vNjBkSWlXYnF0ckpFMjJR?oc=5",
-    "rssid": "laN122",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "New Zealand",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://thepienews.com/new-zealands-rebound-signals-shift-in-student-demand/",
-    "title": "New Zealand’s rebound signals shift in student demand",
-    "description": "New Zealand’s rebound signals shift in student demand  The PIE News",
-    "url": "https://thepienews.com/new-zealands-rebound-signals-shift-in-student-demand/",
-    "image": "https://thepienews.b-cdn.net/wp-content/uploads/2026/09/iStock-1470123517.jpg",
-    "timestamp": 1789476300000,
-    "source": "The PIE News",
-    "publisher_id": "thepienews.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMU5XdC1hTXp5eVNUMXpfZmlpV0xIc3FNQUUtRGM5OXUzWXFsSGpGZlN5cTBGa24yRmZPTjNsQXFBQjRzaVZrYnRmZ2NXbGJIU0J6SlM3ZnJoRTVQQkhjclRtd1dpTllFcDdndW1fTFdaYkFiYzdJX1Vrcnk2R0xEdWNR?oc=5",
-    "rssid": "laN122",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "New Zealand",
-    "likes": 0,
-    "comments": 0
   }
 ]
