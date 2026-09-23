@@ -929,43 +929,5 @@
     "extra": "Canada",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://www.globes.co.il/news/article.aspx?did=1001555627",
-    "title": "Air Canada brings forward resumption of Israel flights",
-    "description": "Air Canada brings forward resumption of Israel flights  גלובס",
-    "url": "https://www.globes.co.il/news/article.aspx?did=1001555627",
-    "image": "https://res.cloudinary.com/globes/image/upload/t_800X392/v1598648920/old/597201.jpg",
-    "timestamp": 1789579514000,
-    "source": "גלובס",
-    "publisher_id": "www.globes.co.il",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOdGZjdEtNSlNGZFEwRHBfYzlGTlFNVWc1NHJkVFYyeVhOX1VsY01qUWJTVHVmYVBpN3dEOG13N0ZrZEFJNW11aDZIVzlteGhJejlWQVFYaWhOZFY4UlFlNmw5QzJSTGJK?oc=5",
-    "rssid": "laN225",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Canada",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.vietnam.vn/he/canada-co-the-tro-thanh-thanh-vien-lien-ket-dau-tien-cua-eu",
-    "title": "קנדה עשויה להפוך ל\"חברה המשותפת\" הראשונה של האיחוד האירופי.",
-    "description": "קנדה עשויה להפוך ל\"חברה המשותפת\" הראשונה של האיחוד האירופי.  Vietnam.vn",
-    "url": "https://www.vietnam.vn/he/canada-co-the-tro-thanh-thanh-vien-lien-ket-dau-tien-cua-eu",
-    "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/16/1789571749221_1789569371263-png.webp",
-    "timestamp": 1789572864000,
-    "source": "Vietnam.vn",
-    "publisher_id": "www.vietnam.vn",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHo2VFdGWWU1TVg1Z2FvTHRGQUxlV0RLbnpKN1ZJQ0MzaExYeS1sVXZNQVhNSDZuN0U0UUVSRzJtbXkxZDNOLVJ4YmNPYk9VTExucFlXV1VTQWdQbTdsNDB2WFFKeUpUeUlpWjJiNG1KUzk5OUN3UlNTTEVlNW81d01laWNTSF9RYmRXcURB?oc=5",
-    "rssid": "laN225",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Canada",
-    "likes": 0,
-    "comments": 0
   }
 ]
