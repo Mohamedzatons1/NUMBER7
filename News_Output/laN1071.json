@@ -264,43 +264,5 @@
     "extra": "Marshall Islands",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxZWY0UHFIdU9QRkFDZXlqTWx4MzEzdkxTMlhrMGk3VUtreVJUWUR0Y1NVbjZscXMzZ0VyMFQzMWZYZHNMWVl6OVlqRFRnNWYzZ2lHc3RoNHN3OUlaUElqekF0QjZncXpV?oc=5",
-    "title": "Corona Virus Latest News, Symptoms and Information in Marathi, मराठी बातम्या",
-    "description": "Corona Virus Latest News, Symptoms and Information in Marathi, मराठी बातम्या  Lokmat.com",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxZWY0UHFIdU9QRkFDZXlqTWx4MzEzdkxTMlhrMGk3VUtreVJUWUR0Y1NVbjZscXMzZ0VyMFQzMWZYZHNMWVl6OVlqRFRnNWYzZ2lHc3RoNHN3OUlaUElqekF0QjZncXpV?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1789727158000,
-    "source": "Lokmat.com",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxZWY0UHFIdU9QRkFDZXlqTWx4MzEzdkxTMlhrMGk3VUtreVJUWUR0Y1NVbjZscXMzZ0VyMFQzMWZYZHNMWVl6OVlqRFRnNWYzZ2lHc3RoNHN3OUlaUElqekF0QjZncXpV?oc=5",
-    "rssid": "laN1071",
-    "topic": "news",
-    "lang": "general",
-    "category": "الماراثية",
-    "extra": "Marshall Islands",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.lokmat.com/topics/corona-virus/news/page/633/",
-    "title": "Corona Virus Latest News, Symptoms and Information in Marathi, मराठी बातम्या",
-    "description": "Corona Virus Latest News, Symptoms and Information in Marathi, मराठी बातम्या  lokmat.com",
-    "url": "https://www.lokmat.com/topics/corona-virus/news/page/633/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/images/686x514/corona-virus121_202006432852.png",
-    "timestamp": 1789708631000,
-    "source": "lokmat.com",
-    "publisher_id": "www.lokmat.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tRmxVQVFWRkV1Vk9iaS1hd1RLZk5LTzJRa0RZUVVQM1N2c050b0tSZjJkWHJyRmRrMXdydjBVdEY0bTBtQ185NHRwWjF3SmxWc0RKQXFBV0MyYzBXazNyOWhKdUp4NkdT?oc=5",
-    "rssid": "laN1071",
-    "topic": "news",
-    "lang": "general",
-    "category": "الماراثية",
-    "extra": "Marshall Islands",
-    "likes": 0,
-    "comments": 0
   }
 ]
