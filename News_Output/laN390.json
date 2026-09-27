@@ -112,5 +112,24 @@
     "extra": "Andorra",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WVExLXhNME9hODJjZ3JIclZ0Y1d0U1ZPZlBfYWhubVBrYmtlYmlSNmxmVWN6Q2RqN1EwWnJmY2ZObHV4TnFEZHJ5MTlJb2dnX2xHdE53d2gzdmptMGk1OE5RRTIxeVk?oc=5",
+    "title": "Andrej Urlep / Personal",
+    "description": "Andrej Urlep / Personal  BasketNews.com",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WVExLXhNME9hODJjZ3JIclZ0Y1d0U1ZPZlBfYWhubVBrYmtlYmlSNmxmVWN6Q2RqN1EwWnJmY2ZObHV4TnFEZHJ5MTlJb2dnX2xHdE53d2gzdmptMGk1OE5RRTIxeVk?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "timestamp": 1790017210000,
+    "source": "BasketNews.com",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WVExLXhNME9hODJjZ3JIclZ0Y1d0U1ZPZlBfYWhubVBrYmtlYmlSNmxmVWN6Q2RqN1EwWnJmY2ZObHV4TnFEZHJ5MTlJb2dnX2xHdE53d2gzdmptMGk1OE5RRTIxeVk?oc=5",
+    "rssid": "laN390",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Andorra",
+    "likes": 0,
+    "comments": 0
   }
 ]
