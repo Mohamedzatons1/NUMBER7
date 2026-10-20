@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2ExV2ZPM3NpV0FYQUkwSElxUS1WeU11M3lYUDh1MDFTcHNIeGJZY2xvbDFGYzRkRlZHakxRUzh1YjJkcmVoai15WFZtSlRWRklQcUROOWNoWm1iVjZFMnV5NDZmQ2FUbjk1X0hPVmR6SW5IaWQyZEhSVVFHVUpXRjdyVXl0V1hxaTVuTDlhQlgxbng1d1A1S2dEUGVVTnV3anVFR1VoWQ?oc=5",
+    "title": "Netoli Vanuatu įvyko 6,3 balo žemės drebėjimas",
+    "description": "Netoli Vanuatu įvyko 6,3 balo žemės drebėjimas  Lrytas",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2ExV2ZPM3NpV0FYQUkwSElxUS1WeU11M3lYUDh1MDFTcHNIeGJZY2xvbDFGYzRkRlZHakxRUzh1YjJkcmVoai15WFZtSlRWRklQcUROOWNoWm1iVjZFMnV5NDZmQ2FUbjk1X0hPVmR6SW5IaWQyZEhSVVFHVUpXRjdyVXl0V1hxaTVuTDlhQlgxbng1d1A1S2dEUGVVTnV3anVFR1VoWQ?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1792478745000,
+    "source": "Lrytas",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2ExV2ZPM3NpV0FYQUkwSElxUS1WeU11M3lYUDh1MDFTcHNIeGJZY2xvbDFGYzRkRlZHakxRUzh1YjJkcmVoai15WFZtSlRWRklQcUROOWNoWm1iVjZFMnV5NDZmQ2FUbjk1X0hPVmR6SW5IaWQyZEhSVVFHVUpXRjdyVXl0V1hxaTVuTDlhQlgxbng1d1A1S2dEUGVVTnV3anVFR1VoWQ?oc=5",
+    "rssid": "laN573",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Vanuatu",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcWZ1Uko2NE5JeExZcUhvQ1NwMUdXN0dRVzVYaFVNSVVjaHJUR2dnYWUyQl9yWlJ4anJlTE95eElmNnBnLS01eEpWaUZOUE1VQU53cWR0Ty16VXMxaW9ETU5SdU1hclA1Qnh6VXZ3V1RZcGl5a0ZlWTVvcHh0cmVuZlFOUndzbUR3b1ltZ05LcVl1dzFJbjlkVk4wckFidw?oc=5",
+    "title": "Netoli Vanuatu įvyko 6,3 balo žemės drebėjimas",
+    "description": "Netoli Vanuatu įvyko 6,3 balo žemės drebėjimas  Delfi",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcWZ1Uko2NE5JeExZcUhvQ1NwMUdXN0dRVzVYaFVNSVVjaHJUR2dnYWUyQl9yWlJ4anJlTE95eElmNnBnLS01eEpWaUZOUE1VQU53cWR0Ty16VXMxaW9ETU5SdU1hclA1Qnh6VXZ3V1RZcGl5a0ZlWTVvcHh0cmVuZlFOUndzbUR3b1ltZ05LcVl1dzFJbjlkVk4wckFidw?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1792473461000,
+    "source": "Delfi",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcWZ1Uko2NE5JeExZcUhvQ1NwMUdXN0dRVzVYaFVNSVVjaHJUR2dnYWUyQl9yWlJ4anJlTE95eElmNnBnLS01eEpWaUZOUE1VQU53cWR0Ty16VXMxaW9ETU5SdU1hclA1Qnh6VXZ3V1RZcGl5a0ZlWTVvcHh0cmVuZlFOUndzbUR3b1ltZ05LcVl1dzFJbjlkVk4wckFidw?oc=5",
+    "rssid": "laN573",
+    "topic": "news",
+    "lang": "general",
+    "category": "الليتوانية",
+    "extra": "Vanuatu",
+    "likes": 0,
+    "comments": 0
+  }
+]
