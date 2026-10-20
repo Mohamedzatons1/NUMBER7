@@ -302,43 +302,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZnF5Ums4alcyNVNYVngyX2E3RHI5VDNVOWhGTWFMUjZXOEpMZjdtZ05paDBZSTNhSTFiUTQzR01JcTA5NWpJdVd5TC1fQQ?oc=5",
-    "title": "עם שרשרת זהב וגופייה: הרובוט שחשוד בהטרדה ומסעיר את גרמניה",
-    "description": "עם שרשרת זהב וגופייה: הרובוט שחשוד בהטרדה ומסעיר את גרמניה  C14",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZnF5Ums4alcyNVNYVngyX2E3RHI5VDNVOWhGTWFMUjZXOEpMZjdtZ05paDBZSTNhSTFiUTQzR01JcTA5NWpJdVd5TC1fQQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1791925248000,
-    "source": "C14",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZnF5Ums4alcyNVNYVngyX2E3RHI5VDNVOWhGTWFMUjZXOEpMZjdtZ05paDBZSTNhSTFiUTQzR01JcTA5NWpJdVd5TC1fQQ?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qck53QzM2NnZjNkwteGhFU25mbVBRNnpjOXNpaFpwMzY2Vld3TFBzdjJBc09aaEtMWHU3TjdUSzhiaHVKbjdvdzNkbVdWRjdxV1RxNmdPX0I2Zw?oc=5",
-    "title": "חקירה בגרמניה: רובוט עם שרשר וגופייה הטריד מינית נערה בת 16, צעירים שידרו לייב",
-    "description": "חקירה בגרמניה: רובוט עם שרשר וגופייה הטריד מינית נערה בת 16, צעירים שידרו לייב  YNET",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qck53QzM2NnZjNkwteGhFU25mbVBRNnpjOXNpaFpwMzY2Vld3TFBzdjJBc09aaEtMWHU3TjdUSzhiaHVKbjdvdzNkbVdWRjdxV1RxNmdPX0I2Zw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1791923723000,
-    "source": "YNET",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qck53QzM2NnZjNkwteGhFU25mbVBRNnpjOXNpaFpwMzY2Vld3TFBzdjJBc09aaEtMWHU3TjdUSzhiaHVKbjdvdzNkbVdWRjdxV1RxNmdPX0I2Zw?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
