@@ -150,43 +150,5 @@
     "extra": "Russia",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aYjVhREZHdUs0NGhEbUtHa29jV01hcjdMeVhzVTFVb3ZOaHEzRXZPX2tnOUZFbk1tcVlTX0RmM2RBZTZ4R2NvRXA2N1FMNTlPYzNLQXJUOU5vek5YSU15ckM4OA?oc=5",
-    "title": "ללא התרעה: רוסיה תקפה תחנת כוח בקייב, 600 אלף מנותקים מחשמל",
-    "description": "ללא התרעה: רוסיה תקפה תחנת כוח בקייב, 600 אלף מנותקים מחשמל  רשת 13",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aYjVhREZHdUs0NGhEbUtHa29jV01hcjdMeVhzVTFVb3ZOaHEzRXZPX2tnOUZFbk1tcVlTX0RmM2RBZTZ4R2NvRXA2N1FMNTlPYzNLQXJUOU5vek5YSU15ckM4OA?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1791965906000,
-    "source": "רשת 13",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aYjVhREZHdUs0NGhEbUtHa29jV01hcjdMeVhzVTFVb3ZOaHEzRXZPX2tnOUZFbk1tcVlTX0RmM2RBZTZ4R2NvRXA2N1FMNTlPYzNLQXJUOU5vek5YSU15ckM4OA?oc=5",
-    "rssid": "laN334",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MdHFtNEhfM1ZKOHVxVndPcTRDNUNRQTlVNjVPQU13NmpJeDFUNmFZR2JzMTQ5eU4xR3RCRTd3WVYxYzNldHNIalpZQUVqdw?oc=5",
-    "title": "הלחץ של טראמפ, המתקפה הרוסית והטענה החדשה של זלנסקי",
-    "description": "הלחץ של טראמפ, המתקפה הרוסית והטענה החדשה של זלנסקי  C14",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MdHFtNEhfM1ZKOHVxVndPcTRDNUNRQTlVNjVPQU13NmpJeDFUNmFZR2JzMTQ5eU4xR3RCRTd3WVYxYzNldHNIalpZQUVqdw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1791964115000,
-    "source": "C14",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MdHFtNEhfM1ZKOHVxVndPcTRDNUNRQTlVNjVPQU13NmpJeDFUNmFZR2JzMTQ5eU4xR3RCRTd3WVYxYzNldHNIalpZQUVqdw?oc=5",
-    "rssid": "laN334",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Russia",
-    "likes": 0,
-    "comments": 0
   }
 ]
