@@ -17,5 +17,24 @@
     "extra": "Afghanistan",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1udURRU09PeVUwclIwNDZwV00xSmdzSlBqd3k5NE03UjZTazRqSjlReVB1RTVRWkFRdDFBc0NXdUUzNi05MzIwS2J3VGdDTzQ3UUE?oc=5",
+    "title": "כביש 4 חסום: צפו בנהגים ומפגינים חרדים מתעמתים במקום - כאן דרום",
+    "description": "כביש 4 חסום: צפו בנהגים ומפגינים חרדים מתעמתים במקום  כאן דרום - אשדוד",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1udURRU09PeVUwclIwNDZwV00xSmdzSlBqd3k5NE03UjZTazRqSjlReVB1RTVRWkFRdDFBc0NXdUUzNi05MzIwS2J3VGdDTzQ3UUE?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1792310280000,
+    "source": "כאן דרום - אשדוד",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1udURRU09PeVUwclIwNDZwV00xSmdzSlBqd3k5NE03UjZTazRqSjlReVB1RTVRWkFRdDFBc0NXdUUzNi05MzIwS2J3VGdDTzQ3UUE?oc=5",
+    "rssid": "laN194",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "Afghanistan",
+    "likes": 0,
+    "comments": 0
   }
 ]
