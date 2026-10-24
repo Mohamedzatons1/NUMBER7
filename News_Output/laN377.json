@@ -36,5 +36,24 @@
     "extra": "United States",
     "likes": 0,
     "comments": 0
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PT2Z0TEl2RFZnT1lmM1VBOHE5eC1pTEpKd3NXUDZ5NVFQbU5yQmlYaXNNSXBnY1h6NTRnZVRVUkNEamFKWHNrRldfOA?oc=5",
+    "title": "מלחמה? דיווח: חיזבאללה קיבל אזהרה מארה\"ב שלא להצטרף לעימות עם איראן",
+    "description": "מלחמה? דיווח: חיזבאללה קיבל אזהרה מארה\"ב שלא להצטרף לעימות עם איראן  חרדים10",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PT2Z0TEl2RFZnT1lmM1VBOHE5eC1pTEpKd3NXUDZ5NVFQbU5yQmlYaXNNSXBnY1h6NTRnZVRVUkNEamFKWHNrRldfOA?oc=5",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+    "timestamp": 1792399013000,
+    "source": "חרדים10",
+    "publisher_id": "news.google.com",
+    "type": "article",
+    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PT2Z0TEl2RFZnT1lmM1VBOHE5eC1pTEpKd3NXUDZ5NVFQbU5yQmlYaXNNSXBnY1h6NTRnZVRVUkNEamFKWHNrRldfOA?oc=5",
+    "rssid": "laN377",
+    "topic": "news",
+    "lang": "general",
+    "category": "العبرية",
+    "extra": "United States",
+    "likes": 0,
+    "comments": 0
   }
 ]
