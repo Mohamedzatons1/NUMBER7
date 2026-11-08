@@ -530,43 +530,5 @@
     "extra": "Germany",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pWGZ4Q0owRERwSnF4UVNZVDlpQzZ5MzRMY2dSMWdKQ09RNEdNMDJ0czVmUnhDN005THNHd0w1VVpiTzdUUUZKQmxNaW5Vb2F5ekZSREhoQUtlU3M?oc=5",
-    "title": "ליל אלימות, ביזה ומעצרים בפרנקפורט, גרמניה נגד מהגרים: \"יהיו עונשים כבדים\"",
-    "description": "ליל אלימות, ביזה ומעצרים בפרנקפורט, גרמניה נגד מהגרים: \"יהיו עונשים כבדים\"  YNET",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pWGZ4Q0owRERwSnF4UVNZVDlpQzZ5MzRMY2dSMWdKQ09RNEdNMDJ0czVmUnhDN005THNHd0w1VVpiTzdUUUZKQmxNaW5Vb2F5ekZSREhoQUtlU3M?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1793543844000,
-    "source": "YNET",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pWGZ4Q0owRERwSnF4UVNZVDlpQzZ5MzRMY2dSMWdKQ09RNEdNMDJ0czVmUnhDN005THNHd0w1VVpiTzdUUUZKQmxNaW5Vb2F5ekZSREhoQUtlU3M?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kUXI4N1VHdC1LWml2bnBaWmdOdUMwa2RNbjQ3X1ZjZjItV0VLZkc5Zlc3SVN1ZjYyYU9HdERjYTFyaWhsaVZBR2FYMlRZYTlYSFVTQmZ1eWxycm9sd3ZTUFZCMVdFc2dTMjlsbTFMTGY3dndGb0NlRA?oc=5",
-    "title": "גרמניה, איטליה, פורטוגל ואפילו שווייץ: האש מצרפת מבעירה את אירופה",
-    "description": "גרמניה, איטליה, פורטוגל ואפילו שווייץ: האש מצרפת מבעירה את אירופה  היום",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kUXI4N1VHdC1LWml2bnBaWmdOdUMwa2RNbjQ3X1ZjZjItV0VLZkc5Zlc3SVN1ZjYyYU9HdERjYTFyaWhsaVZBR2FYMlRZYTlYSFVTQmZ1eWxycm9sd3ZTUFZCMVdFc2dTMjlsbTFMTGY3dndGb0NlRA?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1793542320000,
-    "source": "היום",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kUXI4N1VHdC1LWml2bnBaWmdOdUMwa2RNbjQ3X1ZjZjItV0VLZkc5Zlc3SVN1ZjYyYU9HdERjYTFyaWhsaVZBR2FYMlRZYTlYSFVTQmZ1eWxycm9sd3ZTUFZCMVdFc2dTMjlsbTFMTGY3dndGb0NlRA?oc=5",
-    "rssid": "laN258",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Germany",
-    "likes": 0,
-    "comments": 0
   }
 ]
