@@ -1062,43 +1062,5 @@
     "extra": "Guatemala",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03ZkQ1cW5CckNITy12d01ubHVORmxPTnhTenpVSFpYejBiZzZwNnp0S2NpdzVFeG1yU2JfbkMzZ0x0VlMxNVVCX184cndnMlpURlp0STRlZko4Wlh1MGR0M0ZiMHBJV0tV?oc=5",
-    "title": "Xelajú MC 2-0 Marquense (3 Nov, 2026) Final Score",
-    "description": "Xelajú MC 2-0 Marquense (3 Nov, 2026) Final Score  ESPN",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03ZkQ1cW5CckNITy12d01ubHVORmxPTnhTenpVSFpYejBiZzZwNnp0S2NpdzVFeG1yU2JfbkMzZ0x0VlMxNVVCX184cndnMlpURlp0STRlZko4Wlh1MGR0M0ZiMHBJV0tV?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1793769597000,
-    "source": "ESPN",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03ZkQ1cW5CckNITy12d01ubHVORmxPTnhTenpVSFpYejBiZzZwNnp0S2NpdzVFeG1yU2JfbkMzZ0x0VlMxNVVCX184cndnMlpURlp0STRlZko4Wlh1MGR0M0ZiMHBJV0tV?oc=5",
-    "rssid": "laN069",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Guatemala",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHZTRWhfX3VRSUxqUTlnd09wdGFHaW9xRksxRDVzNlN4MFVWLV83Y2FQMWpLd0hBV080Ujc2TEZBbHhlVzVBMmF2WWZXRmNHZncwX2MwX3VKa1BPTGJWT0c0TEdTVzl6Z21UN3FYUmdLYTl6Skk3elhLNHFuc09FUnQzLTBZXzVpY2k3UXg5c1puZXFHWWVDNTFETTVmZHl1LTBIcTh6b3RIdkJMcWpSZTg5aw?oc=5",
-    "title": "Guatemala Coffee Crop Enters Harvest Period Under Growing El Niño Uncertainty",
-    "description": "Guatemala Coffee Crop Enters Harvest Period Under Growing El Niño Uncertainty  StoneX",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHZTRWhfX3VRSUxqUTlnd09wdGFHaW9xRksxRDVzNlN4MFVWLV83Y2FQMWpLd0hBV080Ujc2TEZBbHhlVzVBMmF2WWZXRmNHZncwX2MwX3VKa1BPTGJWT0c0TEdTVzl6Z21UN3FYUmdLYTl6Skk3elhLNHFuc09FUnQzLTBZXzVpY2k3UXg5c1puZXFHWWVDNTFETTVmZHl1LTBIcTh6b3RIdkJMcWpSZTg5aw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1793748238000,
-    "source": "StoneX",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHZTRWhfX3VRSUxqUTlnd09wdGFHaW9xRksxRDVzNlN4MFVWLV83Y2FQMWpLd0hBV080Ujc2TEZBbHhlVzVBMmF2WWZXRmNHZncwX2MwX3VKa1BPTGJWT0c0TEdTVzl6Z21UN3FYUmdLYTl6Skk3elhLNHFuc09FUnQzLTBZXzVpY2k3UXg5c1puZXFHWWVDNTFETTVmZHl1LTBIcTh6b3RIdkJMcWpSZTg5aw?oc=5",
-    "rssid": "laN069",
-    "topic": "news",
-    "lang": "general",
-    "category": "الإنجليزية",
-    "extra": "Guatemala",
-    "likes": 0,
-    "comments": 0
   }
 ]
