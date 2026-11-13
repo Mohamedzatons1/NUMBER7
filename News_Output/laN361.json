@@ -340,43 +340,5 @@
     "extra": "Syria",
     "likes": 0,
     "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zWHBvb2hFZ19KQjJDSG9FLU82SkoxQ3MwbENaVTRjbnNncURhMm13V1lVaFNPc0JpUy1uNnRBYlFhTHc1MlpfSHVvaw?oc=5",
-    "title": "סוריה מסייעת לערב הסעודית המתמודדת עם מתקפות החות'ים",
-    "description": "סוריה מסייעת לערב הסעודית המתמודדת עם מתקפות החות'ים  זמן ישראל",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zWHBvb2hFZ19KQjJDSG9FLU82SkoxQ3MwbENaVTRjbnNncURhMm13V1lVaFNPc0JpUy1uNnRBYlFhTHc1MlpfSHVvaw?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "timestamp": 1793993555000,
-    "source": "זמן ישראל",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zWHBvb2hFZ19KQjJDSG9FLU82SkoxQ3MwbENaVTRjbnNncURhMm13V1lVaFNPc0JpUy1uNnRBYlFhTHc1MlpfSHVvaw?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GeUE2TTUyQVEyc3ViU19VcWx3ejNXbFBLRDFEY1pnS3hYUnI0QnN1Y0pjUlpOZktPQTEzU0Vhc2ZnMWhQUVo5cDdwNldLRjA3RHd0dXptMzNISndwb3ZsUWZBcmlJNHBXM2lvY2RHcjNxSjdYUDN3TlUtSTFUZjQ?oc=5",
-    "title": "דיווח: סוריה שלחה אנשי צבא לסייע לסעודיה מול החות'ים",
-    "description": "דיווח: סוריה שלחה אנשי צבא לסייע לסעודיה מול החות'ים  היום",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GeUE2TTUyQVEyc3ViU19VcWx3ejNXbFBLRDFEY1pnS3hYUnI0QnN1Y0pjUlpOZktPQTEzU0Vhc2ZnMWhQUVo5cDdwNldLRjA3RHd0dXptMzNISndwb3ZsUWZBcmlJNHBXM2lvY2RHcjNxSjdYUDN3TlUtSTFUZjQ?oc=5",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-    "timestamp": 1793991920000,
-    "source": "היום",
-    "publisher_id": "news.google.com",
-    "type": "article",
-    "google_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GeUE2TTUyQVEyc3ViU19VcWx3ejNXbFBLRDFEY1pnS3hYUnI0QnN1Y0pjUlpOZktPQTEzU0Vhc2ZnMWhQUVo5cDdwNldLRjA3RHd0dXptMzNISndwb3ZsUWZBcmlJNHBXM2lvY2RHcjNxSjdYUDN3TlUtSTFUZjQ?oc=5",
-    "rssid": "laN361",
-    "topic": "news",
-    "lang": "general",
-    "category": "العبرية",
-    "extra": "Syria",
-    "likes": 0,
-    "comments": 0
   }
 ]
